@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <h2>{{ page.tags.first }}</h2>
+
+  <a href="/">← Back to all categories</a>
+  <div class="category-nav">
+    <nav>
+      <a href="/category/food.html">Food</a>
+      <a href="/category/health.html">Health</a>
+      <a href="/category/lifestyle.html">Lifestyle</a>
+      <a href="/category/nutrition.html">Nutrition</a>
+    </nav>
+  </div>
+
+</section>
+
+<section class="articles">
+  <div class="flex-wrapper">
+
+
+    {% for post in site.categories[page.tags.first] %}
+
+      <a href="{{ post.url | remove: ".html" }}" class="small-article">
+          <div class="small-article-img" style="background-image: url({{ post['Main Image'] }});"></div>
+          <!-- <img src="{{ posts['Main Image'] }}" class="small-article-img"> -->
+          <div class="small-article-details">
+            <small>{{ post.categories.first }}</small>
+            <h4 class="small-article-title">{{ post.title }}</h4>
+          </div>
+      </a>
+
+    {% endfor %}
+
+  </div>
+
+</section>

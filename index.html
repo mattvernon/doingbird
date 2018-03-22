@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+
+<div class="feed-wrapper">
+
+  {% for post in site.posts %}
+
+      <a href="{{ post.url | remove: ".html" }}" class="article-block">
+          <img src="{{ post['Main Image'] }}" class="article-image">
+          <div class="article-details">
+            <h3 class="article-title">{{ post.title }}</h4>
+            <small class="article-category">{{ post.categories.first }}</small>
+          </div>
+      </a>
+
+    {% endfor %}
+
+</div>

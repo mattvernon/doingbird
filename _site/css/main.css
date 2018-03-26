@@ -466,14 +466,20 @@ footer a {
   letter-spacing: 0.5px;
   font-size: 14px; }
 
+#progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: black;
+  height: 5px; }
+
 .feed-wrapper {
   max-width: calc(100vw - 180px);
-  padding: 200px 50px; }
+  padding: 200px 150px; }
 
 .article-block {
   display: inline-block;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 10%;
   margin-bottom: 10%;
   max-width: 600px; }
 
@@ -548,7 +554,8 @@ footer a {
 
 .latest-articles {
   margin-top: 100px;
-  margin-bottom: 300px; }
+  margin-bottom: 300px;
+  margin-left: 10vw; }
   .latest-articles h2 {
     font-weight: 400;
     font-size: 3rem;
@@ -556,6 +563,7 @@ footer a {
     text-transform: uppercase; }
   .latest-articles .more-article-tile {
     display: inline-block;
+    width: 30%;
     max-width: 400px;
     margin-right: 3rem; }
   .latest-articles .small-article-img {

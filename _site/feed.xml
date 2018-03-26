@@ -5,9 +5,28 @@
     <description>magazine</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Mar 2018 14:15:58 +1100</pubDate>
-    <lastBuildDate>Mon, 26 Mar 2018 14:15:58 +1100</lastBuildDate>
+    <pubDate>Mon, 26 Mar 2018 14:42:32 +1100</pubDate>
+    <lastBuildDate>Mon, 26 Mar 2018 14:42:32 +1100</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
+    
+      <item>
+        <title>Balto Scandia</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consequat lectus in sem maximus interdum. Aenean consequat sed ante placerat condimentum. Suspendisse a sagittis felis, sed fermentum ipsum. Suspendisse ac accumsan augue, a feugiat neque. Aliquam erat volutpat. Praesent sed eros iaculis, facilisis mi nec, mollis orci. Vestibulum commodo eget mauris id consequat. Praesent non tempus odio. Nulla quis nunc ultricies, aliquet dui eget, facilisis lectus.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum a ex et libero gravida tincidunt id sit amet justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce eros dolor, vestibulum eget libero non, iaculis volutpat neque. Donec accumsan porttitor dolor eget porttitor. Praesent vel eros massa. Integer ac congue metus. Suspendisse eleifend eros et purus rhoncus gravida. Phasellus in quam posuere, tristique justo ut, venenatis dui. Donec eu cursus nisi. Duis sed tincidunt risus, vitae convallis nulla. Nunc posuere consectetur nisl ut lobortis. Mauris ullamcorper accumsan turpis eget ultricies. Nulla sit amet ultrices eros. Pellentesque sagittis dignissim nisl sit amet varius. Sed nec risus dui.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/MaxCreasy004.jpg&quot; alt=&quot;MaxCreasy004.jpg&quot; /&gt;
+&lt;img src=&quot;/uploads/MaxCreasy011.jpg&quot; alt=&quot;MaxCreasy011.jpg&quot; /&gt;
+&lt;img src=&quot;/uploads/MaxCreasy018.jpg&quot; alt=&quot;MaxCreasy018.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Mar 2018 14:20:00 +1100</pubDate>
+        <link>http://localhost:4000/blog/balto-scandia/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/balto-scandia/</guid>
+        
+        
+        <category>World</category>
+        
+      </item>
     
       <item>
         <title>‘Stranger Things’ Star Finn Wolfhard On Cool Nerds &amp; Flying Cars</title>

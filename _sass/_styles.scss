@@ -103,17 +103,24 @@ footer {
   }
 }
 
+#progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: black;
+  height: 5px;
+}
+
 // Feed and Articles ===========================================================
 
 .feed-wrapper {
   max-width: calc(100vw - 180px);
-  padding: 200px 50px;
+  padding: 200px 150px;
 }
 
 .article-block {
   display: inline-block;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: 10%;
   margin-bottom: 10%;
   max-width: 600px;
 }
@@ -211,6 +218,7 @@ footer {
 .latest-articles {
   margin-top: 100px;
   margin-bottom: 300px;
+  margin-left: 10vw;
 
   h2 {
     font-weight: 400;
@@ -221,6 +229,7 @@ footer {
 
   .more-article-tile {
     display: inline-block;
+    width: 30%;
     max-width: 400px;
     margin-right: 3rem;
   }

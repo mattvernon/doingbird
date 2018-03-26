@@ -3,10 +3,10 @@
   <channel>
     <title>doingbird</title>
     <description>magazine</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Mar 2018 17:38:38 +1100</pubDate>
-    <lastBuildDate>Mon, 26 Mar 2018 17:38:38 +1100</lastBuildDate>
+    <link>http://localhost:4000/doingbird/</link>
+    <atom:link href="http://localhost:4000/doingbird/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 26 Mar 2018 17:46:06 +1100</pubDate>
+    <lastBuildDate>Mon, 26 Mar 2018 17:46:06 +1100</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -19,11 +19,13 @@
 &lt;p&gt;We shot in Adrienne’s house in Sheepshead Bay which is very close to Brighton Beach. It is nearly at the end of the train line in Brooklyn and a predominately Russian community. The black and white portrait hanging on the wall in the photos is her mum, age 11. Adrienne’s mum passed away when she was AGE – she is wearing her mum’s cowboy hat in one of the photos. Jake and Johnny have been best friends for seven years. Oh, and Danie is in love with Johnny and Johnny is in love with Danie. Sheepshead Bay, March 2018.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 17:19:00 +1100</pubDate>
-        <link>http://localhost:4000/blog/sheepshead-bay/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/sheepshead-bay/</guid>
+        <link>http://localhost:4000/doingbird/sheepshead-bay/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/sheepshead-bay/</guid>
         
         
         <category>features</category>
+        
+        <category>Fashion</category>
         
       </item>
     
@@ -34,8 +36,8 @@
 &lt;p&gt;Playstation VR $549 (with Camera and Game Bundle). Photography and Art Direction by Anna Pogossova. Styling by Miguel Urbina Tan.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 15:39:00 +1100</pubDate>
-        <link>http://localhost:4000/blog/playstation-vr/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/playstation-vr/</guid>
+        <link>http://localhost:4000/doingbird/playstation-vr/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/playstation-vr/</guid>
         
         
         <category>Objects</category>
@@ -54,8 +56,8 @@
 &lt;code class=&quot;highlighter-rouge&quot;&gt;MAC Cosmetics Studio Fix Powder Plus Foundation on skin, Satin eyeshadow in &quot;Electric Eel&quot; on upper eyelid, Penultimate Eye Liner in &quot;Engraved&quot; on lower eyelid, Matte Lipstick in &quot;Forbidden Sunrise&quot; on lips and False Lashes Extreme Black on eyelashes. NARS Blush in Dolce Vita on cheeks. Emily wears Givenchy dress.&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 14:44:00 +1100</pubDate>
-        <link>http://localhost:4000/blog/emily-didonato-by-charlotte-wales/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/emily-didonato-by-charlotte-wales/</guid>
+        <link>http://localhost:4000/doingbird/emily-didonato-by-charlotte-wales/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/emily-didonato-by-charlotte-wales/</guid>
         
         
         <category>Beauty</category>
@@ -73,8 +75,8 @@
 &lt;img src=&quot;/uploads/MaxCreasy018.jpg&quot; alt=&quot;MaxCreasy018.jpg&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 14:20:00 +1100</pubDate>
-        <link>http://localhost:4000/blog/balto-scandia/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/balto-scandia/</guid>
+        <link>http://localhost:4000/doingbird/balto-scandia/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/balto-scandia/</guid>
         
         
         <category>World</category>
@@ -132,8 +134,8 @@ I’m excited for season two. I start in two weeks in North Carolina, we do the 
 Yeah [laughs], it was pretty surreal and amazing. I met Barack Obama and he was the coolest guy ever, and obviously he’s a world leader but he watched the show with his wife and kids and he loves the show and was talking to us about it. He was very, very cool.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 13:21:00 +1100</pubDate>
-        <link>http://localhost:4000/blog/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/</guid>
+        <link>http://localhost:4000/doingbird/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/</guid>
         
         
         <category>features</category>
@@ -159,8 +161,8 @@ Yeah [laughs], it was pretty surreal and amazing. I met Barack Obama and he was 
 &lt;p&gt;LIKE LIFE: SCULPTURE COLOR, AND THE BODY (1300-NOW) IS ON NOW UNTIL 22 JULY AT THE MET BREUER, MANHATTAN. METMUSEUM.ORG&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Mar 2018 12:47:00 +1100</pubDate>
-        <link>http://localhost:4000/blog/so-real-look-inside-the-exhibition-of-lifelike-sculptures-from-the-past-700-years/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/so-real-look-inside-the-exhibition-of-lifelike-sculptures-from-the-past-700-years/</guid>
+        <link>http://localhost:4000/doingbird/so-real-look-inside-the-exhibition-of-lifelike-sculptures-from-the-past-700-years/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/so-real-look-inside-the-exhibition-of-lifelike-sculptures-from-the-past-700-years/</guid>
         
         
         <category>Art</category>
@@ -197,8 +199,8 @@ Find somewhere comfortable: Create a quiet, distraction-free environment. Sit in
 &lt;p&gt;Seriously. Becoming “good” at meditation doesn’t happen overnight, and if you find it frustrating, you’re not alone. Start with five minute intervals, and don’t criticize yourself if your thoughts wander or if you can’t stop thinking about an assignment at work — relax and return to your breath. If you’re really not feeling it one day, listen to your body and don’t push yourself. Meditation shouldn’t feel like a chore, and after consistent practice, it will soon be something you can return to.&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Jul 2017 15:06:00 +1000</pubDate>
-        <link>http://localhost:4000/blog/a-beginners-guide-to-meditation/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/a-beginners-guide-to-meditation/</guid>
+        <link>http://localhost:4000/doingbird/a-beginners-guide-to-meditation/</link>
+        <guid isPermaLink="true">http://localhost:4000/doingbird/a-beginners-guide-to-meditation/</guid>
         
         
         <category>Lifestyle</category>

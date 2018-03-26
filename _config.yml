@@ -1,6 +1,7 @@
 ---
 title: doingbird
 timezone: Australia/Sydney
+baseurl: "/doingbird"
 collections:
   category:
     title: Category
@@ -17,7 +18,7 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/blog/:title/"
+    permalink: "/:title/"
     Main Image: "/assets/placeholder.png"
 - scope:
     path: ''

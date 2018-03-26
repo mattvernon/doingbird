@@ -8,5 +8,3 @@ $(document).on('scroll', function() {
   var percentage = 100 * pixelsFromTop / difference
 
   $('#progress-bar').css('width', percentage + '%')
-
-})

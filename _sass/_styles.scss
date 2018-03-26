@@ -78,6 +78,7 @@ input, textarea {
   display: flex;
   align-items: center;
   justify-content: center;
+  z-index: 10;
 
   @include small {
       top: auto;
@@ -117,6 +118,7 @@ header {
   width: calc(100vw - 180px);
   display: flex;
   justify-content: space-between;
+  z-index: 10;
 
   @include small {
       display: none;

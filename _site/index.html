@@ -71,28 +71,52 @@
 
     <div class="featured-post">
 
-  
+  <div class="siema">
+    
 
-    <div class="featured--background" style="background-image: url(/uploads/1-ca409e.jpg)">
-      <div class="featured--article-details">
-        <h3 class="featured--article-title">‘Stranger Things’ Star Finn Wolfhard On Cool Nerds & Flying Cars</h4>
-        <small class="article-category">features</small>
-        <p class="featured--blurb">
-          Following in the footsteps of such classic shows as Freaks and Geeks and Tracey McBean, Stranger Things reminds us that nerds are actually the coolest. The modern-day masterpiece, which turned our world upside down when it aired on Netflix earlier this year, is also responsible for unearthing a group of kids who are restoring our faith in humanity by proving the future is in very good hands — including 13-year-old Finn Wolfhard, who plays the relatably awkward Mike Wheeler. Talking on the phone from Los Angeles, Wolfhard weighs in on the likelihood of flying cars (low) and his decidedly weird generation.
-        </p>
-        <a href="/blog/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/" class="view-button">View Post</a>
+      <div class="featured--background" style="background-image: url(/uploads/1.png)">
+        <div class="featured--article-details">
+          <h3 class="featured--article-title">Sheepshead Bay</h4>
+          <small class="article-category">features</small>
+          <p class="featured--blurb">
+            We shot in Adrienne’s house in Sheepshead Bay which is very close to Brighton Beach. It is nearly at the end of the train line in Brooklyn and a predominately Russian community. The black and white portrait hanging on the wall in the photos is her mum, age 11. Adrienne’s mum passed away when she was AGE – she is wearing her mum’s cowboy hat in one of the photos. Jake and Johnny have been best friends for seven years. Oh, and Danie is in love with Johnny and Johnny is in love with Danie. Sheepshead Bay, March 2018.
+          </p>
+          <a href="/blog/sheepshead-bay/" class="view-button">View Post</a>
+        </div>
       </div>
-    </div>
-
-
 
     
+
+      <div class="featured--background" style="background-image: url(/uploads/1-ca409e.jpg)">
+        <div class="featured--article-details">
+          <h3 class="featured--article-title">‘Stranger Things’ Star Finn Wolfhard On Cool Nerds & Flying Cars</h4>
+          <small class="article-category">features</small>
+          <p class="featured--blurb">
+            Following in the footsteps of such classic shows as Freaks and Geeks and Tracey McBean, Stranger Things reminds us that nerds are actually the coolest. The modern-day masterpiece, which turned our world upside down when it aired on Netflix earlier this year, is also responsible for unearthing a group of kids who are restoring our faith in humanity by proving the future is in very good hands — including 13-year-old Finn Wolfhard, who plays the relatably awkward Mike Wheeler. Talking on the phone from Los Angeles, Wolfhard weighs in on the likelihood of flying cars (low) and his decidedly weird generation.
+          </p>
+          <a href="/blog/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/" class="view-button">View Post</a>
+        </div>
+      </div>
+
+    
+  </div>
+
 
 </div>
 
 <div class="feed-wrapper">
 
   
+
+      <a href="/blog/sheepshead-bay/" class="article-block">
+          <img src="/uploads/1.png" class="article-image">
+          <div class="article-details">
+            <h3 class="article-title">Sheepshead Bay</h4>
+            <small class="article-category">features</small>
+          </div>
+      </a>
+
+    
 
       <a href="/blog/playstation-vr/" class="article-block">
           <img src="/uploads/Playstation%20VR.jpg" class="article-image">
@@ -166,6 +190,16 @@
 
     <script src="/js/jquery.js"></script>
     <script src="/js/home.js"></script>
+    <script src="/js/siema.min.js"></script>
+    <script>
+      var mySiema = new Siema({
+        duration: 800,
+        easing: 'ease-in-out',
+        loop: true,
+      });
+
+      setInterval(() => mySiema.next(), 4000)
+    </script>
   </body>
 
 </html>

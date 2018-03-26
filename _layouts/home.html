@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include home_header.html %}
+
+    {{ content }}
+
+    {% include home_footer.html %}
+    <script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/home.js" | prepend: site.baseurl }}"></script>
+  </body>
+
+</html>

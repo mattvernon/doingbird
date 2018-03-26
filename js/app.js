@@ -9,16 +9,4 @@ $(document).on('scroll', function() {
 
   $('#progress-bar').css('width', percentage + '%')
 
-  if(pixelsFromTop > windowHeight) {
-    $('header a').css('color', 'black')
-  } else {
-    $('header a').css('color', 'white')
-  }
-
-  if(pixelsFromTop > 30) {
-    $('footer a').css('color', 'black')
-  } else {
-    $('footer a').css('color', 'white')
-  }
-
 })

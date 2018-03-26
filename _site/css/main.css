@@ -494,6 +494,10 @@ footer a {
   text-transform: uppercase;
   letter-spacing: 0.5px;
   font-size: 14px;
+  color: black; }
+
+.home_header a,
+.home_footer a {
   color: white; }
 
 #progress-bar {

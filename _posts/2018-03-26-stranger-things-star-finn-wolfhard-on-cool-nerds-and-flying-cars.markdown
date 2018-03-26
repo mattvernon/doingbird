@@ -4,9 +4,8 @@ date: 2018-03-26 13:21:00 +11:00
 categories:
 - features
 Main Image: "/uploads/1-ca409e.jpg"
+Blurb: "Following in the footsteps of such classic shows as Freaks and Geeks and Tracey McBean, Stranger Things reminds us that nerds are actually the coolest. The modern-day masterpiece, which turned our world upside down when it aired on Netflix earlier this year, is also responsible for unearthing a group of kids who are restoring our faith in humanity by proving the future is in very good hands — including 13-year-old Finn Wolfhard, who plays the relatably awkward Mike Wheeler. Talking on the phone from Los Angeles, Wolfhard weighs in on the likelihood of flying cars (low) and his decidedly weird generation."
 ---
-
-Following in the footsteps of such classic shows as Freaks and Geeks and Tracey McBean, Stranger Things reminds us that nerds are actually the coolest. The modern-day masterpiece, which turned our world upside down when it aired on Netflix earlier this year, is also responsible for unearthing a group of kids who are restoring our faith in humanity by proving the future is in very good hands — including 13-year-old Finn Wolfhard, who plays the relatably awkward Mike Wheeler. Talking on the phone from Los Angeles, Wolfhard weighs in on the likelihood of flying cars (low) and his decidedly weird generation.
 
 ![2-5efe07.jpg](/uploads/2-5efe07.jpg)
 

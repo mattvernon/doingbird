@@ -188,6 +188,13 @@ footer {
 }
 
 .post-wrapper {
+  strong {
+    font-weight: 400;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 20px;
+  }
+
   img {
     width: 100%;
     max-width: 800px;
@@ -195,17 +202,37 @@ footer {
     margin-top: 5rem;
   }
 
-  img:nth-of-type(n+2) {
-    margin-left: 7.5rem;
-  }
-
-  img:nth-of-type(n+3) {
-    margin-left: -7.5rem;
-  }
-
   p {
     max-width: 800px;
-    margin-bottom: 40px;
+    margin-bottom: 5rem;
+  }
+}
+
+.latest-articles {
+  margin-top: 100px;
+  margin-bottom: 300px;
+
+  h2 {
+    font-weight: 400;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .more-article-tile {
+    display: inline-block;
+    max-width: 400px;
+    margin-right: 3rem;
+  }
+
+  .small-article-img {
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+  }
+
+  .small-article-details {
+    width: 60%;
   }
 }
 

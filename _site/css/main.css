@@ -532,18 +532,38 @@ footer a {
   display: inline;
   margin-right: 1.4rem; }
 
+.post-wrapper strong {
+  font-weight: 400;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 20px; }
 .post-wrapper img {
   width: 100%;
   max-width: 800px;
   margin-bottom: 5rem;
   margin-top: 5rem; }
-.post-wrapper img:nth-of-type(n+2) {
-  margin-left: 7.5rem; }
-.post-wrapper img:nth-of-type(n+3) {
-  margin-left: -7.5rem; }
 .post-wrapper p {
   max-width: 800px;
-  margin-bottom: 40px; }
+  margin-bottom: 5rem; }
+
+.latest-articles {
+  margin-top: 100px;
+  margin-bottom: 300px; }
+  .latest-articles h2 {
+    font-weight: 400;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    text-transform: uppercase; }
+  .latest-articles .more-article-tile {
+    display: inline-block;
+    max-width: 400px;
+    margin-right: 3rem; }
+  .latest-articles .small-article-img {
+    height: 400px;
+    width: 100%;
+    background-size: cover; }
+  .latest-articles .small-article-details {
+    width: 60%; }
 
 .static-page {
   max-width: 1200px;

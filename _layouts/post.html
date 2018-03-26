@@ -19,19 +19,19 @@ layout: default
 
   <!-- recent articles -->
   <section class="latest-articles">
-    <h3>Latest Articles</h3>
+    <h2>Latest Articles</h2>
     <div class="flex-wrapper">
       {% assign items_found = 0 %}
       {% for posts in site.posts %}
       {% unless posts.title == page.title %}
       {% assign items_found = items_found | plus: 1 %}
 
-            <a href="{{ posts.url | remove: ".html" }}" class="small-article">
+            <a href="{{ posts.url | remove: ".html" }}" class="more-article-tile">
                 <div class="small-article-img" style="background-image: url({{ posts['Main Image'] }});"></div>
                 <!-- <img src="{{ posts['Main Image'] }}" class="small-article-img"> -->
-                <div class="small-article-details">
-                  <small>{{ posts.categories.first }}</small>
-                  <h4 class="small-article-title">{{ posts.title }}</h4>
+                <div class="article-details">
+                  <h3 class="article-title">{{ posts.title }}</h3>
+                  <small class="article-category">{{ posts.categories.first }}</small>
                 </div>
             </a>
 

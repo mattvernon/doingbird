@@ -1,6 +1,28 @@
 ---
-layout: default
+layout: home
 ---
+
+<div class="featured-post">
+
+  <div class="siema">
+    {% for post in site.categories.features %}
+
+      <div class="featured--background" style="background-image: url({{ post['Main Image'] }})">
+        <div class="featured--article-details">
+          <h3 class="featured--article-title">{{ post.title }}</h4>
+          <small class="article-category">{{ post.categories.first }}</small>
+          <p class="featured--blurb">
+            {{ post.Blurb }}
+          </p>
+          <a href="{{ post.url | remove: ".html" }}" class="view-button">View Post</a>
+        </div>
+      </div>
+
+    {% endfor %}
+  </div>
+
+
+</div>
 
 <div class="feed-wrapper">
 

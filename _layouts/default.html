@@ -10,8 +10,8 @@
     {{ content }}
 
     {% include footer.html %}
-    <!-- <script src="jquery.js"></script>
-    <script src="scripts.js"></script> -->
+    <script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/app.js" | prepend: site.baseurl }}"></script>
   </body>
 
 </html>

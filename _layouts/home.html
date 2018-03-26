@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include home_header.html %}
+
+    {{ content }}
+
+    {% include home_footer.html %}
+    <script src="{{ "/js/jquery.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/home.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/siema.min.js" | prepend: site.baseurl }}"></script>
+    <script>
+      var mySiema = new Siema({
+        duration: 800,
+        easing: 'ease-in-out',
+        loop: true,
+      });
+
+      setInterval(() => mySiema.next(), 4000)
+    </script>
+  </body>
+
+</html>

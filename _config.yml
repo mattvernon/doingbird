@@ -29,6 +29,5 @@ defaults:
     type: category
   values:
     layout: category
-baseurl: "/doingbird"
 description: magazine
 permalink: pretty

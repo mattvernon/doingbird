@@ -2,18 +2,24 @@
 layout: default
 ---
 
-<div class="post-wrapper">
+<div class="gallery-wrapper">
 
-  <div class="post-header">
+  <div class="gallery-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <div>
       <small class="article-category post-meta">{{ page.categories.first }}</small>
       <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </div>
-    <img src="{{ page['Main Image'] }}" class="article-main-img">
+    <div class="gallery-credits">
+      <p>Photographer – {{ page.Photographer }}</p>
+      <p>Model – {{ page.Model }}</p>
+      <p>Hair – {{ page.Hair }}</p>
+      <p>Make Up – {{ page['Make Up'] }}</p>
+      <p>Stylist – {{ page.Stylist }}</p>
+    </div>
   </div>
 
-  <div class="gallery-content" itemprop="articleBody">
+  <div class="content" itemprop="articleBody">
     {{ content }}
   </div>
 

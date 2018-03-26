@@ -396,6 +396,12 @@ template {
 * {
   box-sizing: border-box; }
 
+::-webkit-scrollbar {
+  width: 0px;
+  /* remove scrollbar space */
+  background: transparent;
+  /* optional: just make scrollbar invisible */ }
+
 body {
   padding: 0;
   margin: 0;
@@ -483,14 +489,8 @@ footer a {
   margin-bottom: 10%;
   max-width: 600px; }
 
-.article-block:nth-of-type(n+2) {
-  max-width: 600px; }
-
-.article-block:nth-of-type(n+3) {
-  max-width: 700px; }
-
-.article-block:nth-of-type(n+4) {
-  max-width: 900px; }
+.article-block:nth-child(3n+0) {
+  max-width: 800px; }
 
 .article-image {
   width: 100%; }
@@ -572,6 +572,21 @@ footer a {
     background-size: cover; }
   .latest-articles .small-article-details {
     width: 60%; }
+
+.gallery-header {
+  position: fixed;
+  top: 150px;
+  left: 5vw; }
+  .gallery-header h1 {
+    margin-top: 0; }
+
+.gallery-wrapper {
+  max-width: 1200px;
+  margin-right: 200px;
+  margin-left: auto;
+  margin-top: 150px; }
+  .gallery-wrapper img {
+    width: 100%; }
 
 .static-page {
   max-width: 1200px;

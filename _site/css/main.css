@@ -402,11 +402,21 @@ body {
   font-family: 'Favorit', sans-serif;
   font-weight: 400;
   color: black;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px; }
+
+h1 {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06rem;
+  font-size: 3rem; }
 
 a {
   text-decoration: none;
   color: black; }
+
+input, textarea {
+  font-family: 'Favorit', sans-serif; }
 
 #masthead {
   position: fixed;
@@ -424,7 +434,8 @@ a {
     font-weight: 400;
     font-size: 66px;
     transform: rotate(270deg);
-    letter-spacing: -2px; }
+    letter-spacing: -2px;
+    text-transform: none; }
 
 p {
   font-size: 20px;
@@ -464,7 +475,7 @@ footer a {
   margin-right: 5%;
   margin-left: 5%;
   margin-bottom: 10%;
-  max-width: 800px; }
+  max-width: 600px; }
 
 .article-block:nth-of-type(n+2) {
   max-width: 600px; }
@@ -490,10 +501,11 @@ footer a {
     letter-spacing: 0.5px;
     font-weight: 400;
     max-width: 60%; }
-  .article-details .article-category {
-    font-size: 14px;
-    letter-spacing: 0.5px;
-    text-transform: uppercase; }
+
+.article-category {
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase; }
 
 .post-wrapper {
   max-width: 1200px;
@@ -510,7 +522,28 @@ footer a {
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin-top: 20vh; }
+  margin-top: 20vh;
+  max-width: 900px; }
+
+.post-meta {
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  display: inline;
+  margin-right: 1.4rem; }
+
+.post-wrapper img {
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 5rem;
+  margin-top: 5rem; }
+.post-wrapper img:nth-of-type(n+2) {
+  margin-left: 7.5rem; }
+.post-wrapper img:nth-of-type(n+3) {
+  margin-left: -7.5rem; }
+.post-wrapper p {
+  max-width: 800px;
+  margin-bottom: 40px; }
 
 .static-page {
   max-width: 1200px;
@@ -534,6 +567,12 @@ input::placeholder,
 textarea::placeholder {
   color: black; }
 
+button {
+  cursor: pointer; }
+
+button:hover {
+  cursor: pointer; }
+
 .button {
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -542,4 +581,17 @@ textarea::placeholder {
 
 .button:hover {
   background-color: black;
-  color: white; }
+  color: white;
+  cursor: pointer; }
+
+.about-details {
+  display: flex;
+  max-width: 700px;
+  flex-wrap: wrap;
+  align-items: flex-start; }
+  .about-details .about-person {
+    min-width: 210px;
+    margin-bottom: 20px; }
+    .about-details .about-person p {
+      margin-top: 5px;
+      font-size: 1.5rem; }

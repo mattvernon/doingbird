@@ -1,7 +1,6 @@
 ---
 title: doingbird
 timezone: Australia/Sydney
-description: magazine
 collections:
   category:
     title: Category
@@ -30,4 +29,5 @@ defaults:
     type: category
   values:
     layout: category
+description: magazine
 permalink: pretty

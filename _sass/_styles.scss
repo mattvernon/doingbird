@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Favorit';
+    src: url("../assets/webfonts/Favorit_Regular.otf");
+    font-weight: 400;
+}
+
 // BASE Styles =================================================================
 
 * {
@@ -8,7 +14,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: sans-serif;
+  font-family: 'Favorit', sans-serif;
   font-weight: 400;
   color: black;
   -webkit-font-smoothing: antialiased;

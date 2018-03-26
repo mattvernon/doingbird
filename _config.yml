@@ -1,7 +1,6 @@
 ---
 title: doingbird
 timezone: Australia/Sydney
-baseurl: "/doingbird"
 collections:
   category:
     title: Category
@@ -30,5 +29,6 @@ defaults:
     type: category
   values:
     layout: category
+baseurl: "/doingbird"
 description: magazine
 permalink: pretty

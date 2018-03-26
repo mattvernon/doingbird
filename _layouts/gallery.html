@@ -4,11 +4,13 @@ layout: default
 
 <div class="gallery-wrapper">
 
-  <div class="gallery-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <div>
-      <small class="article-category post-meta">{{ page.categories.first }}</small>
-      <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  <div class="gallery-details">
+    <div class="gallery-header">
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+      <div>
+        <small class="article-category post-meta">{{ page.categories.first }}</small>
+        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+      </div>
     </div>
     <div class="gallery-credits">
       <p>Photographer – {{ page.Photographer }}</p>
@@ -19,32 +21,8 @@ layout: default
     </div>
   </div>
 
-  <div class="content" itemprop="articleBody">
+  <div class="gallery-content" itemprop="articleBody">
     {{ content }}
   </div>
 
 </div>
-
-<!-- recent articles -->
-<section class="latest-articles">
-  <h2>Latest Articles</h2>
-  <div class="flex-wrapper">
-    {% assign items_found = 0 %}
-    {% for posts in site.posts %}
-    {% unless posts.title == page.title %}
-    {% assign items_found = items_found | plus: 1 %}
-
-          <a href="{{ posts.url | remove: ".html" }}" class="more-article-tile">
-              <div class="small-article-img" style="background-image: url({{ posts['Main Image'] }});"></div>
-              <!-- <img src="{{ posts['Main Image'] }}" class="small-article-img"> -->
-              <div class="article-details">
-                <h3 class="article-title">{{ posts.title }}</h3>
-                <small class="article-category">{{ posts.categories.first }}</small>
-              </div>
-          </a>
-
-          {% endunless %}
-      {% if items_found == 3 %}{% break %}{% endif %}
-    {% endfor %}
-  </div>
-</section>

@@ -3,6 +3,8 @@ title: Balto Scandia
 date: 2018-03-26 14:20:00 +11:00
 categories:
 - World
+tags:
+- travel
 Main Image: "/uploads/MaxCreasy001.jpg"
 ---
 

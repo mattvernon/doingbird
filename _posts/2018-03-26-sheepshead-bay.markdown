@@ -4,6 +4,8 @@ date: 2018-03-26 17:19:00 +11:00
 categories:
 - features
 - Fashion
+tags:
+- film
 Main Image: "/uploads/1.png"
 Blurb: We shot in Adrienne’s house in Sheepshead Bay which is very close to Brighton
   Beach. It is nearly at the end of the train line in Brooklyn and a predominately

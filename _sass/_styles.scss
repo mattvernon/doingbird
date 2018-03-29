@@ -4,6 +4,12 @@
     font-weight: 400;
 }
 
+@mixin tiny {
+  @media (max-width: 600px) {
+    @content;
+  }
+}
+
 @mixin small {
   @media (max-width: 800px) {
     @content;
@@ -18,10 +24,14 @@
 
 
 @mixin large {
-  @media (max-width: 1500px) {
+  @media (max-width: 1660px) {
     @content;
   }
 }
+
+$masthead-large: 120px;
+$masthead-medium: 80px;
+$masthead-small: 60px;
 
 // BASE Styles =================================================================
 
@@ -73,12 +83,16 @@ input, textarea {
   right: 0;
   top: 0;
   height: 100vh;
-  width: 120px;
+  width: $masthead-large;
   background-color: black;
   display: flex;
   align-items: center;
   justify-content: center;
   z-index: 10;
+
+  @include medium {
+    width: $masthead-medium;
+  }
 
   @include small {
       top: auto;
@@ -87,6 +101,7 @@ input, textarea {
       height: 60px;
       justify-content: space-between;
       padding-left: 30px;
+      padding-right: 20px;
     }
 
   h1 {
@@ -97,6 +112,10 @@ input, textarea {
     transform: rotate(270deg);
     letter-spacing: -2px;
     text-transform: none;
+
+    @include medium {
+      font-size: 46px;
+    }
 
     @include small {
         transform: none;
@@ -115,10 +134,14 @@ header {
   position: fixed;
   top: 30px;
   left: 30px;
-  width: calc(100vw - 180px);
+  width: calc(100vw - (#{$masthead-large} + 60px));
   display: flex;
   justify-content: space-between;
   z-index: 10;
+
+  @include medium {
+    width: calc(100vw - (#{$masthead-medium} + 60px));
+  }
 
   @include small {
       display: none;
@@ -172,6 +195,125 @@ footer {
   height: 5px;
 }
 
+// hamburger icon
+
+#hamburger {
+  margin-top: 5px;
+  width: 30px;
+  height: 25px;
+  position: relative;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -moz-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+  cursor: pointer;
+
+	z-index: 300;
+}
+
+#hamburger span {
+  display: block;
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  background: white;
+  border-radius:0;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+}
+
+
+#hamburger span:nth-child(1) {
+  top: 0px;
+}
+
+#hamburger span:nth-child(2),#hamburger span:nth-child(3) {
+  top: 8px;
+}
+
+#hamburger span:nth-child(4) {
+  top: 16px;
+}
+
+#hamburger.open span {
+  background: white;
+}
+
+#hamburger.open span:nth-child(1) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+#hamburger.open span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#hamburger.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#hamburger.open span:nth-child(4) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+// actual mobile nav
+
+#mobile-nav {
+  background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  padding: 30px;
+  transition: 0.2s;
+  opacity: 0;
+  pointer-events: none;
+
+  nav a {
+    color: white;
+    display: block;
+    text-transform: uppercase;
+  }
+
+  .main-nav {
+    font-size: 56px;
+  }
+
+  .sub-nav {
+    font-size: 24px;
+    margin-top: 10px;
+    line-height: 1.4;
+  }
+}
+
+#mobile-nav.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
 // Feed and Articles ===========================================================
 
 .feed-wrapper {
@@ -181,6 +323,10 @@ footer {
   @include large {
       padding: 100px 55px;
     }
+
+  @include small {
+    padding: 40px 30px;
+  }
 }
 
 .article-block {
@@ -191,7 +337,18 @@ footer {
 
   @include large {
       max-width: 400px;
-    }
+  }
+
+  @include medium {
+    max-width: 300px;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    max-width: none;
+    margin-right: 0;
+  }
 }
 
 .article-block:nth-child(3n+0) {
@@ -199,7 +356,18 @@ footer {
 
   @include large {
       max-width: 500px;
-    }
+  }
+
+  @include medium {
+    max-width: 400px;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    max-width: none;
+    margin-right: 0;
+  }
 }
 
 .article-image {
@@ -218,12 +386,13 @@ footer {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     font-weight: 400;
-    max-width: 60%;
+    max-width: 70%;
+    font-size: 1.2rem;
   }
 }
 
 .article-category {
-  font-size: 1rem;
+  font-size: 0.8rem;
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
@@ -240,11 +409,22 @@ footer {
   justify-content: center;
   flex-direction: column;
   padding: 50px;
+  background-color: black;
+
+  @include small {
+    justify-content: flex-end;
+    padding: 30px;
+    padding-bottom: calc(#{$masthead-small} + 60px);
+  }
 }
 
 .featured--article-details {
   max-width: 1000px;
   color: white;
+
+  @include medium {
+    max-width: 90%;
+  }
 }
 
 .featured--article-title {
@@ -255,12 +435,27 @@ footer {
   text-transform: uppercase;
   line-height: 90px;
   margin-bottom: 30px;
+
+  @include medium {
+    font-size: 56px;
+    line-height: 1.1;
+  }
+
+  @include small {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
 }
 
 .featured--blurb {
   font-family: serif;
   letter-spacing: -1px;
   max-width: 600px;
+
+  @include small {
+    font-size: 16px;
+    letter-spacing: -0.5px;
+  }
 }
 
 .view-button {
@@ -281,16 +476,32 @@ footer {
 
 // Article Layout  =============================================================
 
+$content-m-large: 100px;
+$content-m-small: 30px;
+
 .post-wrapper {
-  max-width: 1200px;
+  max-width: calc(100% - (#{$masthead-large} + 160px));
   margin-top: 60px;
-  margin-left: 10vw;
+  margin-left: $content-m-large;
+
+  @include small {
+    max-width: none;
+    margin: 0;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+  }
 }
 
 .article-main-img {
   width: 100%;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 5rem;
+
+  @include small {
+    margin-bottom: 2rem;
+  }
 }
 
 .post-title {
@@ -300,6 +511,12 @@ footer {
   letter-spacing: 1px;
   margin-top: 20vh;
   max-width: 900px;
+
+  @include small {
+    margin-top: 30px;
+    font-size: 24px;
+    letter-spacing: 0.5px;
+  }
 }
 
 .post-meta {
@@ -321,26 +538,38 @@ footer {
   img {
     width: 100%;
     max-width: 800px;
-    margin-bottom: 5rem;
-    margin-top: 5rem;
   }
 
   p {
     max-width: 800px;
     margin-bottom: 5rem;
+
+    @include small {
+      font-size: 16px;
+      margin-bottom: 2rem;
+    }
   }
 }
 
 .latest-articles {
   margin-top: 100px;
-  margin-bottom: 300px;
-  margin-left: 10vw;
+  margin-bottom: 150px;
+  margin-left: $content-m-large;
+
+  @include small {
+    margin-left: $content-m-small;
+    margin-right: $content-m-small;
+  }
 
   h2 {
     font-weight: 400;
     font-size: 3rem;
     letter-spacing: 1px;
     text-transform: uppercase;
+
+    @include small {
+      font-size: 2rem;
+    }
   }
 
   .more-article-tile {
@@ -348,12 +577,40 @@ footer {
     width: 30%;
     max-width: 400px;
     margin-right: 3rem;
+
+    @include large {
+      width: 25%;
+      margin-right: 2rem;
+    }
+
+    @include small {
+      display: block;
+      width: 100%;
+      max-width: none;
+      margin-right: 0;
+      margin-bottom: 40px;
+    }
+
+    .article-details {
+      @include medium {
+        flex-direction: column;
+      }
+
+      .article-title {
+        max-width: 100%;
+      }
+    }
   }
 
   .small-article-img {
     height: 400px;
     width: 100%;
     background-size: cover;
+    background-position: center;
+
+    @include medium {
+      height: 300px;
+    }
   }
 
   .small-article-details {
@@ -373,41 +630,96 @@ code {
 // Gallery Layout  =============================================================
 
 .gallery-details {
-  height: 80vh;
+  height: 100vh;
   max-width: 600px;
   position: fixed;
-  top: 5vw;
-  left: 4vw;
+  top: 0;
+  left: 0;
+  padding: 100px 0 100px 80px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
 
+  @include large {
+    max-width: 425px;
+    padding: 80px 0 80px 50px;
+  }
+
+  @include medium {
+    max-width: 460px;
+    padding: 70px 0 70px 30px;
+  }
+
+  @include small {
+    position: static;
+    height: auto;
+    width: 100%;
+    padding: 30px 30px 0 30px;
+    margin-top: 30px;
+  }
+
   h1 {
     margin-top: 0;
+
+    @include large {
+      font-size: 36px;
+    }
+
+    @include small {
+      font-size: 24px;
+    }
   }
 }
 
 .gallery-credits {
   p {
     font-size: 1rem;
+
+    @include small {
+      margin-bottom: 5px;
+      margin-top: 10px;
+      font-size: 0.8rem;
+    }
   }
 
   span {
     font-family: serif;
     margin-left: 40px;
     font-size: 1.2rem;
+
+    @include small {
+      font-size: 1rem;
+      margin-left: 20px;
+    }
   }
 }
 
 .gallery-content {
-  max-width: 50vw;
-  margin-right: 230px;
-  margin-left: auto;
-  margin-top: 5vw;
+  width: 100%;
+  padding-right: calc(#{$masthead-large} + 60px);
+  padding-left: 660px;
+  margin-top: 137px;
   padding-bottom: 5vw;
 
   img {
     width: 100%;
+  }
+
+  @include large {
+    padding-left: 480px;
+    margin-top: 115px;
+  }
+
+  @include medium {
+    padding-left: 460px;
+    padding-right: calc(#{$masthead-medium} + 30px);
+    margin-top: 105px;
+  }
+
+  @include small {
+    padding: 0px 30px 30px 30px;
+    padding-bottom: 80px;
+    margin-top: 0;
   }
 }
 

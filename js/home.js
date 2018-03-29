@@ -7,7 +7,7 @@ $(document).on('scroll', function() {
 
   var percentage = 100 * pixelsFromTop / difference
 
-  console.log(pixelsFromTop)
+  // console.log(pixelsFromTop)
 
   if(pixelsFromTop > windowHeight) {
     $('header a').css('color', 'black')
@@ -21,3 +21,15 @@ $(document).on('scroll', function() {
     $('footer a').css('color', 'white')
   }
 })
+
+$('#hamburger').click(function(){
+
+  // open hamburger icon, animate and change color
+  $(this).toggleClass('open');
+
+  // 2. show mobile header
+  $('#mobile-nav').toggleClass('open')
+
+  return false
+
+});

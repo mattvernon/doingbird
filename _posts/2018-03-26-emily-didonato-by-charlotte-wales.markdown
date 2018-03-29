@@ -3,6 +3,8 @@ title: Emily DiDonato by Charlotte Wales
 date: 2018-03-26 14:44:00 +11:00
 categories:
 - Beauty
+tags:
+- mac cosmetics
 Main Image: "/uploads/1-424f5a.jpg"
 Model: Emily DiDonato at IMG
 Photographer: Charlotte Wales

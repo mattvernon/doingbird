@@ -630,41 +630,96 @@ code {
 // Gallery Layout  =============================================================
 
 .gallery-details {
-  height: 80vh;
+  height: 100vh;
   max-width: 600px;
   position: fixed;
-  top: 5vw;
-  left: 4vw;
+  top: 0;
+  left: 0;
+  padding: 100px 0 100px 80px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
 
+  @include large {
+    max-width: 425px;
+    padding: 80px 0 80px 50px;
+  }
+
+  @include medium {
+    max-width: 460px;
+    padding: 70px 0 70px 30px;
+  }
+
+  @include small {
+    position: static;
+    height: auto;
+    width: 100%;
+    padding: 30px 30px 0 30px;
+    margin-top: 30px;
+  }
+
   h1 {
     margin-top: 0;
+
+    @include large {
+      font-size: 36px;
+    }
+
+    @include small {
+      font-size: 24px;
+    }
   }
 }
 
 .gallery-credits {
   p {
     font-size: 1rem;
+
+    @include small {
+      margin-bottom: 5px;
+      margin-top: 10px;
+      font-size: 0.8rem;
+    }
   }
 
   span {
     font-family: serif;
     margin-left: 40px;
     font-size: 1.2rem;
+
+    @include small {
+      font-size: 1rem;
+      margin-left: 20px;
+    }
   }
 }
 
 .gallery-content {
-  max-width: 50vw;
-  margin-right: 230px;
-  margin-left: auto;
-  margin-top: 5vw;
+  width: 100%;
+  padding-right: calc(#{$masthead-large} + 60px);
+  padding-left: 660px;
+  margin-top: 137px;
   padding-bottom: 5vw;
 
   img {
     width: 100%;
+  }
+
+  @include large {
+    padding-left: 480px;
+    margin-top: 115px;
+  }
+
+  @include medium {
+    padding-left: 460px;
+    padding-right: calc(#{$masthead-medium} + 30px);
+    margin-top: 105px;
+  }
+
+  @include small {
+    padding: 0px 30px 30px 30px;
+    padding-bottom: 80px;
+    margin-top: 0;
   }
 }
 

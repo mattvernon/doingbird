@@ -4,6 +4,8 @@ title: 'So real: look inside the exhibition of lifelike sculptures from the past
 date: 2018-03-26 12:47:00 +11:00
 categories:
 - Art
+tags:
+- sculptures
 Main Image: "/uploads/1.jpg"
 ---
 

@@ -857,32 +857,77 @@ code {
   line-height: 1rem; }
 
 .gallery-details {
-  height: 80vh;
+  height: 100vh;
   max-width: 600px;
   position: fixed;
-  top: 5vw;
-  left: 4vw;
+  top: 0;
+  left: 0;
+  padding: 100px 0 100px 80px;
   display: flex;
   justify-content: space-between;
   flex-direction: column; }
+  @media (max-width: 1660px) {
+    .gallery-details {
+      max-width: 425px;
+      padding: 80px 0 80px 50px; } }
+  @media (max-width: 1100px) {
+    .gallery-details {
+      max-width: 460px;
+      padding: 70px 0 70px 30px; } }
+  @media (max-width: 800px) {
+    .gallery-details {
+      position: static;
+      height: auto;
+      width: 100%;
+      padding: 30px 30px 0 30px;
+      margin-top: 30px; } }
   .gallery-details h1 {
     margin-top: 0; }
+    @media (max-width: 1660px) {
+      .gallery-details h1 {
+        font-size: 36px; } }
+    @media (max-width: 800px) {
+      .gallery-details h1 {
+        font-size: 24px; } }
 
 .gallery-credits p {
   font-size: 1rem; }
+  @media (max-width: 800px) {
+    .gallery-credits p {
+      margin-bottom: 5px;
+      margin-top: 10px;
+      font-size: 0.8rem; } }
 .gallery-credits span {
   font-family: serif;
   margin-left: 40px;
   font-size: 1.2rem; }
+  @media (max-width: 800px) {
+    .gallery-credits span {
+      font-size: 1rem;
+      margin-left: 20px; } }
 
 .gallery-content {
-  max-width: 50vw;
-  margin-right: 230px;
-  margin-left: auto;
-  margin-top: 5vw;
+  width: 100%;
+  padding-right: calc(120px + 60px);
+  padding-left: 660px;
+  margin-top: 137px;
   padding-bottom: 5vw; }
   .gallery-content img {
     width: 100%; }
+  @media (max-width: 1660px) {
+    .gallery-content {
+      padding-left: 480px;
+      margin-top: 115px; } }
+  @media (max-width: 1100px) {
+    .gallery-content {
+      padding-left: 460px;
+      padding-right: calc(80px + 30px);
+      margin-top: 105px; } }
+  @media (max-width: 800px) {
+    .gallery-content {
+      padding: 0px 30px 30px 30px;
+      padding-bottom: 80px;
+      margin-top: 0; } }
 
 .static-page {
   max-width: 1200px;

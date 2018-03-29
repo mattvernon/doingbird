@@ -3,6 +3,8 @@ title: Playstation VR
 date: 2018-03-26 15:39:00 +11:00
 categories:
 - Objects
+tags:
+- virtual reality
 Main Image: "/uploads/Playstation%20VR.jpg"
 ---
 

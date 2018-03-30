@@ -5,8 +5,8 @@
     <description>magazine</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Mar 2018 16:00:53 +1100</pubDate>
-    <lastBuildDate>Thu, 29 Mar 2018 16:00:53 +1100</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 14:07:21 +1100</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 14:07:21 +1100</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
         <link>http://localhost:4000/sheepshead-bay/</link>
         <guid isPermaLink="true">http://localhost:4000/sheepshead-bay/</guid>
         
+        <category>film</category>
         
-        <category>features</category>
         
         <category>Fashion</category>
         
@@ -38,6 +38,8 @@
         <pubDate>Mon, 26 Mar 2018 15:39:00 +1100</pubDate>
         <link>http://localhost:4000/playstation-vr/</link>
         <guid isPermaLink="true">http://localhost:4000/playstation-vr/</guid>
+        
+        <category>virtual reality</category>
         
         
         <category>Objects</category>
@@ -59,6 +61,8 @@
         <link>http://localhost:4000/emily-didonato-by-charlotte-wales/</link>
         <guid isPermaLink="true">http://localhost:4000/emily-didonato-by-charlotte-wales/</guid>
         
+        <category>mac cosmetics</category>
+        
         
         <category>Beauty</category>
         
@@ -78,14 +82,18 @@
         <link>http://localhost:4000/balto-scandia/</link>
         <guid isPermaLink="true">http://localhost:4000/balto-scandia/</guid>
         
+        <category>travel</category>
+        
         
         <category>World</category>
         
       </item>
     
       <item>
-        <title>‘Stranger Things’ Star Finn Wolfhard On Cool Nerds &amp; Flying Cars</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/uploads/2-5efe07.jpg&quot; alt=&quot;2-5efe07.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Cool Nerds and Flying Cars</title>
+        <description>&lt;p&gt;Following in the footsteps of such classic shows as Freaks and Geeks and Tracey McBean, Stranger Things reminds us that nerds are actually the coolest. The modern-day masterpiece, which turned our world upside down when it aired on Netflix earlier this year, is also responsible for unearthing a group of kids who are restoring our faith in humanity by proving the future is in very good hands — including 13-year-old Finn Wolfhard, who plays the relatably awkward Mike Wheeler. Talking on the phone from Los Angeles, Wolfhard weighs in on the likelihood of flying cars (low) and his decidedly weird generation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2-5efe07.jpg&quot; alt=&quot;2-5efe07.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;LUCY JONES: How have your friends at school reacted to the Stranger Things hype?&lt;/strong&gt;
 FINN WOLFHARD: I think they’re handling it as well as I want [them to]! I don’t want them to be freaking out, because I try to be as normal as possible when I come home. It’s sort of great because my friends are a dose of reality, like, “Shut up, just come play video games with us. Stop being so self-centred.” And I think I need that. They all watch the show but they’re fine with it. They know I’m just a nerd [laughs], I’m just doing my job and they get that, which is very cool.&lt;/p&gt;
@@ -136,6 +144,8 @@ Yeah [laughs], it was pretty surreal and amazing. I met Barack Obama and he was 
         <pubDate>Mon, 26 Mar 2018 13:21:00 +1100</pubDate>
         <link>http://localhost:4000/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/</link>
         <guid isPermaLink="true">http://localhost:4000/stranger-things-star-finn-wolfhard-on-cool-nerds-and-flying-cars/</guid>
+        
+        <category>netflix</category>
         
         
         <category>features</category>

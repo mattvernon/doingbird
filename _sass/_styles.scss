@@ -75,6 +75,10 @@ input, textarea {
   font-family: 'Favorit', sans-serif;
 }
 
+small {
+  font-size: 16px;
+}
+
 // Navs ========================================================================
 
 #masthead {
@@ -149,10 +153,18 @@ header {
 
   .main-nav a {
     margin-right: 20px;
+
+    @include medium {
+      margin-right: 10px;
+    }
   }
 
   .social-nav a {
     margin-left: 20px;
+
+    @include medium {
+      margin-left: 10px;
+    }
   }
 }
 
@@ -177,6 +189,10 @@ footer {
     letter-spacing: 0.5px;
     font-size: 14px;
     color: black;
+
+    @include medium {
+      font-size: 13px;
+    }
   }
 }
 
@@ -727,20 +743,36 @@ code {
 // Static Pages  ===============================================================
 
 .static-page {
-  max-width: 1200px;
+  max-width: calc(100vw - (#{$masthead-large} + 60px));
   padding-left: 30px;
   padding-right: 30px;
-  margin-top: 20vh;
+
+  @include medium {
+    max-width: calc(100vw - (#{$masthead-medium} + 30px));
+  }
+
+  @include small {
+    max-width: none;
+  }
+
+  h1 {
+    padding-top: 160px;
+    margin-bottom: 60px;
+
+    @include small {
+      padding-top: 60px;
+    }
+  }
 }
 
 input,
 textarea {
   display: block;
-  width: calc(100% - 180px);
+  width: 100%;
   outline: none;
   border: 1px solid black;
-  padding: 20px;
-  margin-bottom: 20px;
+  padding: 15px;
+  margin-bottom: 10px;
 }
 
 textarea {
@@ -773,7 +805,44 @@ button:hover {
   cursor: pointer;
 }
 
-.about-details {
+.contact--form {
+  margin-bottom: 60px;
+  max-width: 1200px;
+}
+
+.contact-details {
+  display: flex;
+  max-width: 700px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+  div {
+    min-width: 210px;
+    margin-right: 40px;
+  }
+}
+
+.about-container {
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 60px 30px;
+}
+
+.description {
+  max-width: 400px;
+  display: block;
+  margin-bottom: 40px;
+
+  p {
+    font-size: 1.5rem;
+  }
+}
+
+
+.team {
   display: flex;
   max-width: 700px;
   flex-wrap: wrap;
@@ -789,7 +858,6 @@ button:hover {
     }
   }
 }
-
 
 
 

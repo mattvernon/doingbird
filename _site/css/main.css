@@ -428,6 +428,9 @@ a {
 input, textarea {
   font-family: 'Favorit', sans-serif; }
 
+small {
+  font-size: 16px; }
+
 #masthead {
   position: fixed;
   right: 0;
@@ -488,8 +491,14 @@ header {
       display: none; } }
   header .main-nav a {
     margin-right: 20px; }
+    @media (max-width: 1100px) {
+      header .main-nav a {
+        margin-right: 10px; } }
   header .social-nav a {
     margin-left: 20px; }
+    @media (max-width: 1100px) {
+      header .social-nav a {
+        margin-left: 10px; } }
 
 footer {
   position: fixed;
@@ -507,6 +516,10 @@ footer a {
   letter-spacing: 0.5px;
   font-size: 14px;
   color: black; }
+  @media (max-width: 1100px) {
+    header a,
+    footer a {
+      font-size: 13px; } }
 
 .home_header a,
 .home_footer a {
@@ -930,19 +943,30 @@ code {
       margin-top: 0; } }
 
 .static-page {
-  max-width: 1200px;
+  max-width: calc(100vw - (120px + 60px));
   padding-left: 30px;
-  padding-right: 30px;
-  margin-top: 20vh; }
+  padding-right: 30px; }
+  @media (max-width: 1100px) {
+    .static-page {
+      max-width: calc(100vw - (80px + 30px)); } }
+  @media (max-width: 800px) {
+    .static-page {
+      max-width: none; } }
+  .static-page h1 {
+    padding-top: 160px;
+    margin-bottom: 60px; }
+    @media (max-width: 800px) {
+      .static-page h1 {
+        padding-top: 60px; } }
 
 input,
 textarea {
   display: block;
-  width: calc(100% - 180px);
+  width: 100%;
   outline: none;
   border: 1px solid black;
-  padding: 20px;
-  margin-bottom: 20px; }
+  padding: 15px;
+  margin-bottom: 10px; }
 
 textarea {
   height: 300px; }
@@ -968,14 +992,42 @@ button:hover {
   color: white;
   cursor: pointer; }
 
-.about-details {
+.contact--form {
+  margin-bottom: 60px;
+  max-width: 1200px; }
+
+.contact-details {
   display: flex;
   max-width: 700px;
   flex-wrap: wrap;
   align-items: flex-start; }
-  .about-details .about-person {
+  .contact-details div {
+    min-width: 210px;
+    margin-right: 40px; }
+
+.about-container {
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 60px 30px; }
+
+.description {
+  max-width: 400px;
+  display: block;
+  margin-bottom: 40px; }
+  .description p {
+    font-size: 1.5rem; }
+
+.team {
+  display: flex;
+  max-width: 700px;
+  flex-wrap: wrap;
+  align-items: flex-start; }
+  .team .about-person {
     min-width: 210px;
     margin-bottom: 20px; }
-    .about-details .about-person p {
+    .team .about-person p {
       margin-top: 5px;
       font-size: 1.5rem; }

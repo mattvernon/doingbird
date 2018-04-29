@@ -5,6 +5,8 @@ categories:
 - Fashion
 tags:
 - At home
+Photographs: Danielle Alprin
+Field name: 
 layout: gallery
 ---
 

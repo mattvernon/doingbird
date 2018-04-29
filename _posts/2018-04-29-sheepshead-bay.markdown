@@ -9,6 +9,7 @@ Main Image: "/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2011%20Sheepsh
 Photographs: Danielle Alprin
 Styling: Anna Santangelo
 With: Johnny Bryan, Adrienne Herr and Jake Muilenburg
+layout: gallery
 ---
 
 ![Danielle Alprin and Anna Santangelo 01 Sheepshead Bay.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2001%20Sheepshead%20Bay.JPG)

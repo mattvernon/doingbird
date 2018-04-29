@@ -5,8 +5,10 @@ categories:
 - Fashion
 tags:
 - At home
+Main Image: "/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2011%20Sheepshead%20Bay.JPG"
 Photographs: Danielle Alprin
-Field name: 
+Styling: Anna Santangelo
+Models: Johnny Bryan, Adrienne Herr and Jake Muilenburg
 layout: gallery
 ---
 

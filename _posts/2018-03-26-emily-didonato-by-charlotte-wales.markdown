@@ -6,7 +6,7 @@ categories:
 tags:
 - mac cosmetics
 Main Image: "/uploads/1-424f5a.jpg"
-Credits Text: "This is a credit"
+Credits Text: This is a credit
 layout: gallery
 ---
 

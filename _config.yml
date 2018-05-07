@@ -19,7 +19,7 @@ defaults:
     layout: post
     permalink: "/:title/"
     Main Image: "/assets/placeholder.png"
-    Credits Text: ""
+    Credits Text: ''
 - scope:
     path: ''
     type: pages

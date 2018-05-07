@@ -6,7 +6,9 @@ categories:
 tags:
 - mac cosmetics
 Main Image: "/uploads/1-424f5a.jpg"
-Credits Text: This is a credit
+Credits Text: |-
+  This is a credit.
+  This is a credit with a [link.](http://matthewvernon.co)
 layout: gallery
 ---
 

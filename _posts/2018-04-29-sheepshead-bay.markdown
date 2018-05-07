@@ -7,16 +7,11 @@ tags:
 - At home
 Main Image: "/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2011%20Sheepshead%20Bay.JPG"
 Credits Text: |-
-  **photographs**\
-  Danielle Alprin
+  **photographs **Danielle Alprin
 
-  **styling**\
-  Anna Santangelo
+  **styling **Anna Santangelo
 
-  **models** \
-  Johnny Bryan\
-  Adrienne Herr\
-  Jake Muilenburg
+  **models** Johnny Bryan, Adrienne Herr, Jake Muilenburg
 Photographs: Danielle Alprin
 Styling: Anna Santangelo
 Models: Johnny Bryan, Adrienne Herr and Jake Muilenburg

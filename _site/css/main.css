@@ -641,7 +641,9 @@ footer a {
   display: inline-block;
   margin-right: 10%;
   margin-bottom: 10%;
-  max-width: 600px; }
+  max-width: 600px;
+  opacity: 0.85;
+  transition: 0.2s; }
   @media (max-width: 1660px) {
     .article-block {
       max-width: 400px; } }
@@ -654,6 +656,9 @@ footer a {
       width: 100%;
       max-width: none;
       margin-right: 0; } }
+
+.article-block:hover {
+  opacity: 1; }
 
 .article-block:nth-child(3n+0) {
   max-width: 800px; }
@@ -715,6 +720,8 @@ footer a {
   @media (max-width: 1100px) {
     .featured--article-details {
       max-width: 90%; } }
+  .featured--article-details a {
+    color: white; }
 
 .featured--article-title {
   color: white;

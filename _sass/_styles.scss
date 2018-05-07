@@ -350,6 +350,8 @@ footer {
   margin-right: 10%;
   margin-bottom: 10%;
   max-width: 600px;
+  opacity: 0.85;
+  transition: 0.2s;
 
   @include large {
       max-width: 400px;
@@ -365,6 +367,10 @@ footer {
     max-width: none;
     margin-right: 0;
   }
+}
+
+.article-block:hover {
+  opacity: 1;
 }
 
 .article-block:nth-child(3n+0) {
@@ -440,6 +446,10 @@ footer {
 
   @include medium {
     max-width: 90%;
+  }
+
+  a {
+    color: white;
   }
 }
 

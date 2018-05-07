@@ -690,22 +690,12 @@ code {
 .gallery-credits {
   p {
     font-size: 1rem;
+    font-family: serif;
 
     @include small {
       margin-bottom: 5px;
       margin-top: 10px;
       font-size: 0.8rem;
-    }
-  }
-
-  span {
-    font-family: serif;
-    margin-left: 40px;
-    font-size: 1.2rem;
-
-    @include small {
-      font-size: 1rem;
-      margin-left: 20px;
     }
   }
 }

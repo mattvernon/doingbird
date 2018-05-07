@@ -904,20 +904,13 @@ code {
         font-size: 24px; } }
 
 .gallery-credits p {
-  font-size: 1rem; }
+  font-size: 1rem;
+  font-family: serif; }
   @media (max-width: 800px) {
     .gallery-credits p {
       margin-bottom: 5px;
       margin-top: 10px;
       font-size: 0.8rem; } }
-.gallery-credits span {
-  font-family: serif;
-  margin-left: 40px;
-  font-size: 1.2rem; }
-  @media (max-width: 800px) {
-    .gallery-credits span {
-      font-size: 1rem;
-      margin-left: 20px; } }
 
 .gallery-content {
   width: 100%;

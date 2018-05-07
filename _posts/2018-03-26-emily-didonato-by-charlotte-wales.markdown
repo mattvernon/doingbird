@@ -6,11 +6,7 @@ categories:
 tags:
 - mac cosmetics
 Main Image: "/uploads/1-424f5a.jpg"
-Model: Emily DiDonato at IMG
-Photographer: Charlotte Wales
-Stylist: Charlotte Collet
-Hair: Shin Arima
-Make Up: Jen Myles
+Credits Text: "This is a credit"
 layout: gallery
 ---
 

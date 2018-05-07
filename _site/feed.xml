@@ -5,8 +5,13 @@
     <description>magazine</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< Updated upstream
     <pubDate>Fri, 30 Mar 2018 14:07:21 +1100</pubDate>
     <lastBuildDate>Fri, 30 Mar 2018 14:07:21 +1100</lastBuildDate>
+=======
+    <pubDate>Mon, 07 May 2018 12:04:07 +1000</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 12:04:07 +1000</lastBuildDate>
+>>>>>>> Stashed changes
     <generator>Jekyll v3.7.2</generator>
     
       <item>

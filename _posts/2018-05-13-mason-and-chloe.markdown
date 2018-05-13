@@ -9,7 +9,6 @@ Main Image: "/uploads/doingbird_mason_stevenson_online_main_002-003combo_LR.jpg"
 Credits Text: photographs **Mason Stevenson**  styling **Chloe Hill**  hair **Pete
   Lennon** at Company1  make-up **Gillian Campbell** at The Artist Group  models **Honor**,
   **Joel** and **Zac** at FiveTwenty; **Indigo** at Kult; **Ruby Campbell** at Priscillas
-Blurb: Photographs by Mason Stevenson
 ---
 
 ![doingbird_mason_stevenson_online_main_001_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_001_LR.jpg)
@@ -30,7 +29,7 @@ Indigo wears **Burberry** jumpsuit and **Kate Sylvester** turtleneck sweater
 
 ![doingbird_mason_stevenson_online_main_006-007combo_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_006-007combo_LR.jpg)
 
-Zac (on left) wears **Bally**  top and pants, Ruby (on right) wears **Karen Walker** suit and **TKTK** top
+Zac (on left) wears **Bally**  top and pants, Ruby (on right) wears **Karen Walker** suit and vintage top
 
 ![doingbird_mason_stevenson_online_main_008_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_008_LR.jpg)
 

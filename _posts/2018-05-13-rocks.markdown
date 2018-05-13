@@ -3,6 +3,7 @@ title: Rocks
 date: 2018-05-13 17:10:00 +10:00
 categories:
 - Art
+- features
 Main Image: "/uploads/Victoria%20Zschommler%20Rocks%203.jpg"
 Credits Text: Photographs by Victoria Zschommler
 ---

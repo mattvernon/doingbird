@@ -8,7 +8,8 @@ Main Image: "/uploads/doingbird_mason_stevenson_online_main_010.jpg"
 Credits Text: photographs **Mason Stevenson**; styling **Chloe Hill**; hair **Pete
   Lennon** at Company1; make-up **Gillian Campbell** at The Artist Group; models **Honor**,
   **Joel** and **Zac** at FiveTwenty, **Indigo** at Kult, **Ruby Campbell** at Priscillas
-Blurb: Thanks for coming. Here are some shirts and suits to brighten dull days.
+Blurb: Thanks for coming today. Shirts and suits guaranteed to brighten dull days,
+  by Mason Stevenson and Chloe Hill.
 layout: gallery
 ---
 

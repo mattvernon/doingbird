@@ -1,5 +1,5 @@
 ---
-title: Miu Miu white, pink and red bag
+title: 'Miu Miu: Red, White and Pink'
 date: 2018-05-13 20:21:00 +10:00
 categories:
 - Objects

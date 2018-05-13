@@ -8,6 +8,7 @@ Main Image: "/uploads/doingbird_mason_stevenson_online_main_002-003combo_LR.jpg"
 Credits Text: photographs **Mason Stevenson**  styling **Chloe Hill**  hair **Pete
   Lennon** at Company1  make-up **Gillian Campbell** at The Artist Group  models **Honor**,
   **Joel** and **Zac** at FiveTwenty; **Indigo** at Kult; **Ruby Campbell** at Priscillas
+Blurb: Five models wear designer clothing.
 ---
 
 ![doingbird_mason_stevenson_online_main_001_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_001_LR.jpg)

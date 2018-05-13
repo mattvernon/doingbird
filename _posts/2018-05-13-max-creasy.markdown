@@ -4,6 +4,8 @@ date: 2018-05-13 21:40:00 +10:00
 categories:
 - World
 - features
+tags:
+- Travel diary
 Main Image: "/uploads/MaxCreasy002.jpg"
 Credits Text: photographs **Max Creasy**
 ---

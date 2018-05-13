@@ -1,5 +1,5 @@
 ---
-title: 'Miu Miu: Red, White and Pink'
+title: 'Object #1: a Miu Miu bag'
 date: 2018-05-13 20:21:00 +10:00
 categories:
 - Objects

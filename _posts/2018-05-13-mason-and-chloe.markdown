@@ -3,6 +3,7 @@ title: Mason and Chloe
 date: 2018-05-13 17:42:00 +10:00
 categories:
 - Fashion
+Main Image: "/uploads/doingbird_mason_stevenson_online_main_002-003combo_LR.jpg"
 Credits Text: photographs **Mason Stevenson  **styling **Chloe Hill  **hair **Pete
   Lennon** at Company1  make-up **Gillian Campbell** at The Artist Group  models **Honor**,
   **Joel** and **Zac** at FiveTwenty; **Indigo** at Kult; **Ruby Campbell** at Priscillas
@@ -10,16 +11,15 @@ Credits Text: photographs **Mason Stevenson  **styling **Chloe Hill  **hair **Pe
 
 ![doingbird_mason_stevenson_online_main_001_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_001_LR.jpg)
 
-Indigo wears Miu Miu shirt, top and shorts
+Indigo wears **Miu Miu** shirt, top and shorts
 
 ![doingbird_mason_stevenson_online_main_002-003combo_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_002-003combo_LR.jpg)
 
-Left: Honor wears Emporio Armani jacket and pants, Double Rainbouu top\
-Right: Zac wears Prada shirt and Lacoste pants
+Left: Honor wears Emporio Armani jacket and pants, Double Rainbouu top. Right: Zac wears Prada shirt and Lacoste pants
 
 ![doingbird_mason_stevenson_online_main_004_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_004_LR.jpg)
 
-Left to right: Indigo wears Wynn Hamlyn dress, Joel wears Prada suit and cardigan, Honor wears Lonely top, 3X1 top (underneath) and Wynn Hamlyn pants
+Left to right: Indigo wears Wynn Hamlyn dress. Joel wears Prada suit and cardigan. Honor wears Lonely top, 3X1 top (underneath) and Wynn Hamlyn pants.
 
 ![doingbird_mason_stevenson_online_main_005_LR.jpg](/uploads/doingbird_mason_stevenson_online_main_005_LR.jpg)
 

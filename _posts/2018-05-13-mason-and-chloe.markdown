@@ -1,5 +1,5 @@
 ---
-title: Afternoon Delights
+title: Afternoon Delight
 date: 2018-05-13 17:42:00 +10:00
 categories:
 - Fashion

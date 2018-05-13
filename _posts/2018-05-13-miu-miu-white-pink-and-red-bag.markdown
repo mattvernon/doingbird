@@ -6,7 +6,7 @@ categories:
 tags:
 - Shop
 Main Image: "/uploads/Doingbird_MiuMiu_web.jpg"
-Credits Text: photographs** Anna Pogossova **styling** Miguel Urbina Tan**
+Credits Text: photographs **Anna Pogossova** styling **Miguel Urbina Tan**
 layout: gallery
 ---
 

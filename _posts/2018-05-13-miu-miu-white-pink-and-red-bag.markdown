@@ -1,5 +1,5 @@
 ---
-title: 'Object #1: a bag by Miu Miu'
+title: 'Object #1: Bag by Miu Miu'
 date: 2018-05-13 20:21:00 +10:00
 categories:
 - Objects

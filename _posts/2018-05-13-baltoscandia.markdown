@@ -1,5 +1,5 @@
 ---
-title: Baltoscandia
+title: Navigating Baltoscandia
 date: 2018-05-13 21:40:00 +10:00
 categories:
 - World
@@ -12,7 +12,7 @@ Credits Text: photographs **Max Creasy**
 Blurb: 'From Lithuania to Estonia: a travel diary from photographer Max Creasy.'
 ---
 
-"In 2017, James Taylor-Foster and I drove from Vilnius in Lithuania to Tallinn in Estonia. James had recently curated the Nordic Pavilion at the Venice Architecture Bienalle. The exhibition, *In Therapy*, diagnosed the postmodern, post-Sverre Fehn/Alvar Aalto/Gunnar Asplund state of Nordic architecture. During the display period James came into dialogue with the curators of the Baltic Pavilion, (Lithuania, Latvia and Estonia) and from these conversations emerged an interest in the pre-Soviet idea of Baltoscandia—a hypothetical unity based on shared cultures between the Scandinavian and Baltic countries.
+"In 2017, James Taylor-Foster and I drove from Vilnius in Lithuania to Tallinn in Estonia. James had recently curated the Nordic Pavilion at the Venice Architecture Biennale. The exhibition, *In Therapy*, diagnosed the postmodern, post-Sverre Fehn/Alvar Aalto/Gunnar Asplund state of Nordic architecture. During the display period James came into dialogue with the curators of the Baltic Pavilion (Lithuania, Latvia and Estonia) and from these conversations emerged an interest in the pre-Soviet idea of Baltoscandia—a hypothetical unity based on shared cultures between the Scandinavian and Baltic countries.
 
 "So, in the summer of 2017 James and I set out to take a look at the Baltics,  zigzagging our way from Vilnius to Riga and up to Tallinn. These  pictures are part of the research we compiled."
 

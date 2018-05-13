@@ -7,7 +7,7 @@ tags:
 - Shop
 Main Image: "/uploads/Doingbird_MiuMiu_web.jpg"
 Credits Text: photographs **Anna Pogossova** styling **Miguel Urbina Tan**
-Blurb: Store up to five pieces of fruit.
+Blurb: Faux leather, satin lining and a detachable shoulder strap (not pictured).
 layout: gallery
 ---
 

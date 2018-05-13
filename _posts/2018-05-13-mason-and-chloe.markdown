@@ -1,7 +1,6 @@
 ---
 title: Mason and Chloe
 date: 2018-05-13 17:42:00 +10:00
-published: false
 categories:
 - Fashion
 - features

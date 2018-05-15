@@ -474,6 +474,9 @@ small {
 p {
   font-size: 20px;
   line-height: 1.4; }
+  p strong {
+    font-weight: 400;
+    text-transform: uppercase; }
 
 header {
   position: fixed;
@@ -641,7 +644,9 @@ footer a {
   display: inline-block;
   margin-right: 10%;
   margin-bottom: 10%;
-  max-width: 600px; }
+  max-width: 600px;
+  opacity: 0.85;
+  transition: 0.2s; }
   @media (max-width: 1660px) {
     .article-block {
       max-width: 400px; } }
@@ -654,6 +659,9 @@ footer a {
       width: 100%;
       max-width: none;
       margin-right: 0; } }
+
+.article-block:hover {
+  opacity: 1; }
 
 .article-block:nth-child(3n+0) {
   max-width: 800px; }
@@ -715,6 +723,8 @@ footer a {
   @media (max-width: 1100px) {
     .featured--article-details {
       max-width: 90%; } }
+  .featured--article-details a {
+    color: white; }
 
 .featured--article-title {
   color: white;
@@ -736,7 +746,8 @@ footer a {
 .featured--blurb {
   font-family: serif;
   letter-spacing: -1px;
-  max-width: 600px; }
+  max-width: 600px;
+  font-size: 24px; }
   @media (max-width: 800px) {
     .featured--blurb {
       font-size: 16px;
@@ -869,6 +880,9 @@ code {
   margin-top: 20px;
   line-height: 1rem; }
 
+.gallery-content p {
+  font-size: 14px; }
+
 .gallery-details {
   height: 100vh;
   max-width: 600px;
@@ -904,20 +918,20 @@ code {
         font-size: 24px; } }
 
 .gallery-credits p {
-  font-size: 1rem; }
+  font-size: 1rem;
+  font-family: serif; }
   @media (max-width: 800px) {
     .gallery-credits p {
       margin-bottom: 5px;
       margin-top: 10px;
       font-size: 0.8rem; } }
-.gallery-credits span {
-  font-family: serif;
-  margin-left: 40px;
-  font-size: 1.2rem; }
-  @media (max-width: 800px) {
-    .gallery-credits span {
-      font-size: 1rem;
-      margin-left: 20px; } }
+.gallery-credits strong {
+  font-family: 'Favorit', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 12px; }
+.gallery-credits a {
+  border-bottom: 1px solid black; }
 
 .gallery-content {
   width: 100%;
@@ -941,6 +955,16 @@ code {
       padding: 0px 30px 30px 30px;
       padding-bottom: 80px;
       margin-top: 0; } }
+
+.newsletter {
+  max-width: 500px; }
+  .newsletter h4 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 24px; }
+
+.gallery--newsletter {
+  padding-top: 60px; }
 
 .static-page {
   max-width: calc(100vw - (120px + 60px));

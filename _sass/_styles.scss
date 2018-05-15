@@ -132,6 +132,11 @@ small {
 p {
   font-size: 20px;
   line-height: 1.4;
+
+  strong {
+    font-weight: 400;
+    text-transform: uppercase;
+  }
 }
 
 header {
@@ -350,6 +355,8 @@ footer {
   margin-right: 10%;
   margin-bottom: 10%;
   max-width: 600px;
+  opacity: 0.85;
+  transition: 0.2s;
 
   @include large {
       max-width: 400px;
@@ -365,6 +372,10 @@ footer {
     max-width: none;
     margin-right: 0;
   }
+}
+
+.article-block:hover {
+  opacity: 1;
 }
 
 .article-block:nth-child(3n+0) {
@@ -441,6 +452,10 @@ footer {
   @include medium {
     max-width: 90%;
   }
+
+  a {
+    color: white;
+  }
 }
 
 .featured--article-title {
@@ -467,6 +482,7 @@ footer {
   font-family: serif;
   letter-spacing: -1px;
   max-width: 600px;
+  font-size: 24px;
 
   @include small {
     font-size: 16px;
@@ -645,6 +661,12 @@ code {
 
 // Gallery Layout  =============================================================
 
+.gallery-content {
+  p {
+    font-size: 14px;
+  }
+}
+
 .gallery-details {
   height: 100vh;
   max-width: 600px;
@@ -690,6 +712,7 @@ code {
 .gallery-credits {
   p {
     font-size: 1rem;
+    font-family: serif;
 
     @include small {
       margin-bottom: 5px;
@@ -698,15 +721,15 @@ code {
     }
   }
 
-  span {
-    font-family: serif;
-    margin-left: 40px;
-    font-size: 1.2rem;
+  strong {
+    font-family: 'Favorit', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
 
-    @include small {
-      font-size: 1rem;
-      margin-left: 20px;
-    }
+  a {
+    border-bottom: 1px solid black;
   }
 }
 
@@ -737,6 +760,22 @@ code {
     padding-bottom: 80px;
     margin-top: 0;
   }
+}
+
+// Newsletter Section ==========================================================
+
+.newsletter {
+  max-width: 500px;
+
+  h4 {
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 24px;
+  }
+}
+
+.gallery--newsletter {
+  padding-top: 60px;
 }
 
 

@@ -10,7 +10,6 @@ layout: default
       <small class="article-category post-meta">{{ page.categories.first }}</small>
       <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </div>
-    <img src="{{ page['Main Image'] }}" class="article-main-img">
   </div>
 
   <div class="post-content" itemprop="articleBody">
@@ -41,4 +40,5 @@ layout: default
       {% if items_found == 3 %}{% break %}{% endif %}
     {% endfor %}
   </div>
+  {% include newsletter.html %}
 </section>

@@ -10,7 +10,7 @@ layout: home
       <div class="featured--background" style="background-image: url({{ post['Main Image'] }})">
         <div class="featured--article-details">
           <h3 class="featured--article-title">{{ post.title }}</h4>
-          <small class="article-category">{{ post.categories.first }}</small>
+          <a href="/category/{{ post.categories.first }}"<small class="article-category">{{ post.categories.first }}</small></a>
           <p class="featured--blurb">
             {{ post.Blurb }}
           </p>
@@ -28,14 +28,19 @@ layout: home
 
   {% for post in site.posts %}
 
-      <a href="{{ post.url | remove: ".html" }}" class="article-block">
-          <img src="{{ post['Main Image'] }}" class="article-image">
+      <div class="article-block">
+          <a href="{{ post.url | remove: ".html" }}"><img src="{{ post['Main Image'] }}" class="article-image"></a>
+
           <div class="article-details">
-            <h3 class="article-title">{{ post.title }}</h4>
-            <small class="article-category">{{ post.categories.first }}</small>
+            <a href="{{ post.url | remove: ".html" }}"><h3 class="article-title">{{ post.title }}</h3></a>
+            <a href="/category/{{ post.categories.first }}"<small class="article-category">{{ post.categories.first }}</small></a>
           </div>
-      </a>
+      </div>
 
     {% endfor %}
 
+    {% include newsletter.html %}
+
 </div>
+
+<!-- href="{{ post.url | remove: ".html" }}" -->

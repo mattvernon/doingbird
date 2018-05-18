@@ -33,4 +33,4 @@ defaults:
     layout: category
 description: magazine
 permalink: pretty
-Masthead Color: black
+Masthead Color: "#3300ff"

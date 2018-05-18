@@ -18,7 +18,7 @@ defaults:
   values:
     layout: post
     permalink: "/:title/"
-    author: 
+    author:
     Main Image: "/assets/placeholder.png"
     Credits Text: ''
 - scope:
@@ -33,3 +33,4 @@ defaults:
     layout: category
 description: magazine
 permalink: pretty
+Masthead Color: black

@@ -193,10 +193,16 @@ footer {
     letter-spacing: 0.5px;
     font-size: 14px;
     color: black;
+    opacity: 1;
+    transition: 0.2s;
 
     @include medium {
       font-size: 13px;
     }
+  }
+
+  a:hover {
+    opacity: 0.6;
   }
 }
 
@@ -354,7 +360,7 @@ footer {
   margin-right: 10%;
   margin-bottom: 10%;
   max-width: 600px;
-  opacity: 0.85;
+  opacity: 1;
   transition: 0.2s;
 
   @include large {
@@ -374,7 +380,7 @@ footer {
 }
 
 .article-block:hover {
-  opacity: 1;
+  opacity: 0.8;
 }
 
 .article-block:nth-child(3n+0) {

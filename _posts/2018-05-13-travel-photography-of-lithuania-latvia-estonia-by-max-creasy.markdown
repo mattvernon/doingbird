@@ -9,6 +9,7 @@ tags:
 author: Max Creasy
 Main Image: "/uploads/MaxCreasy002.jpg"
 Credits Text: photographs **Max Creasy**
+is featured?: true
 Blurb: 'From Lithuania to Estonia: a travel diary from photographer Max Creasy.'
 ---
 

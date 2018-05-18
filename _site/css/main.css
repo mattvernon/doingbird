@@ -966,6 +966,10 @@ code {
     font-weight: 400;
     text-transform: uppercase;
     font-size: 24px; }
+  .newsletter .button {
+    padding: 15px 40px;
+    width: 100%;
+    border: 1px solid black; }
 
 .gallery--newsletter {
   padding-top: 60px; }
@@ -986,6 +990,9 @@ code {
     @media (max-width: 800px) {
       .static-page h1 {
         padding-top: 60px; } }
+  .static-page .button {
+    padding: 20px 40px;
+    border: 1px solid black; }
 
 input,
 textarea {
@@ -1056,6 +1063,16 @@ button:hover {
   .team .about-person {
     min-width: 210px;
     margin-bottom: 20px; }
-    .team .about-person p {
+    .team .about-person p,
+    .team .about-person a {
       margin-top: 5px;
-      font-size: 1.5rem; }
+      font-size: 1.5rem;
+      display: block; }
+    .team .about-person a {
+      text-decoration: underline; }
+
+.notification-page h1 {
+  margin-bottom: 20px; }
+.notification-page .button {
+  margin-top: 50px;
+  display: inline-block; }

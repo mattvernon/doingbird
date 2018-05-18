@@ -776,6 +776,12 @@ code {
     text-transform: uppercase;
     font-size: 24px;
   }
+
+  .button {
+    padding: 15px 40px;
+    width: 100%;
+    border: 1px solid black;
+  }
 }
 
 .gallery--newsletter {
@@ -805,6 +811,11 @@ code {
     @include small {
       padding-top: 60px;
     }
+  }
+
+  .button {
+    padding: 20px 40px;
+    border: 1px solid black;
   }
 }
 
@@ -895,13 +906,29 @@ button:hover {
     min-width: 210px;
     margin-bottom: 20px;
 
-    p {
+    p,
+    a {
       margin-top: 5px;
       font-size: 1.5rem;
+      display: block;
+    }
+
+    a {
+      text-decoration: underline;
     }
   }
 }
 
+.notification-page {
+  h1 {
+    margin-bottom: 20px;
+  }
+
+  .button {
+    margin-top: 50px;
+    display: inline-block;
+  }
+}
 
 
 

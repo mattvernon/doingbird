@@ -1,5 +1,5 @@
 ---
-title: doingbird
+title: Doingbird Magazine
 timezone: Australia/Sydney
 collections:
   category:
@@ -35,4 +35,4 @@ defaults:
 description: Doingbird is an independently published fashion/art publication celebrating
   creative freedom.
 permalink: pretty
-Masthead Color: "#3300ff"
+Masthead Color: "#000000"

@@ -32,6 +32,7 @@ defaults:
     type: category
   values:
     layout: category
-description: magazine
+description: Doingbird is an independently published fashion/art publication celebrating
+  creative freedom.
 permalink: pretty
 Masthead Color: "#3300ff"

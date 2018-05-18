@@ -18,7 +18,7 @@ defaults:
   values:
     layout: post
     permalink: "/:title/"
-    author:
+    author: 
     Main Image: "/assets/placeholder.png"
     Credits Text: ''
 - scope:

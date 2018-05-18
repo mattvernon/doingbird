@@ -5,7 +5,8 @@ layout: home
 <div class="featured-post">
 
   <div class="siema">
-    {% for post in site.categories.features %}
+    {% assign featured_posts = site.posts | where:"is featured?","true" %}
+    {% for post in featured_posts limit:5 %}
 
       <div class="featured--background" style="background-image: url({{ post['Main Image'] }})">
         <div class="featured--article-details">

@@ -1035,7 +1035,8 @@ button:hover {
   display: flex;
   max-width: 700px;
   flex-wrap: wrap;
-  align-items: flex-start; }
+  align-items: flex-start;
+  margin-bottom: 100px; }
   .contact-details div {
     min-width: 210px;
     margin-right: 40px; }

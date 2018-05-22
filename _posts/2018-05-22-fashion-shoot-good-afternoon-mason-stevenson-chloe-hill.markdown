@@ -3,6 +3,8 @@ title: Good Afternoon
 date: 2018-05-22 15:42:00 +10:00
 categories:
 - Fashion
+tags:
+- SHOOT
 Main Image: "/uploads/doingbird_mason_stevenson_online_main_010.jpg"
 Credits Text: photographs **Mason Stevenson**; styling **Chloe Hill**; hair **Pete
   Lennon** at Company1; make-up **Gillian Campbell** at The Artist Group; models **Honor**,

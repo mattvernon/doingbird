@@ -1,5 +1,5 @@
 ---
-title: An architectural tour through Baltoscandia
+title: A tour through Baltoscandia
 date: 2018-05-13 21:40:00 +10:00
 categories:
 - World
@@ -10,10 +10,12 @@ author: Max Creasy
 Main Image: "/uploads/MaxCreasy007.jpg"
 Credits Text: photographs **Max Creasy**
 is featured?: true
-Blurb: 'From Lithuania to Estonia: a travel diary from photographer Max Creasy.'
+Blurb: 'From Lithuania to Estonia: worlds collide a travel diary by photographer Max
+  Creasy.'
 ---
 
-"In the summer of 2017, James Taylor-Foster and I set out to take a look at the Baltics, zigzagging our way from Vilnius in Lithuania to Riga in Latvia and up to Tallinn in Estonia. James had recently curated the Nordic Pavilion at the Venice Architecture Biennale. The exhibition, *In Therapy*, diagnosed the postmodern, post-Sverre Fehn/Alvar Aalto/Gunnar Asplund state of Nordic architecture. During the display period James came into dialogue with the curators of the Baltic Pavilion (Lithuania, Latvia and Estonia) and from these conversations emerged an interest in the pre-Soviet idea of Baltoscandia—a hypothetical unity based on shared cultures between the Scandinavian and Baltic countries. These pictures are part of the research we compiled."—**[Max Creasy](http://maxcreasy.com/)**
+"In the summer of 2017, James Taylor-Foster and I set out to take a look at the Baltics, zigzagging our way from Vilnius in Lithuania to Riga in Latvia and up to Tallinn in Estonia. James had recently curated the Nordic Pavilion at the Venice Architecture Biennale. The exhibition, *In Therapy*, diagnosed the postmodern, post-Sverre Fehn/Alvar Aalto/Gunnar Asplund state of Nordic architecture. During the display period James came into dialogue with the curators of the Baltic Pavilion (Lithuania, Latvia and Estonia) and from these conversations emerged an interest in the pre-Soviet idea of Baltoscandia—a hypothetical unity based on shared cultures between the Scandinavian and Baltic countries. These pictures are part of the research we compiled."\
+— **[Max Creasy](http://maxcreasy.com/)**
 
 ![MaxCreasy001.jpg](/uploads/MaxCreasy001.jpg)
 

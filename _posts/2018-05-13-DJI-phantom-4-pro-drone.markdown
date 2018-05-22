@@ -1,7 +1,6 @@
 ---
 title: '1.2: Drone by DJI'
 date: 2018-05-13 21:02:00 +10:00
-published: false
 categories:
 - Objects
 Main Image: "/uploads/Doingbird_Drone_web.jpg"

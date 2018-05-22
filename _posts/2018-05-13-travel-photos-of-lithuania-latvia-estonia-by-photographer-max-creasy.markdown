@@ -9,7 +9,7 @@ tags:
 author: Max Creasy
 Main Image: "/uploads/MaxCreasy007.jpg"
 is featured?: true
-Blurb: 'From Lithuania to Estonia: a travel diary where worlds collide by photographer
+Blurb: 'From Lithuania to Estonia: a travel diary where worlds collide  by photographer
   Max Creasy.'
 ---
 
@@ -59,4 +59,4 @@ In the summer of 2017, James Taylor-Foster and I set out to take a look at the B
 
 ![MaxCreasy009.jpg](/uploads/MaxCreasy022.jpg)
 
-*[Max Creasy](http://maxcreasy.com/) is an Australian-Norweigian photographer based in London. **[James Taylor-Foster](https://james.tf/)** is a designer, writer, curator and broadcaster based in Stockholm.*
+*[Max Creasy](http://maxcreasy.com/) is an Australian-Norweigian photographer based in London. [James Taylor-Foster](https://james.tf/) (pictured in the second photograph from the top) is a designer, writer, curator and broadcaster based in Stockholm.*

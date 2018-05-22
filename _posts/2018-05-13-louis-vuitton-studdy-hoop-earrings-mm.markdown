@@ -10,7 +10,7 @@ Credits Text: photographs **Anna Pogossova** styling **Miguel Urbina Tan**
 layout: gallery
 ---
 
-Behold, this bag is shaped like a sugar cube. It has a detachable  shoulder strap (not pictured) and satin lining. It is the colour of a box of Redheads matches and can store up to five pieces of fruit.
+\[30-50 words go here\]
 
 **[Louis Vuitton](louisvuitton.com)**[ Studdy Hoop Earrings MM ($1090)](louisvuitton.com)
 

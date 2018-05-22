@@ -3,7 +3,6 @@ title: A tour through Baltoscandia
 date: 2018-05-13 21:40:00 +10:00
 categories:
 - World
-- features
 tags:
 - Travel diary
 author: Max Creasy

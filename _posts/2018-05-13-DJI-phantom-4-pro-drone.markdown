@@ -7,7 +7,7 @@ Main Image: "/uploads/Doingbird_Drone_web.jpg"
 layout: gallery
 ---
 
-Behold, this bag is shaped like a sugar cube. It has a detachable  shoulder strap (not pictured) and satin lining. It is the colour of a box of Redheads matches and can store up to five pieces of fruit.
+\[30-50 words go here\]
 
 **[DJI](https://www.harveynorman.com.au/dji-phantom-4-pro-drone.html)**[ Phantom 4 Pro Drone (AUD $2397)](https://www.harveynorman.com.au/dji-phantom-4-pro-drone.html)
 

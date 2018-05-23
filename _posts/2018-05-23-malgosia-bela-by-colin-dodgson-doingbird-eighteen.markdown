@@ -1,11 +1,12 @@
 ---
-title: 'eighteen: Malgosia Bela by Colin Dodgson'
+title: Malgosia Bela by Colin Dodgson
 date: 2018-05-23 20:46:00 +10:00
 published: false
 categories:
 - Archive
 tags:
 - Fashion
+Main Image: "/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-1.jpg"
 layout: gallery
 ---
 

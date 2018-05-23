@@ -3,7 +3,6 @@ title: Rockhounding
 date: 2018-05-13 17:10:00 +10:00
 categories:
 - Art
-- features
 tags:
 - photography
 Main Image: "/uploads/Victoria%20Zschommler%20Rocks%208.jpg"

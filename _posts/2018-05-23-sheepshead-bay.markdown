@@ -7,8 +7,8 @@ categories:
 tags:
 - Stories
 Main Image: "/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2012%20Sheepshead%20Bay%20C.JPG"
-Credits Text: photographs **Danielle Alprin **styling **Anna Santangelo **models **Johnny
-  Bryan**, **Adrienne Herr **and **Jake Muilenburg**
+Credits Text: photographs **Danielle Alprin** styling **Anna Santangelo** models **Johnny
+  Bryan**, **Adrienne Herr** and **Jake Muilenburg**
 is featured?: true
 Photographs: Danielle Alprin
 Styling: Anna Santangelo

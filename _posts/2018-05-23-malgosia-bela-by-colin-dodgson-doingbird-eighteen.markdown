@@ -1,5 +1,5 @@
 ---
-title: 'doingbird #18: Malgosia Bela'
+title: 'eighteen: Malgosia Bela by Colin Dodgson'
 date: 2018-05-23 20:46:00 +10:00
 published: false
 categories:

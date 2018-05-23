@@ -8,8 +8,7 @@ tags:
 - photography
 Main Image: "/uploads/Victoria%20Zschommler%20Rocks%203.jpg"
 Credits Text: photographs **Victoria Zschommler**
-Blurb: Amateur geology is the recreational study and hobby of collecting rocks and
-  mineral specimens from their natural environment.
+Blurb: Rock collecting to give you holiday feelings. Photographs by Victoria Zschommler
 ---
 
 ![Victoria Zschommler Rocks 1.jpg](/uploads/Victoria%20Zschommler%20Rocks%201.jpg)

@@ -58,4 +58,4 @@ In the summer of 2017, James Taylor-Foster and I set out to take a look at the B
 
 ![MaxCreasy009.jpg](/uploads/MaxCreasy022.jpg)
 
-**[Max Creasy](http://maxcreasy.com/)** *is an Australian-Norweigian photographer based in London. [James Taylor-Foster](https://james.tf/) (pictured in the second photograph from the top) is a designer, writer, curator and broadcaster based in Stockholm.*
+*[MAX CREASY](http://maxcreasy.com/) is an Australian-Norweigian photographer based in London. [JAMES TAYLOR-FOSTER ](https://james.tf/)(pictured in the second photograph from the top) is a designer, writer, curator and broadcaster based in Stockholm.*

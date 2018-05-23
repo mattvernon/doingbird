@@ -12,7 +12,9 @@ is featured?: true
 Blurb: Photographs by Victoria Zschommler
 ---
 
-Photographer Victoria Zschommler gets excited about inanimate objects. "I like to give them life," she says. Here is her collection of rocks and other specimens she picked up while camping along the coast of New South Wales in Australia. "Looking at these pictures takes me to a peaceful place, those feelings you have when on holidays."
+Photographer Victoria Zschommler gets excited about inanimate objects. "I like to give them life," she says. Take, for instance, this collection of rocks and other specimens she accumulated while camping along the coast of New South Wales in Australia and then photographed—with much care—once she arrived home. 
+
+"Looking at these pictures takes me to a peaceful place, those feelings you have when on holidays."
 
 ![Victoria Zschommler Rocks 1.jpg](/uploads/Victoria%20Zschommler%20Rocks%201.jpg)
 

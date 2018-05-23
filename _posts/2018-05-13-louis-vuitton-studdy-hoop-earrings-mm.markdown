@@ -1,5 +1,5 @@
 ---
-title: '1.3: Earrings by Louis Vuitton'
+title: '1.3: Louis Vuitton earrings'
 date: 2018-05-13 21:22:00 +10:00
 published: false
 categories:

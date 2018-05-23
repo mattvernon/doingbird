@@ -1,5 +1,5 @@
 ---
-title: A tour through Baltoscandia
+title: On travelling through Baltoscandia
 date: 2018-05-23 15:40:00 +10:00
 categories:
 - World

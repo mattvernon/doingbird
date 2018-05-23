@@ -6,9 +6,10 @@ categories:
 - features
 tags:
 - photography
-Main Image: "/uploads/Victoria%20Zschommler%20Rocks%203.jpg"
+Main Image: "/uploads/Victoria%20Zschommler%20Rocks%208.jpg"
 Credits Text: photographs **Victoria Zschommler**
-Blurb: Rock collecting to give you holiday feelings. Photographs by Victoria Zschommler
+is featured?: true
+Blurb: Photographs by Victoria Zschommler
 ---
 
 ![Victoria Zschommler Rocks 1.jpg](/uploads/Victoria%20Zschommler%20Rocks%201.jpg)

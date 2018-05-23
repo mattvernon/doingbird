@@ -1,10 +1,10 @@
 ---
-title: A tour through Baltoscandia
-date: 2018-05-13 21:40:00 +10:00
+title: On travelling through Baltoscandia
+date: 2018-05-23 15:40:00 +10:00
 categories:
 - World
 tags:
-- Travel diary
+- Travel
 author: Max Creasy
 Main Image: "/uploads/MaxCreasy007.jpg"
 is featured?: true
@@ -58,4 +58,4 @@ In the summer of 2017, James Taylor-Foster and I set out to take a look at the B
 
 ![MaxCreasy009.jpg](/uploads/MaxCreasy022.jpg)
 
-*[Max Creasy](http://maxcreasy.com/) is an Australian-Norweigian photographer based in London. [James Taylor-Foster](https://james.tf/) (pictured in the second photograph from the top) is a designer, writer, curator and broadcaster based in Stockholm.*
+*[MAX CREASY](http://maxcreasy.com/) is an Australian-Norweigian photographer based in London. [JAMES TAYLOR-FOSTER ](https://james.tf/)(pictured in the second photograph from the top) is a designer, writer, curator and broadcaster based in Stockholm.*

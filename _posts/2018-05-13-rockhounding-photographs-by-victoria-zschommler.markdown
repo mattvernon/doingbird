@@ -1,16 +1,20 @@
 ---
 title: Rockhounding
 date: 2018-05-13 17:10:00 +10:00
+published: false
 categories:
 - Art
-- features
 tags:
 - photography
-Main Image: "/uploads/Victoria%20Zschommler%20Rocks%203.jpg"
+Main Image: "/uploads/Victoria%20Zschommler%20Rocks%208.jpg"
 Credits Text: photographs **Victoria Zschommler**
-Blurb: Amateur geology is the recreational study and hobby of collecting rocks and
-  mineral specimens from their natural environment.
+is featured?: true
+Blurb: Photographs by Victoria Zschommler
 ---
+
+Photographer Victoria Zschommler gets excited about inanimate objects. "I like to give them life," she says. Take, for instance, this collection of rocks and other specimens she accumulated while camping along the coast of New South Wales in Australia and then photographed—with much care—once she arrived home. 
+
+"Looking at these pictures takes me to a peaceful place, those feelings you have when on holidays."
 
 ![Victoria Zschommler Rocks 1.jpg](/uploads/Victoria%20Zschommler%20Rocks%201.jpg)
 

@@ -1,15 +1,17 @@
 ---
 title: Good Afternoon
-date: 2018-05-13 17:42:00 +10:00
+date: 2018-05-22 15:42:00 +10:00
 categories:
 - Fashion
-- features
+tags:
+- SHOOT
 Main Image: "/uploads/doingbird_mason_stevenson_online_main_010.jpg"
 Credits Text: photographs **Mason Stevenson**; styling **Chloe Hill**; hair **Pete
   Lennon** at Company1; make-up **Gillian Campbell** at The Artist Group; models **Honor**,
   **Joel** and **Zac** at FiveTwenty, **Indigo** at Kult, **Ruby Campbell** at Priscillas
-Blurb: Thanks for coming. Enjoy these shirts and suits, guaranteed to brighten dull
-  days, by Mason Stevenson and Chloe Hill.
+is featured?: true
+Blurb: Shirts and suits to make dull days bright. Photographs by Mason Stevenson and
+  styling by Chloe Hill
 layout: gallery
 ---
 

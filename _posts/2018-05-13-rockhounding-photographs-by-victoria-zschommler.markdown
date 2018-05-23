@@ -5,7 +5,7 @@ published: false
 categories:
 - Art
 tags:
-- photography
+- Photography
 Main Image: "/uploads/Victoria%20Zschommler%20Rocks%208.jpg"
 Credits Text: photographs **Victoria Zschommler**
 is featured?: true

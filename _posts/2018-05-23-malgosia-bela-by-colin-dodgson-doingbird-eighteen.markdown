@@ -1,6 +1,7 @@
 ---
-title: Malgosia Bela by Colin Dodgson
+title: 'doingbird #18: Malgosia Bela'
 date: 2018-05-23 20:46:00 +10:00
+published: false
 categories:
 - Archive
 tags:

@@ -6,12 +6,12 @@ categories:
 tags:
 - SHOOT
 Main Image: "/uploads/doingbird_mason_stevenson_online_main_010.jpg"
-Credits Text: photographs **Mason Stevenson**; styling **Chloe Hill**; hair **Pete
-  Lennon** at Company1; make-up **Gillian Campbell** at The Artist Group; models **Honor**,
-  **Joel** and **Zac** at FiveTwenty, **Indigo** at Kult, **Ruby Campbell** at Priscillas
+Credits Text: photographs **Mason Stevenson** styling **Chloe Hill** hair **Pete Lennon**
+  at Company1 make-up **Gillian Campbell** at **The Artist Group** models **Honor**,
+  **Joel** and **Zac** at **FiveTwenty**, **Indigo** at **Kult**, **Ruby Campbell**
+  at **Priscillas**
 is featured?: true
-Blurb: Shirts and suits to make dull days bright. Photographs by Mason Stevenson and
-  styling by Chloe Hill
+Blurb: Photographs by Mason Stevenson
 layout: gallery
 ---
 

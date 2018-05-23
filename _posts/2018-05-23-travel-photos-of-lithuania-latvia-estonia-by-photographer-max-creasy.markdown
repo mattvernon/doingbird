@@ -4,7 +4,7 @@ date: 2018-05-23 15:40:00 +10:00
 categories:
 - World
 tags:
-- Travel diary
+- Travel
 author: Max Creasy
 Main Image: "/uploads/MaxCreasy007.jpg"
 is featured?: true

@@ -34,7 +34,7 @@ layout: home
 
           <div class="article-details">
             <a href="{{ post.url | remove: ".html" }}"><h3 class="article-title">{{ post.title }}</h3></a>
-            <a href="/category/{{ post.categories.first }}"<small class="article-category">{{ post.categories.first }}</small></a>
+            <a href="/category/{{ post.categories.first | downcase }}"<small class="article-category">{{ post.categories.first }}</small></a>
           </div>
       </div>
 

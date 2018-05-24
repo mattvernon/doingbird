@@ -1,9 +1,10 @@
 ---
 title: '1.2: DJI drone'
 date: 2018-05-13 21:02:00 +10:00
-published: false
 categories:
 - Objects
+tags:
+- Tech
 Main Image: "/uploads/Doingbird_Drone_web.jpg"
 Credits Text: "Beware, this drone can see you! And quite clearly, at that. Take control
   and capture clear, crisp shots from the sky. Watch it hover and whir – and be sure

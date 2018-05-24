@@ -1,6 +1,6 @@
 ---
 title: '1.3: Louis Vuitton earrings'
-date: 2018-05-13 21:22:00 +10:00
+date: 2018-05-22 21:22:00 +10:00
 categories:
 - Objects
 tags:

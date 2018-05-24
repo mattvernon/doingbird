@@ -11,7 +11,7 @@ Credits Text: photographs **[Mason Stevenson](http://www.masonstevenson.com/)** 
   at **The Artist Group** models **Honor**, **Joel** and **Zac** at **FiveTwenty**,
   **Indigo** at **Kult**, **Ruby Campbell** at **Priscillas**
 is featured?: true
-Blurb: Photographs by Mason Stevenson
+Blurb: New suits in sunlight. A fashion story by Mason Stevenson and Chloe Hill
 layout: gallery
 ---
 

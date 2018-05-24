@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/doingbird_mason_stevenson_online_main_010.jpg"
+Main Image: "/uploads/doingbird_mason_stevenson_online_main_013_LR.jpg"
 Credits Text: photographs **[Mason Stevenson](http://www.masonstevenson.com/)** styling
   **Chloe Hill** hair **Pete Lennon** at **Company1** make-up **Gillian Campbell**
   at **The Artist Group** models **Honor**, **Joel** and **Zac** at **FiveTwenty**,

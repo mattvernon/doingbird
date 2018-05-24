@@ -4,13 +4,17 @@ date: 2018-05-13 21:22:00 +10:00
 published: false
 categories:
 - Objects
+tags:
+- Jewellery
 Main Image: "/uploads/Doingbird_LV_web.jpg"
-Credits Text: photographs **Anna Pogossova** styling **Miguel Urbina Tan**
+Credits Text: |-
+  Wear a pair of monogrammed studs next time you hit the disco and shine on into the night.
+
+  **[Louis Vuitton](https://au.louisvuitton.com/eng-au/products/studdy-hoop-earrings-mm-nvprod710127v)**[ Studdy Hoop Earrings MM ($1090)](https://au.louisvuitton.com/eng-au/products/studdy-hoop-earrings-mm-nvprod710127v)
+
+  photography **Anna Pogossova** styling **Miguel Urbina Tan**
 layout: gallery
 ---
 
-\[30-50 words go here\]
-
-**[Louis Vuitton](louisvuitton.com)**[ Studdy Hoop Earrings MM ($1090)](louisvuitton.com)
 
 ![Doingbird_LV_web.jpg](/uploads/Doingbird_LV_web.jpg)

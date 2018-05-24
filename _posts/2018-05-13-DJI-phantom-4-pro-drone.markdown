@@ -14,5 +14,4 @@ Credits Text: "Beware, this drone can see you! And quite clearly, at that. Take 
 layout: gallery
 ---
 
-
 ![Doingbird_Drone_web.jpg](/uploads/Doingbird_Drone_web.jpg)

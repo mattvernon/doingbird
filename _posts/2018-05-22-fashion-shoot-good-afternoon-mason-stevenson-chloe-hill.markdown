@@ -7,9 +7,9 @@ tags:
 - Shoot
 Main Image: "/uploads/doingbird_mason_stevenson_online_main_013_LR.jpg"
 Credits Text: photographs **[Mason Stevenson](http://www.masonstevenson.com/)** styling
-  **Chloe Hill** hair **Pete Lennon** at **Company1** make-up **Gillian Campbell**
-  at **The Artist Group** models **Honor**, **Joel** and **Zac** at **FiveTwenty**,
-  **Indigo** at **Kult**, **Ruby Campbell** at **Priscillas**
+  **[Chloe Hill](http://www.chloechill.com/)** hair **Pete Lennon** at **Company1**
+  make-up **Gillian Campbell** at **The Artist Group** models **Honor**, **Joel**
+  and **Zac** at **FiveTwenty**, **Indigo** at **Kult**, **Ruby Campbell** at **Priscillas**
 is featured?: true
 Blurb: New suits in sunlight. A fashion story by Mason Stevenson and Chloe Hill
 layout: gallery

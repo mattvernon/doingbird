@@ -7,7 +7,7 @@ tags:
 - Photography
 Main Image: "/uploads/Victoria%20Zschommler%20Rocks%208.jpg"
 is featured?: true
-Blurb: Natural specimens photographed by Victoria Zschommler
+Blurb: Amateur geology to give you holiday feelings. Photographs by Victoria Zschommler
 ---
 
 Photographer Victoria Zschommler gets excited about inanimate objects. "I like to give them life," she says. Take, for instance, this collection of rocks and other specimens she accumulated while camping at Aragunnu in Wapengo along the south coast of New South Wales, and then photographed with care once she arrived back home.

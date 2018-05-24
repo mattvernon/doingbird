@@ -11,7 +11,7 @@ Credits Text: |-
 
   **[Louis Vuitton](https://au.louisvuitton.com/eng-au/products/studdy-hoop-earrings-mm-nvprod710127v)**[ Studdy Hoop Earrings MM ($1090)](https://au.louisvuitton.com/eng-au/products/studdy-hoop-earrings-mm-nvprod710127v)
 
-  photography **Anna Pogossova** styling **Miguel Urbina Tan**
+  photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 layout: gallery
 ---
 

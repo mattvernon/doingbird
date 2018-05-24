@@ -30,4 +30,4 @@ Photographer Victoria Zschommler gets excited about inanimate objects. "I like t
 
 ![Victoria Zschommler Rocks 9.jpg](/uploads/Victoria%20Zschommler%20Rocks%209.jpg)
 
-*[victoriazschommler.com](victoriazschommler.com)*
+*[victoriazschommler.com](http://victoriazschommler.com)*

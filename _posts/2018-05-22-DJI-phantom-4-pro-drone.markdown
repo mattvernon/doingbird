@@ -1,6 +1,6 @@
 ---
 title: '1.2: DJI drone'
-date: 2018-05-13 21:02:00 +10:00
+date: 2018-05-22 21:02:00 +10:00
 categories:
 - Objects
 tags:

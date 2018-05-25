@@ -7,11 +7,11 @@ tags:
 - Shoot
 Main Image: "/uploads/doingbird_mason_stevenson_online_main_013_LR.jpg"
 Credits Text: photographs **[Mason Stevenson](http://www.masonstevenson.com/)** at
-  **[Artboxblack](https://artboxblack.com/) **styling **[Chloe Hill](http://www.chloechill.com/)**
-  hair **Pete Lennon** at[ ](http://company1.com.au/)**[Company1](http://company1.com.au/)**
-  make-up **Gillian Campbell** at **[Artist Group](https://artist-group.net/)** models
-  **Honor**, **Joel** and **Zac** at **[FiveTwenty](http://www.fivetwentymgt.com/)**,
-  **Indigo** at **[Kult](http://www.kultmodels.com.au/)**, **Ruby Campbell** at **[Priscillas](http://www.priscillas.com.au/)**
+  **[Artboxblack](https://artboxblack.com/) styling [Chloe Hill](http://www.chloechill.com/)**
+  hair **Pete Lennon** at **[Company1](http://company1.com.au/)** make-up **Gillian
+  Campbell** at **[Artist Group](https://artist-group.net/)** models **Honor**, **Joel**
+  and **Zac** at **[FiveTwenty](http://www.fivetwentymgt.com/)**, **Indigo** at **[Kult](http://www.kultmodels.com.au/)**,
+  **Ruby Campbell** at **[Priscillas](http://www.priscillas.com.au/)**
 is featured?: true
 Blurb: New suits in sunlight. A fashion story by Mason Stevenson and Chloe Hill
 layout: gallery

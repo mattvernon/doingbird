@@ -13,11 +13,11 @@ author: Lucy Jones
 
 At first glance, Allie Webb’s linocuts look scenes from an old black and white movie. But look a little closer and you’ll start to notice familiar objects—a bottle of VB, a “Peter’s Ice Cream” sign, a box of Redheads matches. This is the everyday stuff that interests the linocut printmaker and restaurateur. “I’m fascinated by interactions between people,” Webb explains. “Our vanity when we get dressed up to go out; flirtatious body language from a couple obviously in the beginnings of a relationship; groups of business men attempting to impress each other with caviar and champagne; the face of boredom as a man educates a woman on the difference between the left bank and right bank of Bordeaux; women gathering for lunch with vapid, nasty gossip.”
 
-Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we wish we could come home to at the end of a big night out. We caught up with her to talk about making intimate, indulgent and funny art.
+Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we wish we could come home to at the end of a big night out. We caught up with her to talk about making intimate, indulgent, funny art.
 
 *Who are you and what do you "do"?*
 
-What I "do" isn’t the most straightforward to describe. I'm a linocut printmaker and also the creative director of Swillhouse with my husband, Anton Forte \[owner of Sydney establishments Shady Pines Saloon, The Baxter Inn, Frankie’s Pizza, Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
+What I "do" isn’t the most straightforward to describe. I'm a linocut printmaker and also the creative director of Swillhouse with my husband, Anton Forte \[owner of Sydney establishments including Shady Pines Saloon, Frankie’s Pizza and Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
 
 ***When did you first get into art and what drew you to lino prints specifically?***
 

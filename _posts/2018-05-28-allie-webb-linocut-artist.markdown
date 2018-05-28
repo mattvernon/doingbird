@@ -8,25 +8,27 @@ tags:
 - Interview
 ---
 
+![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
+
 At first glance, Allie Webb’s linocuts look scenes from an old black and white movie. But look a little closer and you’ll start to notice familiar objects—a bottle of VB, a “Peter’s Ice Cream” sign, a box of Redheads matches. This is the everyday stuff that interests the linocut printmaker and restaurateur. “I’m fascinated by interactions between people,” Webb explains. “Our vanity when we get dressed up to go out; flirtatious body language from a couple obviously in the beginnings of a relationship; groups of business men attempting to impress each other with caviar and champagne; the face of boredom as a man educates a woman on the difference between the left bank and right bank of Bordeaux; women gathering for lunch with vapid, nasty gossip.”
 
 Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we wish we could come home to at the end of a big night out. We caught up with her to talk about making intimate, indulgent and funny art.
 
-**Lucy Jones: ***Who are you and what do you “do”?*
+**Lucy Jones:** *Who are you and what do you “do”?*
 
-**Allie Webb**: What I ‘do’ isn’t the most straightforward to describe. I’m a linocut printmaker and also the creative director of Swillhouse with my husband Anton Forte \[owner of Sydney establishments Shady Pines Saloon, The Baxter Inn, Frankie’s Pizza, Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
+**Allie Webb**: What I ‘do’ isn’t the most straightforward to describe. I’m a linocut printmaker and also the creative director of Swillhouse with my husband, Anton Forte \[owner of Sydney establishments Shady Pines Saloon, The Baxter Inn, Frankie’s Pizza, Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
 
 ***When did you first get into art and what drew you to lino prints specifically?***
 
 I fell in love with Jim Dine when I was growing up—his dark, messy prints featuring everyday objects and portraits. I’ve always painted and drawn; it’s very natural for me. Linocuts were a good progression from drawing, as I like to create scenes from memory. I really enjoy painting from life but found it limiting because there were so many more elements you had to think about. Then again, linocuts leave very little room for error. Once an area is cut, that’s it. I do enjoy the restrictions it gives and would love to see how far I can push the medium.
 
-![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
+![piedimonte.jpg](/uploads/piedimonte.jpg)
 
 *How would you describe your work?*
 
 Monochrome, fun.
 
-Do you draw from reality or something else?
+*Do you draw from reality or something else?*
 
 I don’t usually draw directly from reality for the prints. Many of the pieces are formed in my head and it’s just something I need to put to paper. I also use inspiration from pictures I’ve seen in old black and white movies or photographs. Reinventing second hand images interests me. I’ve been looking at Marlene Dumas’ monochrome paintings, reinterpreting black and white photographs from the newspaper.
 
@@ -46,6 +48,8 @@ I guess you could say I’m interested in pretence. Fleeting moments excite me�
 
 Not really, it’s usually unplanned when an idea strikes. It could be at an Italian pastry shop with all the beautiful little cakes laid out or a woman sitting with her dog at a cafe.
 
+![luxury.jpg](/uploads/luxury.jpg)
+
 *The characters in your work look like they are really living in the moment, there’s no one texting or anything. Are you trying to comment on the importance of intimacy in 2018?*
 
 I feel like, when you go out for dinner we should be socialising with those in front of us. I also try and create scenes that feel timeless. It could be in 1972 or 2020.
@@ -61,6 +65,8 @@ Interesting question. I think yes, some of them definitely are.
 *What would your death row meal be?*
 
 Good quality saucisson, cheddar, olives, bread and butter. I’d probably have to drink a bottle of wine before this to calm the sadness and nerves too.
+
+![800x610-Late-Night-Chinese.jpg](/uploads/800x610-Late-Night-Chinese.jpg)
 
 *What’s coming up for you art-wise?*
 

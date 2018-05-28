@@ -1,5 +1,5 @@
 ---
-title: Allie Webb's Linocuts
+title: Allie Webb's Linocuts Capture Moments of Everyday Hedonism
 date: 2018-05-28 21:14:00 +10:00
 published: false
 categories:
@@ -30,7 +30,7 @@ Monochrome, fun.
 
 *Do you draw from reality or something else?*
 
-I don’t usually draw directly from reality for the prints. Many of the pieces are formed in my head and it’s just something I need to put to paper. I also use inspiration from pictures I’ve seen in old black and white movies or photographs. Reinventing second hand images interests me. I’ve been looking at Marlene Dumas’ monochrome paintings, reinterpreting black and white photographs from the newspaper.
+I don’t usually draw directly from reality for the prints. Many of the pieces are formed in my head and it’s just something I need to put to paper. I also use inspiration from pictures I’ve seen in old black and white movies or photographs. Reinventing second-hand images interests me. I’ve been looking at Marlene Dumas’ monochrome paintings, reinterpreting black and white photographs from the newspaper.
 
 *The bougey look of the work also becomes kind of comical when you notice a bottle of VB or a TAB sign…*
 

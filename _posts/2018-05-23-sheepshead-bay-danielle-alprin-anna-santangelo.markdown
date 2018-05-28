@@ -2,9 +2,9 @@
 title: Sheepshead Bay
 date: 2018-05-23 15:48:00 +10:00
 categories:
-- WORLD
+- Features
 tags:
-- Places
+- At home
 Main Image: "/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2012%20Sheepshead%20Bay%20C.JPG"
 Credits Text: photographs **[Danielle Alprin](http://daniellealprin.com/)** styling
   **[Anna Santangelo](http://annasantangelo.com/)** with **Johnny Bryan**, **Adrienne

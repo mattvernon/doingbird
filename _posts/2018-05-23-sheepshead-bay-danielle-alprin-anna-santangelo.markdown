@@ -47,4 +47,4 @@ Johnny wears **Gap** top and vintage leather pants from **James Veloria**
 
 ![Danielle Alprin and Anna Santangelo 13 Sheepshead Bay C.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2013%20Sheepshead%20Bay%20C.JPG)
 
-Welcome to Adrienne's house in Sheepshead Bay, which is a  neighbourhood  very close to Brighton Beach, a mostly Russian community towards the end of the train line in Brooklyn. The black and white portrait hanging on the wall is of Adrienne's mum, age 11. Jake and Johnny have been best friends for seven years.
+Welcome to Adrienne's house in Sheepshead Bay. The neighbourhood is very close to Brighton Beach, a mostly Russian community towards the end of the train line in Brooklyn. The black and white portrait hanging on the wall is of Adrienne's mum, age 11. Jake and Johnny have been best friends for seven years.

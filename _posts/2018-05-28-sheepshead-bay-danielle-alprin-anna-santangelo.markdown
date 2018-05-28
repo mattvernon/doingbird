@@ -11,7 +11,7 @@ Credits Text: photographs **[Danielle Alprin](http://daniellealprin.com/)** styl
   **[Anna Santangelo](http://annasantangelo.com/)** with **Johnny Bryan**, **Adrienne
   Herr** and **Jake Muilenburg**
 is featured?: true
-layout: gallery
+layout: post
 ---
 
 ![Danielle Alprin and Anna Santangelo 01 Sheepshead Bay C.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2001%20Sheepshead%20Bay%20C.JPG)

@@ -1,6 +1,11 @@
 ---
 title: Allie Webb in her own words
 date: 2018-05-28 22:27:00 +10:00
+published: false
+categories:
+- Art
+tags:
+- Profile
 ---
 
 ![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)

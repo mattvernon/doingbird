@@ -1,5 +1,5 @@
 ---
-title: Sheepshead Bay
+title: Adrienne's House
 date: 2018-05-28 15:48:00 +10:00
 published: false
 categories:
@@ -13,6 +13,8 @@ Credits Text: photographs **[Danielle Alprin](http://daniellealprin.com/)** styl
 is featured?: true
 layout: post
 ---
+
+Welcome to Adrienne's house in Sheepshead Bay. The neighbourhood is very close to Brighton Beach, a mostly Russian community towards the end of the train line in Brooklyn. The black and white portrait hanging on the wall in some of the photos is of Adrienne's mum when she was 11. Jake and Johnny have been best friends for seven years. Oh, and Danielle (the photographer) is in love with Johnny and Johnny is in love with Danielle.
 
 ![Danielle Alprin and Anna Santangelo 01 Sheepshead Bay C.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2001%20Sheepshead%20Bay%20C.JPG)
 
@@ -57,5 +59,3 @@ Adrienne wears **Hanes** underwear and her own socks
 Johnny wears Hanes briefs, Adrienne wears her own clothes
 
 ![Danielle Alprin and Anna Santangelo 13 Sheepshead Bay C.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2013%20Sheepshead%20Bay%20C.JPG)
-
-Welcome to Adrienne's house in Sheepshead Bay. The neighbourhood is very close to Brighton Beach, a mostly Russian community towards the end of the train line in Brooklyn. The black and white portrait hanging on the wall in some of the photos is of Adrienne's mum when she was 11. Jake and Johnny have been best friends for seven years. Oh, and Danie (the photographer) is in love with Johnny and Johnny is in love with Danie.

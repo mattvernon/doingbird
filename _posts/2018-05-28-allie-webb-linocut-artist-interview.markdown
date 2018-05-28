@@ -1,11 +1,12 @@
 ---
-title: Allie Webb's Linocuts and Everyday Hedonism
+title: Printmaker Allie Webb
 date: 2018-05-28 21:14:00 +10:00
 published: false
 categories:
 - Features
 tags:
 - Interview
+author: Lucy Jones
 ---
 
 ![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
@@ -14,9 +15,9 @@ At first glance, Allie Webb’s linocuts look scenes from an old black and white
 
 Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we wish we could come home to at the end of a big night out. We caught up with her to talk about making intimate, indulgent and funny art.
 
-**Lucy Jones:** *Who are you and what do you “do”?*
+*Who are you and what do you "do"?*
 
-**Allie Webb**: What I ‘do’ isn’t the most straightforward to describe. I’m a linocut printmaker and also the creative director of Swillhouse with my husband, Anton Forte \[owner of Sydney establishments Shady Pines Saloon, The Baxter Inn, Frankie’s Pizza, Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
+What I "do" isn’t the most straightforward to describe. I'm a linocut printmaker and also the creative director of Swillhouse with my husband, Anton Forte \[owner of Sydney establishments Shady Pines Saloon, The Baxter Inn, Frankie’s Pizza, Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
 
 ***When did you first get into art and what drew you to lino prints specifically?***
 

@@ -10,7 +10,7 @@ Credits Text: photographs **[Danielle Alprin](http://daniellealprin.com/)** styl
   **[Anna Santangelo](http://annasantangelo.com/)** with **Johnny Bryan**, **Adrienne
   Herr** and **Jake Muilenburg**
 is featured?: true
-Blurb: At home in Sheepshead Bay, Brooklyn. Photographs by Danielle Alprin
+Blurb: At home in Sheepshead Bay, Brooklyn, NY. Photographs by Danielle Alprin
 layout: post
 ---
 

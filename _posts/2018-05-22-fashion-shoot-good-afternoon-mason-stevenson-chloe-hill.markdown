@@ -13,7 +13,7 @@ Credits Text: photographs **[Mason Stevenson](http://www.masonstevenson.com/)** 
   and **Zac** at **[FiveTwenty](http://www.fivetwentymgt.com/)**, **Indigo** at **[Kult](http://www.kultmodels.com.au/)**,
   **Ruby Campbell** at **[Priscillas](http://www.priscillas.com.au/)**
 is featured?: true
-Blurb: New suits in sunlight. A fashion story by Mason Stevenson and Chloe Hill
+Blurb: New suits in sunlight. Photographs by Mason Stevenson
 layout: gallery
 ---
 

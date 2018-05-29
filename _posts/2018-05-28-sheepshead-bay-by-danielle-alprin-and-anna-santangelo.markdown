@@ -56,6 +56,6 @@ Adrienne wears **Hanes** underwear and her own socks
 
 ![Danielle Alprin and Anna Santangelo 12 Sheepshead Bay C.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2012%20Sheepshead%20Bay%20C.JPG)
 
-Johnny wears Hanes briefs, Adrienne wears her own clothes
+Johnny wears Hanes briefs, Danielle wears her own clothes
 
 ![Danielle Alprin and Anna Santangelo 13 Sheepshead Bay C.JPG](/uploads/Danielle%20Alprin%20and%20Anna%20Santangelo%2013%20Sheepshead%20Bay%20C.JPG)

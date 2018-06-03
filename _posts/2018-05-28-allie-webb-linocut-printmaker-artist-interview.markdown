@@ -38,4 +38,4 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 ![AllieWebb-3-fish-2018.jpg](/uploads/AllieWebb-3-fish-2018.jpg)
 *Untitled* (2018) by Allie Webb
 
-*See more at [alliewebb.com.au](https://www.alliewebb.com.au/), [@alliewebb](https://www.instagram.com/alliewebb/) and [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)*
+*See more at [alliewebb.com.au](https://www.alliewebb.com.au/) and [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)*

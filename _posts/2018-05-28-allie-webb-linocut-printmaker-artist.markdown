@@ -9,9 +9,6 @@ tags:
 author: Lucy Jones
 ---
 
-![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
-*Rose and Fish Dinner* (2018) by Allie Webb
-
 At first glance, Allie Webb’s linocuts look scenes from an old black and white movie. But look a little closer and you’ll start to notice familiar objects—a bottle of VB, a “Peter’s Ice Cream” sign, a box of Redheads matches. This is the everyday stuff that interests the linocut printmaker and restaurateur. “I’m fascinated by interactions between people,” Webb explains. “Our vanity when we get dressed up to go out; flirtatious body language from a couple obviously in the beginnings of a relationship; groups of business men attempting to impress each other with caviar and champagne; the face of boredom as a man educates a woman on the difference between the left bank and right bank of Bordeaux; women gathering for lunch with vapid, nasty gossip.”
 
 Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we wish we could come home to at the end of a big night out. Fittingly, then, she's currently working on an installation for a new restaurant opening in New York later this year – about 30 small prints that will decorate the wooden panelling above the booths. But first, another solo show with Sydney's China Heights Gallery. Here she is, in her own words.
@@ -29,6 +26,9 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 “I guess you could say I’m interested in pretence. Fleeting moments excite me—how every moment is original to that night, lost forever. I want to freeze a moment from my memory.”
 
+![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
+*Rose and Fish Dinner* (2018) by Allie Webb
+
 ![piedimonte.jpg](/uploads/piedimonte.jpg)\
 *Piedemonte* (2018) by Allie Webb
 
@@ -41,4 +41,4 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 ![395x415-Strange-Fruit.jpg](/uploads/395x415-Strange-Fruit.jpg)\
 *Strange Fruit* (2016) by Allie Webb
 
-*See more of Webb's work at [alliewebb.com.au](https://www.alliewebb.com.au/)*
+*See more at [alliewebb.com.au](https://www.alliewebb.com.au/)*

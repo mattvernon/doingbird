@@ -21,7 +21,7 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 “I record the world around me as I see it. When a recognisable logo or object enters the picture it’s there either because it’s part of my daily life or it might just spontaneously interest me. I do enjoy creating still-life scenes. I’ve recently been interested in memento mori and the symbolism of objects. Like candles and wilting flowers, which represent transience. I like to use food in this way: will it be enjoyed, or rot and thrown away? The symbolism of certain brands and products is interesting, like what Campari means to a bartender. I remember in my early twenties in Melbourne, before there were a zillion craft beers, people would often judge each other over a VB or a Carlton Draught, which is ridiculous and hilarious.
 
-“I guess you could say I’m interested in pretence. Fleeting moments excite me—how every moment is original to that night, lost forever. I want to freeze a moment from my memory.”\
+“I guess you could say I’m interested in pretence. Fleeting moments excite me—how every moment is original to that night, lost forever. I want to freeze a moment from my memory.”
 ![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
 *Rose & Fish Dinner* (2018) by Allie Webb
 
@@ -29,13 +29,13 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 *Order No.48 Brunetti* (2018) by Allie Webb
 
-![AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg](/uploads/AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg)\
+![AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg](/uploads/AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg)
 *Caviar* (2018) by Allie Webb
 
-![piedimonte.jpg](/uploads/piedimonte.jpg)\
+![piedimonte.jpg](/uploads/piedimonte.jpg)
 *Piedemonte* (2018) by Allie Webb
 
-![AllieWebb-3-fish-2018.jpg](/uploads/AllieWebb-3-fish-2018.jpg)\
+![AllieWebb-3-fish-2018.jpg](/uploads/AllieWebb-3-fish-2018.jpg)
 *Untitled* (2018) by Allie Webb
 
-*See more at [alliewebb.com.au](https://www.alliewebb.com.au/) and [@alliewebb](https://www.instagram.com/alliewebb/). Buy prints at [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb). *
+*See more at [alliewebb.com.au](https://www.alliewebb.com.au/), [@alliewebb](https://www.instagram.com/alliewebb/) and [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)*

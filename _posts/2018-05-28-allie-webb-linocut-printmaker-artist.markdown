@@ -1,5 +1,5 @@
 ---
-title: Melting Moments and Controlled Excess of Allie Webb's Linocut
+title: Melting Moments with Linocut Printmaker Allie Webb
 date: 2018-05-28 22:27:00 +10:00
 published: false
 categories:

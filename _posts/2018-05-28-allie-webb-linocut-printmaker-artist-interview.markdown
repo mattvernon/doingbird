@@ -6,6 +6,7 @@ categories:
 tags:
 - Artists
 author: Lucy Jones
+Main Image: "/uploads/AllieWebb-3-fish-2018.jpg"
 ---
 
 At first glance, Allie Webb’s linocuts look scenes from an old black and white movie. But look a little closer and you’ll start to notice familiar objects—a bottle of VB, a Peter’s Ice Cream sign, a box of Redheads matches. This is the everyday stuff that interests the linocut printmaker and restaurateur. “I’m fascinated by interactions between people,” Webb explains. “Our vanity when we get dressed up to go out; flirtatious body language from a couple obviously in the beginnings of a relationship; groups of business men attempting to impress each other with caviar and champagne; the face of boredom as a man educates a woman on the difference between the left bank and right bank of Bordeaux; women gathering for lunch with vapid, nasty gossip.”

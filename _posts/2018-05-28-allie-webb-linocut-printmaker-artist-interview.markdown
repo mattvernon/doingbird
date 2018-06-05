@@ -6,7 +6,8 @@ categories:
 tags:
 - Artists
 author: Lucy Jones
-Main Image: "/uploads/AllieWebb-3-fish-2018.jpg"
+Main Image: "/uploads/studio-pic-2.jpg"
+is featured?: true
 ---
 
 ![800x610-Late-Night-Chinese-bc091b.jpg](/uploads/800x610-Late-Night-Chinese-bc091b.jpg)

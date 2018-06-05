@@ -6,7 +6,8 @@ categories:
 tags:
 - Artists
 author: Lucy Jones
-Main Image: "/uploads/AllieWebb-3-fish-2018.jpg"
+Main Image: "/uploads/studio-pic-2.jpg"
+is featured?: true
 ---
 
 ![800x610-Late-Night-Chinese-bc091b.jpg](/uploads/800x610-Late-Night-Chinese-bc091b.jpg)
@@ -15,7 +16,7 @@ Main Image: "/uploads/AllieWebb-3-fish-2018.jpg"
 
 At first glance, Allie Webb’s linocuts look like scenes from an old black and white movie. But look a little closer and you’ll start to notice familiar objects—a bottle of VB, a Peter’s Ice Cream sign, a box of Redheads matches. This is the everyday stuff that interests the linocut printmaker and restaurateur. “I’m fascinated by interactions between people,” Webb explains. “Our vanity when we get dressed up to go out; flirtatious body language from a couple obviously in the beginnings of a relationship; groups of businessmen attempting to impress each other with caviar and Champagne; the face of boredom as a man educates a woman on the difference between the left bank and right bank of Bordeaux; women gathering for lunch with vapid, nasty gossip.”
 
-Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we wish we could eat every night. She’s currently working on a collection of Italian-themed prints for Gran Tivoli, a new restaurant and bar from Swillhouse co-founder Jason Scott and former Icebergs chef Robert Marchetti. The 30-odd linocut prints will decorate the wood panelling above the booths inside the 406 Broome St, New York location, set to open in November 2018. Here she is, in her own words.
+Webb’s work captures these moments, when guards are down and heart rates are up, as well as the meals we'd cook every night if we had any culinary skills whatsoever. She’s currently working on a collection of Italian-themed prints for Gran Tivoli, a new restaurant and bar from Swillhouse co-founder Jason Scott and former Icebergs chef Robert Marchetti. The 30-odd linocut prints will decorate the wood panelling above the booths inside the 406 Broome St, New York location, set to open in November 2018. Here she is, in her own words.
 
 “My name is Allie Webb. What I do isn’t the most straightforward to describe. I’m a linocut printmaker and also the creative director of Swillhouse with my husband Anton Forte \[co-founder of Sydney establishments Shady Pines Saloon, The Baxter Inn, Frankie’s Pizza, Restaurant Hubert\]. My linocuts are all based around hospitality, eating and drinking, which goes hand in hand with the bars and restaurants.
 
@@ -29,22 +30,26 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 ![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
 
-*Rose & Fish Dinner* (2018) by Allie Webb
+**Above:** *Rose & Fish Dinner* (2018) by Allie Webb
 
 ![AllieWebb Order No.48 Brunetti 2018.jpg](/uploads/AllieWebb%20Order%20No.48%20Brunetti%202018.jpg)
 
-*Order No.48 Brunetti* (2018) by Allie Webb
+**Above: ***Order No.48 Brunetti* (2018) by Allie Webb
 
 ![AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg](/uploads/AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg)
 
-*Caviar* (2018) by Allie Webb
+**Above: ***Caviar* (2018) by Allie Webb
 
 ![piedimonte.jpg](/uploads/piedimonte.jpg)
 
-*Piedemonte* (2018) by Allie Webb
+**Above: ***Piedemonte* (2018) by Allie Webb
 
 ![AllieWebb-3-fish-2018.jpg](/uploads/AllieWebb-3-fish-2018.jpg)
 
-*Untitled* (2018) by Allie Webb
+**Above: ***Untitled* (2018) by Allie Webb
+
+![studio-pic-2.jpg](/uploads/studio-pic-2.jpg)
+
+**Above:** Works in progress at Webb's studio
 
 *See more at [alliewebb.com.au](https://www.alliewebb.com.au/) and buy prints at [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)*

@@ -10,7 +10,7 @@ Credits Text: |-
   Behold, this bag is shaped like a sugar cube. It has a detachable  shoulder strap (not pictured) and satin lining. It is the colour of a box of Redheads matches and can store up to five pieces of fruit.
 
   **Miu Miu** bag\
-  Woven faux leather\
+  woven faux leather\
   €950 [BUY](http://bit.ly/2KPkDuL)
 
   photography **Anna Pogossova** styling **Miguel Urbina Tan**

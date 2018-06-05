@@ -9,7 +9,7 @@ Main Image: "/uploads/Doingbird_LV_web.jpg"
 Credits Text: |-
   These monogrammed studs are golden brass, monogrammed, ideal for reflecting the light next time you hit the disco.
 
-  **Louis Vuitton** Studdy Hoop Earrings MM AUD $1090 **\[[BUY](https://bit.ly/2Jjvwoi)\]**
+  **Louis Vuitton** Studdy Hoop Earrings MM AUD $1090 **[BUY](https://bit.ly/2Jjvwoi)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 layout: gallery

@@ -7,7 +7,7 @@ tags:
 - Artists
 author: Lucy Jones
 Main Image: "/uploads/studio-pic-2.jpg"
-is featured?: true
+is featured?: false
 ---
 
 ![800x610-Late-Night-Chinese-bc091b.jpg](/uploads/800x610-Late-Night-Chinese-bc091b.jpg)

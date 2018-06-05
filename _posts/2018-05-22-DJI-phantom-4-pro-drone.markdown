@@ -9,7 +9,7 @@ Main Image: "/uploads/Doingbird_Drone_web.jpg"
 Credits Text: |-
   Beware, this drone can see you! And quite clearly, at that. Capture clear, crisp shots from the sky. Watch it hover and whir – and be sure it is watching you back. This particular model also comes with the revolutionary and unsettling Gesture Mode, allowing you to signal it through body movement alone.
 
-  **DJI** Phantom 4 Pro Drone AUD $2397 **\[[BUY](https://bit.ly/2kSHivj)\]**
+  **DJI** Phantom 4 Pro Drone AUD $2397 **[BUY](https://bit.ly/2kSHivj)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 layout: gallery

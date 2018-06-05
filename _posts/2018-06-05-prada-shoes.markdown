@@ -9,7 +9,7 @@ tags:
 Credits Text: |-
   THREE LINES OF TEXT HERE
 
-  Prada shoe AUD $XXX (pair) **BUY**
+  **Prada** shoe AUD $XXX (pair) **BUY**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 ---

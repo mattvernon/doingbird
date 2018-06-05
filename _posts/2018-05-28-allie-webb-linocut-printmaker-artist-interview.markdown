@@ -7,7 +7,7 @@ tags:
 - Artists
 author: Lucy Jones
 Main Image: "/uploads/studio-pic-2.jpg"
-is featured?: true
+is featured?: false
 ---
 
 ![800x610-Late-Night-Chinese-bc091b.jpg](/uploads/800x610-Late-Night-Chinese-bc091b.jpg)
@@ -34,19 +34,19 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 ![AllieWebb Order No.48 Brunetti 2018.jpg](/uploads/AllieWebb%20Order%20No.48%20Brunetti%202018.jpg)
 
-**Above: ***Order No.48 Brunetti* (2018) by Allie Webb
+**Above:**  *Order No.48 Brunetti* (2018) by Allie Webb
 
 ![AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg](/uploads/AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg)
 
-**Above: ***Caviar* (2018) by Allie Webb
+**Above:**  *Caviar* (2018) by Allie Webb
 
 ![piedimonte.jpg](/uploads/piedimonte.jpg)
 
-**Above: ***Piedemonte* (2018) by Allie Webb
+**Above:**  *Piedemonte* (2018) by Allie Webb
 
 ![AllieWebb-3-fish-2018.jpg](/uploads/AllieWebb-3-fish-2018.jpg)
 
-**Above: ***Untitled* (2018) by Allie Webb
+**Above:**  *Untitled* (2018) by Allie Webb
 
 ![studio-pic-2.jpg](/uploads/studio-pic-2.jpg)
 

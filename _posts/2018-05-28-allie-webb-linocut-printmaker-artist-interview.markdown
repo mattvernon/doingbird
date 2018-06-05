@@ -29,22 +29,26 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 ![AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg](/uploads/AllieWeb-Rose&FishDinner-53x37cm-2018-ChinaHeights.jpg)
 
-*Rose & Fish Dinner* (2018) by Allie Webb
+Above: *Rose & Fish Dinner* (2018) by Allie Webb
 
 ![AllieWebb Order No.48 Brunetti 2018.jpg](/uploads/AllieWebb%20Order%20No.48%20Brunetti%202018.jpg)
 
-*Order No.48 Brunetti* (2018) by Allie Webb
+Above: *Order No.48 Brunetti* (2018) by Allie Webb
 
 ![AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg](/uploads/AllieWeb-Caviar-30x33cm-2018-ChinaHeights-4672b9.jpg)
 
-*Caviar* (2018) by Allie Webb
+Above: *Caviar* (2018) by Allie Webb
 
 ![piedimonte.jpg](/uploads/piedimonte.jpg)
 
-*Piedemonte* (2018) by Allie Webb
+Above: *Piedemonte* (2018) by Allie Webb
 
 ![AllieWebb-3-fish-2018.jpg](/uploads/AllieWebb-3-fish-2018.jpg)
 
-*Untitled* (2018) by Allie Webb
+Above: *Untitled* (2018) by Allie Webb
+
+![studio-pic-2.jpg](/uploads/studio-pic-2.jpg)
+
+Above: works in progress at Webb's studio
 
 *See more at [alliewebb.com.au](https://www.alliewebb.com.au/) and buy prints at [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)*

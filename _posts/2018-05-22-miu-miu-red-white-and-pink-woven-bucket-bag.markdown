@@ -6,14 +6,11 @@ categories:
 tags:
 - Accessories
 Main Image: "/uploads/Doingbird_MiuMiu_web.jpg"
-Credits Text: |-
-  Behold, this bag is shaped like a sugar cube. It has a detachable  shoulder strap (not pictured) and satin lining. It is the colour of a box of Redheads matches and can store up to five pieces of fruit.
-
-  **Miu Miu** bag
-  woven faux leather
-  €950 [BUY](http://bit.ly/2KPkDuL)
-
-  photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
+Credits Text: "Behold, this bag is shaped like a sugar cube. It has a detachable  shoulder
+  strap (not pictured) and satin lining. It is the colour of a box of Redheads matches
+  and can store up to five pieces of fruit.\n\n**Miu Miu** woven faux leather bag
+  €950 \n\n**[BUY](http://bit.ly/2KPkDuL)**\n\nphotography **[Anna Pogossova](https://annapogossova.allyou.net/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**"
 layout: gallery
 ---
 

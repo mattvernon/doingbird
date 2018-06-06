@@ -1,5 +1,5 @@
 ---
-title: Deep Cuts and Mundane Magic with Printmaker Allie Webb
+title: Mundane Magic with Printmaker Allie Webb
 date: 2018-05-28 22:27:00 +10:00
 categories:
 - Features
@@ -12,7 +12,7 @@ is featured?: false
 
 ![800x610-Late-Night-Chinese-bc091b.jpg](/uploads/800x610-Late-Night-Chinese-bc091b.jpg)
 
-**Above:** *Late Night Chinese* (2017) by Allie Webb, from her 'After Dark' exhibition at China Heights Gallery.
+**Above:** *Late Night Chinese* (2017) by Allie Webb
 
 At first glance, Allie Webb’s linocuts look like scenes from an old black and white movie. But look again and you’ll start to notice familiar objects—a bottle of VB, a Peter’s Ice Cream sign, a box of Redheads matches. This is the everyday stuff that interests the linocut printmaker and restaurateur. “I’m fascinated by interactions between people,” Webb explains. “Our vanity when we get dressed up to go out; flirtatious body language from a couple obviously in the beginnings of a relationship; groups of businessmen attempting to impress each other with caviar and Champagne; the face of boredom as a man educates a woman on the difference between the left bank and right bank of Bordeaux; women gathering for lunch with vapid, nasty gossip.”
 
@@ -52,4 +52,4 @@ Webb’s work captures these moments, when guards are down and heart rates are u
 
 **Above:** Works in progress at Webb's studio
 
-*See more at [alliewebb.com.au](https://www.alliewebb.com.au/) and buy prints at [China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)*
+*See more at **[alliewebb.com.au](https://www.alliewebb.com.au/)** and buy prints at **[China Heights Gallery](http://shop.chinaheights.com/category/allie-webb)***

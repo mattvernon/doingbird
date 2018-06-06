@@ -9,7 +9,13 @@ tags:
 Credits Text: |-
   THREE LINES OF TEXT HERE
 
-  **Prada** shoe AUD $XXX (pair) **BUY**
+  Prada SS18 crossection\
+  Black, red and grey mesh\
+  Pull tabs, designer emblems, rubber trims, leather linings, rubber soles\
+  Velcro® fastenings\
+  Come with dust bag
+
+  **Prada**  sneaker AUD $1040 (pair) **[BUY](https://bit.ly/2sJ4YWh)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 ---

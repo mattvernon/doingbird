@@ -1,5 +1,5 @@
 ---
-title: Mundane Magic with Printmaker Allie Webb
+title: The Mundane is Magic with Printmaker Allie Webb
 date: 2018-05-28 22:27:00 +10:00
 categories:
 - Features

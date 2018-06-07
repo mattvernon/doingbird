@@ -9,7 +9,7 @@ tags:
 author: Lucy Jones
 Main Image: "/uploads/Doingbird%20Madeleine%20Madden-3.jpg"
 Credits Text: |-
-  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyee Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle**
+  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyye Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle**
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true
@@ -49,6 +49,8 @@ Now that Madden’s got this mainstream role under her belt, the work is rolling
 
 ![Doingbird Madeleine Madden-2.jpg](/uploads/Doingbird%20Madeleine%20Madden-2.jpg)
 
-“It's kind of more of a fantasy thing. We’re mermaids but we don’t have tails,” she explains. "So it's kind of like *True Blood*, but mermaids,” she adds with a laugh (although I’m very serious when I tell her that it sounds incredible). Another of Madden’s projects—ABC drama *Mystery Road*—premiered this week, and on top of all that, she just scored a role in the film adaptation of Peter Goldsworthy novel *Maestro* alongside *Fear the Walking Dead*’s Frank Dillane.
+“It's kind of more of a fantasy thing. We’re mermaids but we don’t have tails,” she explains. “So it's kind of like *True Blood*, but mermaids,” she adds with a laugh (although I’m very serious when I tell her that it sounds incredible). Another of Madden’s projects—ABC drama *Mystery Road*—recently premiered, and on top of all that, she just scored a role in the film adaptation of Peter Goldsworthy novel *Maestro* alongside *Fear the Walking Dead*’s Frank Dillane.
 
-When I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” So, in the words of RuPaul herself, we say: shantay, you stay.
+“I've kind of always been a bit of a performer,” she tells me. “At the age of eight I was dancing on top of a phone box at Mardi Gras. So it's always been there... Creative people are fun. It's nice not to take yourself so seriously, you know?”
+
+Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” So, in the words of RuPaul herself, we say to Madden: shantay, you stay. To this, in the words of RuPaul herself, we say: shantay, you stay.

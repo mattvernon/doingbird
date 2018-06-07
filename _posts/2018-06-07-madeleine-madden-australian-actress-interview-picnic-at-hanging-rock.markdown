@@ -12,8 +12,8 @@ Credits Text: |-
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true
-Blurb: The Picnic at Hanging Rock star talks about her love of RuPaul's Drag Race
-  and the importance of building community.
+Blurb: The Picnic at Hanging Rock star on her love of RuPaul's Drag Race and the importance
+  of building community. Photographs by Max Doyle
 layout: gallery
 ---
 

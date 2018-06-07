@@ -7,9 +7,17 @@ categories:
 tags:
 - Interviews
 author: Lucy Jones
+Main Image: "/uploads/Doingbird%20Madeleine%20Madden-3.jpg"
+Credits Text: |-
+  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyee Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle**
+
+  Madeleine Madden wears **Prada** throughout
 is featured?: true
 Blurb: 
+layout: gallery
 ---
+
+![Doingbird Madeleine Madden-3.jpg](/uploads/Doingbird%20Madeleine%20Madden-3.jpg)
 
 You can learn a lot about a person from their favourite television show. Madeleine Madden’s is *RuPaul’s Drag Race*—a ridiculous, beautiful, important, and fucking hilarious mess of a show. “A lot of people on that show have experienced extreme trauma and are turning that into art, and turning themselves into art,” Madden says. “That's something that I love to see, and hope to do as well.”
 
@@ -19,9 +27,13 @@ Whether she knows it or not, Madden has been doing this for years. The healing p
 
 These were the lessons whispered into Madden’s ear while she bobbed up and down on her grandfather’s knee at the age of four. She describes her entire family as “inspiring, vocal and different” but says it was her grandfather, Aboriginal rights activist Charles Perkins, who influenced her most growing up. “I have very distinct memories of sitting on his lap while he'd be on the phone with someone in Canberra—abusing them or swearing at them, just going off on them, then he'd hang up and then be that family man again,” she recalls. “Everyone in my family is really passionate in their own field, and I think there is this kind of legacy, which I feel like I need to uphold.”
 
+![Doingbird Madeleine Madden-4.jpg](/uploads/Doingbird%20Madeleine%20Madden-4.jpg)
+
 Taking on issues of inequality and Indigenous representation is kind of like taking over the family business for Madden. The company doesn’t trade in goods or services, it trades in conversations—the rewarding and challenging chats that we need to have about our country’s past, present and future. “People want to work together,” Madden explains. “So just even having those conversations can bring up an ugly side, but \[they’re\] what we need in order for things to change.”
 
 Madden definitely has the gift of the gab. Ten minutes after I’d met her, I was telling her my whole life story as if she were a long lost friend. She probably didn’t really want to hear about the logistics of my upcoming move or how many hours I’d spent scrubbing my bathroom that day, but she listened intently anyway. It’s because she has the rare ability to build genuine connections with complete strangers—and this is what makes her such a great actor. For her, acting is all about highlighting the similarities between people, rather than their differences, which something that a show like *Redfern Now* did so well.
+
+![Doingbird Madeleine Madden-1.jpg](/uploads/Doingbird%20Madeleine%20Madden-1.jpg)
 
 “I knew that it was going to be a show that would really make a difference in the Indigenous community, but also in Australia, because it kind of showed that we're all very similar. In a way, we all have the same issues,” she explains. “I think it was just a really honest portrayal of Aboriginal people and I wanted to be a part of a landmark series like that..”
 
@@ -34,6 +46,8 @@ The show digs down into the mystery of the disappeared girls. A story that some 
 “\[It’s about\] exploring your identity, exploring your sexuality in a time which where you were so…oppressed,” she explains. “I think it's a really important time as well to have a show like *Picnic*. We're really joining that genre of strong female protagonist stories like *The Handmaid's Tale*.”
 
 Now that Madden’s got this mainstream role under her belt, the work is rolling in hot and fast. “I have four shows coming up this year. So it's been a pretty mental time,” she tells me. When we speak, she’s in the middle of shooting *Tidelands*, Netflix Australia’s first original production.
+
+![Doingbird Madeleine Madden-2.jpg](/uploads/Doingbird%20Madeleine%20Madden-2.jpg)
 
 “It's kind of more of a fantasy thing. We’re mermaids but we don’t have tails,” she explains. "So it's kind of like *True Blood*, but mermaids,” she adds with a laugh (although I’m very serious when I tell her that it sounds incredible). Another of Madden’s projects—ABC drama *Mystery Road*—premiered this week, and on top of all that, she just scored a role in the film adaptation of Peter Goldsworthy novel *Maestro* alongside *Fear the Walking Dead*’s Frank Dillane.
 

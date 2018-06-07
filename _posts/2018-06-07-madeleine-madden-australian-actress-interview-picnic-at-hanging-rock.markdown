@@ -1,5 +1,5 @@
 ---
-title: Madeleine Madden is the Thoughtful Performer The World Needs Right Now
+title: Madeleine Madden on Building Positivity
 date: 2018-06-07 17:31:00 +10:00
 categories:
 - Features

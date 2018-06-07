@@ -35,7 +35,7 @@ Madden definitely has the gift of the gab. Ten minutes after I’d met her, I wa
 
 ![Doingbird Madeleine Madden-1.jpg](/uploads/Doingbird%20Madeleine%20Madden-1.jpg)
 
-“I knew that it was going to be a show that would really make a difference in the Indigenous community, but also in Australia, because it kind of showed that we're all very similar. In a way, we all have the same issues,” she explains. “I think it was just a really honest portrayal of Aboriginal people and I wanted to be a part of a landmark series like that..”
+“I knew that it was going to be a show that would really make a difference in the Indigenous community, but also in Australia, because it kind of showed that we're all very similar. In a way, we all have the same issues,” she explains. “I think it was just a really honest portrayal of Aboriginal people and I wanted to be a part of a landmark series like that.”
 
 It makes total sense when Madden adds that her favourite acting job was Australia’s first Indigenous teen drama *Ready For This*. This show allowed Madden to bond with her audience more than any other she’s worked on. “I know how much it meant to young Aboriginal people and non-Aboriginal people,” she says. “I would have little girls of all different backgrounds coming up to me and that's because I feel like they're looking at someone who looks like them, or who is discriminated against or whatever.”
 

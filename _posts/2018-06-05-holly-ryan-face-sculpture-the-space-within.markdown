@@ -9,13 +9,9 @@ tags:
 Credits Text: |-
   THREE LINES OF TEXT HERE
 
-  **Holly Ryan** sculpture\
-  *The space within *(2018)\
-  hebel, raw steel, cypress pine \
-  35 (H) x 20 (W) x 14.5 (D) cm\
-  AUD $2200 [BUY](jericocontemporary.com)
+  **Holly Ryan** *The space within* (2018) hebel, raw steel, cypress pine, 35 (H) x 20 (W) x 14.5 (D) cm AUD $2200 **[BUY](jericocontemporary.com)**
 
-  photography **Anna Pogossova** styling **Miguel Urbina Tan**
+  photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 ---
 
 ![Doingbird_HollyRyan_web.jpg](/uploads/Doingbird_HollyRyan_web.jpg)

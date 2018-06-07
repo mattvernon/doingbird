@@ -1,5 +1,5 @@
 ---
-title: Madeleine Madden on Building Positivity
+title: Madeleine Madden's Favourite TV Show is RuPaul's Drag Race
 date: 2018-06-07 17:31:00 +10:00
 categories:
 - Features
@@ -12,8 +12,8 @@ Credits Text: |-
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true
-Blurb: Wears Prada, talks about RuPaul's Drag Race and the importance of building
-  community. Photographs by Max Doyle
+Blurb: The actress talks about RuPaul's Drag Race and the importance of building community.
+  Photographs by Max Doyle
 layout: gallery
 ---
 

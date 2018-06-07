@@ -12,8 +12,8 @@ Credits Text: |-
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true
-Blurb: The actress talks about RuPaul's Drag Race and the importance of building community.
-  Photographs by Max Doyle
+Blurb: The young actor talks about her love for RuPaul's Drag Race and the importance
+  of building community.
 layout: gallery
 ---
 

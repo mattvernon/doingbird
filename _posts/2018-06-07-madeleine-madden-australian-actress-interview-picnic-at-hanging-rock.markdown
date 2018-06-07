@@ -1,5 +1,5 @@
 ---
-title: Madeleine Madden's Favourite TV Show is RuPaul's Drag Race
+title: Madeleine Madden by Max Doyle and Chloe Rose
 date: 2018-06-07 17:31:00 +10:00
 categories:
 - Features

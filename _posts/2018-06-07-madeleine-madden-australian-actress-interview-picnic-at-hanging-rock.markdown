@@ -1,5 +1,5 @@
 ---
-title: Madeleine Madden by Max Doyle and Chloe Rose
+title: Madeleine Madden, Actor
 date: 2018-06-07 17:31:00 +10:00
 categories:
 - Features

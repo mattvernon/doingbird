@@ -1,7 +1,6 @@
 ---
-title: Madeleine Madden
+title: Madeleine Madden is the Thoughtful Performer The World Needs Right Now
 date: 2018-06-07 17:31:00 +10:00
-published: false
 categories:
 - Features
 tags:
@@ -13,7 +12,8 @@ Credits Text: |-
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true
-Blurb: 
+Blurb: Wears Prada, talks about RuPaul's Drag Race and the importance of building
+  community. Photographs by Max Doyle
 layout: gallery
 ---
 
@@ -39,7 +39,7 @@ Madden definitely has the gift of the gab. Ten minutes after I’d met her, I wa
 
 It makes total sense when Madden adds that her favourite acting job was Australia’s first Indigenous teen drama *Ready For This*. This show allowed Madden to bond with her audience more than any other she’s worked on. “I know how much it meant to young Aboriginal people and non-Aboriginal people,” she says. “I would have little girls of all different backgrounds coming up to me and that's because I feel like they're looking at someone who looks like them, or who is discriminated against or whatever.”
 
-When I meet Madden, she’s preparing to fly to LA for the premiere of *Picnic at Hanging Rock*. Madden plays the bookish Marion Quade in the television adaptation of the iconic Australian film. She tells me she was shocked when she got an audition request. “I was like, ‘What the fuck?’ I was really interested to see what was gonna happen with this character and where I could take her, because she's not a character that is talked about or celebrated in history, even though I do believe she is a woman before her time.”
+When I meet Madden, she’s preparing to fly to LA for the premiere of *Picnic at Hanging Rock*. Madden plays the bookish Marion Quade in the television adaptation of the iconic Australian film. She tells me she was shocked when she got an audition request. “I was like, ‘What the fuck?’ I was really interested to see what was going to happen with this character and where I could take her, because she's not a character that is talked about or celebrated in history, even though I do believe she is a woman before her time.”
 
 The show digs down into the mystery of the disappeared girls. A story that some conspiracy theorists still swear is true to this day. Where Peter Weir kept the viewer at a distance —capturing the complexity of the ‘mysterious’ female experience from a definitively male perspective—the series takes you inside the lives and minds of complex women; it explores what Madden aptly describes as the “storm that is adolescence”.
 
@@ -53,4 +53,4 @@ Now that Madden’s got this mainstream role under her belt, the work is rolling
 
 “I've kind of always been a bit of a performer,” she tells me. “At the age of eight I was dancing on top of a phone box at Mardi Gras. So it's always been there... Creative people are fun. It's nice not to take yourself so seriously, you know?”
 
-Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” So, in the words of RuPaul herself, we say to Madden: shantay, you stay. To this, in the words of RuPaul herself, we say: shantay, you stay.
+Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” With an attitude like that, we're sure RuPaul would tell Madden: shantay, you stay.

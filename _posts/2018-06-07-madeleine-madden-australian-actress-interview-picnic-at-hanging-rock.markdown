@@ -8,7 +8,7 @@ tags:
 author: Lucy Jones
 Main Image: "/uploads/Doingbird%20Madeleine%20Madden-3.jpg"
 Credits Text: |-
-  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyye Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle **words **Lucy Jones **
+  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyye Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle** words **Lucy Jones**
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true

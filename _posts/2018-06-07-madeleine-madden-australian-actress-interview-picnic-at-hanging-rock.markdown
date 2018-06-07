@@ -1,5 +1,5 @@
 ---
-title: Madeleine Madden by Max Doyle and Chloe Rose
+title: Madeleine Madden, Actor
 date: 2018-06-07 17:31:00 +10:00
 categories:
 - Features
@@ -8,12 +8,12 @@ tags:
 author: Lucy Jones
 Main Image: "/uploads/Doingbird%20Madeleine%20Madden-3.jpg"
 Credits Text: |-
-  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyye Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle**
+  photographs **Max Doyle** styling **Chloe Rose** at **[Company1](http://company1.com.au/)** hair **Kyye Reed** at **[Work Agency](http://www.workagency.com.au/)** make-up **Rosie Neyle **words **Lucy Jones **
 
   Madeleine Madden wears **Prada** throughout
 is featured?: true
-Blurb: The actress talks about RuPaul's Drag Race and the importance of building community.
-  Photographs by Max Doyle
+Blurb: The Picnic at Hanging Rock star on her love of RuPaul's Drag Race and the importance
+  of building community. Photographs by Max Doyle
 layout: gallery
 ---
 
@@ -21,7 +21,7 @@ layout: gallery
 
 You can learn a lot about a person from their favourite television show. Madeleine Madden’s is *RuPaul’s Drag Race*—a ridiculous, beautiful, important, and fucking hilarious mess of a show. “A lot of people on that show have experienced extreme trauma and are turning that into art, and turning themselves into art,” Madden says. “That's something that I love to see, and hope to do as well.”
 
-Whether she knows it or not, Madden has been doing this for years. The healing power of storytelling is the invisible driving force behind her acting and her activism. At the typically awkward age of 13, when the biggest challenge facing most kids is figuring out which flavour of Impulse body spray represented their personality best, Madden asked the entire Nation to close the gap between Indigenous and non-Indigenous people. Her message was broadcast on free to air television by GenerationOne as part of a campaign to achieve parity for Indigenous Australians.
+Whether she knows it or not, Madden has been doing this for years. The healing power of storytelling is the invisible driving force behind her acting and her activism. At the typically awkward age of 13, when the biggest challenge facing most kids is figuring out which flavour of Impulse body spray represents their personality best, Madden asked the entire Nation to close the gap between Indigenous and non-Indigenous people. Her message was broadcast on free to air television by GenerationOne as part of a campaign to achieve parity for Indigenous Australians.
 
 “At such a young age I became this politicised kid,” she explains. “I've always been taught that if you have a platform you should generate positivity with that platform... especially coming from a group that's a minority and, I feel like, can be demonised or misheard. I think it's really important for me to be a representation of Indigenous people and also women of colour.”
 
@@ -35,7 +35,7 @@ Madden definitely has the gift of the gab. Ten minutes after I’d met her, I wa
 
 ![Doingbird Madeleine Madden-1.jpg](/uploads/Doingbird%20Madeleine%20Madden-1.jpg)
 
-“I knew that it was going to be a show that would really make a difference in the Indigenous community, but also in Australia, because it kind of showed that we're all very similar. In a way, we all have the same issues,” she explains. “I think it was just a really honest portrayal of Aboriginal people and I wanted to be a part of a landmark series like that..”
+“I knew that it was going to be a show that would really make a difference in the Indigenous community, but also in Australia, because it kind of showed that we're all very similar. In a way, we all have the same issues,” she explains. “I think it was just a really honest portrayal of Aboriginal people and I wanted to be a part of a landmark series like that.”
 
 It makes total sense when Madden adds that her favourite acting job was Australia’s first Indigenous teen drama *Ready For This*. This show allowed Madden to bond with her audience more than any other she’s worked on. “I know how much it meant to young Aboriginal people and non-Aboriginal people,” she says. “I would have little girls of all different backgrounds coming up to me and that's because I feel like they're looking at someone who looks like them, or who is discriminated against or whatever.”
 
@@ -53,4 +53,4 @@ Now that Madden’s got this mainstream role under her belt, the work is rolling
 
 “I've kind of always been a bit of a performer,” she tells me. “At the age of eight I was dancing on top of a phone box at Mardi Gras. So it's always been there... Creative people are fun. It's nice not to take yourself so seriously, you know?”
 
-Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” With an attitude like that, we're sure RuPaul would tell Madden: shantay, you stay.
+Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” With an attitude like that, I'm sure RuPaul would tell Madden: shantay, you stay.

@@ -12,6 +12,7 @@ Credits Text: photographs **Ben Butcher** hair (portrait)  **Cain Ireland** make
   (portrait) **Rosie Neyle** interview  **Emily Royal**
 is featured?: true
 Blurb: 
+layout: gallery
 ---
 
 ![Ainsley_Hansen_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Ainsley_Hansen_doingbird_FW_DesignerPortraits_comb.jpg)

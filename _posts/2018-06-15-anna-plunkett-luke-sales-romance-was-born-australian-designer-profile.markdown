@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Designers
-author: Emily Royal
+author: Maddy Woon
 ---
 
+![Anna_Plunkett_Luke_Sales_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Anna_Plunkett_Luke_Sales_doingbird_FW_DesignerPortraits_comb.jpg)

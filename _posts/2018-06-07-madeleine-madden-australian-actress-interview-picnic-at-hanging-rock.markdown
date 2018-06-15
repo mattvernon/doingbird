@@ -43,7 +43,7 @@ When I meet Madden, she’s preparing to fly to LA for the premiere of *Picnic a
 
 The show digs down into the mystery of the disappeared girls. A story that some conspiracy theorists still swear is true to this day. Where Peter Weir kept the viewer at a distance —capturing the complexity of the ‘mysterious’ female experience from a definitively male perspective—the series takes you inside the lives and minds of complex women; it explores what Madden aptly describes as the “storm that is adolescence”.
 
-“\[It’s about\] exploring your identity, exploring your sexuality in a time which where you were so…oppressed,” she explains. “I think it's a really important time as well to have a show like *Picnic*. We're really joining that genre of strong female protagonist stories like *The Handmaid's Tale*.”
+“\[It’s about\] exploring your identity, exploring your sexuality in a time where you were so…oppressed,” she explains. “I think it's a really important time as well to have a show like *Picnic*. We're really joining that genre of strong female protagonist stories like *The Handmaid's Tale*.”
 
 Now that Madden’s got this mainstream role under her belt, the work is rolling in hot and fast. “I have four shows coming up this year. So it's been a pretty mental time,” she tells me. When we speak, she’s in the middle of shooting *Tidelands*, Netflix Australia’s first original production.
 
@@ -53,4 +53,4 @@ Now that Madden’s got this mainstream role under her belt, the work is rolling
 
 “I've kind of always been a bit of a performer,” she tells me. “At the age of eight I was dancing on top of a phone box at Mardi Gras. So it's always been there... Creative people are fun. It's nice not to take yourself so seriously, you know?”
 
-Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” To that, I'm sure RuPaul would tell Madden: shantay, you stay.
+Fun might be what makes her want to perform, but when I ask what drives her to keep creating, Madden says it comes back to community. “I just have that kind of drive to just represent and stand up for the community. I guess that's really important to me. That's what really drives me,” she says. “If I know that I'm doing something that will help people and hopefully change lives, or perceptions, that's what gets me going.” To that, I'm sure RuPaul would say: shantay, you stay.

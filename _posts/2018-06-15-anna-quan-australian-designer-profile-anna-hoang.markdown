@@ -21,7 +21,7 @@ Blurb:
 layout: gallery
 ---
 
-![Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg)
+![Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg](/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg)
 
 Intro goes here.
 

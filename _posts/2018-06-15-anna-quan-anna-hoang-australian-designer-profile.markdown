@@ -1,5 +1,5 @@
 ---
-title: Anna Hoang
+title: Designer Anna Hoang is Fashion's Dark Horse
 date: 2018-06-15 14:35:00 +10:00
 published: false
 categories:

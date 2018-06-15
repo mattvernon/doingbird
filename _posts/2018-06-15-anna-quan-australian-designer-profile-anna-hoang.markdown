@@ -8,8 +8,8 @@ tags:
 - Designers
 author: Emily Royal
 Main Image: "/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
-Credits Text: photographs **Ben Butcher** hair (Anna Hoang)  **Cain Ireland** make-up
-  (Anna Hoang) **Rosie Neyle**
+Credits Text: photographs **Ben Butcher** hair (portrait)  **Cain Ireland** make-up
+  (portrait) **Rosie Neyle**
 is featured?: true
 Blurb: 
 layout: gallery
@@ -37,8 +37,4 @@ Intro goes here.
 
 ![02_doingbird_FW_DesignerPortraits.jpg](/uploads/02_doingbird_FW_DesignerPortraits.jpg)
 
-Photographs by **Ben Butcher**
-
-Hair (Anna Hoang) by **Cain Ireland**
-
-Make-up (Anna Hoang) by **Rosie Neyle**
+Above: Models wearing Anna Quan backstage at the label's Mercedes-Benz Fashion Week Australia 2018 presentation at Carriageworks in Sydney.

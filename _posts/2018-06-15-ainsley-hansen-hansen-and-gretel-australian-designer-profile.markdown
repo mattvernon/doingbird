@@ -8,8 +8,8 @@ tags:
 - Designers
 author: Emily Royal
 Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
-Credits Text: photographs **Ben Butcher **hair (Ainsley Hansen)  **Cain Ireland **make-up
-  (Ainsley Hansen) by **Rosie Neyle**
+Credits Text: photographs **Ben Butcher** hair (portrait)  **Cain Ireland** make-up
+  (portrait) **Rosie Neyle**
 is featured?: true
 Blurb: 
 ---
@@ -33,3 +33,5 @@ Intro goes here.
 “We really try to keep to our timelines. Things obviously don’t go to plan all the time, so you have to be flexible with what you do, but we really work to our deadlines, it’s an important thing for us. It’s something that I’ve always worked with, and working in a faster retail trade too, you kind of have to be on the ball – you can’t get left behind. We’re not doing couture or anything like that. It’s something that I’ve always tried to be on top of. I don’t work well when I don’t have time. I always give myself a deadline of a week before, you definitely need that breathing space.”
 
 ![Hansen_and_Gretel_01_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_01_doingbird_FW_DesignerPortraits.jpg)![Hansen_and_Gretel_02_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_02_doingbird_FW_DesignerPortraits.jpg)![Hansen_and_Gretel_03_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_03_doingbird_FW_DesignerPortraits.jpg)
+
+Above: Models wearing Hansen & Gretel backstage at the label's Mercedes-Benz Fashion Week Australia 2018 presentation at Carriageworks in Sydney.

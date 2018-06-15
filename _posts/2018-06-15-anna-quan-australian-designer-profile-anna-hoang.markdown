@@ -33,6 +33,8 @@ Intro goes here.
 
 ![02_doingbird_FW_DesignerPortraits.jpg](/uploads/02_doingbird_FW_DesignerPortraits.jpg)
 
-Photographs by **Ben Butcher**\
-Hair (Anna Hoang) by **Cain Ireland**\
+Photographs by **Ben Butcher**
+
+Hair (Anna Hoang) by **Cain Ireland**
+
 Make-up (Anna Hoang) by **Rosie Neyle**

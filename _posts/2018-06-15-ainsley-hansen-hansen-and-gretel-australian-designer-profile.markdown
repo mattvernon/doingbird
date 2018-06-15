@@ -15,7 +15,7 @@ Blurb:
 layout: gallery
 ---
 
-![Ainsley_Hansen_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Ainsley_Hansen_doingbird_FW_DesignerPortraits_comb.jpg)
+![Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg](/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg)
 
 Intro goes here.
 

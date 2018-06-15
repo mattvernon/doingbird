@@ -8,8 +8,11 @@ tags:
 - Designers
 author: Emily Royal
 Main Image: "/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
+Credits Text: photographs **Ben Butcher **hair (Anna Hoang)  **Cain Ireland **make-up
+  (Anna Hoang) by **Rosie Neyle**
 is featured?: true
 Blurb: 
+layout: gallery
 ---
 
 ![Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg)

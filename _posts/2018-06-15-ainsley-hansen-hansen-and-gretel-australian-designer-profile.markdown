@@ -35,4 +35,4 @@ Intro goes here.
 
 ![Hansen_and_Gretel_01_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_01_doingbird_FW_DesignerPortraits.jpg)![Hansen_and_Gretel_02_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_02_doingbird_FW_DesignerPortraits.jpg)![Hansen_and_Gretel_03_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_03_doingbird_FW_DesignerPortraits.jpg)
 
-Above: Models wearing Hansen & Gretel backstage at the label's Mercedes-Benz Fashion Week Australia 2018 presentation at Carriageworks in Sydney.
+Above: Models wear Hansen & Gretel backstage at the label's Mercedes-Benz Fashion Week Australia Resort 2019 presentation at Carriageworks in Sydney, May 2018.

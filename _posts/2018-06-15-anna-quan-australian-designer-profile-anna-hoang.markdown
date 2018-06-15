@@ -7,15 +7,16 @@ categories:
 tags:
 - Designers
 author: Emily Royal
+Main Image: "/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
+is featured?: true
+Blurb: 
 ---
 
 ![Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg)
 
 Intro goes here.
 
-“Years ago, before I did fashion, I did a combined degree in journalism at UTS, and a law degree at the same time. I had finished high school, and I kind of wanted to do fashion—like I really wanted to, deep down, I think, if I’m really honest, I wanted to, but I just didn’t see how that was going to be possible.
-
-“I couldn’t draw, I couldn’t sew… but I just had this wanting, this yearning for it, and I was like, well how do I do that? But there was no plan. I wasn’t particularly art inclined, but I’ve always gravitated towards clothes and stores and magazines. But that doesn’t mean you can be a fashion designer. It sounds a bit silly, but for me it was very out of reach.
+“Years ago, before I did fashion, I did a combined degree in journalism at UTS, and a law degree at the same time. I had finished high school, and I kind of wanted to do fashion—like I really wanted to, deep down, I think, if I’m really honest, I wanted to, but I just didn’t see how that was going to be possible. I couldn’t draw, I couldn’t sew… but I just had this wanting, this yearning for it, and I was like, well how do I do that? But there was no plan. I wasn’t particularly art inclined, but I’ve always gravitated towards clothes and stores and magazines. But that doesn’t mean you can be a fashion designer... For me it was very out of reach.
 
 “I did some book research for a law professor at his law firm, and I think after a stint of that I realised I really couldn’t sit at a desk and look at a computer all day. I mean everyone was nice enough but I just realised, this is not really for me.
 

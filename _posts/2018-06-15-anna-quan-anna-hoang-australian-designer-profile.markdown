@@ -11,6 +11,8 @@ author: Emily Royal
 
 ![Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg)
 
+Intro goes here.
+
 “Years ago, before I did fashion, I did a combined degree in journalism at UTS, and a law degree at the same time. I had finished high school, and I kind of wanted to do fashion—like I really wanted to, deep down, I think, if I’m really honest, I wanted to, but I just didn’t see how that was going to be possible.
 
 “I couldn’t draw, I couldn’t sew… but I just had this wanting, this yearning for it, and I was like, well how do I do that? But there was no plan. I wasn’t particularly art inclined, but I’ve always gravitated towards clothes and stores and magazines. But that doesn’t mean you can be a fashion designer. It sounds a bit silly, but for me it was very out of reach.
@@ -30,3 +32,9 @@ author: Emily Royal
 ![03_doingbird_FW_DesignerPortraits.jpg](/uploads/03_doingbird_FW_DesignerPortraits.jpg)
 
 ![02_doingbird_FW_DesignerPortraits.jpg](/uploads/02_doingbird_FW_DesignerPortraits.jpg)
+
+Photographs by **Ben Butcher**
+
+Hair (Anna Hoang) by **Cain Ireland**
+
+Make-up (Anna Hoang) by **Rosie Neyle**

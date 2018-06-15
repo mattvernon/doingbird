@@ -21,7 +21,7 @@ Blurb:
 layout: gallery
 ---
 
-![Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg](/uploads/Anna_Hoang_doingbird_FW_DesignerPortraits_comb.jpg)
+![Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg](/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg)
 
 Intro goes here.
 
@@ -43,4 +43,4 @@ Intro goes here.
 
 ![02_doingbird_FW_DesignerPortraits.jpg](/uploads/02_doingbird_FW_DesignerPortraits.jpg)
 
-Above: Models wearing Anna Quan backstage at the label's Mercedes-Benz Fashion Week Australia 2018 presentation at Carriageworks in Sydney.
+Above: Models wear Anna Quan backstage at the label's Mercedes-Benz Fashion Week Australia 2018 presentation at Carriageworks in Sydney.

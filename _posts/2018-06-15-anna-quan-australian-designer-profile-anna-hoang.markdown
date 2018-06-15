@@ -1,5 +1,5 @@
 ---
-title: Anna Hoang on... Overcoming Imposter Syndrome and Following Her Dream
+title: Anna Hoang Overcame Imposter Syndrome and Followed Her Dream
 date: 2018-06-15 14:35:00 +10:00
 published: false
 categories:

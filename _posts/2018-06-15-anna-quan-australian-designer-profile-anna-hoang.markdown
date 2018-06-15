@@ -37,4 +37,4 @@ Intro goes here.
 
 ![02_doingbird_FW_DesignerPortraits.jpg](/uploads/02_doingbird_FW_DesignerPortraits.jpg)
 
-Above: Models wear **[Anna Quan](https://annaquan.com/)** backstage at the label's Mercedes-Benz Fashion Week Australia 2018 presentation at Carriageworks in Sydney.
+Above: Models wear **[Anna Quan](https://annaquan.com/)** backstage at the label's Mercedes-Benz Fashion Week Australia Resort 2019 presentation at Carriageworks in Sydney, May 2018.

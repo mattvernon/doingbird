@@ -30,7 +30,7 @@ Get to know the unassuming, whip-smart designer at the helm of her own label. He
 
 “I’m not a sales person. I’ll do it if I have to—obviously I know my product best because I developed it, and we do the pattern-making in the studio, and we do everything here—but at the same time I think I should just focus on being able to do even stronger collections the next season and having more time to think. I think it’s just having more time to think, not about selling stuff, but having more time to think creatively...
 
-“I feel like things move so fast. I can see why Raf Simons left Dior, in the sense that he was saying he didn’t have time to think... I read about Karl Lagerfeld saying, ‘Oh don’t complain about it, you’re supposed to make it look effortless.’ But with me, I have to produce your own collections and produce them so quickly... If I had a huge team, like a whole atelier of like ten seamstresses, that would be great. But even then, you need to provide the creative direction. You can’t just make whatever.”
+“I feel like things move so fast. I can see why Raf Simons left Dior, in the sense that he was saying he didn’t have time to think... I read about Karl Lagerfeld saying, ‘Oh don’t complain about it, you’re supposed to make it look effortless.’ But with me, I have to produce my own collections and produce them so quickly... If I had a huge team, a whole atelier of like ten seamstresses, that would be great. But even then, you need to provide the creative direction. You can’t just make whatever.”
 
 ![05_doingbird_FW_DesignerPortraits.jpg](/uploads/05_doingbird_FW_DesignerPortraits.jpg)
 

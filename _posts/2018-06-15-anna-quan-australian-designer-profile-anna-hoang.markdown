@@ -16,7 +16,7 @@ layout: gallery
 
 ![Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg](/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg)
 
-Get to know the unassuming, whip-smart designer at the helm of her own label. Here is Anna Hoang in her own  words.
+*Get to know the unassuming, whip-smart designer at the helm of her own label. Here is Anna Hoang in her own  words.*
 
 “Years ago, before I did fashion, I did a combined degree in journalism and law at UTS \[University of Technology Sydney\]. I had finished high school, and I kind of wanted to do fashion—like I really wanted to, deep down, but I just didn’t see how that was going to be possible. I couldn’t draw, I couldn’t sew… but I just had this wanting, this yearning for it. But there was no plan. I wasn’t particularly art inclined, but I’ve always gravitated towards clothes and stores and magazines. But that doesn’t mean you can be a fashion designer... For me it was very out of reach.
 

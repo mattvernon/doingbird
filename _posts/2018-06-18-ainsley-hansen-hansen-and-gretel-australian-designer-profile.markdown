@@ -8,8 +8,8 @@ tags:
 - Get to know
 author: Emily Royal
 Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
-Credits Text: photographs **Ben Butcher** hair (portrait)  **Cain Ireland** make-up
-  (portrait) **Rosie Neyle**
+Credits Text: photographs **Ben Butcher** hair (portrait) **Taylor James Redman**
+  make-up (portrait) **Rosie Neyle**
 is featured?: true
 Blurb: 
 layout: gallery

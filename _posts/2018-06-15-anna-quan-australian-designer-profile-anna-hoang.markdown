@@ -36,4 +36,4 @@ Get to know the unassuming, whip-smart designer at the helm of her own label. He
 
 ![03_doingbird_FW_DesignerPortraits.jpg](/uploads/03_doingbird_FW_DesignerPortraits.jpg)
 
-Above: Models wear **[Anna Quan](https://annaquan.com/)** backstage at the label's Mercedes-Benz Fashion Week Australia Resort 2019 presentation at Carriageworks in Sydney, May 2018.
+Above: Models backstage at **[Anna Quan](https://annaquan.com/)**’s Mercedes-Benz Fashion Week Australia Resort 2019 presentation at Carriageworks in Sydney, May 2018.

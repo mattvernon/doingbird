@@ -1,5 +1,5 @@
 ---
-title: Anna Hoang is Australian Fashion's Quiet Achiever
+title: Anna Hoang
 date: 2018-06-15 14:35:00 +10:00
 published: false
 categories:

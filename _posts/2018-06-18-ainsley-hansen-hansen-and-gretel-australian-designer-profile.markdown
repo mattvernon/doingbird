@@ -1,11 +1,10 @@
 ---
-title: Ainsley Hansen
-date: 2018-06-15 14:37:00 +10:00
-published: false
+title: Ainsley Hansen, Designer @ Hansen & Gretel
+date: 2018-06-18 16:37:00 +10:00
 categories:
 - Features
 tags:
-- Designers
+- As told to
 author: Emily Royal
 Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Ben Butcher** hair (portrait)  **Cain Ireland** make-up

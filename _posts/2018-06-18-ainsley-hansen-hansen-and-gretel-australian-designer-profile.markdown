@@ -5,7 +5,7 @@ published: false
 categories:
 - Features
 tags:
-- As told to
+- Get to know
 author: Emily Royal
 Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Ben Butcher** hair (portrait)  **Cain Ireland** make-up
@@ -17,7 +17,7 @@ layout: gallery
 
 ![Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg](/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg)
 
-Get to know the business-minded creative behind one of Australia's fastest-growing labels. Here is designer Ainsley Hansen, in her own words.
+*Get to know the business-minded creative behind one of Australia's fastest-growing labels. Here is designer Ainsley Hansen, in her own words.*
 
 “For me, Hansen & Gretel is a community. I’ve never wanted it to be unattainable, I wanted it to be something that everyone could find a piece in the collection and wear it, from your mum, to your sister… That’s been important for us—we like to be able to show all different types of women. We’ve just started this thing on our social media called ‘Gretel Girls’; I’m hoping to introduce more diversity through that as well.
 

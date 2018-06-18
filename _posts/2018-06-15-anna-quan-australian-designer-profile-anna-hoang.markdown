@@ -1,5 +1,5 @@
 ---
-title: Anna Hoang, Designer @ Anna Quan
+title: Anna Hoang, Designer at Anna Quan
 date: 2018-06-15 14:35:00 +10:00
 categories:
 - Features

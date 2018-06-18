@@ -1,5 +1,5 @@
 ---
-title: Christopher Esber
+title: Christopher Esber, Designer
 date: 2018-06-15 14:17:00 +10:00
 published: false
 categories:

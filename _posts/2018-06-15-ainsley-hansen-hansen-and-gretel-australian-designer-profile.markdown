@@ -19,9 +19,9 @@ layout: gallery
 
 Intro goes here.
 
-“For me, Hansen & Gretel is a community. Ever since I started I didn’t want it to be unattainable, I wanted it to be something that everyone could find a piece in the collection and wear it, from your mum, to your sister… That’s been important for us—we like to be able to show all different types of women. We’ve just started this thing on our social media called ‘Gretel Girls’; I’m hoping to introduce more diversity through that as well.
+“For me, Hansen & Gretel is a community. I’ve never wanted it to be unattainable, I wanted it to be something that everyone could find a piece in the collection and wear it, from your mum, to your sister… That’s been important for us—we like to be able to show all different types of women. We’ve just started this thing on our social media called ‘Gretel Girls’; I’m hoping to introduce more diversity through that as well.
 
-“I would definitely introduce a more elevated section to our collection, just doing fashion week last year when we launched our hand-crocheted pieces that were upward of $700 and they sold really well, so there’s definitely a market for it that we would like to open ourselves to, but in saying that too, we will never, I can’t see us ever being unattainable. 
+“I would definitely introduce a more elevated section to our collection, just doing fashion week last year when we launched our hand-crocheted pieces that were upward of $700 and they sold really well, so there’s definitely a market for it that we would like to open ourselves to, but in saying that too, we will never, I can’t see us ever being unattainable.
 
 “I never was fussed about fashion week. I wasn’t sure what I would get out of it... I didn’t have the capital to be able to fund something like that, and I always like to do things properly, so it was a lot to do with cash flow and a lot to do with time. I was doing everything from design to pattern making to cutting to being on the retail floor, I didn’t have a team behind me. So that’s been a highlight for me, just being able to employ people, and have a sounding board and a great team to support it.
 

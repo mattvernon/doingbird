@@ -16,7 +16,7 @@ layout: gallery
 
 ![Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg](/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg)
 
-Get to know the unassuming, whip-smart designer at the helm of her own label. Here is Anna Hoang, in her own  words.
+Get to know the unassuming, whip-smart designer at the helm of her own label. Here is Anna Hoang in her own  words.
 
 “Years ago, before I did fashion, I did a combined degree in journalism and law at UTS \[University of Technology Sydney\]. I had finished high school, and I kind of wanted to do fashion—like I really wanted to, deep down, but I just didn’t see how that was going to be possible. I couldn’t draw, I couldn’t sew… but I just had this wanting, this yearning for it. But there was no plan. I wasn’t particularly art inclined, but I’ve always gravitated towards clothes and stores and magazines. But that doesn’t mean you can be a fashion designer... For me it was very out of reach.
 
@@ -30,7 +30,7 @@ Get to know the unassuming, whip-smart designer at the helm of her own label. He
 
 “I’m not a sales person. I’ll do it if I have to—obviously I know my product best because I developed it, and we do the pattern-making in the studio, and we do everything here—but at the same time I think I should just focus on being able to do even stronger collections the next season and having more time to think. I think it’s just having more time to think, not about selling stuff, but having more time to think creatively...
 
-“I feel like things move so fast. I can see why Raf Simons left Dior, in the sense that he was saying he didn’t have time to think... I read about Karl Lagerfeld saying, ‘Oh don’t complain about it, you’re supposed to make it look effortless.’ But with me, I have to produce my own collections and produce them so quickly... If I had a huge team, a whole atelier of like ten seamstresses, that would be great. But even then, you need to provide the creative direction. You can’t just make whatever.”
+“I feel like things move so fast. I can see why Raf Simons left Dior, in the sense that he was saying he didn’t have time to think... I read about Karl Lagerfeld saying, ‘Oh don’t complain about it, you’re supposed to make it look effortless.’ But with me, I have to produce my own collections, and produce them so quickly... If I had a huge team, a whole atelier of like ten seamstresses, that would be great. But even then you need to provide the creative direction. You can’t just make whatever.”
 
 ![05_doingbird_FW_DesignerPortraits.jpg](/uploads/05_doingbird_FW_DesignerPortraits.jpg)
 

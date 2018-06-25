@@ -10,6 +10,8 @@ tags:
 
 ![Ash in the air, after the fire, 2018, Lucy O'Doherty.jpg](/uploads/Ash%20in%20the%20air,%20after%20the%20fire,%202018,%20Lucy%20O'Doherty.jpg)
 
+Above: *Ash in the air, after the fire* (2018) by Lucy O'Doherty
+
 Lucy O’Doherty paints empty spaces that vibrate with life. In one work, a half-finished glass of milk and a piece of chocolate cake sit next to a vacant armchair, waiting for their owner to walk back into the frame and gobble them up. In another, the lights from a row of abandoned houses fill a silent suburban street as if all the townspeople have just rushed off in a hurry, forgetting to shut their doors and switch off the lights. Like a memory of a night out or a beach house that you visited every year as a child, these scenes are a bit fuzzy around the edges.
 
 “I’m not concerned with an accurate representation of a certain place. Instead, I’m interested in trying to capture what I remember it to have felt like, or the impression it left on me. I’ll alter the colours, lighting and composition to try and achieve that,” O’Doherty explains. “I’ve enjoyed hinting at an unknown phenomenon that’s upset the banality of domestic spaces and caused a swift abandonment, leaving it up to the viewer to speculate as to what might have happened moments before.”

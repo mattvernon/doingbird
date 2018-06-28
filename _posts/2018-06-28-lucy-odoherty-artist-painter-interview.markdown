@@ -1,11 +1,13 @@
 ---
 title: Lucy O'Doherty, Painter
-date: 2018-06-25 21:58:00 +10:00
-published: false
+date: 2018-06-28 16:58:00 +10:00
 categories:
 - Features
 tags:
 - Interviews
+Main Image: "/uploads/Ash%20in%20the%20air,%20after%20the%20fire,%202018,%20Lucy%20O'Doherty.jpg"
+is featured?: true
+Blurb: Her exhibition 'Silent Skies' opens Friday 29 June at China Heights Gallery.
 ---
 
 ![Ash in the air, after the fire, 2018, Lucy O'Doherty.jpg](/uploads/Ash%20in%20the%20air,%20after%20the%20fire,%202018,%20Lucy%20O'Doherty.jpg)
@@ -43,3 +45,33 @@ O’Doherty has just returned home from a residency in Paris. The trip came cour
 “In my solo exhibition at China Heights Gallery I’ll be showing oil paintings and pastels based on places and particular atmospheres I experienced while travelling overseas for half of last year. A lot of the paintings are larger in scale than I’ve previously done because I wanted them to feel immersive, as if you could step into them. They’re a mixture of remote dwellings, misty seascapes and a few conspicuously empty restaurants.
 
 “\[I’m also\] potentially making a publication with China Heights gallery to document my exhibition ‘Silent Skies’. It will be my first art publication and a nice record of a particularly important exhibition for me personally. I’ll also be having a joint exhibition with photographer Harry Culy in October at a new gallery called Millers Obrien in Wellington. I’m excited to show with Harry, because I’m a huge fan of his work, and I’m also excited to visit New Zealand and do some exploring there. I’m looking forward to getting the chance to travel again. I do think it had a valuable impact on my work recently so I would like to continue seeing how different surroundings will push my work down a different track.”
+
+![Lounge car limbo on the Caledonian Sleeper, 2018, Lucy O'Doherty.jpg](/uploads/Lounge%20car%20limbo%20on%20the%20Caledonian%20Sleeper,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above: ***Lounge car limbo on the Caledonian Sleeper* (2018) by Lucy O'Doherty
+
+![No reservations, 2018, Lucy O'Doherty.jpg](/uploads/No%20reservations,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above:** *No reservations *(2018) by Lucy O'Doherty
+
+![Sketch Vacancy, 2018, Lucy O'Doherty.jpg](/uploads/Sketch%20Vacancy,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above: ***Sketch Vacancy* (2018) by Lucy O'Doherty
+
+![Cottages on the Isle of Skye, hues of heather, 2018, Lucy O'Doherty.jpg](/uploads/Cottages%20on%20the%20Isle%20of%20Skye,%20hues%20of%20heather,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above:** *Cottages on the Isle of Skye, hues of heather *(2018) by Lucy O'Doherty
+
+![Lake Como Haze, 2018, Lucy O'Doherty.jpg](/uploads/Lake%20Como%20Haze,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above:** *Lake Como Haze* (2018) by Lucy O'Doherty
+
+![The ruins at the end of your street, 2018, Lucy O'Doherty.jpg](/uploads/The%20ruins%20at%20the%20end%20of%20your%20street,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above: ***The ruins at the end of your street* (2018) by Lucy O'Doherty
+
+![Oasis shack, Calanques national park, 2018, Lucy O'Doherty.jpg](/uploads/Oasis%20shack,%20Calanques%20national%20park,%202018,%20Lucy%20O'Doherty.jpg)
+
+**Above:** *Oasis shack, Calanques national park* (2018) by Lucy O'Doherty
+
+Check out Lucy O'Doherty's 'Silent Skies' exhibition at **[China Heights Gallery](http://shop.chinaheights.com/category/lucy-o-doherty)**, Level 3, 16-28 Foster St, Surry Hills, Sydney, from Friday 29 June, 2018. Buy prints online at **[chinaheights.com](http://shop.chinaheights.com/category/lucy-o-doherty)**

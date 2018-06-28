@@ -18,7 +18,7 @@ Lucy O’Doherty paints empty spaces that vibrate with life. In one work, a half
 
 “I’m not concerned with an accurate representation of a certain place. Instead, I’m interested in trying to capture what I remember it to have felt like, or the impression it left on me. I’ll alter the colours, lighting and composition to try and achieve that,” O’Doherty explains. “I’ve enjoyed hinting at an unknown phenomenon that’s upset the banality of domestic spaces and caused a swift abandonment, leaving it up to the viewer to speculate as to what might have happened moments before.”
 
-O’Doherty’s childhood home was filled with images of houses that her father Christopher O'Doherty (aka Reg bloody Mombassa!) painted. Her dad’s subject matter, artistic style, and sense of humour have had a huge impact on O’Doherty.
+O’Doherty’s childhood home was filled with images of houses painted by her father Christopher O'Doherty (the artist also known as Reg bloody Mombassa). Her dad’s subject matter, artistic style, and sense of humour have had a huge impact on O’Doherty.
 
 “\[My dad\] was (and still is) extremely generous, encouraging and always had a good sense of humour,” she tells me. “What I make is very influenced by him because I learnt how to draw and paint by mimicking him from a young age. In terms of art practice I’ve been influenced by his work ethic. He’s always had his studio at home so growing up I got to witness how dedicated you have to be when you want to pursue art as a career.”
 

@@ -24,7 +24,7 @@ O’Doherty’s childhood home was filled with images of houses painted by her f
 
 O’Doherty has just returned home from a residency in Paris. The trip came courtesy of the prestigious Brett Whitely Scholarship that O’Doherty won last year with a painting of a beach shack. When we talk, she is working a series called ‘Silent Skies’ about the “atmospheres” she encountered on her travels for an exhibition that opens at [China Heights Gallery](https://chinaheights.com/) on Friday, 29 June. Get to know her, in her own words.
 
-“My name is Lucy O’Doherty, I am an artist from Sydney who makes mostly oil paintings and pastel drawings of structures, recently vacated interiors and landscapes.
+“My name is Lucy O’Doherty. I am an artist from Sydney who makes mostly oil paintings and pastel drawings of structures, recently vacated interiors and landscapes.
 
 “I grew up in Glebe in Sydney. At the moment I’m back in the same house I grew up in staying with my parents while I’m between houses. My parents’ house is full of smaller houses, like a building version of a Babushka doll. I grew up looking at houses in artworks on the walls by my dad, his brother and other artists, as well as having doll houses my Grandpa built that were very beautifully made with handcrafted furniture. Being brought up surrounded by images of houses, as well as playing with model houses, encouraged my fascination with and sentimental attachment to architecture.
 

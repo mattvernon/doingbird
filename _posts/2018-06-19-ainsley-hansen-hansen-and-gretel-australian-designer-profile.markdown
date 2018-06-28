@@ -10,7 +10,8 @@ Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Benjamin Butcher** hair (portrait) **Taylor James Redman**
   make-up (portrait) **Rosie Neyle**
 is featured?: true
-Blurb: 
+Blurb: Get to know the business-minded creative behind one of Australia's fastest-growing
+  labels.
 layout: gallery
 ---
 
@@ -32,4 +33,4 @@ layout: gallery
 
 ![Hansen_and_Gretel_01_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_01_doingbird_FW_DesignerPortraits.jpg)![Hansen_and_Gretel_02_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_02_doingbird_FW_DesignerPortraits.jpg)![Hansen_and_Gretel_03_doingbird_FW_DesignerPortraits.jpg](/uploads/Hansen_and_Gretel_03_doingbird_FW_DesignerPortraits.jpg)
 
-Above: Models wear **[Hansen & Gretel](https://hansenandgretel.com/)** backstage at the label's Mercedes-Benz Fashion Week Australia Resort 2019 presentation at Carriageworks in Sydney, May 2018.
+**Above:** Models wear **[Hansen & Gretel](https://hansenandgretel.com/)** backstage at the label's Mercedes-Benz Fashion Week Australia Resort 2019 presentation at Carriageworks in Sydney, May 2018.

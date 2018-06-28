@@ -7,7 +7,7 @@ tags:
 - Get to know
 author: Emily Royal
 Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
-Credits Text: photographs **Ben Butcher** hair (portrait) **Taylor James Redman**
+Credits Text: photographs **Benjamin Butcher** hair (portrait) **Taylor James Redman**
   make-up (portrait) **Rosie Neyle**
 is featured?: true
 Blurb: 
@@ -22,7 +22,7 @@ layout: gallery
 
 “I never was fussed about fashion week. I wasn’t sure what I would get out of it... I didn’t have the capital to be able to fund something like that, and I always like to do things properly, so it was a lot to do with cash flow and a lot to do with time. I was doing everything from design to pattern making to cutting to being on the retail floor, I didn’t have a team behind me. That’s been a highlight for me, just being able to employ people, and have a sounding board and a great team.
 
-“Opening a pop-up store two years after starting the brand was really me just deciding to take responsibility for what I created. I was like, ‘Okay, I’ve got to move some stock, I’ve got to really get to know my customer,’ so I opened up a pop-up store and it worked really well. That fuelled me to open up my own retail store... and I think that allowed me to really understand who our consumer was. I was talking to them every day, so it was pretty awesome. I think I grew a lot as a designer from that as well. That was definitely a turning point for us.
+“Opening a pop-up store two years after starting the brand was really me just deciding to take responsibility for what I created. I was like, ‘Okay, I’ve got to move some stock, I’ve got to really get to know my customer,’ so I opened up the pop-up store and it worked really well. And that fuelled me to open up my own retail store... and I think that allowed me to really understand who our consumer was. I was talking to them every day, so it was pretty awesome. I think I grew a lot as a designer from that as well. That was definitely a turning point for us.
 
 “We we’re bending over backwards last year for all of our other retailers, and now that we’ve actually got a voice and a following it’s great to be able to keep it more to ourselves as well. Its so hard to make that call as well, to really back yourself.
 

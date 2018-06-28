@@ -8,4 +8,18 @@ tags:
 - Designers
 ---
 
-![Christopher_Esber_doingbird_FW_DesignerPortraits_comb.jpg](/api/v2/sites/5ab8508049a3a2481fa7cbd4/source/_uploads/Christopher_Esber_doingbird_FW_DesignerPortraits_comb.jpg?download)
+![Christopher_Esber_doingbird_FW_DesignerPortraits-bcab97.jpg](/uploads/Christopher_Esber_doingbird_FW_DesignerPortraits-bcab97.jpg)
+
+Intro goes here.
+
+As told to goes here.
+
+![07_doingbird_FW_DesignerPortraits.jpg](/uploads/07_doingbird_FW_DesignerPortraits.jpg)
+
+![04_doingbird_FW_DesignerPortraits.jpg](/uploads/04_doingbird_FW_DesignerPortraits.jpg)
+
+![06_doingbird_FW_DesignerPortraits.jpg](/uploads/06_doingbird_FW_DesignerPortraits.jpg)
+
+![02_doingbird_FW_DesignerPortraits-27dca8.jpg](/uploads/02_doingbird_FW_DesignerPortraits-27dca8.jpg)
+
+Caption goes here.

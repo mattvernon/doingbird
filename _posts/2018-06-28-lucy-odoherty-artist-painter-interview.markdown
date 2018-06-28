@@ -20,7 +20,7 @@ Lucy O’Doherty paints empty spaces that vibrate with life. In one work, a half
 
 O’Doherty’s childhood home was filled with images of houses painted by her father Christopher O'Doherty (the artist also known as Reg bloody Mombassa). Her dad’s subject matter, artistic style, and sense of humour have had a huge impact on O’Doherty.
 
-“\[My dad\] was, and still is ,extremely generous, encouraging and always had a good sense of humour,” she tells me. “What I make is very influenced by him because I learnt how to draw and paint by mimicking him from a young age. In terms of art practice I’ve been influenced by his work ethic. He’s always had his studio at home so growing up I got to witness how dedicated you have to be when you want to pursue art as a career.”
+“\[My dad\] was, and still is, extremely generous, encouraging and always had a good sense of humour,” she tells me. “What I make is very influenced by him because I learnt how to draw and paint by mimicking him from a young age. In terms of art practice I’ve been influenced by his work ethic. He’s always had his studio at home so growing up I got to witness how dedicated you have to be when you want to pursue art as a career.”
 
 O’Doherty has just returned home from a residency in Paris. The trip came courtesy of the prestigious Brett Whitely Scholarship that O’Doherty won last year with a painting of a beach shack. When we talk, she is working a series called ‘Silent Skies’ about the “atmospheres” she encountered on her travels for an exhibition that opens at [China Heights Gallery](https://chinaheights.com/) on Friday, 29 June. Get to know her, in her own words.
 

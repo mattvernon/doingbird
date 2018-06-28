@@ -5,7 +5,7 @@ categories:
 - Features
 tags:
 - Interviews
-Main Image: "/uploads/Lucy_ODoherty.jpg"
+Main Image: "/uploads/Lucy_ODoherty_.jpg"
 is featured?: true
 Blurb: Her exhibition 'Silent Skies' opens Friday 29 June at China Heights Gallery.
 ---

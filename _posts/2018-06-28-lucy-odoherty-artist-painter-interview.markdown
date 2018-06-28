@@ -1,5 +1,5 @@
 ---
-title: Lucy O'Doherty, Painter
+title: Lucy O'Doherty, Artist
 date: 2018-06-28 16:58:00 +10:00
 categories:
 - Features

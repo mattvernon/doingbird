@@ -48,19 +48,19 @@ O’Doherty has just returned home from a residency in Paris. The trip came cour
 
 ![Lounge car limbo on the Caledonian Sleeper, 2018, Lucy O'Doherty.jpg](/uploads/Lounge%20car%20limbo%20on%20the%20Caledonian%20Sleeper,%202018,%20Lucy%20O'Doherty.jpg)
 
-**Above: ***Lounge car limbo on the Caledonian Sleeper* (2018) by Lucy O'Doherty
+**Above:** *Lounge car limbo on the Caledonian Sleeper* (2018) by Lucy O'Doherty
 
 ![No reservations, 2018, Lucy O'Doherty.jpg](/uploads/No%20reservations,%202018,%20Lucy%20O'Doherty.jpg)
 
-**Above:** *No reservations *(2018) by Lucy O'Doherty
+**Above:** *No reservations* (2018) by Lucy O'Doherty
 
 ![Sketch Vacancy, 2018, Lucy O'Doherty.jpg](/uploads/Sketch%20Vacancy,%202018,%20Lucy%20O'Doherty.jpg)
 
-**Above: ***Sketch Vacancy* (2018) by Lucy O'Doherty
+**Above:** *Sketch Vacancy* (2018) by Lucy O'Doherty
 
 ![Cottages on the Isle of Skye, hues of heather, 2018, Lucy O'Doherty.jpg](/uploads/Cottages%20on%20the%20Isle%20of%20Skye,%20hues%20of%20heather,%202018,%20Lucy%20O'Doherty.jpg)
 
-**Above:** *Cottages on the Isle of Skye, hues of heather *(2018) by Lucy O'Doherty
+**Above:** *Cottages on the Isle of Skye, hues of heather* (2018) by Lucy O'Doherty
 
 ![Lake Como Haze, 2018, Lucy O'Doherty.jpg](/uploads/Lake%20Como%20Haze,%202018,%20Lucy%20O'Doherty.jpg)
 
@@ -68,7 +68,7 @@ O’Doherty has just returned home from a residency in Paris. The trip came cour
 
 ![The ruins at the end of your street, 2018, Lucy O'Doherty.jpg](/uploads/The%20ruins%20at%20the%20end%20of%20your%20street,%202018,%20Lucy%20O'Doherty.jpg)
 
-**Above: ***The ruins at the end of your street* (2018) by Lucy O'Doherty
+**Above:** *The ruins at the end of your street* (2018) by Lucy O'Doherty
 
 ![Oasis shack, Calanques national park, 2018, Lucy O'Doherty.jpg](/uploads/Oasis%20shack,%20Calanques%20national%20park,%202018,%20Lucy%20O'Doherty.jpg)
 

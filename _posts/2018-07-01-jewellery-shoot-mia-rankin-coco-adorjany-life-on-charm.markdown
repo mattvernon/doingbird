@@ -15,7 +15,7 @@ Credits Text: photographs **[Mia Rankin](https://www.mia-rankin.com/)** styling 
   and **Sarah** at **[Vivien's](http://www.viviensmodels.com.au/)** styling assistant
   **Ryan Cullen** make-up assistant **Rosie Neyle**
 is featured?: true
-Blurb: A jewellery story by Mia Rankin and Coco Adorjany.
+Blurb: Jewels, by Mia Rankin and Coco Adorjany.
 layout: gallery
 ---
 

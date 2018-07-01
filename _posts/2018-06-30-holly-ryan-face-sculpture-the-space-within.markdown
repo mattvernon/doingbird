@@ -5,6 +5,7 @@ categories:
 - Objects
 tags:
 - Artworks
+Main Image: "/uploads/Doingbird_HollyRyan_web.jpg"
 Credits Text: |-
   Stony-faced and yet full of emotion. But how?
 

@@ -1,7 +1,6 @@
 ---
 title: '1.5: Prada shoes'
 date: 2018-06-30 18:12:00 +10:00
-published: false
 categories:
 - Objects
 tags:

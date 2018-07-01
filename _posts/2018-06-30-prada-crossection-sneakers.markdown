@@ -12,6 +12,7 @@ Credits Text: |-
   **Prada** sneaker AUD $1040 (pair) **[BUY](https://store.prada.com/en/pradaau/man/man-shoes/4O3219-1OUG-F0002)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
+layout: gallery
 ---
 
 ![Doingbird_Prada_web.jpg](/uploads/Doingbird_Prada_web.jpg)

@@ -6,11 +6,12 @@ categories:
 - Objects
 tags:
 - Footwear
-Credits Text: "A pinch of sporty spice \n\nPrada SS18 crossection\\\nBlack, red and
-  grey mesh\\\nPull tabs, designer emblems, rubber trims, leather linings, rubber
-  soles\\\nVelcro® fastenings\\\nCome with dust bag\n\n**Prada** sneaker AUD $1040
-  (pair) **[BUY](https://bit.ly/2sJ4YWh)**\n\nphotography **[Anna Pogossova](https://annapogossova.allyou.net/)**
-  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**"
+Credits Text: |-
+  Dual velcro straps finish this collection of rubber, leather and mesh. Wear a pair on your feet for quick getaways and comfort in style.
+
+  **Prada** sneaker AUD $1040 (pair) **[BUY](https://store.prada.com/en/pradaau/man/man-shoes/4O3219-1OUG-F0002)**
+
+  photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 ---
 
 ![Doingbird_Prada_web.jpg](/uploads/Doingbird_Prada_web.jpg)

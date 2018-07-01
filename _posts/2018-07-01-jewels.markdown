@@ -1,0 +1,18 @@
+---
+title: Jewels
+date: 2018-07-01 12:39:00 +10:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Credits Text: photographs **Mia Rankin** styling **Coco Adorjany** hair **Taylor James
+  Redman** using **Tigi Australia** and **GHD** make-up **Gillian Campbell** at **The
+  Artist Group** using **MAC Cosmetics** and **Jurlique** models **Bernie** and **Richie**
+  at **IMG**, **Ajok** and **Sarah** at **Vivien's** make-up assistant **Rosie Neyle**
+  styling assistant **Ryan Cullen**
+is featured?: true
+layout: gallery
+---
+
+![1_DoingBird_MiaRankin_CocoAdorjany0011.jpg](/uploads/1_DoingBird_MiaRankin_CocoAdorjany0011.jpg)

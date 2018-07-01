@@ -1,7 +1,6 @@
 ---
 title: Life on Charm
 date: 2018-07-01 12:39:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

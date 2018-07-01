@@ -7,7 +7,7 @@ tags:
 - Jewellery
 Main Image: "/uploads/Doingbird_LV_web.jpg"
 Credits Text: |-
-  These monogrammed studs are golden brass, monogrammed, ideal for reflecting the light next time you hit the disco.
+  These monogrammed studs are golden brass and ideal for reflecting the light next time you hit the disco.
 
   **Louis Vuitton** Studdy Hoop Earrings MM AUD $1090 **[BUY](https://bit.ly/2Jjvwoi)**
 

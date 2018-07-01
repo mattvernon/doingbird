@@ -1,5 +1,5 @@
 ---
-title: '1.5: Prada shoes'
+title: '1.5: Prada sneaker'
 date: 2018-06-30 18:12:00 +10:00
 categories:
 - Objects

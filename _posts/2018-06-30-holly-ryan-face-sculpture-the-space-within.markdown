@@ -1,13 +1,12 @@
 ---
 title: '1.4: Holly Ryan sculpture'
-date: 2018-06-05 17:52:00 +10:00
-published: false
+date: 2018-06-30 17:52:00 +10:00
 categories:
 - Objects
 tags:
 - Artworks
 Credits Text: |-
-  THREE LINES OF TEXT HERE
+  Stony-faced and yet full of emotion. But how?
 
   **Holly Ryan** *The space within* (2018) hebel, raw steel, cypress pine, 35 (H) x 20 (W) x 14.5 (D) cm AUD $2200 **[BUY](jericocontemporary.com)**
 

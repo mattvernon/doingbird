@@ -5,6 +5,7 @@ categories:
 - Objects
 tags:
 - Fragrance
+Main Image: "/uploads/Doingbird_CDG_web.jpg"
 Credits Text: |-
   Cool to the touch, this perfume bottle is made from real concrete. Inside the bottle? A woody scent that is highly appropriate for anyone who hates nonsense.
 

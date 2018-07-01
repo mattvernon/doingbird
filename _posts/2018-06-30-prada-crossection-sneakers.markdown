@@ -6,11 +6,12 @@ categories:
 tags:
 - Footwear
 Main Image: "/uploads/Doingbird_Prada_web.jpg"
-Credits Text: "Dual velcro straps finish this collection of rubber, leather and mesh.
-  Wear a pair on your feet for quick getaways. \n\n**Prada** sneaker AUD $1040 (pair)
-  **[BUY](https://store.prada.com/en/pradaau/man/man-shoes/4O3219-1OUG-F0002)**\n\nphotography
-  **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina
-  Tan](https://www.instagram.com/miguelurbinatan)**"
+Credits Text: |-
+  Dual velcro straps, rubber, leather and mesh. Wear a pair on your feet for quick getaways.
+
+  **Prada** sneaker AUD $1040 (pair) **[BUY](https://store.prada.com/en/pradaau/man/man-shoes/4O3219-1OUG-F0002)**
+
+  photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 Field name: 
 layout: gallery
 ---

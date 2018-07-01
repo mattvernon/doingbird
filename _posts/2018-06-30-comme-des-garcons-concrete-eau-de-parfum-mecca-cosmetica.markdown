@@ -12,6 +12,7 @@ Credits Text: |-
   **Comme des Garçons** concrete eau de parfum AUD $244 **[BUY](https://bit.ly/2J7R0bs)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
+layout: gallery
 ---
 
 ![Doingbird_CDG_web.jpg](/uploads/Doingbird_CDG_web.jpg)

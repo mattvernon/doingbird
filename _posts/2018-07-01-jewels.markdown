@@ -6,13 +6,15 @@ categories:
 - Fashion
 tags:
 - Shoot
-Credits Text: photographs **Mia Rankin** styling **Coco Adorjany** hair **Taylor James
-  Redman** using **Tigi Australia** and **GHD** make-up **Gillian Campbell** at **The
-  Artist Group** using **MAC Cosmetics** and **Jurlique** models **Bernie** and **Richie**
-  at **IMG**, **Ajok** and **Sarah** at **Vivien's** make-up assistant **Rosie Neyle**
-  styling assistant **Ryan Cullen**
+Credits Text: photographs **[Mia Rankin](https://www.mia-rankin.com/)** styling **[Coco
+  Adorjany](https://www.instagram.com/cocoadorjany/?hl=en)** hair **[Taylor James
+  Redman](https://www.instagram.com/taylorjameshair/?hl=en)** using **Tigi Australia**
+  and **GHD** make-up **[Gillian Campbell](http://www.gilliancampbell.tv/)** at **[The
+  Artist Group](https://artist-group.net/)** using **MAC Cosmetics** and **Jurlique**
+  models **Bernie** and **Richie** at **[IMG](https://www.imgmodels.com/)**, **Ajok**
+  and **Sarah** at **[Vivien's](http://www.viviensmodels.com.au/)** make-up assistant
+  **Rosie Neyle** styling assistant **Ryan Cullen**
 is featured?: true
 layout: gallery
 ---
 
-![1_DoingBird_MiaRankin_CocoAdorjany0011.jpg](/uploads/1_DoingBird_MiaRankin_CocoAdorjany0011.jpg)

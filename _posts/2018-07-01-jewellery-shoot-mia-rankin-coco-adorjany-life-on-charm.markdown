@@ -20,14 +20,13 @@ Blurb: Pearls for the girls. Photographs by Mia Rankin
 layout: gallery
 ---
 
-
 ![1_DoingBird_MiaRankin_CocoAdorjany0011.jpg](/uploads/1_DoingBird_MiaRankin_CocoAdorjany0011.jpg)
 
 Bernie wears **Max Mara** knit, vintage belt from **Zoo Emporium**, **Reliquia** earrings and stylist's own shorts
 
 ![2_DoingBird_MiaRankin_CocoAdorjany0012.jpg](/uploads/2_DoingBird_MiaRankin_CocoAdorjany0012.jpg)
 
-Ajok wears **Jan Logan** earrings
+Ajok wears **Jan Logan** earrings and **Wynn Hamlyn** coat (around shoulders)
 
 ![3_DoingBird_MiaRankin_CocoAdorjany0004.jpg](/uploads/3_DoingBird_MiaRankin_CocoAdorjany0004.jpg)
 

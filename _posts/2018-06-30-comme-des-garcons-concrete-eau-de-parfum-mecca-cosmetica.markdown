@@ -1,7 +1,6 @@
 ---
 title: '1.6: Comme des Garçons perfume'
 date: 2018-06-30 18:16:00 +10:00
-published: false
 categories:
 - Objects
 tags:

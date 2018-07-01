@@ -7,7 +7,7 @@ categories:
 tags:
 - Footwear
 Credits Text: |-
-  Dual velcro straps finish this collection of rubber, leather and mesh. Wear a pair on your feet for quick getaways and comfort in style.
+  Dual velcro straps finish this collection of rubber, leather and mesh. Wear a pair on your feet for quick getaways or stylish comfort.
 
   **Prada** sneaker AUD $1040 (pair) **[BUY](https://store.prada.com/en/pradaau/man/man-shoes/4O3219-1OUG-F0002)**
 

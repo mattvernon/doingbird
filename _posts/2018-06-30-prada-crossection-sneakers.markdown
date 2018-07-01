@@ -1,10 +1,11 @@
 ---
-title: '1.5: Prada shoes'
+title: '1.5: Prada sneaker'
 date: 2018-06-30 18:12:00 +10:00
 categories:
 - Objects
 tags:
 - Footwear
+Main Image: "/uploads/Doingbird_Prada_web.jpg"
 Credits Text: |-
   Dual velcro straps finish this collection of rubber, leather and mesh. Wear a pair on your feet for quick getaways or stylish comfort.
 

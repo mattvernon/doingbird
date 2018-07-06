@@ -6,7 +6,7 @@ categories:
 tags:
 - Interviews
 author: Lucy Jones
-Main Image: "/uploads/800x610-Late-Night-Chinese-bc091b.jpg"
+Main Image: "/uploads/fb-800x610-Late-Night-Chinese-bc091b.jpg"
 is featured?: false
 ---
 

@@ -5,7 +5,7 @@ categories:
 - Art
 tags:
 - Photography
-Main Image: "/uploads/fb-Victoria-Zschommler-Rocks-8.jpg"
+Main Image: "/uploads/Victoria%20Zschommler%20Rocks%208.jpg"
 is featured?: true
 Blurb: Amateur geology to give you holiday feelings. Photographs by Victoria Zschommler
 ---

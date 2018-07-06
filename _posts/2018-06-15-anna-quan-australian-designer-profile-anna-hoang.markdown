@@ -6,7 +6,7 @@ categories:
 tags:
 - Get to know
 author: Emily Royal
-Main Image: "/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
+Main Image: "/uploads/fb-Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Benjamin Butcher** hair (portrait) **Taylor James Redman**
   make-up (portrait) **Rosie Neyle**
 is featured?: true

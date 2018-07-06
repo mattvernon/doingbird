@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/9_DoingBird_MiaRankin_CocoAdorjany0003.jpg"
+Main Image: "/uploads/fb-2_DoingBird_MiaRankin_CocoAdorjany0012.jpg"
 Credits Text: photographs **[Mia Rankin](https://www.mia-rankin.com/)** styling **[Coco
   Adorjany](https://www.instagram.com/cocoadorjany/?hl=en)** hair **[Taylor James
   Redman](https://www.instagram.com/taylorjameshair/?hl=en)** using **Tigi Australia**

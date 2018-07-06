@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/doingbird_mason_stevenson_online_main_013_LR.jpg"
+Main Image: "/uploads/_doingbird_mason_stevenson_online_fb.jpg"
 Credits Text: photographs **[Mason Stevenson](http://www.masonstevenson.com/)** at
   **[Artboxblack](https://artboxblack.com/) styling [Chloe Hill](http://www.chloechill.com/)**
   hair **Pete Lennon** at **[Company1](http://company1.com.au/)** make-up **Gillian

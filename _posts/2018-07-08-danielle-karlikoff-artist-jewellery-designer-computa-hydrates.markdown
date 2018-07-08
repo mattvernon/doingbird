@@ -6,11 +6,13 @@ categories:
 - Features
 tags:
 - Artists
+author: Lucy Jones
+Main Image: "/uploads/Ring%20commission%20using%20family%20heirloom%20gemstones.jpg"
 ---
 
 ![Ring commission using family heirloom gemstones.jpg](/uploads/Ring%20commission%20using%20family%20heirloom%20gemstones.jpg)
 
-**Above:** Ring commission using family heirloom gemstones
+**Above:** Ring commission by Danielle Karlikoff using the customer's family heirloom gemstones
 
 Sydney-based artist [Danielle Karlikoff](https://www.instagram.com/computa_hydrates/?hl=en) is a woman of humble ambition. One day, she hopes to collaborate with Elon Musk on the first collection of jewellery for planet Mars. The edges of Karlikoff’s gold rings and necklaces look half melted, as if they’ve survived a nuclear apocalypse. One silver cuff bears a striking resemblance to scrunched up alfoil. Another piece fuses precious stones to clear plastic tubing. These creations are trash meets treasure meets science fiction, which isn’t really surprising considering Karlikoff was apparently an alien in a past life.
 
@@ -35,3 +37,19 @@ Karlikoff describes her work as: “Walking into a buffet of hard candy and wet 
 “I feel most creatively ‘fertile’ when I’m working on a number of projects across different mediums so I guess they all kind of feed into each other on a very sub-conscious level. For example I notice my perspective on a jewellery piece will be freshened up with new insight once I’ve returned to it after having worked on a totally unrelated drawing or something. Cross-pollination, I suppose.
 
 “Right now I’m working on 15 commissions: some elopement rings, funky earrings, re-making new jewellery out of old jewels, a ring based on the card game Magic: The Gathering, to name a few. I’m looking forward to stalking Sheepadoodles on Instagram and plotting a super huge collection/solo exhibition hopefully for the end of 2018 or early 2019."
+
+![Mitre 10 tube experiments.jpg](/uploads/Mitre%2010%20tube%20experiments.jpg)
+
+**Above:** Mitre 10 tube experiments by Danielle Karlikoff
+
+![sun and moon pendant commission.jpg](/uploads/sun%20and%20moon%20pendant%20commission.jpg)
+
+**Above: **Sun and moon pendant commission by Danielle Karlikoff
+
+![Squashed Tube Hoop commission.jpg](/uploads/Squashed%20Tube%20Hoop%20commission.jpg)
+
+**Above: **Squashed Tube Hoop commission by Danielle Karlikoff
+
+![Sterling silver cuff commission.jpg](/uploads/Sterling%20silver%20cuff%20commission.jpg)
+
+**Above: **Sterling silver cuff commission by Danielle Karlikoff

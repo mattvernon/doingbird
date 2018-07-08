@@ -44,12 +44,12 @@ Karlikoff describes her work as: “Walking into a buffet of hard candy and wet 
 
 ![sun and moon pendant commission.jpg](/uploads/sun%20and%20moon%20pendant%20commission.jpg)
 
-**Above: **Sun and moon pendant commission by Danielle Karlikoff
+**Above:** Sun and moon pendant commission by Danielle Karlikoff
 
 ![Squashed Tube Hoop commission.jpg](/uploads/Squashed%20Tube%20Hoop%20commission.jpg)
 
-**Above: **Squashed Tube Hoop commission by Danielle Karlikoff
+**Above:** Squashed Tube Hoop commission by Danielle Karlikoff
 
 ![Sterling silver cuff commission.jpg](/uploads/Sterling%20silver%20cuff%20commission.jpg)
 
-**Above: **Sterling silver cuff commission by Danielle Karlikoff
+**Above:** Sterling silver cuff commission by Danielle Karlikoff

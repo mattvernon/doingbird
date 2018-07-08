@@ -4,7 +4,7 @@ date: 2018-06-19 16:37:00 +10:00
 categories:
 - Features
 tags:
-- Get to know
+- Interviews
 author: Emily Royal
 Main Image: "/uploads/Ainsley_Hansen_01_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Benjamin Butcher** hair (portrait) **Taylor James Redman**

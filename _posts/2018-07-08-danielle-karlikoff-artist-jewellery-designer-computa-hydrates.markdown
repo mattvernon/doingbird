@@ -12,7 +12,7 @@ Main Image: "/uploads/Ring%20commission%20using%20family%20heirloom%20gemstones.
 
 ![Ring commission using family heirloom gemstones.jpg](/uploads/Ring%20commission%20using%20family%20heirloom%20gemstones.jpg)
 
-**Above:** Ring commission by Danielle Karlikoff using the customer's family heirloom gemstones
+**Above:** Ring commission using the customer's family heirloom gemstones
 
 Sydney-based artist [Danielle Karlikoff](https://www.instagram.com/computa_hydrates/?hl=en) is a woman of humble ambition. One day, she hopes to collaborate with Elon Musk on the first collection of jewellery for planet Mars. The edges of Karlikoff’s gold rings and necklaces look half melted, as if they’ve survived a nuclear apocalypse. One silver cuff bears a striking resemblance to scrunched up alfoil. Another piece fuses precious stones to clear plastic tubing. These creations are trash meets treasure meets science fiction, which isn’t really surprising considering Karlikoff was apparently an alien in a past life.
 
@@ -40,16 +40,16 @@ Karlikoff describes her work as: “Walking into a buffet of hard candy and wet 
 
 ![Mitre 10 tube experiments.jpg](/uploads/Mitre%2010%20tube%20experiments.jpg)
 
-**Above:** Mitre 10 tube experiments by Danielle Karlikoff
+**Above:** Mitre 10 tube experiments 
 
 ![sun and moon pendant commission.jpg](/uploads/sun%20and%20moon%20pendant%20commission.jpg)
 
-**Above:** Sun and moon pendant commission by Danielle Karlikoff
+**Above:** Sun and moon pendant commission 
 
 ![Squashed Tube Hoop commission.jpg](/uploads/Squashed%20Tube%20Hoop%20commission.jpg)
 
-**Above:** Squashed Tube Hoop commission by Danielle Karlikoff
+**Above:** Squashed Tube Hoop commission
 
 ![Sterling silver cuff commission.jpg](/uploads/Sterling%20silver%20cuff%20commission.jpg)
 
-**Above:** Sterling silver cuff commission by Danielle Karlikoff
+**Above:** Sterling silver cuff commission 

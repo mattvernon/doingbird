@@ -4,7 +4,7 @@ date: 2018-06-15 14:35:00 +10:00
 categories:
 - Features
 tags:
-- Get to know
+- Interviews
 author: Emily Royal
 Main Image: "/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Benjamin Butcher** hair (portrait) **Taylor James Redman**

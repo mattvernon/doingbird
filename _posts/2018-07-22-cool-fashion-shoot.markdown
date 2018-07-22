@@ -10,7 +10,8 @@ Main Image: "/uploads/Doingbird_Shot_05_02.jpg"
 Credits Text: |-
   All wear **Miu Miu**
 
-  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair and make-up **[Rosie Neyle](https://www.rosieneyle.com/)** photographic assistants **Blake Azar** and **Nick Ryall** models (top to bottom)  **Alex Woll** at **IMG**, **Sanne** at **Kult**, **Olivia Talar** at **IMG**, **Shimma** at **Kult** and **Sandali** at **IMG **special thanks **Finbarr Collins**
+  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair and make-up **[Rosie Neyle](https://www.rosieneyle.com/)** photographic assistants **Blake Azar** and **Nick Ryall**
+  gaffer **Finbarr Collins** models (top to bottom)  **Alex Woll** at **IMG**, **Sanne** at **Kult**, **Olivia Talar** at **IMG**, **Shimma** at **Kult** and **Sandali** at **IMG**
 is featured?: true
 Blurb: 
 layout: gallery

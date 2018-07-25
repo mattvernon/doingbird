@@ -5,7 +5,7 @@ published: false
 categories:
 - Objects
 tags:
-- Beer
-Credits Text: "**Pink Gallah** "
+- Accessories
+Credits Text: "**Danielle Karlikoff** "
 ---
 

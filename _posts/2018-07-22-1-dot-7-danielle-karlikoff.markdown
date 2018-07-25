@@ -6,6 +6,7 @@ categories:
 - Objects
 tags:
 - Accessories
+Main Image: "/uploads/Doingbird_DK_web.jpg.JPG"
 Credits Text: |-
   **[Danielle Karlikoff] (https://www.instagram.com/computa_hydrates/)**
 

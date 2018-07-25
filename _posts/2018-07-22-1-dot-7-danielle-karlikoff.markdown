@@ -8,7 +8,7 @@ tags:
 - Accessories
 Main Image: "/uploads/Doingbird_DK_web.jpg.JPG"
 Credits Text: |-
-  **[Danielle Karlikoff] (https://www.instagram.com/computa_hydrates/)**
+  **[Danielle Karlikoff](https://www.instagram.com/computa_hydrates/)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 layout: gallery

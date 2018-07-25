@@ -8,6 +8,8 @@ tags:
 - Accessories
 Main Image: "/uploads/Doingbird_DK_web.jpg.JPG"
 Credits Text: |-
+  On the left, "Blue Snake Choke Her," made out of sterling silver and blue topaz. On the right, "Eggy," made out of resin.
+
   **[Danielle Karlikoff](https://www.instagram.com/computa_hydrates/)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**

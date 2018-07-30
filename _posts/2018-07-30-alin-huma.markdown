@@ -6,9 +6,8 @@ categories:
 - World
 tags:
 - Interview
+Main Image: "/uploads/Huma_001-9a82b6.JPG"
 ---
-
-![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 

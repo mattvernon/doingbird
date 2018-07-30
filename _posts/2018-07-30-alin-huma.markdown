@@ -7,6 +7,7 @@ categories:
 tags:
 - Interview
 Main Image: "/uploads/Huma_001-9a82b6.JPG"
+is featured?: true
 ---
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)

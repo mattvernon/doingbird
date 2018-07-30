@@ -7,4 +7,4 @@ Credits Text: photography **[Anna Pogossova](https://annapogossova.allyou.net/)*
 layout: gallery
 ---
 
-[Doingbird_Vase_web.GIF](/uploads/Doingbird_Vase_web.GIF)
+![Doingbird_Vase_web.GIF](/uploads/Doingbird_Vase_web.GIF)

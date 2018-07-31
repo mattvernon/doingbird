@@ -1,16 +1,19 @@
 ---
-title: Alin Huma
+title: Alin Huma, Photographer
 date: 2018-07-30 19:05:00 +10:00
 published: false
 categories:
 - World
 tags:
-- Interview
+- Interviews
+author: Pierre Toussaint
 Main Image: "/uploads/Huma_001-9a82b6.JPG"
 is featured?: true
 ---
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
+
+“Alin Huma is a Romanian photographer and publisher based in Tokyo. We met at university in the mid ’90s in Perth, Western Australia. I’ve always thought Alin is a huge talent. Photographically, I think he sees the subtle details and nuances in everyday life in a way that is both timeless and uniquely current all at once. He sees the layers and the cracks most of us miss. He is also one of the few people I have photographed for years and someone who I count as a great influence. Alin interviewed himself. I knew he would ask more relevant questions than I could.
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 
@@ -47,3 +50,5 @@ is featured?: true
 ![Huma_018-34c1d8.jpg](/uploads/Huma_018-34c1d8.jpg)
 
 ![Huma_019-76b1a3.jpg](/uploads/Huma_019-76b1a3.jpg)
+
+*With thanks to [Contact Gallery](contactgallery.co)*

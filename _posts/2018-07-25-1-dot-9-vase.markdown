@@ -1,0 +1,10 @@
+---
+title: '1.9: Vase'
+date: 2018-07-25 18:55:00 +10:00
+published: false
+Credits Text: photography **[Anna Pogossova](https://annapogossova.allyou.net/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
+layout: gallery
+---
+
+![Doingbird_Vase_web.GIF](/uploads/Doingbird_Vase_web.GIF)

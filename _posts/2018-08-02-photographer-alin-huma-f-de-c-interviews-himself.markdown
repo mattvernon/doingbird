@@ -17,13 +17,13 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 
-![Huma_003-0a6682.JPG](/uploads/Huma_003-0a6682.JPG)
-
-![Huma_004-10850b.JPG](/uploads/Huma_004-10850b.JPG)
-
 —Why aren't you more famous?
 
 Haha, other people are. I was just thinking the other day that growing up in Romania, back then—it's not that we didn't have access to all the stuff, we sure did, there were more levels to the underground than down here below Shinjuku station—but there were other filtering mechanisms in place, which to this day I don't think I quite understand. Not that I thought about it that much. For example, while anything West Coast was regular currency, from the Grateful Dead to conceptual art, there was hardly anything from Warhol, pop art, Velvet Underground, Sonic Youth... It would either not move or move way below the radar, no interest. So, funny, I think that whole fame thing, as well as the nihilism, whatever you call it—anything cynical—just isn't in my make-up. Another thing that went under, or over, the radar—I'm talking '80s here, early '80s—is that Manchester thing, New Order and stuff; remember getting into it sometime at the start of the '90s and my head kinda spinning... I was in awe and disbelief. What is it? I guess that point where the snake eats its own tail... We're still there now... Punk was right, maybe the post-punk... or the post anything... I still haven't bought it. Then there is this old Romanian proverb thing that I grew up with, which says that self-promotion stinks. Literally, that's what it says. There's always more interesting stuff to do than being famous. Or maybe also 'cause I've never been quite at the right place. Right time at the wrong place seems to be the main theme of my life.
+
+![Huma_003-0a6682.JPG](/uploads/Huma_003-0a6682.JPG)
+
+![Huma_004-10850b.JPG](/uploads/Huma_004-10850b.JPG)
 
 The struggle does suck sometimes. The other day I was hanging out in the park here in Okubo eating leaves all day. They were great. Remembered eating those same leaves when I was a kid, they taste great, better than anything at the supermarket... Wish the park provided some Parmigiano, olive oil, vinegar, ume... It's ume season here. They usually pick them green: umeboshi, umeshu, but ripe they're amazing. Like heavenly apricots. I'm sure they'd make a great spirit... fermented and then distilled. I just had to wrap up all my fermentation workshops at the place I was living... for complex reasons. I had so much going on there, which is how I ended up eating leaves in the park, haha.
 

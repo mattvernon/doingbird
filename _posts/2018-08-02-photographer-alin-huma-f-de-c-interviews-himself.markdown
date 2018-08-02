@@ -13,7 +13,7 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
 
-*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. *
+*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read.*
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 

@@ -1,6 +1,6 @@
 ---
 title: Alin Huma Interviews Himself
-date: 2018-07-30 19:05:00 +10:00
+date: 2018-08-02 19:05:00 +10:00
 categories:
 - World
 tags:
@@ -13,7 +13,7 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
 
-*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. *
+*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read.*
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 
@@ -25,7 +25,7 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 
 Haha, other people are. I was just thinking the other day that growing up in Romania, back then—it's not that we didn't have access to all the stuff, we sure did, there were more levels to the underground than down here below Shinjuku station—but there were other filtering mechanisms in place, which to this day I don't think I quite understand. Not that I thought about it that much. For example, while anything West Coast was regular currency, from the Grateful Dead to conceptual art, there was hardly anything from Warhol, pop art, Velvet Underground, Sonic Youth... It would either not move or move way below the radar, no interest. So, funny, I think that whole fame thing, as well as the nihilism, whatever you call it—anything cynical—just isn't in my make-up. Another thing that went under, or over, the radar—I'm talking '80s here, early '80s—is that Manchester thing, New Order and stuff; remember getting into it sometime at the start of the '90s and my head kinda spinning... I was in awe and disbelief. What is it? I guess that point where the snake eats its own tail... We're still there now... Punk was right, maybe the post-punk... or the post anything... I still haven't bought it. Then there is this old Romanian proverb thing that I grew up with, which says that self-promotion stinks. Literally, that's what it says. There's always more interesting stuff to do than being famous. Or maybe also 'cause I've never been quite at the right place. Right time at the wrong place seems to be the main theme of my life.
 
-The struggle does suck sometimes. The other day I was hanging out in the park here in Okubo eating leaves all day. They were great (remembered eating those same leaves when I was a kid, they taste great, better than anything at the supermarket... Wish the park provided some Parmigiano, olive oil, vinegar, ume... It's ume season here. They usually pick them green: umeboshi, umeshu, but ripe they're amazing. Like heavenly apricots. I'm sure they'd make a great spirit... fermented and then distilled. I just had to wrap up all my fermentation workshops at the place I was living... for complex reasons. I had so much going on there, which is how I ended up eating leaves in the park, haha.
+The struggle does suck sometimes. The other day I was hanging out in the park here in Okubo eating leaves all day. They were great. Remembered eating those same leaves when I was a kid, they taste great, better than anything at the supermarket... Wish the park provided some Parmigiano, olive oil, vinegar, ume... It's ume season here. They usually pick them green: umeboshi, umeshu, but ripe they're amazing. Like heavenly apricots. I'm sure they'd make a great spirit... fermented and then distilled. I just had to wrap up all my fermentation workshops at the place I was living... for complex reasons. I had so much going on there, which is how I ended up eating leaves in the park, haha.
 
 ![Huma_005-a4d39f.JPG](/uploads/Huma_005-a4d39f.JPG)
 
@@ -83,4 +83,4 @@ Guess it's officially at the point where I always saw it. Sure, you still have t
 
 Everybody knows it, I think. A bit of a shift, a crack, taking away something, one image less, fundamentally not that different to painting, to how you walk, how you place a packet of cigarettes on the table. Anything.
 
-*All photographs by Alin Huma. Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*
+*All photographs by [Alin Huma](http://huma.fdc.tokyo/). Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*

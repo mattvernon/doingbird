@@ -1,12 +1,10 @@
 ---
-title: Japan by Alin Huma
+title: Alin Huma Interviews Himself
 date: 2018-07-30 19:05:00 +10:00
-published: false
 categories:
 - World
 tags:
 - Interviews
-author: Pierre Toussaint
 Main Image: "/uploads/Huma_001-9a82b6.JPG"
 is featured?: true
 Blurb: '"There is something peculiar about [Japan], however much I like to see it
@@ -15,9 +13,7 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
 
-Alin Huma is a Romanian photographer and publisher based in Tokyo. We met at university in the mid ’90s in Perth, Western Australia. I’ve always thought he was a huge talent. Photographically, I think he sees the subtle details and nuances in everyday life in a way that is both timeless and uniquely current all at once. He sees the layers and the cracks most of us miss. He is also one of the few people I have photographed for years and someone who I count as a great influence.
-
-Alin interviewed himself, because I knew he would ask more relevant questions than I could. Below is his transcript and some of his photos.
+*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. *
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 
@@ -87,4 +83,4 @@ Guess it's officially at the point where I always saw it. Sure, you still have t
 
 Everybody knows it, I think. A bit of a shift, a crack, taking away something, one image less, fundamentally not that different to painting, to how you walk, how you place a packet of cigarettes on the table. Anything.
 
-*Follow Alin Huma at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Pierre Toussaint is an Australian photographer, who you can follow at [@pierretoussaint](https://www.instagram.com/pierretoussaint/?hl=en). All photographs by Alin Huma. Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*
+*All photographs by Alin Huma. Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*

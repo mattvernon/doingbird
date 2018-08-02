@@ -83,4 +83,4 @@ Guess it's officially at the point where I always saw it. Sure, you still have t
 
 Everybody knows it, I think. A bit of a shift, a crack, taking away something, one image less, fundamentally not that different to painting, to how you walk, how you place a packet of cigarettes on the table. Anything.
 
-*All photographs by Alin Huma. Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*
+*All photographs by [Alin Huma](http://huma.fdc.tokyo/). Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*

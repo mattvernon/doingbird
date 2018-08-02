@@ -1,6 +1,6 @@
 ---
 title: Alin Huma Interviews Himself
-date: 2018-07-30 19:05:00 +10:00
+date: 2018-08-02 19:05:00 +10:00
 categories:
 - World
 tags:

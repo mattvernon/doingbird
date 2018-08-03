@@ -10,7 +10,7 @@ author: Ingrid Kesa
 Main Image: "/uploads/37405322_217710165596351_3085611089354817536_n.jpg"
 ---
 
-![37405322_217710165596351_3085611089354817536_n.jpg](/uploads/37405322_217710165596351_3085611089354817536_n.jpg)
+![Gabriel-Cole-3-0d23c8.jpg](/uploads/Gabriel-Cole-3-0d23c8.jpg)
 
 Part athlete, part artist, master of both: Gab Cole divides his time between the running track and the studio. When he’s sprinting, he strives to reach such a speed that allows for an ultimate meditative state. A few seconds of silence, wrapped up in frenetic energy. It’s transcendental, where soul leaves body and the mind is blank. That’s when you know you’re really flying. Maybe it’s this same sense of freedom, primitive but liberated, which informs an experimental practice where signs and symbols are remixed to the point of abstraction and 3D shapes are given space to find their own form. Cole’s motifs equally recall metal logos and Matisse, and his practice taps into the crazy thirst for brand worship that keeps us awake and poor—only to pull it apart and destroy it at the altar.
 
@@ -41,3 +41,5 @@ It’s a communication of one’s ideals and personality in the same way a Liver
 Streetwear has freaked me out for years; it seemed like something you’re into when you’re young, but lately I’m taken by it again. I love that women are connecting with what I am designing. My merch isn’t designed for anyone specifically, just for people who want to feel loose and tough. It’s loud without being outspoken, it’s designed for a reaction of difference.
 
 *Gabriel Cole’s show, YOU WILL NEVER WALK ALONE, opens  Friday 3 August at **[Offsite](https://www.instagram.com/offsite.online/)** (44 Little Napier Street, Fitzroy, Melbourne). You can follow Gabriel on by **[clicking here](https://www.instagram.com/yourboygab/)**.*
+
+![37405322_217710165596351_3085611089354817536_n.jpg](/uploads/37405322_217710165596351_3085611089354817536_n.jpg)

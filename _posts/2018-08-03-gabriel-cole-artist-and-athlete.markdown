@@ -1,5 +1,5 @@
 ---
-title: Gabriel Cole, Artist
+title: Gabriel Cole, Artist & Athlete
 date: 2018-08-03 12:32:00 +10:00
 published: false
 categories:
@@ -31,4 +31,4 @@ It’s a communication of one’s ideals and personality in the same way a Liver
 
 Streetwear has freaked me out for years; it seemed like something you’re into when you’re young, but lately I’m taken by it again. I love that women are connecting with what I am designing. My merch isn’t designed for anyone specifically, just for people who want to feel loose and tough. It’s loud without being outspoken, it’s designed for a reaction of difference.
 
-*Gabriel Cole’s show, YOU WILL NEVER WALK ALONE, opens  Friday 3 August at **[Offsite](https://www.instagram.com/offsite.online/)** (44 Little Napier Street, Fitzroy, Melbourne). You can follow Gab*
+*Gabriel Cole’s show, YOU WILL NEVER WALK ALONE, opens  Friday 3 August at **[Offsite](https://www.instagram.com/offsite.online/)** (44 Little Napier Street, Fitzroy, Melbourne). You can follow Gabriel on by **[clicking here](https://www.instagram.com/yourboygab/)**.*

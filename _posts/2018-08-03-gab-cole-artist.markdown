@@ -1,5 +1,5 @@
 ---
-title: Gab Cole, Artist
+title: Gabriel Cole, Artist
 date: 2018-08-03 12:32:00 +10:00
 published: false
 categories:
@@ -26,10 +26,9 @@ Consciously yes, but I’m using it to reflect on sport as a entity rather than 
 **How long do you spend in the studio every day?**\
 It has no consistency. Sometimes long days, like ten hours (no idea what I’m doing). Some days less. At least half a day is important to me. I gave my life to running for a while and I got good at it. I don’t want to do that again. Being normal is too fun, but I’m aware of how hard you have to work.
 
-**2018 is the age of the logo. The brand has never been bigger. What’s the attraction?\
-**Symbols provide communication, they speak of a sign or a story, they’re an entity to something bigger. My parents don’t like art, but they collected items, things with semiotics. I never understood where my taste for objects came from until now, reflecting on their house. My thing is to engage with the symbol and to pull it apart until it has no more meaning, then it can become something entirely separate.
-
 **Why is the world obsessed with merch?**\
-It’s a communication of one’s ideals and personality in the same way a Liverpool logo is a reaction back to a bigger unity. Streetwear has freaked me out for years; it seemed like something you’re into when you’re young, but lately I’m taken by it again. I love that women are connecting with what I am designing. My merch isn’t designed for anyone specifically, just for people who want to feel loose and tough. It’s loud without being outspoken, it’s designed for a reaction of difference.
+It’s a communication of one’s ideals and personality in the same way a Liverpool logo is a reaction back to a bigger unity. Symbols provide communication, they speak of a sign or a story, they’re an entity to something bigger. My parents don’t like art, but they collected items, things \[to do\] with semiotics. I never understood where my taste for objects came from until now, reflecting on their house. My thing is to engage with the symbol and to pull it apart until it has no more meaning, then it can become something entirely separate.
 
-*Gab Cole’s show, YOU WILL NEVER WALK ALONE, opens  Friday 3 August at **[Offsite](https://www.instagram.com/offsite.online/)** (44 Little Napier Street, Fitzroy, Melbourne).*
+Streetwear has freaked me out for years; it seemed like something you’re into when you’re young, but lately I’m taken by it again. I love that women are connecting with what I am designing. My merch isn’t designed for anyone specifically, just for people who want to feel loose and tough. It’s loud without being outspoken, it’s designed for a reaction of difference.
+
+*Gabriel Cole’s show, YOU WILL NEVER WALK ALONE, opens  Friday 3 August at **[Offsite](https://www.instagram.com/offsite.online/)** (44 Little Napier Street, Fitzroy, Melbourne). You can follow Gab*

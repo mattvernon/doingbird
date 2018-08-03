@@ -7,7 +7,10 @@ categories:
 tags:
 - Interviews
 author: Ingrid Kesa
+Main Image: "/uploads/37405322_217710165596351_3085611089354817536_n.jpg"
 ---
+
+![37405322_217710165596351_3085611089354817536_n.jpg](/uploads/37405322_217710165596351_3085611089354817536_n.jpg)
 
 Part athlete, part artist, master of both: Gab Cole divides his time between the running track and the studio. When he’s sprinting, he strives to reach such a speed that allows for an ultimate meditative state. A few seconds of silence, wrapped up in frenetic energy. It’s transcendental, where soul leaves body and the mind is blank. That’s when you know you’re really flying. Maybe it’s this same sense of freedom, primitive but liberated, which informs an experimental practice where signs and symbols are remixed to the point of abstraction and 3D shapes are given space to find their own form. Cole’s motifs equally recall metal logos and Matisse, and his practice taps into the crazy thirst for brand worship that keeps us awake and poor—only to pull it apart and destroy it at the altar.
 

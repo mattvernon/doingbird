@@ -1,7 +1,6 @@
 ---
 title: Gabriel Cole, Artist & Athlete
 date: 2018-08-03 12:32:00 +10:00
-published: false
 categories:
 - Features
 tags:
@@ -14,7 +13,7 @@ Main Image: "/uploads/37405322_217710165596351_3085611089354817536_n.jpg"
 
 Part athlete, part artist, master of both: Gab Cole divides his time between the running track and the studio. When he’s sprinting, he strives to reach such a speed that allows for an ultimate meditative state. A few seconds of silence, wrapped up in frenetic energy. It’s transcendental, where soul leaves body and the mind is blank. That’s when you know you’re really flying. Maybe it’s this same sense of freedom, primitive but liberated, which informs an experimental practice where signs and symbols are remixed to the point of abstraction and 3D shapes are given space to find their own form. Cole’s motifs equally recall metal logos and Matisse, and his practice taps into the crazy thirst for brand worship that keeps us awake and poor—only to pull it apart and destroy it at the altar.
 
-**Ingrid Kesa: Is Instagram a help or a hindrance to the contemporary artist?**
+**Ingrid Kesa: As an artist, do you find Instagram a help or a hindrance?**
 
 Gabriel Cole: It can be what you want it to be. Yes, it’s toy, but as an emerging artist it’s a good way to connect. As an artist who has moved from another state, it helped me build an audience, meet peers, and figure out what the rest of the world is doing. But I also feel like it’s easy not to go to shows since you can view everything through everyone’s stories...
 
@@ -34,7 +33,7 @@ Consciously yes, but I’m using it to reflect on sport as a entity rather than 
 
 It has no consistency. Sometimes long days, like ten hours (no idea what I’m doing). Some days less. At least half a day is important to me. I gave my life to running for a while and I got good at it. I don’t want to do that again. Being normal is too fun, but I’m aware of how hard you have to work.
 
-**Why is the world obsessed with merch?**
+**Why do you think some people are obsessed with merch?**
 
 It’s a communication of one’s ideals and personality in the same way a Liverpool logo is a reaction back to a bigger unity. Symbols provide communication, they speak of a sign or a story, they’re an entity to something bigger. My parents don’t like art, but they collected items, things \[to do\] with semiotics. I never understood where my taste for objects came from until now, reflecting on their house. My thing is to engage with the symbol and to pull it apart until it has no more meaning, then it can become something entirely separate.
 

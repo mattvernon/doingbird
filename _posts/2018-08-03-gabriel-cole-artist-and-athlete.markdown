@@ -14,9 +14,9 @@ Main Image: "/uploads/37405322_217710165596351_3085611089354817536_n.jpg"
 
 Part athlete, part artist, master of both: Gab Cole divides his time between the running track and the studio. When he’s sprinting, he strives to reach such a speed that allows for an ultimate meditative state. A few seconds of silence, wrapped up in frenetic energy. It’s transcendental, where soul leaves body and the mind is blank. That’s when you know you’re really flying. Maybe it’s this same sense of freedom, primitive but liberated, which informs an experimental practice where signs and symbols are remixed to the point of abstraction and 3D shapes are given space to find their own form. Cole’s motifs equally recall metal logos and Matisse, and his practice taps into the crazy thirst for brand worship that keeps us awake and poor—only to pull it apart and destroy it at the altar.
 
-**Is Instagram a help or a hindrance to the contemporary artist?**
+**Ingrid Kesa: Is Instagram a help or a hindrance to the contemporary artist?**
 
-It can be what you want it to be. Yes, it’s toy, but as an emerging artist it’s a good way to connect. As an artist who has moved from another state, it helped me build an audience, meet peers, and figure out what the rest of the world is doing. But I also feel like it’s easy not to go to shows since you can view everything through everyone’s stories...
+Gabriel Cole: It can be what you want it to be. Yes, it’s toy, but as an emerging artist it’s a good way to connect. As an artist who has moved from another state, it helped me build an audience, meet peers, and figure out what the rest of the world is doing. But I also feel like it’s easy not to go to shows since you can view everything through everyone’s stories...
 
 **Favourite materials right now?**
 

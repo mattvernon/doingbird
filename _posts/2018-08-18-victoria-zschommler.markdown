@@ -2,7 +2,7 @@
 title: Victoria Zschommler
 date: 2018-08-18 20:11:00 +10:00
 published: false
-Credits Text: photography **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
+Credits Text: photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
   at **[Art Box Black](https://www.instagram.com/artboxblack/)**
 layout: gallery
 ---

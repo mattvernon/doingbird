@@ -1,7 +1,11 @@
 ---
 title: Flasher
-date: 2018-08-18 20:11:00 +10:00
+date: 2018-08-19 20:11:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- Shoot
 Credits Text: |+
   photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)** at **[Art Box Black](https://www.instagram.com/artboxblack/)**
   styling **[Ally Macrae](https://www.instagram.com/ally.macrae/)**

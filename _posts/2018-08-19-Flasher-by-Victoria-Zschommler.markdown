@@ -27,7 +27,7 @@ layout: gallery
 ![VZ_DOINGBIRD_04_0464.jpg](/uploads/VZ_DOINGBIRD_04_0464.jpg)
 **Elissa McGowan** pants, **Dion Lee** shoes and **POMS** sunglasses
 ![VZ_DOINGBIRD_03_1069-009_V1.jpg](/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg)
-**Elissa McGowan** top and pants
+**Elissa McGowan** top & pants and **Dion Lee** shoes
 ![VZ_DOINGBIRD_08_1137.jpg](/uploads/VZ_DOINGBIRD_08_1137.jpg)
 **Sir** coat and **Simone Rocha** shoes
 ![VZ_DOINGBIRD_06_0854.jpg](/uploads/VZ_DOINGBIRD_06_0854.jpg)

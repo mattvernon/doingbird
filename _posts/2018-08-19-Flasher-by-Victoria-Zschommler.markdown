@@ -5,6 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg"
 Credits Text: |+
   photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)** at **[Art Box Black](https://www.instagram.com/artboxblack/)**
   styling **[Ally Macrae](https://www.instagram.com/ally.macrae/)**

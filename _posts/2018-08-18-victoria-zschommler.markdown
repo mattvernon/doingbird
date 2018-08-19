@@ -27,9 +27,14 @@ Vintage dress and stylist's own socks
 ![VZ_DOINGBIRD_04_1069-002_V1.jpg](/uploads/VZ_DOINGBIRD_04_1069-002_V1.jpg)
 **Elissa McGowan** pants and **Dion Lee** sunglasses
 ![VZ_DOINGBIRD_05_0625.jpg](/uploads/VZ_DOINGBIRD_05_0625.jpg)
-
+**Dion Lee** dress
 ![VZ_DOINGBIRD_08_1242.jpg](/uploads/VZ_DOINGBIRD_08_1242.jpg)
+**Sir** coat
 ![VZ_DOINGBIRD_09_1475.jpg](/uploads/VZ_DOINGBIRD_09_1475.jpg)
+**Aje** dress, **Simone Rocha** shoes and **POMS** sunglasses
 ![VZ_DOINGBIRD_08_1312.jpg](/uploads/VZ_DOINGBIRD_08_1312.jpg)
+**Sir** coat and **Simone Rocha** shoes
 ![VZ_DOINGBIRD_08_1137.jpg](/uploads/VZ_DOINGBIRD_08_1137.jpg)
+**Sir** coat and **Simone Rocha** shoes
 ![VZ_DOINGBIRD_10_1070-004.jpg](/uploads/VZ_DOINGBIRD_10_1070-004.jpg)
+**Guzman** top, **Dion Lee** skirt and **Simone Rocha** shoes

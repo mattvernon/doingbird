@@ -13,6 +13,7 @@ Credits Text: |+
   make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   Model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscilla's](https://www.instagram.com/priscillasmodels/)**
 
+is featured?: true
 Field name: Flasher. Photographs by Victoria Zschommler
 layout: gallery
 ---

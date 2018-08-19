@@ -6,8 +6,9 @@ categories:
 tags:
 - Interviews
 Main Image: "/uploads/Lucy_ODoherty_.jpg"
-is featured?: true
+is featured?: false
 Blurb: Her exhibition 'Silent Skies' opens Friday 29 June at China Heights Gallery.
+Field name: 
 ---
 
 ![Ash in the air, after the fire, 2018, Lucy O'Doherty.jpg](/uploads/Ash%20in%20the%20air,%20after%20the%20fire,%202018,%20Lucy%20O'Doherty.jpg)

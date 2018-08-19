@@ -20,21 +20,20 @@ layout: gallery
 **Dion Lee** top and skirt, **Weekday** swimsuit and **Cos** shoes
 ![VZ_DOINGBIRD_05_0625.jpg](/uploads/VZ_DOINGBIRD_05_0625.jpg)
 **Dion Lee** dress
-![VZ_DOINGBIRD_06_0854.jpg](/uploads/VZ_DOINGBIRD_06_0854.jpg)
-Vintage dress and stylist's own socks
-![VZ_DOINGBIRD_03_1069-009_V1.jpg](/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg)
-**Elissa McGowan** top and pants
 ![VZ_DOINGBIRD_04_0464.jpg](/uploads/VZ_DOINGBIRD_04_0464.jpg)
 **Elissa McGowan** pants, **Dion Lee** shoes and **POMS** sunglasses
-![VZ_DOINGBIRD_04_1069-002_V1.jpg](/uploads/VZ_DOINGBIRD_04_1069-002_V1.jpg)
-**Elissa McGowan** pants and **Dion Lee** sunglasses
+![VZ_DOINGBIRD_03_1069-009_V1.jpg](/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg)
+**Elissa McGowan** top and pants
+![VZ_DOINGBIRD_08_1137.jpg](/uploads/VZ_DOINGBIRD_08_1137.jpg)
+**Sir** coat and **Simone Rocha** shoes
+![VZ_DOINGBIRD_06_0854.jpg](/uploads/VZ_DOINGBIRD_06_0854.jpg)
+Vintage dress and stylist's own socks
 ![VZ_DOINGBIRD_08_1242.jpg](/uploads/VZ_DOINGBIRD_08_1242.jpg)
 **Sir** coat
 ![VZ_DOINGBIRD_09_1475.jpg](/uploads/VZ_DOINGBIRD_09_1475.jpg)
 **Aje** dress, **Simone Rocha** shoes and **POMS** sunglasses
+![VZ_DOINGBIRD_04_1069-002_V1.jpg](/uploads/VZ_DOINGBIRD_04_1069-002_V1.jpg)
+**Elissa McGowan** pants and **POMS** sunglasses
 ![VZ_DOINGBIRD_08_1312.jpg](/uploads/VZ_DOINGBIRD_08_1312.jpg)
-**Sir** coat and **Simone Rocha** shoes
-![VZ_DOINGBIRD_08_1137.jpg](/uploads/VZ_DOINGBIRD_08_1137.jpg)
-**Sir** coat and **Simone Rocha** shoes
 ![VZ_DOINGBIRD_10_1070-004.jpg](/uploads/VZ_DOINGBIRD_10_1070-004.jpg)
 **Guzman** top, **Dion Lee** skirt and **Simone Rocha** shoes

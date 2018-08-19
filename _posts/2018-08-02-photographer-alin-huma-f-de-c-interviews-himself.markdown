@@ -6,9 +6,10 @@ categories:
 tags:
 - Interviews
 Main Image: "/uploads/Huma_001-9a82b6.JPG"
-is featured?: true
+is featured?: false
 Blurb: '"There is something peculiar about [Japan], however much I like to see it
   as just a place like any other." '
+Field name: 
 ---
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)

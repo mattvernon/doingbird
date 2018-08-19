@@ -6,7 +6,8 @@ Credits Text: |+
   photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)** at **[Art Box Black](https://www.instagram.com/artboxblack/)**
   styling **[Ally Macrae](https://www.instagram.com/ally.macrae/)**
   hair **[Madison Voloshin](https://www.instagram.com/badisonv/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/**
-
+  make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  Model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscilla's](https://www.instagram.com/priscillasmodels/)**
 
 layout: gallery
 ---

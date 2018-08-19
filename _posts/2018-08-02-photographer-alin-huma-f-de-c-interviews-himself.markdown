@@ -6,14 +6,15 @@ categories:
 tags:
 - Interviews
 Main Image: "/uploads/Huma_001-9a82b6.JPG"
-is featured?: true
+is featured?: false
 Blurb: '"There is something peculiar about [Japan], however much I like to see it
   as just a place like any other." '
+Field name: 
 ---
 
 ![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
 
-*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read.*
+*Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. Special thanks to [Contact Gallery](contactgallery.co).*
 
 ![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
 
@@ -35,7 +36,7 @@ The struggle does suck sometimes. The other day I was hanging out in the park he
 
 —You always seem to struggle in Japan.
 
-Everyone is, I guess I just make it more visible. My Latin temperament? Sure you can go for the sweet ride but soon you'll run out of points. Japan's really tough. Like, really tough. And some people do find comfort in just that, but I can't. Any shortcut you take will bring you back to square one eventually. There's this tremendous pressure to move forward while being tied and tangled in the most complex and tight dynamics. So this time I came back determined not to take any shortcuts and just go with the system itself, as it cracks, 'cause the system itself doesn't move, as such. It's taken me six months to get my old bank account reactivated. These loops. And even that it was because the person at the bank, probably having had enough of me, said fuck the system, let's make up some data. Of course I could have done that myself, but that was precisely what I was determined not to do because doing that brings you back to square one. At least now I'm just not leaving that square one, I know where I am. Dunno which way is better. 
+Everyone is, I guess I just make it more visible. My Latin temperament? Sure you can go for the sweet ride but soon you'll run out of points. Japan's really tough. Like, really tough. And some people do find comfort in just that, but I can't. Any shortcut you take will bring you back to square one eventually. There's this tremendous pressure to move forward while being tied and tangled in the most complex and tight dynamics. So this time I came back determined not to take any shortcuts and just go with the system itself, as it cracks, 'cause the system itself doesn't move, as such. It's taken me six months to get my old bank account reactivated. These loops. And even that it was because the person at the bank, probably having had enough of me, said fuck the system, let's make up some data. Of course I could have done that myself, but that was precisely what I was determined not to do because doing that brings you back to square one. At least now I'm just not leaving that square one, I know where I am. Dunno which way is better.
 
 Had this major thought about Japan: there is something peculiar about it, however much I like to see it as just a place like any other. Figured that the peculiar might have started when they imported wholesale—the whole Chinese system, administration and all that, writing and all of course. They uncannily left just one thing out: In China they had this 'mandate of heaven' deal, which says that power is granted by heaven to the emperor. But just power, period. But just as it's given it can also be taken away, if misused. It's basically the same thing as Mao Zedong saying it's okay to rebel. That's the one thing they left out. Chinese system, but the emperor stayed immutable. The consequence of that if you really think about it is that basically change itself becomes impossible. When you come from outside it looks all speedy and moving but there are some tremendous forces at work keeping things just as they are. Where on earth do you see people casually walking into convenience stores dressed in Tang dynasty Chinese costume?
 
@@ -85,4 +86,4 @@ Guess it's officially at the point where I always saw it. Sure, you still have t
 
 Everybody knows it, I think. A bit of a shift, a crack, taking away something, one image less, fundamentally not that different to painting, to how you walk, how you place a packet of cigarettes on the table. Anything.
 
-*All photographs by [Alin Huma](http://huma.fdc.tokyo/). Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). Special thanks to [Contact Gallery](contactgallery.co), who you can follow at [@contactgallery](https://www.instagram.com/contactgallery/).*
+*All photographs by [Alin Huma](http://huma.fdc.tokyo/). Follow Alin at [@alinhuma](https://www.instagram.com/alinhuma/?hl=en) and F de C at [@fdec.official](https://www.instagram.com/fdec.official/). You can also follow Contact Gallery at [@contactgallery](https://www.instagram.com/contactgallery/).*

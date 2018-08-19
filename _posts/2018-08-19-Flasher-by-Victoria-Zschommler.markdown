@@ -14,7 +14,7 @@ Credits Text: |+
   Model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscilla's](https://www.instagram.com/priscillasmodels/)**
 
 is featured?: true
-Blurb: Flasher. Photographs by Victoria Zschommler
+Blurb: Photographs by Victoria Zschommler
 layout: gallery
 ---
 

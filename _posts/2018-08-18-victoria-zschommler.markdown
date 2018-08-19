@@ -13,6 +13,7 @@ layout: gallery
 ---
 
 ![VZ_DOINGBIRD_07_1042.jpg](/uploads/VZ_DOINGBIRD_07_1042.jpg)
+Ondria wears **Dion Lee** top and skirt, **Weekday** swimsuit and **Cos** shoes
 ![VZ_DOINGBIRD_06_0854.jpg](/uploads/VZ_DOINGBIRD_06_0854.jpg)
 ![VZ_DOINGBIRD_01_0063.jpg](/uploads/VZ_DOINGBIRD_01_0063.jpg)
 ![VZ_DOINGBIRD_02_0158.jpg](/uploads/VZ_DOINGBIRD_02_0158.jpg)

@@ -11,10 +11,10 @@ Credits Text: |+
   styling **[Ally Macrae](https://www.instagram.com/ally.macrae/)**
   hair **[Madison Voloshin](https://www.instagram.com/badisonv/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
   make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
-  Model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscilla's](https://www.instagram.com/priscillasmodels/)**
+  model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 
 is featured?: true
-Blurb: Flasher. Photographs by Victoria Zschommler
+Blurb: Photographs by Victoria Zschommler
 layout: gallery
 ---
 

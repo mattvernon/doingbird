@@ -39,6 +39,7 @@ layout: gallery
 **Lee Matthews** dress, model's own necklace
 
 ![20180722_Doingbird_05_286_retouch_croop.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop.jpg)
+**Lee Matthews** dress, **Topshop** shoes and **Prada** socks
 
 ![01_20180722_Doingbird_01_264_retouch_crop.jpg](/uploads/01_20180722_Doingbird_01_264_retouch_crop.jpg)
 

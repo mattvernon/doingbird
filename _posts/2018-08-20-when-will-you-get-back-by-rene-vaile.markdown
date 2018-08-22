@@ -25,10 +25,10 @@ layout: gallery
 **Gucci** jacket, skirt, shirt and boots
 
 ![20180722_Doingbird_03_060_retouch_crop.jpg](/uploads/20180722_Doingbird_03_060_retouch_crop.jpg)
-**Romance Was Born** coat, **Ellery** pants and **Topshop** sneakers
+**Romance Was Born** coat, **Ellery** pants and **Topshop** shoes
 
 ![20180722_Doingbird_03_067_retouch_crop.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop.jpg)
-**Romance Was Born** coat, **Ellery** pants and **Topshop** sneakers
+**Romance Was Born** coat, **Ellery** pants and **Topshop** shoes
 
 ![20180722_Doingbird_04_104_retouch_crop.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop.jpg)
 **Prada** jacket, dress, jumper, socks and shoes

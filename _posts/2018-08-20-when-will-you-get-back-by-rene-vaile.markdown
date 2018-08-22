@@ -11,7 +11,7 @@ Credits Text: |-
   photographs **[Rene Vaile](https://www.instagram.com/renevaile_photo/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Kyye Reed](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
-  make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/)** at **[Vivien's Creative]**
+  make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
   model **[Loli](https://www.instagram.com/lauryn.watson/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 Blurb: Photographs by Rene Vaile

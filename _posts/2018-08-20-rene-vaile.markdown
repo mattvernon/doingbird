@@ -42,4 +42,4 @@ layout: gallery
 **Lee Matthews** dress, **Topshop** shoes and **Prada** socks
 
 ![01_20180722_Doingbird_01_264_retouch_crop.jpg](/uploads/01_20180722_Doingbird_01_264_retouch_crop.jpg)
-
+**Topshop** top, **Sportmax** skirt, boots & top (worn underneath) and **Danielle Karlikoff** earring

@@ -19,7 +19,7 @@ layout: gallery
 ---
 
 ![20180722_Doingbird_02_058_retouch_crop.jpg](/uploads/20180722_Doingbird_02_058_retouch_crop.jpg)
-**Gucci** jacket, skirt, shirt and boots
+**Gucci** jacket, skirt and bag
 
 ![20180722_Doingbird_02_193_retouch_crop.jpg](/uploads/20180722_Doingbird_02_193_retouch_crop.jpg)
 **Gucci** jacket, skirt, shirt and boots

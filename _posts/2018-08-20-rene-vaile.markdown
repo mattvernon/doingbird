@@ -30,10 +30,13 @@ layout: gallery
 **Romance Was Born** coat, **Ellery** pants and **Topshop** sneakers
 
 ![20180722_Doingbird_04_104_retouch_crop.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop.jpg)
+**Prada** jacket, dress, jumper, socks and shoes
 
 ![20180722_Doingbird_04_151_retouch_crop.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop.jpg)
+**Prada** hat, dress and jumper
 
 ![20180722_Doingbird_05_196_retouch_crop.jpg](/uploads/20180722_Doingbird_05_196_retouch_crop.jpg)
+**Lee Matthews** dress, model's own necklace
 
 ![20180722_Doingbird_05_286_retouch_croop.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop.jpg)
 

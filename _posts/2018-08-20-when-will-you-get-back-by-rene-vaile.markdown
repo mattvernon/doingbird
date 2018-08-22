@@ -28,7 +28,7 @@ layout: gallery
 **Romance Was Born** coat, **Ellery** pants and **Topshop** shoes
 
 ![20180722_Doingbird_03_067_retouch_crop.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop.jpg)
-**Romance Was Born** coat, **Ellery** pants and **Topshop** shoes
+**Romance Was Born** coat and **Ellery** pants
 
 ![20180722_Doingbird_04_104_retouch_crop.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop.jpg)
 **Prada** jacket, dress, jumper, socks and shoes

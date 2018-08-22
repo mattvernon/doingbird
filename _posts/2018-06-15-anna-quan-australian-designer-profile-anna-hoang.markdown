@@ -9,7 +9,7 @@ author: Emily Royal
 Main Image: "/uploads/Anna_Hoang_08_doingbird_FW_DesignerPortraits.jpg"
 Credits Text: photographs **Benjamin Butcher** hair (portrait) **Taylor James Redman**
   make-up (portrait) **Rosie Neyle**
-is featured?: true
+is featured?: false
 Blurb: Meet the unassuming, whip-smart designer at the helm of her own label.
 layout: gallery
 ---

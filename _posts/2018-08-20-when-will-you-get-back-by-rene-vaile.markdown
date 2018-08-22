@@ -1,11 +1,12 @@
 ---
-title: Rene Vaile
+title: When Will You Get Back
 date: 2018-08-20 20:50:00 +10:00
 published: false
 categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/20180722_Doingbird_03_060_retouch_crop.jpg"
 Credits Text: |-
   photographs **[Rene Vaile](https://www.instagram.com/renevaile_photo/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**

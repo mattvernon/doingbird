@@ -31,7 +31,7 @@ layout: gallery
 **Romance Was Born** coat and **Ellery** pants
 
 ![20180722_Doingbird_04_104_retouch_crop.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop.jpg)
-**Prada** jacket, dress, jumper, socks and shoes
+**Prada** jacket, dress, jumper, shoes and socks
 
 ![20180722_Doingbird_04_151_retouch_crop.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop.jpg)
 **Prada** hat, dress and jumper

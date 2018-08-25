@@ -1,6 +1,6 @@
 ---
 title: '1.7: Danielle Karlikoff'
-date: 2018-07-30 13:41:00 +10:00
+date: 2018-08-26 13:41:00 +10:00
 categories:
 - Objects
 tags:

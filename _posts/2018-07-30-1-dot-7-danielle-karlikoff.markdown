@@ -12,7 +12,7 @@ Credits Text: |-
 
   "Eggy" made out of resin. Wear these pieces to your next soirée or out in the world.
 
-  **[Danielle Karlikoff](https://www.instagram.com/computa_hydrates/)**
+  Made by **[Danielle Karlikoff](https://www.instagram.com/computa_hydrates/)**
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 layout: gallery

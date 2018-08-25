@@ -8,9 +8,9 @@ tags:
 - Accessories
 Main Image: "/uploads/Doingbird_DK_web.jpg.JPG"
 Credits Text: |-
-  Future aesthetics on the left, "Blue Snake Choke Her" made out of sterling silver and London blue topaz.
+  "Blue Snake Choke Her" made out of sterling silver and London blue topaz.
 
-  Breakfast on the right, "Eggy" made out of resin. Wear these pieces to your next soirée or out in the world.
+  "Eggy" made out of resin. Wear these pieces to your next soirée or out in the world.
 
   **[Danielle Karlikoff](https://www.instagram.com/computa_hydrates/)**
 

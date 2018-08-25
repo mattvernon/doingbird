@@ -4,7 +4,7 @@ date: 2018-07-25 18:55:00 +10:00
 published: false
 Main Image: "/uploads/Doingbird_Vase_web.GIF"
 Credits Text: |-
-  **[Fuck Pot by Rachel Dorn](http://racheldorn.com/)** AUD $600. Made from porcelain, underglaze and glaze.
+  **Fuck Pot by [Rachel Dorn](http://racheldorn.com/)** AUD $600. Made from porcelain, underglaze and glaze.
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
 layout: gallery

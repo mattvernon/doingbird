@@ -1,7 +1,6 @@
 ---
 title: '1.8: Pink Galah'
-date: 2018-07-25 18:31:00 +10:00
-published: false
+date: 2018-08-26 18:31:00 +10:00
 categories:
 - Objects
 tags:

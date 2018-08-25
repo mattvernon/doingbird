@@ -1,11 +1,11 @@
 ---
 title: '1.7: Danielle Karlikoff'
-date: 2018-07-30 13:41:00 +10:00
-published: false
+date: 2018-08-26 13:41:00 +10:00
 categories:
 - Objects
 tags:
 - Accessories
+- Artworks
 Main Image: "/uploads/Doingbird_DK_web.jpg.JPG"
 Credits Text: |-
   Wear these pieces to your next soirée or out in the world.
@@ -15,6 +15,8 @@ Credits Text: |-
   *Eggy* made out of resin.
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
+is featured?: true
+Blurb: Featuring pieces by Danielle Karlikoff. Photograph by Anna Pogossova.
 layout: gallery
 ---
 

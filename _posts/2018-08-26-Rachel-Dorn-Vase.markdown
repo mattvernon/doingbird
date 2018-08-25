@@ -1,6 +1,10 @@
 ---
 title: '1.9: Rachel Dorn Vase'
 date: 2018-08-26 18:55:00 +10:00
+categories:
+- Objects
+tags:
+- Vase
 Main Image: "/uploads/Doingbird_Vase_web.GIF"
 Credits Text: |-
   **[Rachel Dorn](http://racheldorn.com/)** *Fuck Pot* (2018) porcelain, underglaze and glaze AUD $600

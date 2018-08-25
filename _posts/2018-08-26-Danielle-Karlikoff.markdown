@@ -14,6 +14,8 @@ Credits Text: |-
   *Eggy* made out of resin.
 
   photography **[Anna Pogossova](https://annapogossova.allyou.net/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan)**
+is featured?: true
+Blurb: Featuring pieces by Danielle Karlikoff. Photograph by Anna Pogossova.
 layout: gallery
 ---
 

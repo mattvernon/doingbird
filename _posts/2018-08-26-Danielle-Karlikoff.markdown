@@ -5,6 +5,7 @@ categories:
 - Objects
 tags:
 - Accessories
+- Artworks
 Main Image: "/uploads/Doingbird_DK_web.jpg.JPG"
 Credits Text: |-
   Wear these pieces to your next soirée or out in the world.

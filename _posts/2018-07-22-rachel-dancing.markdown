@@ -9,4 +9,4 @@ tags:
 Field name: 
 ---
 
-<iframe src="https://player.vimeo.com/video/286938413" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/286938413?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

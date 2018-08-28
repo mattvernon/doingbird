@@ -7,6 +7,7 @@ categories:
 tags:
 - Artists
 Field name: 
+layout: gallery
 ---
 
 <iframe src="https://player.vimeo.com/video/286938413?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>![IMG_05072.jpg](/uploads/IMG_05072.jpg)

@@ -7,6 +7,7 @@ categories:
 tags:
 - Artists
 Main Image: "/uploads/2h623s.gif"
+Credits Text: "[](https://www.instagram.com/spencernotspencer/?hl=en)"
 is featured?: true
 Field name: 
 layout: gallery

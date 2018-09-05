@@ -8,7 +8,7 @@ tags:
 - Designers
 author: Maddy Woon
 Main Image: "/uploads/Anna_Plunkett_Luke_Sales_doingbird_FW_DesignerPortraits.jpg"
-is featured?: true
+is featured?: false
 ---
 
 ![Anna_Plunkett_Luke_Sales_doingbird_FW_DesignerPortraits.jpg](/uploads/Anna_Plunkett_Luke_Sales_doingbird_FW_DesignerPortraits.jpg)

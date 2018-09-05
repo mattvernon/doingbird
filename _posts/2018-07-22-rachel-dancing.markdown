@@ -7,10 +7,6 @@ categories:
 tags:
 - Artists
 Main Image: "/uploads/2h623s.gif"
-Credits Text: |-
-  > photographs BYRON SPENCER at DLMAU https://www.instagram.com/spencernotspencer/?hl=en https://www.instagram.com/dlm_au/?hl=en
-  styling COCO ADORJANY https://www.instagram.com/cocoadorjany/?hl=en
-  model RACHEL RUTT at CHIC https://www.instagram.com/rachelrutt_/?hl=en https://www.instagram.com/chic_management/?hl=en https://www.instagram.com/heartpeoplemusic/
 is featured?: true
 Field name: 
 layout: gallery
@@ -23,5 +19,7 @@ layout: gallery
 ![IMG_0522.jpg](/uploads/IMG_0522.jpg)
 
 ![IMG_0518.jpg](/uploads/IMG_0518.jpg)
+
 ![D004556-R1-22-23A.jpg](/uploads/D004556-R1-22-23A.jpg)
+
 ![grid-a425a7.jpg](/uploads/grid-a425a7.jpg)

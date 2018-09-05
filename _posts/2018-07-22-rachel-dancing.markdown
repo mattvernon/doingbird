@@ -23,7 +23,5 @@ layout: post
 ![IMG_0522.jpg](/uploads/IMG_0522.jpg)
 
 ![IMG_0518.jpg](/uploads/IMG_0518.jpg)
-
-![D004553-R1-05-6.jpg](/uploads/D004553-R1-05-6.jpg)
-
-![grid-12bb40.jpg](/uploads/grid-12bb40.jpg)![D004556-R1-22-23A.jpg](/uploads/D004556-R1-22-23A.jpg)
+![D004556-R1-22-23A.jpg](/uploads/D004556-R1-22-23A.jpg)
+![grid-a425a7.jpg](/uploads/grid-a425a7.jpg)

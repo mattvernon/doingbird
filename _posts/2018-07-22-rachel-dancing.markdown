@@ -26,4 +26,3 @@ layout: post
 
 ![D004553-R1-05-6.jpg](/uploads/D004553-R1-05-6.jpg)
 
-![D004553-R1-04-5.jpg](/uploads/D004553-R1-04-5.jpg)![2h623s.gif](/uploads/2h623s.gif)

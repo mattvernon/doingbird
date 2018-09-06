@@ -8,9 +8,9 @@ tags:
 - Artists
 Main Image: "/uploads/2h623s.gif"
 Credits Text: "[](https://www.instagram.com/spencernotspencer/?hl=en)\n\nphotographs
-  BYRON SPENCER at DLMAU (https://www.instagram.com/spencernotspencer/?hl=en) (https://www.instagram.com/dlm_au/?hl=en)\nstyling
-  COCO ADORJANY \n(https://www.instagram.com/cocoadorjany/?hl=en)\nmodel RACHEL RUTT
-  at CHIC \n(https://www.instagram.com/rachelrutt_/?hl=en) (https://www.instagram.com/chic_management/?hl=en)
+  BYRON SPENCER at DLMAU (https://www.instagram.com/spencernotspencer/?hl=en) (https://www.instagram.com/dlm_au/?hl=en)
+  \                              \n         styling COCO ADORJANY \n(https://www.instagram.com/cocoadorjany/?hl=en)\nmodel
+  RACHEL RUTT at CHIC \n(https://www.instagram.com/rachelrutt_/?hl=en) (https://www.instagram.com/chic_management/?hl=en)
   (https://www.instagram.com/heartpeoplemusic/)"
 is featured?: true
 Field name: 

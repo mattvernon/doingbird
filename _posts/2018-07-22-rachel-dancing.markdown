@@ -42,3 +42,4 @@ I’m having a good time Feel my low pressure
 
 ![D004556-R1-22-23A.jpg](/uploads/D004556-R1-22-23A.jpg)
 
+PRADA jumper, vintage pants,vintage necklaces from ZOO EMPORIUM

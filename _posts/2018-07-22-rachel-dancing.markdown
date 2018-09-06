@@ -7,8 +7,8 @@ categories:
 tags:
 - Artists
 Main Image: "/uploads/2h623s.gif"
-Credits Text: photographs **[Byron Spencer] (https://www.instagram.com/spencernotspencer/)**
-  at **[DLMAU](https://www.instagram.com/dlm_au/)**styling ** [COCO ADORJANY](https://www.instagram.com/cocoadorjany/)**
+Credits Text: photographs **[Byron Spencer](https://www.instagram.com/spencernotspencer/)**
+  at **[DLMAU](https://www.instagram.com/dlm_au/)**styling **[COCO ADORJANY](https://www.instagram.com/cocoadorjany/)**
   model **[RACHEL RUTT](https://www.instagram.com/rachelrutt_/)** at **[CHIC](https://www.instagram.com/chic_management/)**music/lyrics**[HEART
   PEOPLE](https://www.instagram.com/heartpeoplemusic/)**
 is featured?: true

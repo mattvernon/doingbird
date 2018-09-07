@@ -41,8 +41,10 @@ Feel my low pressure
 ![IMG_0518.jpg](/uploads/IMG_0518.jpg)
 
 ![IMG_05072.jpg](/uploads/IMG_05072.jpg)
+Vintage necklaces from ZOO EMPORIUM
 
 ![grid-a425a7.jpg](/uploads/grid-a425a7.jpg)
+PRADA jumper, vintage pants from ZOO EMPORIUM
 
 ![IMG_0522.jpg](/uploads/IMG_0522.jpg)
 

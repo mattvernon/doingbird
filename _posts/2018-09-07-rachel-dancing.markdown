@@ -21,7 +21,6 @@ LOW PRESSURE / HEART PEOPLE
                                                        
 I like to dance, but I don’t get out much
 
-
 So tonight is really special
 I’m having a good time
 Oh when the music’s pumping and you can’t talk Feel my low pressure

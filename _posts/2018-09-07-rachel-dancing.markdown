@@ -23,16 +23,6 @@ I like to dance, but I don’t get out much
 So tonight is really special
 I’m having a good time
 Oh when the music’s pumping and you can’t talk Feel my low pressure
-Another thing,
-Sometimes it’s hard being a girl dancing by yourself Cos people think its an opening,
-You know, to meet you
-And they think you’re trying to incite a conversation And that the dancing is only a preliminary
-Not the actual reason that you’re there.
-But for me it’s not like that
-And sometimes you have to Feel my low pressure
-I walked in and I felt good
-I wanted to hear my favourite DJ
-I’m having a good time Feel my low pressure
 
 ![IMG_0518.jpg](/uploads/IMG_0518.jpg)
 

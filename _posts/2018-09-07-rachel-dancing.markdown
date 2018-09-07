@@ -11,7 +11,7 @@ Credits Text: photographs **[Byron Spencer](https://www.instagram.com/spencernot
   model **[RACHEL RUTT](https://www.instagram.com/rachelrutt_/)** at **[CHIC](https://www.instagram.com/chic_management/)**
   music/lyrics **[HEART PEOPLE](https://www.instagram.com/heartpeoplemusic/)**
 is featured?: true
-Blurb: Rachel Rutt from Heart people captured by Byron Spencer
+Blurb: Rachel Rutt from Heart People captured by Byron Spencer
 layout: gallery
 ---
 

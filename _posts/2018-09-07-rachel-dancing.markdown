@@ -24,6 +24,14 @@ So tonight is really special
 I’m having a good time  
 Oh when the music’s pumping and you can’t talk Feel my low pressure
 
+Another thing,  
+Sometimes it’s hard being a girl dancing by yourself Cos people   think its an opening,  
+You know, to meet you  
+And they think you’re trying to incite a conversation 
+And that the dancing is only a preliminary  
+Not the actual reason that you’re there.  
+But for me it’s not like that  
+
 ![IMG_0518.jpg](/uploads/IMG_0518.jpg)
 
 ![IMG_05072.jpg](/uploads/IMG_05072.jpg)

@@ -49,5 +49,3 @@ PRADA jumper, vintage pants from ZOO EMPORIUM
 ![IMG_0522.jpg](/uploads/IMG_0522.jpg)
 
 ![D004556-R1-22-23A.jpg](/uploads/D004556-R1-22-23A.jpg)
-
-PRADA jumper, vintage pants,vintage necklaces from ZOO EMPORIUM

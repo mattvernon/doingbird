@@ -1,6 +1,9 @@
 ---
 title: Sam Khoury
 date: 2018-09-12 12:20:00 +10:00
+categories:
+- Fashion
+layout: gallery
 ---
 
 ![SK000342-R1-07-8.jpg](/uploads/SK000342-R1-07-8.jpg)

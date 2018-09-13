@@ -3,9 +3,12 @@ title: Roadside
 date: 2018-09-12 12:20:00 +10:00
 categories:
 - Fashion
+tags:
+- Shoot
 Credits Text: "photographs **[Sam Khoury](https://www.instagram.com/s.a.m.khoury/)**
-  \   \nArt Direction: Clarke Rudick  \nHair/Makeup: Jimmy Owen Jones  \nModel: Robbie
-  Treend @ Tomorrow is Another Day\n"
+  \   \nArt Direction: Clarke Rudick  \nHair/Makeup **[Jimmy Owen Jones](https://www.instagram.com/jimmyowenjones/?hl=en)**
+  \nModel: **[Robbie Treend](https://www.instagram.com/robbietreend/)** at **[Tomorrow
+  is Another Day](https://www.instagram.com/tomorrowisanotherday_agency/?hl=en)\n"
 layout: gallery
 ---
 

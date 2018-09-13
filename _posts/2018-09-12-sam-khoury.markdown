@@ -14,7 +14,8 @@ layout: gallery
 ---
 
 ![SK000342-R1-07-8.jpg](/uploads/SK000342-R1-07-8.jpg)
-Top, **Our Legacy** Pants, **Dickies** 
+Top, **Our Legacy** Pants, **Dickies**
+ 
 ![SKBW3480-R1-08-9.jpg](/uploads/SKBW3480-R1-08-9.jpg)
 
 ![SK000339-R1-09-10.jpg](/uploads/SK000339-R1-09-10.jpg)

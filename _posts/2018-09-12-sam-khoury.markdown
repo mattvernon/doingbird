@@ -6,8 +6,9 @@ categories:
 tags:
 - Shoot
 Credits Text: "photographs **[Sam Khoury](https://www.instagram.com/s.a.m.khoury/)**
-  \   \nArt Direction: Clarke Rudick  \nHair/Makeup **[Jimmy Owen Jones](https://www.instagram.com/jimmyowenjones/?hl=en)**
-  \nModel: **[Robbie Treend](https://www.instagram.com/robbietreend/)** at **[Tomorrow
+  \   \nArt Direction: **[Clarke Rudick](https://www.instagram.com/itsclarkewithane/?hl=en)**
+  \  \nHair/Makeup **[Jimmy Owen Jones](https://www.instagram.com/jimmyowenjones/?hl=en)**
+  \  \nModel: **[Robbie Treend](https://www.instagram.com/robbietreend/)** at **[Tomorrow
   is Another Day](https://www.instagram.com/tomorrowisanotherday_agency/?hl=en)**\n"
 layout: gallery
 ---

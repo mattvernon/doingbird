@@ -53,4 +53,4 @@ When we speak, Anderson is in the studio preparing for a series he’ll be showi
 
 **Above:** *Rodeo Role Play 7, Mixed Media on Polly-Cotton* (2017) by Bryce Anderson 
 
-See more of Anderson's work [here](https://www.instagram.com/bryce__anderson/) and buy prints at [CHINA HEIGHTS GALLERY](https://shop.chinaheights.com/category/bryce-anderson).
+*See more of Anderson's work [here](https://www.instagram.com/bryce__anderson/) and buy prints at **[CHINA HEIGHTS GALLERY](https://shop.chinaheights.com/category/bryce-anderson)***

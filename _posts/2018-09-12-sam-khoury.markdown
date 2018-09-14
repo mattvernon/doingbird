@@ -10,6 +10,8 @@ Credits Text: "photographs **[Sam Khoury](https://www.instagram.com/s.a.m.khoury
   \  \nHair/Makeup **[Jimmy Owen Jones](https://www.instagram.com/jimmyowenjones/?hl=en)**
   \  \nModel: **[Robbie Treend](https://www.instagram.com/robbietreend/)** at **[Tomorrow
   is Another Day](https://www.instagram.com/tomorrowisanotherday_agency/?hl=en)**\n"
+is featured?: true
+blurb: Photographs by Sam Khoury
 layout: gallery
 ---
 

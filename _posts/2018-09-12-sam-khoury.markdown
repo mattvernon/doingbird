@@ -5,6 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/SK000342-R1-02-3.jpg"
 Credits Text: "photographs **[Sam Khoury](https://www.instagram.com/s.a.m.khoury/)**
   \   \nArt Direction: **[Clarke Rudick](https://www.instagram.com/itsclarkewithane/?hl=en)**
   \  \nHair/Makeup **[Jimmy Owen Jones](https://www.instagram.com/jimmyowenjones/?hl=en)**

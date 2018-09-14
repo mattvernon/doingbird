@@ -52,3 +52,5 @@ When we speak, Anderson is in the studio preparing for a series he’ll be showi
 ![RRP 7, Mixed Media on Poly-Cotton 91 x 121 cm. 2018.jpg](/uploads/RRP%207,%20Mixed%20Media%20on%20Poly-Cotton%2091%20x%20121%20cm.%202018.jpg)
 
 **Above:** *Rodeo Role Play 7, Mixed Media on Polly-Cotton* (2017) by Bryce Anderson 
+
+See more of Anderson's work [here](https://www.instagram.com/bryce__anderson/) and buy prints at [CHINA HEIGHTS GALLERY](https://shop.chinaheights.com/category/bryce-anderson).

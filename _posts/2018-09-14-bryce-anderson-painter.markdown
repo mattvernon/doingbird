@@ -13,7 +13,7 @@ Main Image: "/uploads/RRP%202,%20Mixed%20Media%20on%20Polly-cotton,%2091%20x%201
 
 **Above:** *Rodeo Role Play 2, Mixed Media on Polly-Cotton* (2017) by Bryce Anderson 
 
-Bryce Anderson was that kid in school who could draw every cartoon character from memory. These days, he uses his skills to make art. Anderson describes his work as “painting about collages or, alternatively, collages about painting”. Like onions (and ogres) Anderson’s multi-media works have layers; Pages of books are collaged on top of his paintings, obstructing the action and inviting the viewer to spend some time investigating each element of the work. 
+[Bryce Anderson](https://www.instagram.com/bryce__anderson/) was that kid in school who could draw every cartoon character from memory. These days, he uses his skills to make art. Anderson describes his work as “painting about collages or, alternatively, collages about painting”. Like onions (and ogres) Anderson’s multi-media works have layers; Pages of books are collaged on top of his paintings, obstructing the action and inviting the viewer to spend some time investigating each element of the work. 
 
 His latest series ‘Rodeo Role Play’ is based on real life rodeo shows that he attended in outback Australia. Watching men perform in the rodeo ring, Anderson was struck by the American-ness of the proceedings. He set out to document these events and wound up exploring the complex tensions between the heteronormative male mythologies of the Australian stockman and the American cowboy, as you do. 
 

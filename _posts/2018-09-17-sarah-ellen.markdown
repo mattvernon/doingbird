@@ -4,9 +4,10 @@ date: 2018-09-17 14:43:00 +10:00
 ---
 
 ![sarah ellen 1.jpg](/uploads/sarah%20ellen%201.jpg)
-**Prada** jumper, tulle dress and silk dress
+**Prada** jumper
 
 ![sarah ellen 2.jpg](/uploads/sarah%20ellen%202.jpg)
+**Topshop** blazer and pants; **Prada** dress, gloves and shoes
 
 ![sarah Ellen 3.jpg](/uploads/sarah%20Ellen%203.jpg)
 

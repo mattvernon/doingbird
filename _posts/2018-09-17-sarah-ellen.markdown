@@ -26,8 +26,8 @@ layout: gallery
 ![sarah ellen 2.jpg](/uploads/sarah%20ellen%202.jpg)
 **Topshop** blazer and pants; **Prada** dress, gloves and shoes
 
-![sarah ellen 8.jpg](/uploads/sarah%20ellen%208.jpg)
-**Miu Miu** coat, jumper, skirt, neck tie and socks; **Calvin Klein** shoes
+![sarah Ellen 9.jpg](/uploads/sarah%20Ellen%209.jpg)
+**Bally** coat; **Prada** dress
 
 ![sarah ellen 5.jpg](/uploads/sarah%20ellen%205.jpg)
 **Prada** jacket, socks and shoes; **Miu Miu** shorts 
@@ -40,8 +40,8 @@ layout: gallery
 ![sarah ellen 12.jpg](/uploads/sarah%20ellen%2012.jpg)
 **Mulberry** dress and shoes
 
-![sarah Ellen 9.jpg](/uploads/sarah%20Ellen%209.jpg)
-**Bally** coat; **Prada** dress
+![sarah ellen 8.jpg](/uploads/sarah%20ellen%208.jpg)
+**Miu Miu** coat, jumper, skirt, neck tie and socks; **Calvin Klein** shoes
 
 ![sarah ellen 11.jpg](/uploads/sarah%20ellen%2011.jpg)
 **Prada** shoes

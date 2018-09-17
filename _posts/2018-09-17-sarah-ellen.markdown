@@ -39,6 +39,9 @@ layout: gallery
 ![sarah ellen 7.jpg](/uploads/sarah%20ellen%207.jpg)
 **Prada** jumper
 
+![sarah ellen 12.jpg](/uploads/sarah%20ellen%2012.jpg)
+**Mulberry** dress and shoes
+
 ![sarah Ellen 9.jpg](/uploads/sarah%20Ellen%209.jpg)
 **Bally** coat; **Prada** dress
 
@@ -47,8 +50,5 @@ layout: gallery
 
 ![sarah ellen 11.jpg](/uploads/sarah%20ellen%2011.jpg)
 **Prada** shoes
-
-![sarah ellen 12.jpg](/uploads/sarah%20ellen%2012.jpg)
-**Mulberry** dress and shoes
 
 ![sarah Ellen 13.jpg](/uploads/sarah%20Ellen%2013.jpg)

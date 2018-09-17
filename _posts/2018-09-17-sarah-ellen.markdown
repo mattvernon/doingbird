@@ -1,6 +1,20 @@
 ---
 title: Sarah Ellen
 date: 2018-09-17 14:43:00 +10:00
+categories:
+- Fashion
+tags:
+- Shoot
+- Fashion
+Main Image: "/uploads/sarah%20ellen%207.jpg"
+Credits Text: |+
+  photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)** at **[Art Box Black](https://www.instagram.com/artboxblack/)**
+  styling **[Ally Macrae](https://www.instagram.com/ally.macrae/)**
+  hair **[Madison Voloshin](https://www.instagram.com/badisonv/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
+  make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+
+layout: gallery
 ---
 
 ![sarah ellen 1.jpg](/uploads/sarah%20ellen%201.jpg)

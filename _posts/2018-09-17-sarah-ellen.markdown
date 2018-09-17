@@ -7,13 +7,10 @@ tags:
 - Shoot
 - Fashion
 Main Image: "/uploads/sarah%20ellen%207.jpg"
-Credits Text: |+
-  photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)** at **[Art Box Black](https://www.instagram.com/artboxblack/)**
-  styling **[Ally Macrae](https://www.instagram.com/ally.macrae/)**
-  hair **[Madison Voloshin](https://www.instagram.com/badisonv/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
-  make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
-  model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
-
+Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)\nstyling
+  **[Meg Grey](https://www.instagram.com/graygardens/?hl=en)**\nhair **[Pete Lennon](https://www.instagram.com/petelennon/?hl=en)**
+  \nmake-up **[Lind Jefferyes](https://www.instagram.com/lindajefferyesmakeup/?hl=en)**
+  \nmodel **[Sarah Ellen](https://www.instagram.com/sarahellen/?hl=en)** \n"
 layout: gallery
 ---
 

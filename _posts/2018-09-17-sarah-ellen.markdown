@@ -4,6 +4,7 @@ date: 2018-09-17 14:43:00 +10:00
 ---
 
 ![sarah ellen 1.jpg](/uploads/sarah%20ellen%201.jpg)
+**Prada** jumper, tulle dress and silk dress
 
 ![sarah ellen 2.jpg](/uploads/sarah%20ellen%202.jpg)
 

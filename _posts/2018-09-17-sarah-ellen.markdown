@@ -8,10 +8,11 @@ tags:
 - Shoot
 - Fashion
 Main Image: "/uploads/sarah%20ellen%207.jpg"
-Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)\nstyling
-  **[Meg Grey](https://www.instagram.com/graygardens/?hl=en)**\nhair **[Pete Lennon](https://www.instagram.com/petelennon/?hl=en)**
-  \nmake-up **[Lind Jefferyes](https://www.instagram.com/lindajefferyesmakeup/?hl=en)**
-  \nmodel **[Sarah Ellen](https://www.instagram.com/sarahellen/?hl=en)** \n"
+Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
+  \ \nstyling **[Meg Grey](https://www.instagram.com/graygardens/?hl=en)**  \nhair
+  **[Pete Lennon](https://www.instagram.com/petelennon/?hl=en)**   \nmake-up **[Lind
+  Jefferyes](https://www.instagram.com/lindajefferyesmakeup/?hl=en)**   \nmodel **[Sarah
+  Ellen](https://www.instagram.com/sarahellen/?hl=en)** \n"
 layout: gallery
 ---
 

@@ -13,6 +13,8 @@ Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_phot
   **[Pete Lennon](https://www.instagram.com/petelennon/?hl=en)**   \nmake-up **[Lind
   Jefferyes](https://www.instagram.com/lindajefferyesmakeup/?hl=en)**   \nmodel **[Sarah
   Ellen](https://www.instagram.com/sarahellen/?hl=en)** \n"
+is featured?: true
+blurb: photographs by Max Doyle
 layout: gallery
 ---
 

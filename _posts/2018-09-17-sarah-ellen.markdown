@@ -14,7 +14,7 @@ Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_phot
   Jefferyes](https://www.instagram.com/lindajefferyesmakeup/?hl=en)**   \nmodel **[Sarah
   Ellen](https://www.instagram.com/sarahellen/?hl=en)** \n"
 is featured?: true
-blurb: photographs by Max Doyle
+blurb: Sarah Ellen photographed by Max Doyle
 layout: gallery
 ---
 

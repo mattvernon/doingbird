@@ -30,5 +30,14 @@ blurb: Photographs by Mia Rankin
 **Ramp Tramp Tramp Stamp** bodysuit, stylist's own shoes
 
 ![Naomi_Mia_Kurt_Joel0012.jpg](/uploads/Naomi_Mia_Kurt_Joel0012.jpg)
+**Marokse Peech** dress
+
+![Naomi_Mia_Kurt_Joel0013.jpg](/uploads/Naomi_Mia_Kurt_Joel0013.jpg)
+**Marokse Peech** dress
+
+![Naomi_Mia_Kurt_Joel0014.jpg](/uploads/Naomi_Mia_Kurt_Joel0014.jpg)
+**BIIS** bag, vintage underwear
+
+
 
 

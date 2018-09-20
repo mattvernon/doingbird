@@ -51,6 +51,3 @@ blurb: Photographs by Mia Rankin
 
 ![Naomi_Mia_Kurt_Joel0017.jpg](/uploads/Naomi_Mia_Kurt_Joel0017.jpg)
 **Ramp Tramp Tramp Stamp** bodysuit, vintage vest, **Balenciaga** shoes, **Libidex from Max Black** stockings
-
-
-

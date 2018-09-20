@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Naomi_Mia_Kurt_Joel0006.jpg"
+Main Image: "/uploads/Naomi_Mia_Kurt_Joel0003.jpg"
 is featured?: true
 blurb: Photographs by Mia Rankin
 ---
@@ -19,4 +19,16 @@ blurb: Photographs by Mia Rankin
 
 ![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)
 **Ramp Tramp Tramp Stamp** dress, **Marsoke Peech** bodysuit
+
+![Naomi_Mia_Kurt_Joel0007.jpg](/uploads/Naomi_Mia_Kurt_Joel0007.jpg)
+**Ramp Tramp Tramp Stamp** dress, **Marsoke Peech** bodysuit
+
+![Naomi_Mia_Kurt_Joel0008.jpg](/uploads/Naomi_Mia_Kurt_Joel0008.jpg)
+**Ramp Tramp Tramp Stamp** top, **Prada** dress, socks & shoes, **Libidex from Max Black** stockings & gloves
+
+![Naomi_Mia_Kurt_Joel0010.jpg](/uploads/Naomi_Mia_Kurt_Joel0010.jpg)
+**Ramp Tramp Tramp Stamp** bodysuit, stylist's own shoes
+
+![Naomi_Mia_Kurt_Joel0012.jpg](/uploads/Naomi_Mia_Kurt_Joel0012.jpg)
+
 

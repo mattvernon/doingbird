@@ -12,7 +12,7 @@ Credits Text: |-
   hair **[Kyye Reed](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
   model **[Loli](https://www.instagram.com/lauryn.watson/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
-is featured?: true
+is featured?: false
 Blurb: Photographs by Rene Vaile
 layout: gallery
 ---

@@ -1,5 +1,5 @@
 ---
-title: By Mia Rankin
+title: Naomi
 date: 2018-09-20 21:36:00 +10:00
 published: false
 categories:
@@ -25,10 +25,10 @@ blurb: Photographs by Mia Rankin
 ![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)
 **Ramp Tramp Tramp Stamp** dress, **Maroske Peech** bodysuit
 
-![Naomi_Mia_Kurt_Joel0007.jpg](/uploads/Naomi_Mia_Kurt_Joel0007.jpg)
+![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)
 **Ramp Tramp Tramp Stamp** dress, **Maroske Peech** bodysuit
 
-![Naomi_Mia_Kurt_Joel0008.jpg](/uploads/Naomi_Mia_Kurt_Joel0008.jpg)
+![Naomi_Mia_Kurt_Joel0007.jpg](/uploads/Naomi_Mia_Kurt_Joel0007.jpg)
 **Ramp Tramp Tramp Stamp** top, **Prada** dress, socks & shoes, **Libidex from Max Black** stockings & gloves
 
 ![Naomi_Mia_Kurt_Joel0010.jpg](/uploads/Naomi_Mia_Kurt_Joel0010.jpg)
@@ -51,6 +51,3 @@ blurb: Photographs by Mia Rankin
 
 ![Naomi_Mia_Kurt_Joel0017.jpg](/uploads/Naomi_Mia_Kurt_Joel0017.jpg)
 **Ramp Tramp Tramp Stamp** bodysuit, vintage vest, **Balenciaga** shoes, **Libidex from Max Black** stockings
-
-
-

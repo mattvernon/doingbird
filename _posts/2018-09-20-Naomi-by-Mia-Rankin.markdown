@@ -26,9 +26,6 @@ layout: gallery
 ![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)
 **Ramp Tramp Tramp Stamp** dress, **Maroske Peech** bodysuit
 
-![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)
-**Ramp Tramp Tramp Stamp** dress, **Maroske Peech** bodysuit
-
 ![Naomi_Mia_Kurt_Joel0007.jpg](/uploads/Naomi_Mia_Kurt_Joel0007.jpg)
 **Ramp Tramp Tramp Stamp** top, **Prada** dress, socks & shoes, **Libidex from Max Black** stockings & gloves
 

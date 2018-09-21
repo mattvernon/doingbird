@@ -14,6 +14,7 @@ Credits Text: |-
   model **[Naomi Stevens](https://www.instagram.com/naomi__stevens/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 blurb: Photographs by Mia Rankin
+layout: gallery
 ---
 
 ![Naomi_Mia_Kurt_Joel0003.jpg](/uploads/Naomi_Mia_Kurt_Joel0003.jpg)

@@ -2,7 +2,7 @@
 title: Ira
 date: 2018-09-26 18:01:00 +10:00
 published: false
+layout: gallery
 ---
 
-<iframe src="https://player.vimeo.com/video/291859158" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/291859158">IRA B_W</a> from <a href="https://vimeo.com/maxdoyle">Max Doyle</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/291859158?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

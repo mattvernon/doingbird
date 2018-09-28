@@ -3,8 +3,9 @@ title: Ira
 date: 2018-09-26 18:01:00 +10:00
 published: false
 Main Image: "/uploads/Card_01-087.jpg"
-Credits Text: 'photographer/director **[Pierre Toussaint](https://www.instagram.com/pierretoussaint/?hl=en)**  DOP:
-  Rhys Graham, Producer: Chris Hemmings @contactstudios'
+Credits Text: |-
+  photographer/director **[Pierre Toussaint](https://www.instagram.com/pierretoussaint/?hl=en)**              DOP **[Rhys Graham](https://www.instagram.com/rhysgraham/?hl=en)**
+  Producer **[Chris Hemmings](https://www.instagram.com/stillrep/)** at @contactstudios
 is featured?: true
 layout: gallery
 ---

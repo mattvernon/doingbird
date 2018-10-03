@@ -6,7 +6,10 @@ categories:
 - Art
 tags:
 - Shoot
-Credits Text: "Images by **[Anna Pogossova](https://www.instagram.com/annapogossova/)**\n\n"
+Credits Text: |-
+  Images by **[Anna Pogossova](https://www.instagram.com/annapogossova/)**
+
+  The exhibition launches on the 3rd of October at **[First Draft Gallery](http://firstdraft.org.au/)** until the 26th of October.
 layout: gallery
 ---
 

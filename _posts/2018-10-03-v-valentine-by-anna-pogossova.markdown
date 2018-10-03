@@ -10,3 +10,9 @@ Credits Text: "Images by **[Anna Pogossova](https://www.instagram.com/annapogoss
 layout: gallery
 ---
 
+![Valentine_2.jpg](/uploads/Valentine_2.jpg)
+**Valentine #2 (Nefertiti), 2018**
+
+![AnnaPogossova_Infirmary for Cars Room 2.jpg](/uploads/AnnaPogossova_Infirmary%20for%20Cars%20Room%202.jpg)
+**Infirmary for Cars (Room #2, Female Emblem), 2018**
+

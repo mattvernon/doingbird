@@ -5,6 +5,7 @@ categories:
 - Art
 tags:
 - Shoot
+Main Image: "/uploads/AnnaPogossova_Infirmary%20for%20Cars%20Room%202.jpg"
 Credits Text: |-
   Images by **[Anna Pogossova](https://www.instagram.com/annapogossova/)**
 

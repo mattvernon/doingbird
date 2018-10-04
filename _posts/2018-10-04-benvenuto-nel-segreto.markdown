@@ -13,6 +13,8 @@ Benvenuto nel segreto,
 
 The first admission is that only half of you will get there. Here. Maybe less. Some will quit now, learning this, and I suppose we’ll count those in the eliminated, too.
 
+![180805_DT_Palermo_074.jpg](/uploads/180805_DT_Palermo_074.jpg)
+
 You won’t choose the day you come here, the day will choose you. And you will know it by the low hissing of a particular kind of cicada that seems to follow you everywhere you go between the hours of noon and 1pm while walking between your morning destination (which I assume to be a church or a pastry shop) and your afternoon (lunch or “brunch” as the Americans call it). Also we should say that we do not, we do not, discriminate against any arrivals. We only accept groups of four or less, unless you come with a larger group. This has never happened; likely, due to the realities of interpersonal confusion surmounting the likelihood of a group of travelers solving any complex problem in a foreign territory. If you are wearing a clear visor, a fanny pack around the waist, a Hawaiian shirt, cargo pants, dresses made of fishnets, glasses that perch awkwardly on your face, backwards baseball hats, belly shirts, unitards, or athletic gear, we will not turn you away. 
 
 You hear the sound, yes, and it must be a durational occurrence and then you’ll know, ok, si, today is the day. Tell nobody except the people you would like to join you. For the rest of the day you will be committed to locating us. And some will fail! But there is always next time. Next time, being, the next time you hear the same sound and only that sound. Of the hissing cicadas at midday. Okay.

@@ -6,6 +6,13 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/180929_Doingbirdmagazine_Shot_06.jpg"
+Credits Text: |-
+  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)**
+  make-up **[Rosie Neyle](https://www.rosieneyle.com/)**
+  gaffer **Finbarr Collins**
+  photographic assistant **Otis Clav**
+  models (top to bottom) **Ruby** at **IMG**, **Anna Kaljo** at **IMG**, **Marlo** at **Chadwick**, **Awillo** at **Kult**, **Tegan** at **IMG**
 layout: gallery
 ---
 
@@ -33,3 +40,8 @@ Awillo wears **Mulberry** top, scarf & earrings
 ![180929_Doingbirdmagazine_Shot_07.jpg](/uploads/180929_Doingbirdmagazine_Shot_07.jpg)
 Awillo wears **Mulberry** top, scarf, pants & earrings
 
+![180929_Doingbirdmagazine_Shot_10.jpg](/uploads/180929_Doingbirdmagazine_Shot_10.jpg)
+Tegan wears **Louis Vuitton** top & earrings
+
+![180929_Doingbirdmagazine_Shot_09.jpg](/uploads/180929_Doingbirdmagazine_Shot_09.jpg)
+Tegan wears **Louis Vuitton** top, skirt & earrings

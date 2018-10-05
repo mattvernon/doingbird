@@ -38,10 +38,10 @@ Anna wears **Prada** coat & dress
 Anna wears **Prada** coat & dress
 
 ![180929_Doingbirdmagazine_Shot_08.jpg](/uploads/180929_Doingbirdmagazine_Shot_08.jpg)
-willo wears **Mulberry** top, scarf & earrings
+Awillo wears **Mulberry** top, scarf & earrings
 
 ![180929_Doingbirdmagazine_Shot_07.jpg](/uploads/180929_Doingbirdmagazine_Shot_07.jpg)
-willo wears **Mulberry** top, pants, scarf & earrings
+Awillo wears **Mulberry** top, pants, scarf & earrings
 
 ![180929_Doingbirdmagazine_Shot_10.jpg](/uploads/180929_Doingbirdmagazine_Shot_10.jpg)
 Tegan wears **Louis Vuitton** top & earring

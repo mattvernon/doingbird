@@ -13,6 +13,8 @@ Credits Text: |-
   gaffer **Finbarr Collins**
   photographic assistant **Otis**
   models (top to bottom) **Marlo** at **Chadwick**, **Ruby** at **IMG**, **Anna Kaljo** at **IMG**, **Awillo** at **Kult**, **Tegan** at **IMG**
+is featured?: true
+blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 

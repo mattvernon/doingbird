@@ -20,4 +20,15 @@ layout: gallery
 
 ![180929_Doingbirdmagazine_Shot_06.jpg](/uploads/180929_Doingbirdmagazine_Shot_06.jpg)
 
+Marlo wears **Chanel** dress & earrings
+
 ![180929_Doingbirdmagazine_Shot_05.jpg](/uploads/180929_Doingbirdmagazine_Shot_05.jpg)
+
+Marlo wears **Chanel** dress & earrings
+
+![180929_Doingbirdmagazine_Shot_02.jpg](/uploads/180929_Doingbirdmagazine_Shot_02.jpg)
+Ruby wears **Salvatore Ferragamo** blazer & lapel pin
+
+![180929_Doingbirdmagazine_Shot_01.jpg](/uploads/180929_Doingbirdmagazine_Shot_01.jpg)
+Ruby wears **Salvatore Ferragamo** blazer, pants & lapel pin
+

@@ -44,4 +44,9 @@ willo wears **Mulberry** top, scarf & earrings
 ![180929_Doingbirdmagazine_Shot_07.jpg](/uploads/180929_Doingbirdmagazine_Shot_07.jpg)
 willo wears **Mulberry** top, pants, scarf & earrings
 
+![180929_Doingbirdmagazine_Shot_10.jpg](/uploads/180929_Doingbirdmagazine_Shot_10.jpg)
+Tegan wears **Louis Vuitton** top & earring
+
+![180929_Doingbirdmagazine_Shot_09.jpg](/uploads/180929_Doingbirdmagazine_Shot_09.jpg)
+Tegan wears **Louis Vuitton** top, skirt & earring
 

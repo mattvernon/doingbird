@@ -32,3 +32,16 @@ Ruby wears **Salvatore Ferragamo** blazer & lapel pin
 ![180929_Doingbirdmagazine_Shot_01.jpg](/uploads/180929_Doingbirdmagazine_Shot_01.jpg)
 Ruby wears **Salvatore Ferragamo** blazer, pants & lapel pin
 
+![180929_Doingbirdmagazine_Shot_04.jpg](/uploads/180929_Doingbirdmagazine_Shot_04.jpg)
+Anna wears **Prada** coat & dress
+
+![180929_Doingbirdmagazine_Shot_03.jpg](/uploads/180929_Doingbirdmagazine_Shot_03.jpg)
+Anna wears **Prada** coat & dress
+
+![180929_Doingbirdmagazine_Shot_08.jpg](/uploads/180929_Doingbirdmagazine_Shot_08.jpg)
+willo wears **Mulberry** top, scarf & earrings
+
+![180929_Doingbirdmagazine_Shot_07.jpg](/uploads/180929_Doingbirdmagazine_Shot_07.jpg)
+willo wears **Mulberry** top, pants, scarf & earrings
+
+

@@ -17,7 +17,7 @@ Benvenuto nel segreto,
 
 The first admission is that only half of you will get there. Here. Maybe less. Some will quit now, learning this, and I suppose we’ll count those in the eliminated, too.
 
-![180811_DT_Palermo_045.jpg](/uploads/180811_DT_Palermo_045.jpg)
+![180806_DT_Palermo_007.jpg](/uploads/180806_DT_Palermo_007.jpg)
 
 You won’t choose the day you come here, the day will choose you. And you will know it by the low hissing of a particular kind of cicada that seems to follow you everywhere you go between the hours of noon and 1pm while walking between your morning destination (which I assume to be a church or a pastry shop) and your afternoon (lunch or “brunch” as the Americans call it). Also we should say that we do not, we do not, discriminate against any arrivals. We only accept groups of four or less, unless you come with a larger group. This has never happened; likely, due to the realities of interpersonal confusion surmounting the likelihood of a group of travelers solving any complex problem in a foreign territory. If you are wearing a clear visor, a fanny pack around the waist, a Hawaiian shirt, cargo pants, dresses made of fishnets, glasses that perch awkwardly on your face, backwards baseball hats, belly shirts, unitards, or athletic gear, we will not turn you away. 
 
@@ -57,7 +57,7 @@ As you may know if you’ve been in town for a few days, there is often an after
 
 We discourage the use of maps on “smartphones” because they complicate your discovery. We are not accessible via traveling the roads photographed by satellites. Don’t ask for any more information, we don’t know or care, we only know great food and wine and love of the game.
 
-![180806_DT_Palermo_007.jpg](/uploads/180806_DT_Palermo_007.jpg)
+![180811_DT_Palermo_045.jpg](/uploads/180811_DT_Palermo_045.jpg)
 
 A disheveled rooster cries out in from a courtyard once the storm has passed. He thinks it is morning, we don’t know, and you will follow this sound until you find him. The trees will be covered in a thin neon yellow mesh. An art installation, or something, commissioned for the summer tourist season, and three teenage boys in bright colored polo shirts and tight jeans will be smoking cigarettes on a small staircase leading up to a statue of The Virgin. One of them will approach you and ask if you know how to fix the transmission on his motorcycle. You will say no and he will look like he’s about to cry and then wait for your reaction. You may be familiar with this form of subtle emotional manipulation.
 

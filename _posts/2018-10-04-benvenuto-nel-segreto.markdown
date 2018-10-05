@@ -69,3 +69,16 @@ If you are or are with a woman, she must begin dancing along the edge of the yel
 
 It keeps clicking and purring but won’t catch a start.
 
+![180806_DT_Cefalu_096.jpg](/uploads/180806_DT_Cefalu_096.jpg)
+
+![180806_DT_Cefalu_055.jpg](/uploads/180806_DT_Cefalu_055.jpg)
+
+![180806_DT_Cefalu_055.jpg](/uploads/180806_DT_Cefalu_055.jpg)
+
+![180806_DT_Cefalu_033.jpg](/uploads/180806_DT_Cefalu_033.jpg)
+
+![180806_DT_Cefalu_009.jpg](/uploads/180806_DT_Cefalu_009.jpg)
+
+![180806_DT_Cefalu_003.jpg](/uploads/180806_DT_Cefalu_003.jpg)
+
+![180805_DT_Palermo_074.jpg](/uploads/180805_DT_Palermo_074.jpg)

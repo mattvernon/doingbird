@@ -1,7 +1,6 @@
 ---
 title: Five Faces 2.0
 date: 2018-10-05 19:20:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

@@ -17,7 +17,7 @@ Benvenuto nel segreto,
 
 The first admission is that only half of you will get there. Here. Maybe less. Some will quit now, learning this, and I suppose we’ll count those in the eliminated, too.
 
-![180805_DT_Palermo_074.jpg](/uploads/180805_DT_Palermo_074.jpg)
+![180811_DT_Palermo_045.jpg](/uploads/180811_DT_Palermo_045.jpg)
 
 You won’t choose the day you come here, the day will choose you. And you will know it by the low hissing of a particular kind of cicada that seems to follow you everywhere you go between the hours of noon and 1pm while walking between your morning destination (which I assume to be a church or a pastry shop) and your afternoon (lunch or “brunch” as the Americans call it). Also we should say that we do not, we do not, discriminate against any arrivals. We only accept groups of four or less, unless you come with a larger group. This has never happened; likely, due to the realities of interpersonal confusion surmounting the likelihood of a group of travelers solving any complex problem in a foreign territory. If you are wearing a clear visor, a fanny pack around the waist, a Hawaiian shirt, cargo pants, dresses made of fishnets, glasses that perch awkwardly on your face, backwards baseball hats, belly shirts, unitards, or athletic gear, we will not turn you away. 
 
@@ -61,13 +61,15 @@ We discourage the use of maps on “smartphones” because they complicate your 
 
 A disheveled rooster cries out in from a courtyard once the storm has passed. He thinks it is morning, we don’t know, and you will follow this sound until you find him. The trees will be covered in a thin neon yellow mesh. An art installation, or something, commissioned for the summer tourist season, and three teenage boys in bright colored polo shirts and tight jeans will be smoking cigarettes on a small staircase leading up to a statue of The Virgin. One of them will approach you and ask if you know how to fix the transmission on his motorcycle. You will say no and he will look like he’s about to cry and then wait for your reaction. You may be familiar with this form of subtle emotional manipulation.
 
-![180806_DT_Cefalu_147.jpg](/uploads/180806_DT_Cefalu_147.jpg)
+![180806_DT_Cefalu_130.jpg](/uploads/180806_DT_Cefalu_130.jpg)
 
 If you are or are with a woman, she must begin dancing along the edge of the yellow mesh. A slow, exaggerated waltz, preferably, and the boys will stare at her, laughing, and she must not acknowledge them. The final cue is this: a robust woman in a mauve apron will emerge from a eight-foot tall oak doorway that guards a hallway leading inside an old stone corridor between buildings. She will appear for a moment and gesture only a few times, so be alert. The dancer is more likely to see her than anybody else, we’ve found. Congratulations you’re almost there. And at the end of your meal, should you stay the course and make it here, we actually do hope you could fix the motorcycle.
 
-![180806_DT_Cefalu_095.jpg](/uploads/180806_DT_Cefalu_095.jpg)
+![180806_DT_Cefalu_147.jpg](/uploads/180806_DT_Cefalu_147.jpg)
 
 It keeps clicking and purring but won’t catch a start.
+
+![180806_DT_Cefalu_095.jpg](/uploads/180806_DT_Cefalu_095.jpg)
 
 ![180806_DT_Cefalu_096.jpg](/uploads/180806_DT_Cefalu_096.jpg)
 

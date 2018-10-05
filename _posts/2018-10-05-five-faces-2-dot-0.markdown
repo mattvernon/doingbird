@@ -18,3 +18,4 @@ blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![180929_Doingbirdmagazine_Shot_06.jpg](/uploads/180929_Doingbirdmagazine_Shot_06.jpg)

@@ -73,8 +73,6 @@ It keeps clicking and purring but won’t catch a start.
 
 ![180806_DT_Cefalu_055.jpg](/uploads/180806_DT_Cefalu_055.jpg)
 
-![180806_DT_Cefalu_055.jpg](/uploads/180806_DT_Cefalu_055.jpg)
-
 ![180806_DT_Cefalu_033.jpg](/uploads/180806_DT_Cefalu_033.jpg)
 
 ![180806_DT_Cefalu_009.jpg](/uploads/180806_DT_Cefalu_009.jpg)

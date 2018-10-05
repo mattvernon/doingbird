@@ -19,3 +19,5 @@ layout: gallery
 ---
 
 ![180929_Doingbirdmagazine_Shot_06.jpg](/uploads/180929_Doingbirdmagazine_Shot_06.jpg)
+
+![180929_Doingbirdmagazine_Shot_05.jpg](/uploads/180929_Doingbirdmagazine_Shot_05.jpg)

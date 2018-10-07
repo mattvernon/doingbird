@@ -32,7 +32,7 @@ Top, **Our Legacy** Underwear and Shoes, Model's own
 ![SKBW3481-R1-13-14.jpg](/uploads/SKBW3481-R1-13-14.jpg)
  Top, Vintage
 
-![SKBW3481-R1-01-2.jpg](/uploads/SKBW3481-R1-01-2.jpg)
+![SKBW3481-R1-01-2-906115.jpg](/uploads/SKBW3481-R1-01-2-906115.jpg)
 Top, Vintage **Jean Paul Gaultier** Pants, Vintage **Miu Miu**
 
 ![SK000341-R1-05-6.jpg](/uploads/SK000341-R1-05-6.jpg)

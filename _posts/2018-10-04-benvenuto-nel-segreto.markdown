@@ -1,7 +1,6 @@
 ---
 title: Benvenuto Nel Segreto
 date: 2018-10-04 12:20:00 +10:00
-published: false
 categories:
 - world
 tags:

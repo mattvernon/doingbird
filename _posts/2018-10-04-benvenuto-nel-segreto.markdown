@@ -2,7 +2,7 @@
 title: Benvenuto Nel Segreto
 date: 2018-10-04 12:20:00 +10:00
 categories:
-- world
+- World
 tags:
 - Travel
 Main Image: "/uploads/180806_DT_Cefalu_096.jpg"

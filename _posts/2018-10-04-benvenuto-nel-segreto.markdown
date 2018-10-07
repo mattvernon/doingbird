@@ -14,7 +14,6 @@ Credits Text: 'photographs **[Mitchell McLennan](https://www.instagram.com/studi
 
 Story By Constance Walsh   
 photos by Mitchell McLennan
-September, 2018
 
 
 Benvenuto nel segreto,

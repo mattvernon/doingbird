@@ -13,7 +13,9 @@ is featured?: true
 Field name: 
 ---
 
-Story By Constance Walsh   
+Story By Constance Walsh
+Photographs **[Mitchell McLennan](https://www.instagram.com/studiomclennan/)**
+
 
 Benvenuto nel segreto,
 

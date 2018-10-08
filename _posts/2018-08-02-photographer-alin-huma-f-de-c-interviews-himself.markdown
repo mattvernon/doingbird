@@ -17,7 +17,7 @@ Field name:
 
 *Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. Special thanks to [Contact Gallery](contactgallery.co).*
 
-![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
+[Huma_002.JPG](/uploads/Huma_002.JPG)
 
 —Why aren't you more famous?
 

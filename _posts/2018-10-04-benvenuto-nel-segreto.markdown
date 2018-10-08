@@ -1,20 +1,20 @@
 ---
 title: Benvenuto Nel Segreto
 date: 2018-10-04 12:20:00 +10:00
-published: false
 categories:
-- world
+- World
 tags:
 - Travel
 Main Image: "/uploads/180806_DT_Cefalu_096.jpg"
 Credits Text: 'photographs **[Mitchell McLennan](https://www.instagram.com/studiomclennan/)**
 
 '
+is featured?: true
+Field name: 
 ---
 
-Story By Constance Walsh   
-photos by Mitchell McLennan
-September, 2018
+Story By Constance Walsh
+Photographs **[Mitchell McLennan](https://www.instagram.com/studiomclennan/)**
 
 
 Benvenuto nel segreto,

@@ -29,11 +29,11 @@ Haha, other people are. I was just thinking the other day that growing up in Rom
 
 The struggle does suck sometimes. The other day I was hanging out in the park here in Okubo eating leaves all day. They were great. Remembered eating those same leaves when I was a kid, they taste great, better than anything at the supermarket... Wish the park provided some Parmigiano, olive oil, vinegar, ume... It's ume season here. They usually pick them green: umeboshi, umeshu, but ripe they're amazing. Like heavenly apricots. I'm sure they'd make a great spirit... fermented and then distilled. I just had to wrap up all my fermentation workshops at the place I was living... for complex reasons. I had so much going on there, which is how I ended up eating leaves in the park, haha.
 
-![Huma_005-a4d39f.JPG](/uploads/Huma_005-a4d39f.JPG)
+[Huma_005.JPG](/uploads/Huma_005.JPG)
 
-![Huma_006-bcede6.JPG](/uploads/Huma_006-bcede6.JPG)
+[Huma_006.JPG](/uploads/Huma_006.JPG)
 
-![Huma_007-18738e.jpg](/uploads/Huma_007-18738e.jpg)
+![Huma_007.jpg](/uploads/Huma_007.jpg)
 
 —You always seem to struggle in Japan.
 
@@ -41,11 +41,11 @@ Everyone is, I guess I just make it more visible. My Latin temperament? Sure you
 
 Had this major thought about Japan: there is something peculiar about it, however much I like to see it as just a place like any other. Figured that the peculiar might have started when they imported wholesale—the whole Chinese system, administration and all that, writing and all of course. They uncannily left just one thing out: In China they had this 'mandate of heaven' deal, which says that power is granted by heaven to the emperor. But just power, period. But just as it's given it can also be taken away, if misused. It's basically the same thing as Mao Zedong saying it's okay to rebel. That's the one thing they left out. Chinese system, but the emperor stayed immutable. The consequence of that if you really think about it is that basically change itself becomes impossible. When you come from outside it looks all speedy and moving but there are some tremendous forces at work keeping things just as they are. Where on earth do you see people casually walking into convenience stores dressed in Tang dynasty Chinese costume?
 
-![Huma_008-9d5267.jpg](/uploads/Huma_008-9d5267.jpg)
+![Huma_008.jpg](/uploads/Huma_008.jpg)
 
-![Huma_009-0d92c5.jpg](/uploads/Huma_009-0d92c5.jpg)
+![Huma_009.jpg](/uploads/Huma_009.jpg)
 
-![Huma_010-256e80.jpg](/uploads/Huma_010-256e80.jpg)
+![Huma_010.jpg](/uploads/Huma_010.jpg)
 
 —You have been to places though (  ??  in more than one way ?? )  ...  ?
 

@@ -37,9 +37,6 @@ layout: gallery
 ![VZ_DOINGBIRD_03_1069-009_V1.jpg](/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg)
 **Elissa McGowan** top & pants and **Dion Lee** shoes
 
-![VZ_DOINGBIRD_08_1137.jpg](/uploads/VZ_DOINGBIRD_08_1137.jpg)
-**Sir** coat and **Simone Rocha** shoes
-
 ![VZ_DOINGBIRD_06_0854.jpg](/uploads/VZ_DOINGBIRD_06_0854.jpg)
 Vintage dress and stylist's own socks
 

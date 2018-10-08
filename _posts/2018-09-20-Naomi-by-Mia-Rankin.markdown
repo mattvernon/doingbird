@@ -12,7 +12,7 @@ Credits Text: |-
   styling **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)
   hair & make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Company 1](https://www.instagram.com/company1agency/)**
   model **[Naomi Stevens](https://www.instagram.com/naomi__stevens/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
-is featured?: true
+is featured?: false
 blurb: Photographs by Mia Rankin
 layout: gallery
 ---

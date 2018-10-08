@@ -14,8 +14,6 @@ Field name:
 ---
 
 Story By Constance Walsh   
-photos by Mitchell McLennan
-
 
 Benvenuto nel segreto,
 

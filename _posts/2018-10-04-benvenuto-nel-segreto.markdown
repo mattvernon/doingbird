@@ -10,10 +10,11 @@ Credits Text: 'photographs **[Mitchell McLennan](https://www.instagram.com/studi
 
 '
 is featured?: true
-Field name: 
+blurb: Photographs by Mitchell McLennan
 ---
 
-Story By Constance Walsh
+Story By **Constance Walsh**
+
 Photographs **[Mitchell McLennan](https://www.instagram.com/studiomclennan/)**
 
 

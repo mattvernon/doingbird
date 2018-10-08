@@ -13,7 +13,7 @@ Credits Text: |+
   make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   model **[Ondria Hardin](https://www.instagram.com/ondriahardinofficial/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 
-is featured?: true
+is featured?: false
 Blurb: Photographs by Victoria Zschommler
 layout: gallery
 ---

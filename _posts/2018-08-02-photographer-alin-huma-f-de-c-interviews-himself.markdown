@@ -13,27 +13,27 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 Field name: 
 ---
 
-![Huma_001-ef96f1.JPG](/uploads/Huma_001-ef96f1.JPG)
+[Huma_001.JPG](/uploads/Huma_001.JPG)
 
 *Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. Special thanks to [Contact Gallery](contactgallery.co).*
 
-![Huma_002-1b9d8f.JPG](/uploads/Huma_002-1b9d8f.JPG)
+[Huma_002.JPG](/uploads/Huma_002.JPG)
 
 —Why aren't you more famous?
 
 Haha, other people are. I was just thinking the other day that growing up in Romania, back then—it's not that we didn't have access to all the stuff, we sure did, there were more levels to the underground than down here below Shinjuku station—but there were other filtering mechanisms in place, which to this day I don't think I quite understand. Not that I thought about it that much. For example, while anything West Coast was regular currency, from the Grateful Dead to conceptual art, there was hardly anything from Warhol, pop art, Velvet Underground, Sonic Youth... It would either not move or move way below the radar, no interest. So, funny, I think that whole fame thing, as well as the nihilism, whatever you call it—anything cynical—just isn't in my make-up. Another thing that went under, or over, the radar—I'm talking '80s here, early '80s—is that Manchester thing, New Order and stuff; remember getting into it sometime at the start of the '90s and my head kinda spinning... I was in awe and disbelief. What is it? I guess that point where the snake eats its own tail... We're still there now... Punk was right, maybe the post-punk... or the post anything... I still haven't bought it. Then there is this old Romanian proverb thing that I grew up with, which says that self-promotion stinks. Literally, that's what it says. There's always more interesting stuff to do than being famous. Or maybe also 'cause I've never been quite at the right place. Right time at the wrong place seems to be the main theme of my life.
 
-![Huma_003-0a6682.JPG](/uploads/Huma_003-0a6682.JPG)
+[Huma_003.JPG](/uploads/Huma_003.JPG)
 
-![Huma_004-10850b.JPG](/uploads/Huma_004-10850b.JPG)
+[Huma_004.JPG](/uploads/Huma_004.JPG)
 
 The struggle does suck sometimes. The other day I was hanging out in the park here in Okubo eating leaves all day. They were great. Remembered eating those same leaves when I was a kid, they taste great, better than anything at the supermarket... Wish the park provided some Parmigiano, olive oil, vinegar, ume... It's ume season here. They usually pick them green: umeboshi, umeshu, but ripe they're amazing. Like heavenly apricots. I'm sure they'd make a great spirit... fermented and then distilled. I just had to wrap up all my fermentation workshops at the place I was living... for complex reasons. I had so much going on there, which is how I ended up eating leaves in the park, haha.
 
-![Huma_005-a4d39f.JPG](/uploads/Huma_005-a4d39f.JPG)
+[Huma_005.JPG](/uploads/Huma_005.JPG)
 
-![Huma_006-bcede6.JPG](/uploads/Huma_006-bcede6.JPG)
+[Huma_006.JPG](/uploads/Huma_006.JPG)
 
-![Huma_007-18738e.jpg](/uploads/Huma_007-18738e.jpg)
+![Huma_007.jpg](/uploads/Huma_007.jpg)
 
 —You always seem to struggle in Japan.
 
@@ -41,11 +41,11 @@ Everyone is, I guess I just make it more visible. My Latin temperament? Sure you
 
 Had this major thought about Japan: there is something peculiar about it, however much I like to see it as just a place like any other. Figured that the peculiar might have started when they imported wholesale—the whole Chinese system, administration and all that, writing and all of course. They uncannily left just one thing out: In China they had this 'mandate of heaven' deal, which says that power is granted by heaven to the emperor. But just power, period. But just as it's given it can also be taken away, if misused. It's basically the same thing as Mao Zedong saying it's okay to rebel. That's the one thing they left out. Chinese system, but the emperor stayed immutable. The consequence of that if you really think about it is that basically change itself becomes impossible. When you come from outside it looks all speedy and moving but there are some tremendous forces at work keeping things just as they are. Where on earth do you see people casually walking into convenience stores dressed in Tang dynasty Chinese costume?
 
-![Huma_008-9d5267.jpg](/uploads/Huma_008-9d5267.jpg)
+![Huma_008.jpg](/uploads/Huma_008.jpg)
 
-![Huma_009-0d92c5.jpg](/uploads/Huma_009-0d92c5.jpg)
+![Huma_009.jpg](/uploads/Huma_009.jpg)
 
-![Huma_010-256e80.jpg](/uploads/Huma_010-256e80.jpg)
+![Huma_010.jpg](/uploads/Huma_010.jpg)
 
 —You have been to places though (  ??  in more than one way ?? )  ...  ?
 

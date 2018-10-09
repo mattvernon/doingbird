@@ -4,6 +4,9 @@ date: 2018-10-09 17:36:00 +11:00
 published: false
 ---
 
+![JoDuck_EllePackham_01.jpg](/uploads/JoDuck_EllePackham_01.jpg)
+Hermes Bag
+
 ![JoDuck_EllePackham_07.jpg](/uploads/JoDuck_EllePackham_07.jpg)
 
 ![JoDuck_EllePackham_08.jpg](/uploads/JoDuck_EllePackham_08.jpg)
@@ -15,8 +18,6 @@ published: false
 ![JoDuck_EllePackham_03.jpg](/uploads/JoDuck_EllePackham_03.jpg)
 
 ![JoDuck_EllePackham_04.jpg](/uploads/JoDuck_EllePackham_04.jpg)
-
-![JoDuck_EllePackham_01.jpg](/uploads/JoDuck_EllePackham_01.jpg)
 
 ![JoDuck_EllePackham_02.jpg](/uploads/JoDuck_EllePackham_02.jpg)
 

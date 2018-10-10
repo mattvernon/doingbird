@@ -6,8 +6,10 @@ categories:
 - Fashion
 tags:
 - Accessories
+Main Image: "/uploads/JoDuck_EllePackham_06.jpg"
 Credits Text: "Photography **[Jo Duck](http://www.joduck.com)** at **[Artboxblack](https://artboxblack.com/)**
   \    \nStyling **[Elle Packham](http://www.ellepackham.co)**\n  "
+is featured?: true
 layout: gallery
 ---
 

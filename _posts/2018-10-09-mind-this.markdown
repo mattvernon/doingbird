@@ -2,6 +2,12 @@
 title: Mind This
 date: 2018-10-09 17:36:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Accessories
+Credits Text: "Photography **[Jo Duck](http://www.joduck.com)** \nStyling Elle Packham
+  (www.ellepackham.co) (@elle_packham)"
 layout: gallery
 ---
 

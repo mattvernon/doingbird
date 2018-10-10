@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Accessories
-Credits Text: "Photography **[Jo Duck](http://www.joduck.com)** at **[Artboxblack](https://artboxblack.com/)
+Credits Text: "Photography **[Jo Duck](http://www.joduck.com)** at **[Artboxblack](https://artboxblack.com/)**
   \    \nStyling **[Elle Packham](http://www.ellepackham.co)**\n  "
 layout: gallery
 ---

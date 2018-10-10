@@ -6,8 +6,8 @@ categories:
 - Fashion
 tags:
 - Accessories
-Credits Text: "Photography **[Jo Duck](http://www.joduck.com)** \nStyling Elle Packham
-  (www.ellepackham.co) (@elle_packham)"
+Credits Text: "Photography **[Jo Duck](http://www.joduck.com)**   \nStyling **[Elle
+  Packham](http://www.ellepackham.co)**\n  "
 layout: gallery
 ---
 

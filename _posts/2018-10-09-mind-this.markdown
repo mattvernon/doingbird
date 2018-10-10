@@ -7,9 +7,10 @@ categories:
 tags:
 - Accessories
 Main Image: "/uploads/JoDuck_EllePackham_06.jpg"
-Credits Text: "Photography **[Jo Duck](http://www.joduck.com)** at **[Artboxblack](https://artboxblack.com/)**
+Credits Text: "hotography **[Jo Duck](http://www.joduck.com)** at **[Artboxblack](https://artboxblack.com/)**
   \    \nStyling **[Elle Packham](http://www.ellepackham.co)**\n  "
 is featured?: true
+blurb: Photographs by Jo Duck
 layout: gallery
 ---
 

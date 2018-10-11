@@ -1,0 +1,46 @@
+---
+title: Mind This
+date: 2018-10-09 17:36:00 +11:00
+categories:
+- Fashion
+tags:
+- Accessories
+Main Image: "/uploads/JoDuck_EllePackham_06.jpg"
+Credits Text: "photographs **[Jo Duck](http://www.joduck.com)** at **[Artboxblack](https://artboxblack.com/)**
+  \    \nStyling **[Elle Packham](http://www.ellepackham.co)**\n  "
+is featured?: true
+blurb: Photographs by Jo Duck
+layout: gallery
+---
+
+![JoDuck_EllePackham_01.jpg](/uploads/JoDuck_EllePackham_01.jpg)
+**Hermes** Bag
+
+![JoDuck_EllePackham_02.jpg](/uploads/JoDuck_EllePackham_02.jpg)
+**Bally** Bag
+
+![JoDuck_EllePackham_03.jpg](/uploads/JoDuck_EllePackham_03.jpg)
+**Acne** Bag
+
+![JoDuck_EllePackham_04.jpg](/uploads/JoDuck_EllePackham_04.jpg)
+**Acne** coat, Georgia Jay bag from **Arnsdorf**
+
+![JoDuck_EllePackham_05.jpg](/uploads/JoDuck_EllePackham_05.jpg)
+**Bally** Bag
+
+![JoDuck_EllePackham_06.jpg](/uploads/JoDuck_EllePackham_06.jpg)
+**Deadly Ponies** bag, **Acne** coat, **Emporio Armani** shirt
+
+![JoDuck_EllePackham_07.jpg](/uploads/JoDuck_EllePackham_07.jpg)
+**Hermes** Bag
+
+![JoDuck_EllePackham_08.jpg](/uploads/JoDuck_EllePackham_08.jpg)
+**Acne** Bag
+
+
+
+
+
+
+
+

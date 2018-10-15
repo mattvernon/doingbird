@@ -43,6 +43,10 @@ Have you ever “heard” something offputting while you were on a date?
 
 When I was more into cruising, and I would be at a bar with somebody, and I'd be about to go home with them, and then I would suddenly get this information, like, ‘Get the hell away from this person as fast as you can, go use the bathroom and then get out of here. Just make an excuse, walk out!’ And I would do that, but I wouldn't know why. 
 
+![Hank_Doingbird_101.jpg](/uploads/Hank_Doingbird_101.jpg)
+
+![Hank_Doingbird_166.jpg](/uploads/Hank_Doingbird_166.jpg)
+
  Is it easier to date other woke types?
 
 Lately I have been encountering some of those people, and it really makes me not like spiritual people. Someone will read like 10 self-help books, and then they use that terminology to justify blowing someone off, or not showing up. It makes me want to date someone who's just like a baseball player. I don't hate sports, but ... you'd never see me at a game, but it might be a lot more fun to date a baseball player than someone who has crystals in their house. 

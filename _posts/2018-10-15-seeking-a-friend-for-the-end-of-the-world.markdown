@@ -15,6 +15,8 @@ Shit is getting real. We’re in the midst of a political and socio-economic fuc
 
 Hank is the go-to for artists, creatives and fashion types in New York seeking advice on the spiritual weather front. He’s channelled the spirit of Nijinsky for Corine Roitfield’s CR Fashion Book and shown art work created whilst channelling Michael Jackson. “My favourite clients are artists. Somebody will have a passion for a certain artist, and I can bring that artist's energy into the room,” Hanks says. “I really don't expect them to talk to me, I just create this energetic perch for them to come and sit on.” Hank also draws on his intuitive gifts in his own creative outlets. “My art is psychic as well, it has a vibration that people interact with,” he says. But what is it like to just hang out and watch Netflix or go on a date when you’ve got a sixth sense? Here Hank tells Doingbird what it’s like to live with a sixth sense.
 
+![Hank_Doingbird_068 copy.jpg](/uploads/Hank_Doingbird_068%20copy.jpg)
+
 You used to read in clubs and bars, is it different reading when people are fucked up? 
 
 It's actually easier, because they're much more open. I feel that they call it ‘spirits’ for a reason. Some of the people that would sit with me, in those circumstances were just vile, their energy was horrible, and their questions were terrible, but I would do my best to read them. At the end of the day, it didn't really matter, because they're just normal people looking for love.

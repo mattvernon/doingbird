@@ -21,6 +21,10 @@ You used to read in clubs and bars, is it different reading when people are fuck
 
 It's actually easier, because they're much more open. I feel that they call it ‘spirits’ for a reason. Some of the people that would sit with me, in those circumstances were just vile, their energy was horrible, and their questions were terrible, but I would do my best to read them. At the end of the day, it didn't really matter, because they're just normal people looking for love.
 
+![Hank_Doingbird_143.jpg](/uploads/Hank_Doingbird_143.jpg)
+
+![Hank_Doingbird_091.jpg](/uploads/Hank_Doingbird_091.jpg)
+
 I used to drink a lot and I was much more uninhibited with my information. I didn't question myself at all, so I'd be very more direct and stuff with people. It's interesting, I don't regret getting sober at all. I'm very content, I'm much more functional, better functioning in the world, and I sleep better.
 
  How do you let the right one in?

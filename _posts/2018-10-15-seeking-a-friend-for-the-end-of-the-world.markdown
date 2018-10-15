@@ -4,6 +4,11 @@ date: 2018-10-15 16:39:00 +11:00
 published: false
 ---
 
+By Emma Vidgen
+photos Jack Grayson
+
+Hank Hivnor is an artist, life coach and medium. doingbird discovers what everyday life is like for fashion’s favourite clairvoyant
+
 ![Hank_Doingbird_109.jpg](/uploads/Hank_Doingbird_109.jpg)
 
 Shit is getting real. We’re in the midst of a political and socio-economic fuck storm of epic proportions. The question is, who you gonna call? “Energy is shifting, and it's making everyone kind of freak out and feel unstable… a lot of people are seeking validation, right now, people just really need guidance,” says Hank Hivnor, an artist, medium and healer based in Brooklyn, NY. “So what do you do? If you want to know the weather, you call the weatherman. If you want to know what's going on in the universe, you call the psychic, so I think that's what's happening.”

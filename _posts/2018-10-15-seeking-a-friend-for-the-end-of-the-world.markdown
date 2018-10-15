@@ -35,6 +35,10 @@ What is it like to date when you’re psychic?
 
 It's nice, because there's more words than there used to be. People just used to just say, ‘Oh you’re a freak.’ Now there’s more understanding. I used to have a terrible fear and not tell anyone until like they were somehow connected with me. Like, ‘Oh, by the way, I’m psychic’.  Now I don't have any fear about it, so I tell people. People aren't freaked out if I just present it like, ‘You know, it turns out I'm really good talking to people, so people come to my house and I hang out with them.’  That's another way of saying it.
 
+![Hank_Doingbird_058.jpg](/uploads/Hank_Doingbird_058.jpg)
+
+![Hank_Doingbird_100.jpg](/uploads/Hank_Doingbird_100.jpg)
+
 Have you ever “heard” something offputting while you were on a date? 
 
 When I was more into cruising, and I would be at a bar with somebody, and I'd be about to go home with them, and then I would suddenly get this information, like, ‘Get the hell away from this person as fast as you can, go use the bathroom and then get out of here. Just make an excuse, walk out!’ And I would do that, but I wouldn't know why. 

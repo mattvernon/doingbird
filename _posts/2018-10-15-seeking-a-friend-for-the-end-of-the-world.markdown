@@ -8,6 +8,11 @@ published: false
 
 Shit is getting real. We’re in the midst of a political and socio-economic fuck storm of epic proportions. The question is, who you gonna call? “Energy is shifting, and it's making everyone kind of freak out and feel unstable… a lot of people are seeking validation, right now, people just really need guidance,” says Hank Hivnor, an artist, medium and healer based in Brooklyn, NY. “So what do you do? If you want to know the weather, you call the weatherman. If you want to know what's going on in the universe, you call the psychic, so I think that's what's happening.”
 
+![Hank_Doingbird_162.jpg](/uploads/Hank_Doingbird_162.jpg)
+
+![Hank_Doingbird_129.jpg](/uploads/Hank_Doingbird_129.jpg)
+
+
 Hank is the go-to for artists, creatives and fashion types in New York seeking advice on the spiritual weather front. He’s channelled the spirit of Nijinsky for Corine Roitfield’s CR Fashion Book and shown art work created whilst channelling Michael Jackson. “My favourite clients are artists. Somebody will have a passion for a certain artist, and I can bring that artist's energy into the room,” Hanks says. “I really don't expect them to talk to me, I just create this energetic perch for them to come and sit on.” Hank also draws on his intuitive gifts in his own creative outlets. “My art is psychic as well, it has a vibration that people interact with,” he says. But what is it like to just hang out and watch Netflix or go on a date when you’ve got a sixth sense? Here Hank tells Doingbird what it’s like to live with a sixth sense.
 
 You used to read in clubs and bars, is it different reading when people are fucked up? 

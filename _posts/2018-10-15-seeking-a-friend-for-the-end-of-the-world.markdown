@@ -4,17 +4,16 @@ date: 2018-10-15 16:39:00 +11:00
 published: false
 Main Image: "/uploads/Hank_Doingbird_081.jpg"
 is featured?: true
-blurb: Photographs by Jack Grayson
 ---
 
-Words by **[Emma Vidgen](https://www.instagram.com/emma_vee/)**  
-Photographs by **[Jack Grayson](https://www.instagram.com/jackgrayson/)**
+By Emma Vidgen  
+photos Jack Grayson
 
-Hank Hivnor is an artist, life coach and medium. Doingbird discovers what everyday life is like for fashion’s favourite clairvoyant.
+Hank Hivnor is an artist, life coach and medium. doingbird discovers what everyday life is like for fashion’s favourite clairvoyant
 
 ![Hank_Doingbird_109.jpg](/uploads/Hank_Doingbird_109.jpg)
 
-Shit is getting real. We’re in the midst of a political and socio-economic fuck storm of epic proportions. The question is, who you gonna call? “Energy is shifting, and it's making everyone kind of freak out and feel unstable…a lot of people are seeking validation. "Right now, people just really need guidance,” says Hank Hivnor, the artist, medium and healer based in Brooklyn, NY. “So what do you do? If you want to know the weather, you call the weatherman. If you want to know what's going on in the universe, you call the psychic, so I think that's what's happening.”
+Shit is getting real. We’re in the midst of a political and socio-economic fuck storm of epic proportions. The question is, who you gonna call? “Energy is shifting, and it's making everyone kind of freak out and feel unstable… a lot of people are seeking validation, right now, people just really need guidance,” says Hank Hivnor, an artist, medium and healer based in Brooklyn, NY. “So what do you do? If you want to know the weather, you call the weatherman. If you want to know what's going on in the universe, you call the psychic, so I think that's what's happening.”
 
 ![Hank_Doingbird_058.jpg](/uploads/Hank_Doingbird_058.jpg)
 
@@ -41,11 +40,13 @@ Before a client comes, I do a lot of preparation. I meditate. I light candles an
 
 What is it like to date when you’re psychic?
 
-It's nice, because there's more words than there used to be. People just used to just say, ‘Oh you’re a freak.’ Now there’s more understanding. I used to have a terrible fear and not tell anyone until like they were somehow connected with me. Like, ‘Oh, by the way, I’m psychic’. Now I don't have any fear about it, so I tell people. People aren't freaked out if I just present it like, ‘You know, it turns out I'm really good talking to people, so people come to my house and I hang out with them.’ That's another way of saying it.
+It's nice, because there's more words than there used to be. People just used to just say, ‘Oh you’re a freak.’ Now there’s more understanding. I used to have a terrible fear and not tell anyone until like they were somehow connected with me. Like, ‘Oh, by the way, I’m psychic’.  Now I don't have any fear about it, so I tell people. People aren't freaked out if I just present it like, ‘You know, it turns out I'm really good talking to people, so people come to my house and I hang out with them.’  That's another way of saying it.
+
+
 
 ![Hank_Doingbird_100.jpg](/uploads/Hank_Doingbird_100.jpg)
 
-Have you ever “heard” something off-putting while you were on a date? 
+Have you ever “heard” something offputting while you were on a date? 
 
 When I was more into cruising, and I would be at a bar with somebody, and I'd be about to go home with them, and then I would suddenly get this information, like, ‘Get the hell away from this person as fast as you can, go use the bathroom and then get out of here. Just make an excuse, walk out!’ And I would do that, but I wouldn't know why. 
 
@@ -53,10 +54,10 @@ When I was more into cruising, and I would be at a bar with somebody, and I'd be
 
 ![Hank_Doingbird_166.jpg](/uploads/Hank_Doingbird_166.jpg)
 
-Is it easier to date other woke types?
+ Is it easier to date other woke types?
 
 Lately I have been encountering some of those people, and it really makes me not like spiritual people. Someone will read like 10 self-help books, and then they use that terminology to justify blowing someone off, or not showing up. It makes me want to date someone who's just like a baseball player. I don't hate sports, but ... you'd never see me at a game, but it might be a lot more fun to date a baseball player than someone who has crystals in their house. 
 
 
 
-To book a session or learn more about Hank’s artwork visit him **[Here](https://www.hankhivnor.com/)**
+To book a session or learn more about Hank’s artwork visit https://www.hankhivnor.com/

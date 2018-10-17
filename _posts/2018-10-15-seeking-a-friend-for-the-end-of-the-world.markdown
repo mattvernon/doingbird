@@ -30,7 +30,6 @@ It's actually easier, because they're much more open. I feel that they call it â
 
 ![Hank_Doingbird_143.jpg](/uploads/Hank_Doingbird_143.jpg)
 
-![Hank_Doingbird_091.jpg](/uploads/Hank_Doingbird_091.jpg)
 
 I used to drink a lot and I was much more uninhibited with my information. I didn't question myself at all, so I'd be very more direct and stuff with people. It's interesting, I don't regret getting sober at all. I'm very content, I'm much more functional, better functioning in the world, and I sleep better.
 

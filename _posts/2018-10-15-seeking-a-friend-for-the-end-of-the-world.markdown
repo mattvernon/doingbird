@@ -3,10 +3,12 @@ title: SEEKING A FRIEND FOR THE END OF THE WORLD
 date: 2018-10-15 16:39:00 +11:00
 published: false
 Main Image: "/uploads/Hank_Doingbird_081.jpg"
+is featured?: true
+blurb: Photographs by Jack Grayson
 ---
 
-By Emma Vidgen  
-photos Jack Grayson
+Words by Emma Vidgen  
+Photographs by Jack Grayson
 
 Hank Hivnor is an artist, life coach and medium. doingbird discovers what everyday life is like for fashion’s favourite clairvoyant
 

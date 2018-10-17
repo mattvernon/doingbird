@@ -59,4 +59,4 @@ Lately I have been encountering some of those people, and it really makes me not
 
 
 
-To book a session or learn more about Hank’s artwork visit https://www.hankhivnor.com/
+To book a session or learn more about Hank’s artwork visit him **[Here](https://www.hankhivnor.com/)**

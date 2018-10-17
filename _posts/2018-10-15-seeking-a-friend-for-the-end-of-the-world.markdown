@@ -7,8 +7,8 @@ is featured?: true
 blurb: Photographs by Jack Grayson
 ---
 
-Words by Emma Vidgen  
-Photographs by Jack Grayson
+Words by **[Emma Vidgen](https://www.instagram.com/emma_vee/)**  
+Photographs by **[Jack Grayson](https://www.instagram.com/jackgrayson/)**
 
 Hank Hivnor is an artist, life coach and medium. doingbird discovers what everyday life is like for fashion’s favourite clairvoyant
 

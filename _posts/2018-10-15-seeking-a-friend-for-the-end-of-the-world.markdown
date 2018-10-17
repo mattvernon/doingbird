@@ -5,7 +5,7 @@ published: false
 Main Image: "/uploads/Hank_Doingbird_081.jpg"
 ---
 
-By Emma Vidgen
+By Emma Vidgen  
 photos Jack Grayson
 
 Hank Hivnor is an artist, life coach and medium. doingbird discovers what everyday life is like for fashion’s favourite clairvoyant

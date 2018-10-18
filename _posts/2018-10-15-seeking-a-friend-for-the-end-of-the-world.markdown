@@ -1,6 +1,10 @@
 ---
 title: SEEKING A FRIEND FOR THE END OF THE WORLD
 date: 2018-10-15 16:39:00 +11:00
+categories:
+- Features
+tags:
+- artist
 Main Image: "/uploads/Hank_Doingbird_081.jpg"
 is featured?: true
 blurb: Photographs by Jack Grayson

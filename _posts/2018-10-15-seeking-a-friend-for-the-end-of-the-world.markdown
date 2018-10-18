@@ -5,6 +5,7 @@ categories:
 - Features
 tags:
 - artist
+- Interviews
 Main Image: "/uploads/Hank_Doingbird_081.jpg"
 is featured?: true
 blurb: Photographs by Jack Grayson

@@ -9,7 +9,7 @@ Main Image: "/uploads/180806_DT_Cefalu_096.jpg"
 Credits Text: 'photographs **[Mitchell McLennan](https://www.instagram.com/studiomclennan/)**
 
 '
-is featured?: true
+is featured?: false
 blurb: Photographs by Mitchell McLennan
 ---
 

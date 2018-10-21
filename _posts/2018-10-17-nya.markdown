@@ -2,11 +2,17 @@
 title: Nya
 date: 2018-10-17 22:05:00 +11:00
 published: false
+categories:
+- fashion
+tags:
+- Shoot
 Credits Text: |-
   photographs **[Ira Chernova](https://www.instagram.com/irachernova/)**
   styling **[Leah Adicoff](https://www.instagram.com/leahadicoff/)**
   stylist's assistant Hanni Fox
   model Nya Deng at **[LA Models](http://www.lamodels.com/)**
+is featured?: true
+blurb: Photographs by Ira Chernova
 layout: gallery
 ---
 

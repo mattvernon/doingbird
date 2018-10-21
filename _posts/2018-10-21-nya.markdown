@@ -1,7 +1,6 @@
 ---
 title: Nya
 date: 2018-10-21 14:00:00 +11:00
-published: false
 categories:
 - Fashion
 tags:

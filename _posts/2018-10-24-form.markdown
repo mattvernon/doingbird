@@ -12,6 +12,7 @@ Credits Text: |-
   hair **[Pete Lennon]** at **[Company1]**
   make-up **[Claire Thompson]** at **[Company1]**
   model **[Sofia Fanego]** at **[Kult]**
+layout: gallery
 ---
 
 ![180831_Doingbird_Form_Series_02.jpg](/uploads/180831_Doingbird_Form_Series_02.jpg)

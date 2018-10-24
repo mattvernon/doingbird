@@ -15,7 +15,7 @@ Credits Text: |-
 layout: gallery
 ---
 
-![180831_Doingbird_Form_Series_02.jpg](/uploads/180831_Doingbird_Form_Series_02.jpg)
+![180831_Doingbird_Form_Series_01.jpg](/uploads/180831_Doingbird_Form_Series_01.jpg)
 
 ![180831_Doingbird_Form_Series_02.jpg](/uploads/180831_Doingbird_Form_Series_02.jpg)
 

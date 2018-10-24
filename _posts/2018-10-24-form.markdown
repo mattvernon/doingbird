@@ -1,0 +1,16 @@
+---
+title: Form
+date: 2018-10-24 22:13:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Credits Text: |-
+  photographs **[Levon Bair]** at **[Company1]**
+  styling **[Meg Gray]** at **[The Artist Group]**
+  hair **[Pete Lennon]** at **[Company1]**
+  make-up **[Claire Thompson]** at **[Company1]**
+  model **[Sofia Fanego]** at **[Kult]**
+---
+

@@ -1,0 +1,40 @@
+---
+title: Form
+date: 2018-10-24 22:13:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Credits Text: |-
+  photographs **[Levon Bair]** at **[Company1]**
+  styling **[Meg Gray]** at **[The Artist Group]**
+  hair **[Pete Lennon]** at **[Company1]**
+  make-up **[Claire Thompson]** at **[Company1]**
+  model **[Sofia Fanego]** at **[Kult]**
+layout: gallery
+---
+
+![180831_Doingbird_Form_Series_02.jpg](/uploads/180831_Doingbird_Form_Series_02.jpg)
+
+![180831_Doingbird_Form_Series_02.jpg](/uploads/180831_Doingbird_Form_Series_02.jpg)
+
+![180831_Doingbird_Form_Series_03.jpg](/uploads/180831_Doingbird_Form_Series_03.jpg)
+
+![180831_Doingbird_Form_Series_04.jpg](/uploads/180831_Doingbird_Form_Series_04.jpg)
+
+![180831_Doingbird_Form_Series_05.jpg](/uploads/180831_Doingbird_Form_Series_05.jpg)
+
+![180831_Doingbird_Form_Series_06.jpg](/uploads/180831_Doingbird_Form_Series_06.jpg)
+
+![180831_Doingbird_Form_Series_07.jpg](/uploads/180831_Doingbird_Form_Series_07.jpg)
+
+![180831_Doingbird_Form_Series_08.jpg](/uploads/180831_Doingbird_Form_Series_08.jpg)
+
+![180831_Doingbird_Form_Series_09.jpg](/uploads/180831_Doingbird_Form_Series_09.jpg)
+
+![180831_Doingbird_Form_Series_10.jpg](/uploads/180831_Doingbird_Form_Series_10.jpg)
+
+![180831_Doingbird_Form_Series_11.jpg](/uploads/180831_Doingbird_Form_Series_11.jpg)
+
+![180831_Doingbird_Form_Series_12.jpg](/uploads/180831_Doingbird_Form_Series_12.jpg)

@@ -18,5 +18,6 @@ blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
-
+![181014_DoingBirdMagazine_011.jpg](/uploads/181014_DoingBirdMagazine_011.jpg)
+Joey wears **Zegna** top, **Commas** shorts & **Veja** shoes, Alex wears **Zegna** top, **Commas** shorts & **Veja** shoes
 

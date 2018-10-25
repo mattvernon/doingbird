@@ -23,7 +23,7 @@ layout: gallery
 Joey wears **Zegna** top, **Commas** shorts and **Veja** shoes. Alex wears **Zegna** top, **Commas** shorts and **Veja** shoes
  
 ![181014_DoingBirdMagazine_02.jpg](/uploads/181014_DoingBirdMagazine_02.jpg)
-Joey wears **Zegna** suit and **Bally** shoes
+Joey wears **Zegna** blazer & pants and **Bally** shoes
 
 ![181014_DoingBirdMagazine_07.jpg](/uploads/181014_DoingBirdMagazine_07.jpg)
 Joey wears **Emporio Armani** jumper and own earrings (worn throughout)
@@ -56,7 +56,7 @@ Alex wears **Rag & Bone** jumper
 Alex wears **Rag & Bone** jumper and **Jac + Jack** shorts
 
 ![181014_DoingBirdMagazine_01.jpg](/uploads/181014_DoingBirdMagazine_01.jpg)
-Alex wears **Zegna** suit and **Bally** shoes
+Alex wears **Zegna** blazer & pants and **Bally** shoes
 
 ![181014_DoingBirdMagazine_04.jpg](/uploads/181014_DoingBirdMagazine_04.jpg)
 Joey wears **Louis Vuitton** jacket and own earrings

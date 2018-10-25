@@ -19,3 +19,7 @@ blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![181014_DoingBirdMagazine_011.jpg](/uploads/181014_DoingBirdMagazine_011.jpg)
+
+![181014_DoingBirdMagazine_02.jpg](/uploads/181014_DoingBirdMagazine_02.jpg)
+

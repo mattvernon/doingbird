@@ -13,7 +13,7 @@ Credits Text: |-
   skin **[Cherry Cheung](https://www.instagram.com/cherrycheungmakeup/)**
   gaffer **Finbarr Collins**
   photographic assistant **Otis Vaclav**
-  models **[Alex Bates](https://www.instagram.com/a1bates/)** and **[Joey Gould](https://www.instagram.com/turt__s/)** at **[Kult](https://www.kult.com.au/)**
+  models **[Alex Bates](https://www.instagram.com/a1bates/)** and **[Joey Gould](https://www.instagram.com/turt__s/)** at **[Kult](https://www.kult.com.au/)** and **Axel** (the dog)
 is featured?: true
 blurb: Photographs by Daniel Goode
 layout: gallery

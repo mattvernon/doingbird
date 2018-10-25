@@ -1,0 +1,52 @@
+---
+title: Our North
+date: 2018-10-25 21:08:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/181014_DoingBirdMagazine_011.jpg"
+Credits Text: |-
+  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://artist-group.net/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  skin **[Cherry Cheung](https://www.instagram.com/cherrycheungmakeup/)**
+  gaffer **Finbarr Collins**
+  photographic assistant **Otis Vaclav**
+  models **[Alex Bates](https://www.instagram.com/a1bates/)** and **[Joey Gould](https://www.instagram.com/turt__s/)** at **[Kult](https://www.kult.com.au/)**
+is featured?: true
+blurb: Photographs by Daniel Goode
+layout: gallery
+---
+
+![181014_DoingBirdMagazine_011.jpg](/uploads/181014_DoingBirdMagazine_011.jpg)
+
+![181014_DoingBirdMagazine_02.jpg](/uploads/181014_DoingBirdMagazine_02.jpg)
+
+![181014_DoingBirdMagazine_07.jpg](/uploads/181014_DoingBirdMagazine_07.jpg)
+
+![181014_DoingBirdMagazine_03.jpg](/uploads/181014_DoingBirdMagazine_03.jpg)
+
+![181014_DoingBirdMagazine_06.jpg](/uploads/181014_DoingBirdMagazine_06.jpg)
+
+![181014_DoingBirdMagazine_08.jpg](/uploads/181014_DoingBirdMagazine_08.jpg)
+
+![181014_DoingBirdMagazine_09.jpg](/uploads/181014_DoingBirdMagazine_09.jpg)
+
+![181014_DoingBirdMagazine_010.jpg](/uploads/181014_DoingBirdMagazine_010.jpg)
+
+![181014_DoingBirdMagazine_016.jpg](/uploads/181014_DoingBirdMagazine_016.jpg)
+
+![181014_DoingBirdMagazine_015.jpg](/uploads/181014_DoingBirdMagazine_015.jpg)
+
+![181014_DoingBirdMagazine_014.jpg](/uploads/181014_DoingBirdMagazine_014.jpg)
+
+![181014_DoingBirdMagazine_013.jpg](/uploads/181014_DoingBirdMagazine_013.jpg)
+
+![181014_DoingBirdMagazine_01.jpg](/uploads/181014_DoingBirdMagazine_01.jpg)
+
+![181014_DoingBirdMagazine_04.jpg](/uploads/181014_DoingBirdMagazine_04.jpg)
+
+![181014_DoingBirdMagazine_05.jpg](/uploads/181014_DoingBirdMagazine_05.jpg)
+
+![181014_DoingBirdMagazine_012.jpg](/uploads/181014_DoingBirdMagazine_012.jpg)

@@ -1,0 +1,45 @@
+---
+title: Colours
+date: 2018-10-29 19:34:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/180929_Doingbird_Colours_Series_05.jpg"
+Credits Text: "photographs **[Levon Baird]** at **[Company1]**\nstyling **[Peter Simon
+  Phillips]** at **[Company1]**\nhair **[Gavin Anesbury]** at **[Vivien's Creative]**\nmake-up
+  **[Rae Morris]** at **[Company1]**\nphotography assistant **Orson Heidrich**\nmake-up
+  assistants **Dana Fairall** & **Gabby Stockwell**\nmodels **Zen Zen** & **Awillo**
+  at **Kult** **Zinnia** at **Debut** **Esti** at **Chic** and **Liam** at **Five
+  Twenty** "
+is featured?: true
+blurb: Photographs by Levon Baird
+layout: gallery
+---
+
+![180929_Doingbird_Colours_Series_01.jpg](/uploads/180929_Doingbird_Colours_Series_01.jpg)
+
+![180929_Doingbird_Colours_Series_02.jpg](/uploads/180929_Doingbird_Colours_Series_02.jpg)
+
+![180929_Doingbird_Colours_Series_03.jpg](/uploads/180929_Doingbird_Colours_Series_03.jpg)
+
+![180929_Doingbird_Colours_Series_04.jpg](/uploads/180929_Doingbird_Colours_Series_04.jpg)
+
+![180929_Doingbird_Colours_Series_05.jpg](/uploads/180929_Doingbird_Colours_Series_05.jpg)
+
+![180929_Doingbird_Colours_Series_06.jpg](/uploads/180929_Doingbird_Colours_Series_06.jpg)
+
+![180929_Doingbird_Colours_Series_07.jpg](/uploads/180929_Doingbird_Colours_Series_07.jpg)
+
+![180929_Doingbird_Colours_Series_08.jpg](/uploads/180929_Doingbird_Colours_Series_08.jpg)
+
+![180929_Doingbird_Colours_Series_09.jpg](/uploads/180929_Doingbird_Colours_Series_09.jpg)
+
+![180929_Doingbird_Colours_Series_10.jpg](/uploads/180929_Doingbird_Colours_Series_10.jpg)
+
+![180929_Doingbird_Colours_Series_11.jpg](/uploads/180929_Doingbird_Colours_Series_11.jpg)
+
+![180929_Doingbird_Colours_Series_12.jpg](/uploads/180929_Doingbird_Colours_Series_12.jpg)
+
+

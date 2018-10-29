@@ -16,26 +16,3 @@ Credits Text: |-
 layout: gallery
 ---
 
-![180831_Doingbird_Form_Series_01.jpg](/uploads/180831_Doingbird_Form_Series_01.jpg)
-
-![180831_Doingbird_Form_Series_02.jpg](/uploads/180831_Doingbird_Form_Series_02.jpg)
-
-![180831_Doingbird_Form_Series_03.jpg](/uploads/180831_Doingbird_Form_Series_03.jpg)
-
-![180831_Doingbird_Form_Series_04.jpg](/uploads/180831_Doingbird_Form_Series_04.jpg)
-
-![180831_Doingbird_Form_Series_05.jpg](/uploads/180831_Doingbird_Form_Series_05.jpg)
-
-![180831_Doingbird_Form_Series_06.jpg](/uploads/180831_Doingbird_Form_Series_06.jpg)
-
-![180831_Doingbird_Form_Series_07.jpg](/uploads/180831_Doingbird_Form_Series_07.jpg)
-
-![180831_Doingbird_Form_Series_08.jpg](/uploads/180831_Doingbird_Form_Series_08.jpg)
-
-![180831_Doingbird_Form_Series_09.jpg](/uploads/180831_Doingbird_Form_Series_09.jpg)
-
-![180831_Doingbird_Form_Series_10.jpg](/uploads/180831_Doingbird_Form_Series_10.jpg)
-
-![180831_Doingbird_Form_Series_11.jpg](/uploads/180831_Doingbird_Form_Series_11.jpg)
-
-![180831_Doingbird_Form_Series_12.jpg](/uploads/180831_Doingbird_Form_Series_12.jpg)

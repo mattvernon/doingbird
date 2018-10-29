@@ -7,6 +7,11 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/180929_Doingbird_Colours_Series_05.jpg"
+Credits Text: "photographs **[Levon Baird]**\nstyling **[Peter Simon Phillips]**\nhair
+  **[Gavin Anesbury]**\nmake-up **[Rae Morris]**\nphotography assistant **Orson Heidrich**\nmake-up
+  assistants **Dana Fairall** & **Gabby Stockwell**\nmodels **Zen Zen** & **Awillo**
+  at **Kult** **Zinnia** at **Debut** **Esti** at **Chic** and **Liam** at **Five
+  Twenty** "
 layout: gallery
 ---
 

@@ -6,6 +6,8 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/180929_Doingbird_Colours_Series_05.jpg"
+layout: gallery
 ---
 
 ![180929_Doingbird_Colours_Series_01.jpg](/uploads/180929_Doingbird_Colours_Series_01.jpg)

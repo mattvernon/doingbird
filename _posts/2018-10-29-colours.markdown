@@ -13,9 +13,9 @@ Credits Text: "photographs **[Levon Baird](https://www.instagram.com/levonbaird/
   Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**\nmake-up
   **[Rae Morris](https://www.instagram.com/raemorrismakeup/)** at **[Company1](https://www.instagram.com/company1agency/)**\nphotography
   assistant **Orson Heidrich**\nmake-up assistants **Dana Fairall** & **Gabby Stockwell**\nmodels
-  **Zen Zen** & **[Awilo](https://www.instagram.com/awilo.m/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
-  **Zinnia** at **[Debut](https://www.instagram.com/debutmanagement/)** **Esti** at
-  **Chic** and **Liam** at **[Five Twenty](https://www.instagram.com/fivetwentyMGT/)** "
+  **[Zen Zen](https://www.instagram.com/zenzenzhang/)** & **[Awilo](https://www.instagram.com/awilo.m/)**
+  at **[Kult](https://www.instagram.com/kultaustralia/)** **Zinnia** at **[Debut](https://www.instagram.com/debutmanagement/)**
+  **Esti** at **Chic** and **Liam** at **[Five Twenty](https://www.instagram.com/fivetwentyMGT/)** "
 is featured?: true
 blurb: Photographs by Levon Baird
 layout: gallery

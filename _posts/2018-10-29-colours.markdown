@@ -7,12 +7,13 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/180929_Doingbird_Colours_Series_05.jpg"
-Credits Text: "photographs **[Levon Baird]** at **[Company1]**\nstyling **[Peter Simon
-  Phillips]** at **[Company1]**\nhair **[Gavin Anesbury]** at **[Vivien's Creative]**\nmake-up
-  **[Rae Morris]** at **[Company1]**\nphotography assistant **Orson Heidrich**\nmake-up
-  assistants **Dana Fairall** & **Gabby Stockwell**\nmodels **Zen Zen** & **Awillo**
-  at **Kult** **Zinnia** at **Debut** **Esti** at **Chic** and **Liam** at **Five
-  Twenty** "
+Credits Text: "photographs **[Levon Baird](https://www.instagram.com/levonbaird/)**
+  at **[Company1](https://www.instagram.com/company1agency/)**\nstyling **[Peter Simon
+  Phillips]** at **[Company1](https://www.instagram.com/company1agency/)**\nhair **[Gavin
+  Anesbury]** at **[Vivien's Creative]**\nmake-up **[Rae Morris]** at **[Company1](https://www.instagram.com/company1agency/)**\nphotography
+  assistant **Orson Heidrich**\nmake-up assistants **Dana Fairall** & **Gabby Stockwell**\nmodels
+  **Zen Zen** & **Awillo** at **Kult** **Zinnia** at **Debut** **Esti** at **Chic**
+  and **Liam** at **Five Twenty** "
 is featured?: true
 blurb: Photographs by Levon Baird
 layout: gallery

@@ -15,8 +15,8 @@ Credits Text: "photographs **[Levon Baird](https://www.instagram.com/levonbaird/
   assistant **Orson Heidrich**\nmake-up assistants **Dana Fairall** & **Gabby Stockwell**\nmodels
   **[Zen Zen](https://www.instagram.com/zenzenzhang/)** & **[Awilo](https://www.instagram.com/awilo.m/)**
   at **[Kult](https://www.instagram.com/kultaustralia/)** **[Zinnia](https://www.instagram.com/zinniakumar/)**
-  at **[Debut](https://www.instagram.com/debutmanagement/)** **Esti** at **Chic**
-  and **Liam** at **[Five Twenty](https://www.instagram.com/fivetwentyMGT/)** "
+  at **[Debut](https://www.instagram.com/debutmanagement/)** **[Esti](https://www.instagram.com/estivbalen/)**
+  at **Chic** and **Liam** at **[Five Twenty](https://www.instagram.com/fivetwentyMGT/)** "
 is featured?: true
 blurb: Photographs by Levon Baird
 layout: gallery

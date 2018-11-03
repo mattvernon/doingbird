@@ -18,6 +18,9 @@ Blurb: Photographs by Victoria Zschommler
 layout: gallery
 ---
 
+![VZ_DOINGBIRD_03_1069-009_V1.jpg](/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg)
+**Elissa McGowan** top & pants and **Dion Lee** shoes
+
 ![VZ_DOINGBIRD_02_0158.jpg](/uploads/VZ_DOINGBIRD_02_0158.jpg)
 **Sir** dress, **Nico** underwear, **Matin** pants and **Guzman** sunglasses
 
@@ -32,9 +35,6 @@ layout: gallery
 
 ![VZ_DOINGBIRD_04_0464.jpg](/uploads/VZ_DOINGBIRD_04_0464.jpg)
 **Elissa McGowan** pants, **Dion Lee** shoes and **POMS** sunglasses
-
-![VZ_DOINGBIRD_03_1069-009_V1.jpg](/uploads/VZ_DOINGBIRD_03_1069-009_V1.jpg)
-**Elissa McGowan** top & pants and **Dion Lee** shoes
 
 ![VZ_DOINGBIRD_06_0854.jpg](/uploads/VZ_DOINGBIRD_06_0854.jpg)
 Vintage dress and stylist's own socks

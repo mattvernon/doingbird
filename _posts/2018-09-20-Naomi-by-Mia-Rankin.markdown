@@ -34,10 +34,10 @@ layout: gallery
 ![Naomi_Mia_Kurt_Joel0010-27994d.jpg](/uploads/Naomi_Mia_Kurt_Joel0010-27994d.jpg)
 **Ramp Tramp Tramp Stamp** bodysuit, stylist's own shoes
 
-![Naomi_Mia_Kurt_Joel0012.jpg](/uploads/Naomi_Mia_Kurt_Joel0012.jpg)
+![Naomi_Mia_Kurt_Joel0012-e77156.jpg](/uploads/Naomi_Mia_Kurt_Joel0012-e77156.jpg)
 **Maroske Peech** dress
 
-![Naomi_Mia_Kurt_Joel0013.jpg](/uploads/Naomi_Mia_Kurt_Joel0013.jpg)
+![Naomi_Mia_Kurt_Joel0013-0cde81.jpg](/uploads/Naomi_Mia_Kurt_Joel0013-0cde81.jpg)
 **Maroske Peech** dress
 
 ![Naomi_Mia_Kurt_Joel0014.jpg](/uploads/Naomi_Mia_Kurt_Joel0014.jpg)

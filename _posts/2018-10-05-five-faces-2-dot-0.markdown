@@ -31,21 +31,21 @@ Ruby wears **Salvatore Ferragamo** blazer & lapel pin
 ![180929_Doingbirdmagazine_Shot_01-8bd452.jpg](/uploads/180929_Doingbirdmagazine_Shot_01-8bd452.jpg)
 Ruby wears **Salvatore Ferragamo** blazer, pants & lapel pin
 
-![180929_Doingbirdmagazine_Shot_04.jpg](/uploads/180929_Doingbirdmagazine_Shot_04.jpg)
+![180929_Doingbirdmagazine_Shot_04-0b81cd.jpg](/uploads/180929_Doingbirdmagazine_Shot_04-0b81cd.jpg)
 Anna wears **Prada** coat & dress
 
-![180929_Doingbirdmagazine_Shot_03.jpg](/uploads/180929_Doingbirdmagazine_Shot_03.jpg)
+![180929_Doingbirdmagazine_Shot_03-409a7b.jpg](/uploads/180929_Doingbirdmagazine_Shot_03-409a7b.jpg)
 Anna wears **Prada** coat & dress
 
-![180929_Doingbirdmagazine_Shot_08.jpg](/uploads/180929_Doingbirdmagazine_Shot_08.jpg)
+![180929_Doingbirdmagazine_Shot_08-1509ac.jpg](/uploads/180929_Doingbirdmagazine_Shot_08-1509ac.jpg)
 Awillo wears **Mulberry** top, scarf & earrings
 
-![180929_Doingbirdmagazine_Shot_07.jpg](/uploads/180929_Doingbirdmagazine_Shot_07.jpg)
+![180929_Doingbirdmagazine_Shot_07-702e5d.jpg](/uploads/180929_Doingbirdmagazine_Shot_07-702e5d.jpg)
 Awillo wears **Mulberry** top, pants, scarf & earrings
 
-![180929_Doingbirdmagazine_Shot_10.jpg](/uploads/180929_Doingbirdmagazine_Shot_10.jpg)
+![180929_Doingbirdmagazine_Shot_10-796a1d.jpg](/uploads/180929_Doingbirdmagazine_Shot_10-796a1d.jpg)
 Tegan wears **Louis Vuitton** top & earring
 
-![180929_Doingbirdmagazine_Shot_09.jpg](/uploads/180929_Doingbirdmagazine_Shot_09.jpg)
+![180929_Doingbirdmagazine_Shot_09-adfbd8.jpg](/uploads/180929_Doingbirdmagazine_Shot_09-adfbd8.jpg)
 Tegan wears **Louis Vuitton** top, skirt & earring
 

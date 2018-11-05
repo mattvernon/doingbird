@@ -17,18 +17,18 @@ blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
-![180929_Doingbirdmagazine_Shot_06.jpg](/uploads/180929_Doingbirdmagazine_Shot_06.jpg)
+![180929_Doingbirdmagazine_Shot_06-45c200.jpg](/uploads/180929_Doingbirdmagazine_Shot_06-45c200.jpg)
 
 Marlo wears **Chanel** dress & earrings
 
-![180929_Doingbirdmagazine_Shot_05.jpg](/uploads/180929_Doingbirdmagazine_Shot_05.jpg)
+![180929_Doingbirdmagazine_Shot_05-139ed0.jpg](/uploads/180929_Doingbirdmagazine_Shot_05-139ed0.jpg)
 
 Marlo wears **Chanel** dress & earrings
 
-![180929_Doingbirdmagazine_Shot_02.jpg](/uploads/180929_Doingbirdmagazine_Shot_02.jpg)
+![180929_Doingbirdmagazine_Shot_02-8c2660.jpg](/uploads/180929_Doingbirdmagazine_Shot_02-8c2660.jpg)
 Ruby wears **Salvatore Ferragamo** blazer & lapel pin
 
-![180929_Doingbirdmagazine_Shot_01.jpg](/uploads/180929_Doingbirdmagazine_Shot_01.jpg)
+![180929_Doingbirdmagazine_Shot_01-8bd452.jpg](/uploads/180929_Doingbirdmagazine_Shot_01-8bd452.jpg)
 Ruby wears **Salvatore Ferragamo** blazer, pants & lapel pin
 
 ![180929_Doingbirdmagazine_Shot_04.jpg](/uploads/180929_Doingbirdmagazine_Shot_04.jpg)

@@ -17,7 +17,7 @@ Blurb: Photographs by Rene Vaile
 layout: gallery
 ---
 
-![20180722_Doingbird_02_058_retouch_crop.jpg](/uploads/20180722_Doingbird_02_058_retouch_crop.jpg)
+![20180722_Doingbird_02_058_retouch_crop-6979ff.jpg](/uploads/20180722_Doingbird_02_058_retouch_crop-6979ff.jpg)
 **Gucci** jacket, skirt and bag
 
 ![20180722_Doingbird_02_193_retouch_crop.jpg](/uploads/20180722_Doingbird_02_193_retouch_crop.jpg)

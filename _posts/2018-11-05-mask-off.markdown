@@ -1,0 +1,47 @@
+---
+title: Mask Off
+date: 2018-11-05 18:50:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/180910_Maskoff_Shot_05.jpg"
+Credits Text: |-
+  photographs **[Daniel Goode]**
+  styling **[Suzannah Snow]**
+  hair **[Kyye]**
+  make-up **[Corinna Wilmshurst]**
+  model **[insert name here]**
+is featured?: true
+blurb: Photographs by Daniel Goode
+layout: gallery
+---
+
+![180910_Maskoff_Shot_01.jpg](/uploads/180910_Maskoff_Shot_01.jpg)
+**Miu Miu** jumper & shorts, **Prada** dress & shoes
+
+![180910_Maskoff_Shot_02.jpg](/uploads/180910_Maskoff_Shot_02.jpg)
+**Gucci** dress
+
+![180910_Maskoff_Shot_03.jpg](/uploads/180910_Maskoff_Shot_03.jpg)
+**Prada** dress, tulle dress (worn underneath) & shoes
+
+![180910_Maskoff_Shot_04.jpg](/uploads/180910_Maskoff_Shot_04.jpg)
+
+![180910_Maskoff_Shot_05.jpg](/uploads/180910_Maskoff_Shot_05.jpg)
+**Gucci** dress and stylist's own earring
+
+![180910_Maskoff_Shot_06.jpg](/uploads/180910_Maskoff_Shot_06.jpg)
+**Zimmermann** coat
+
+![180910_Maskoff_Shot_07.jpg](/uploads/180910_Maskoff_Shot_07.jpg)
+
+![180910_Maskoff_Shot_08.jpg](/uploads/180910_Maskoff_Shot_08.jpg)
+**Zimmermann** coat
+
+![180910_Maskoff_Shot_09.jpg](/uploads/180910_Maskoff_Shot_09.jpg)
+**Romance Was Born** dress
+
+![180910_Maskoff_Shot_10.jpg](/uploads/180910_Maskoff_Shot_10.jpg)
+**Double Rainbouu** jumper and **Sandro** skirt

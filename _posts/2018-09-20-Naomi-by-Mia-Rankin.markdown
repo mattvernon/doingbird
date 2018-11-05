@@ -22,10 +22,10 @@ layout: gallery
 ![Naomi_Mia_Kurt_Joel0004-135513.jpg](/uploads/Naomi_Mia_Kurt_Joel0004-135513.jpg)
 **Maroske Peech** dress, **Prada** gloves, stylist's own shoes
 
-![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)
+![Naomi_Mia_Kurt_Joel0006-a00f2e.jpg](/uploads/Naomi_Mia_Kurt_Joel0006-a00f2e.jpg)
 **Ramp Tramp Tramp Stamp** dress, **Maroske Peech** bodysuit
 
-![Naomi_Mia_Kurt_Joel0007.jpg](/uploads/Naomi_Mia_Kurt_Joel0007.jpg)
+![Naomi_Mia_Kurt_Joel0007-8333c9.jpg](/uploads/Naomi_Mia_Kurt_Joel0007-8333c9.jpg)
 **Ramp Tramp Tramp Stamp** dress, **Maroske Peech** bodysuit
 
 ![Naomi_Mia_Kurt_Joel0008.jpg](/uploads/Naomi_Mia_Kurt_Joel0008.jpg)

@@ -13,27 +13,27 @@ Blurb: '"There is something peculiar about [Japan], however much I like to see i
 Field name: 
 ---
 
-[Huma_001-1a1b49.JPG](/uploads/Huma_001-1a1b49.JPG)
+[Huma_001-ce6596.JPG](/uploads/Huma_001-ce6596.JPG)
 
 *Meet Alin Huma, a Romanian photographer and publisher based in Tokyo, who interviewed himself for doingbird. Scroll down to read. Special thanks to [Contact Gallery](contactgallery.co).*
 
-[Huma_002.JPG](/uploads/Huma_002.JPG)
+[Huma_002-ffd9b1.JPG](/uploads/Huma_002-ffd9b1.JPG)
 
 —Why aren't you more famous?
 
 Haha, other people are. I was just thinking the other day that growing up in Romania, back then—it's not that we didn't have access to all the stuff, we sure did, there were more levels to the underground than down here below Shinjuku station—but there were other filtering mechanisms in place, which to this day I don't think I quite understand. Not that I thought about it that much. For example, while anything West Coast was regular currency, from the Grateful Dead to conceptual art, there was hardly anything from Warhol, pop art, Velvet Underground, Sonic Youth... It would either not move or move way below the radar, no interest. So, funny, I think that whole fame thing, as well as the nihilism, whatever you call it—anything cynical—just isn't in my make-up. Another thing that went under, or over, the radar—I'm talking '80s here, early '80s—is that Manchester thing, New Order and stuff; remember getting into it sometime at the start of the '90s and my head kinda spinning... I was in awe and disbelief. What is it? I guess that point where the snake eats its own tail... We're still there now... Punk was right, maybe the post-punk... or the post anything... I still haven't bought it. Then there is this old Romanian proverb thing that I grew up with, which says that self-promotion stinks. Literally, that's what it says. There's always more interesting stuff to do than being famous. Or maybe also 'cause I've never been quite at the right place. Right time at the wrong place seems to be the main theme of my life.
 
-[Huma_003.JPG](/uploads/Huma_003.JPG)
+[Huma_003-b0c4e9.JPG](/uploads/Huma_003-b0c4e9.JPG)
 
-[Huma_004.JPG](/uploads/Huma_004.JPG)
+[Huma_004-061121.JPG](/uploads/Huma_004-061121.JPG)
 
 The struggle does suck sometimes. The other day I was hanging out in the park here in Okubo eating leaves all day. They were great. Remembered eating those same leaves when I was a kid, they taste great, better than anything at the supermarket... Wish the park provided some Parmigiano, olive oil, vinegar, ume... It's ume season here. They usually pick them green: umeboshi, umeshu, but ripe they're amazing. Like heavenly apricots. I'm sure they'd make a great spirit... fermented and then distilled. I just had to wrap up all my fermentation workshops at the place I was living... for complex reasons. I had so much going on there, which is how I ended up eating leaves in the park, haha.
 
-[Huma_005.JPG](/uploads/Huma_005.JPG)
+[Huma_005-e3d075.JPG](/uploads/Huma_005-e3d075.JPG)
 
-[Huma_006.JPG](/uploads/Huma_006.JPG)
+[Huma_006-90ed4e.JPG](/uploads/Huma_006-90ed4e.JPG)
 
-![Huma_007.jpg](/uploads/Huma_007.jpg)
+![Huma_007-ed4a19.jpg](/uploads/Huma_007-ed4a19.jpg)
 
 —You always seem to struggle in Japan.
 
@@ -41,11 +41,11 @@ Everyone is, I guess I just make it more visible. My Latin temperament? Sure you
 
 Had this major thought about Japan: there is something peculiar about it, however much I like to see it as just a place like any other. Figured that the peculiar might have started when they imported wholesale—the whole Chinese system, administration and all that, writing and all of course. They uncannily left just one thing out: In China they had this 'mandate of heaven' deal, which says that power is granted by heaven to the emperor. But just power, period. But just as it's given it can also be taken away, if misused. It's basically the same thing as Mao Zedong saying it's okay to rebel. That's the one thing they left out. Chinese system, but the emperor stayed immutable. The consequence of that if you really think about it is that basically change itself becomes impossible. When you come from outside it looks all speedy and moving but there are some tremendous forces at work keeping things just as they are. Where on earth do you see people casually walking into convenience stores dressed in Tang dynasty Chinese costume?
 
-![Huma_008.jpg](/uploads/Huma_008.jpg)
+![Huma_008-073b64.jpg](/uploads/Huma_008-073b64.jpg)
 
-![Huma_009.jpg](/uploads/Huma_009.jpg)
+![Huma_009-c52fdf.jpg](/uploads/Huma_009-c52fdf.jpg)
 
-![Huma_010.jpg](/uploads/Huma_010.jpg)
+![Huma_010-d3d808.jpg](/uploads/Huma_010-d3d808.jpg)
 
 —You have been to places though (  ??  in more than one way ?? )  ...  ?
 
@@ -53,31 +53,27 @@ I was like in the top 1000—or was it 5000?—on Artnet once... Then next time 
 
 \[\[\[   Food   //  Food  Fermentation  //  ?      fermentation <-->  making a book //   time  ( does most of the work ;  then stuff like gravity and sunlight  yeah, like Battaile's general economy   …
 
-![Huma_011-f662ac.jpg](/uploads/Huma_011-f662ac.jpg)
+![Huma_011.jpg](/uploads/Huma_011.jpg)
 
-![Huma_012-11de17.jpg](/uploads/Huma_012-11de17.jpg)
+![Huma_012.jpg](/uploads/Huma_012.jpg)
 
-![Huma_013-62ff26.jpg](/uploads/Huma_013-62ff26.jpg)
+![Huma_013.jpg](/uploads/Huma_013.jpg)
 
 —You're doing this magazine \[[F de C](http://fdc.tokyo/)\].
 
 I've always liked magazines, or I think I did. Doesn't everybody? But there weren't really any magazine that I liked enough to want to work for. I did work for all these crappy music magazines when I started (did some portraits just the other day for this online magazine here, it's gonna take two months to get paid, that's how things work here). Except *Purple*, of course... It was quite heartbreaking when they rejected me... Maybe I just sent them too much stuff... (I have since become quite good friends to some of the people who were on board then). So then I'm doing this thing (dunno whether to call it a magazine) that can never quite catch up with itself... the content, as such, ends up as a small fraction of what intended, but the methodology does stay pure. It's people who make magazines that generally love it and get it... but it's funny...
 
-![Huma_014-9c7415.jpg](/uploads/Huma_014-9c7415.jpg)
+![Huma_014.jpg](/uploads/Huma_014.jpg)
 
-![Huma_015-792374.jpg](/uploads/Huma_015-792374.jpg)\[The magazine has\] definitely sent some ripples... but I can't even sell it. To be honest why I started it was to find myself a decent place of employment, to do photography, fashion photography—I won't get into it now but I do have this line of reasoning where, depending which way you go the result is either that fashion photography is the highest form of photography, or that all photography is in fact fashion photography. Anyway, the idea was that once it's set and moving then I can do myself one fashion shoot per issue... but then there's this original sin where someone else was supposed to take care of production, and sales, and i was only supposed to take care of the general direction, content... and then do that bit of fashion photography, but that person pulled away after the thing actually started to make sense, so there's so much to do—not so much volume of work but all the synchronising, doing things in the right order so even when I did get to do the "fashion shoots"... And then even now I can't really sell the thing. Selling things makes me physically sick to start with, dunno what it is. Was even thinking at one point that there might actually be something to those rigid caste systems where traders are just traders and if you're not, well... But those brief periods when things do move are very cool. Like, being able to decide, hey, I'm gonna print this 200 pages conversation just as it is, uncut, unedited, the good bits and the epically boring parts.
+![Huma_015.jpg](/uploads/Huma_015.jpg)\[The magazine has\] definitely sent some ripples... but I can't even sell it. To be honest why I started it was to find myself a decent place of employment, to do photography, fashion photography—I won't get into it now but I do have this line of reasoning where, depending which way you go the result is either that fashion photography is the highest form of photography, or that all photography is in fact fashion photography. Anyway, the idea was that once it's set and moving then I can do myself one fashion shoot per issue... but then there's this original sin where someone else was supposed to take care of production, and sales, and i was only supposed to take care of the general direction, content... and then do that bit of fashion photography, but that person pulled away after the thing actually started to make sense, so there's so much to do—not so much volume of work but all the synchronising, doing things in the right order so even when I did get to do the "fashion shoots"... And then even now I can't really sell the thing. Selling things makes me physically sick to start with, dunno what it is. Was even thinking at one point that there might actually be something to those rigid caste systems where traders are just traders and if you're not, well... But those brief periods when things do move are very cool. Like, being able to decide, hey, I'm gonna print this 200 pages conversation just as it is, uncut, unedited, the good bits and the epically boring parts.
 
 —That's very Warhol, isn't it?
 
 Hmm, it is... More than social realism, dunno...
 
-![Huma_016-9b17ee.jpg](/uploads/Huma_016-9b17ee.jpg)
+![Huma_018.jpg](/uploads/Huma_018.jpg)
 
-![Huma_017-a05ad3.jpg](/uploads/Huma_017-a05ad3.jpg)
-
-![Huma_018-34c1d8.jpg](/uploads/Huma_018-34c1d8.jpg)
-
-![Huma_019-76b1a3.jpg](/uploads/Huma_019-76b1a3.jpg)
+![Huma_019.jpg](/uploads/Huma_019.jpg)
 
 —So, ok... photos? Photography?
 

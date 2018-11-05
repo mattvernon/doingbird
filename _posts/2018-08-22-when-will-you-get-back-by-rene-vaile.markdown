@@ -35,8 +35,8 @@ layout: gallery
 ![20180722_Doingbird_04_151_retouch_crop-dc1208.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop-dc1208.jpg)
 **Prada** hat, dress and jumper
 
-![20180722_Doingbird_05_196_retouch_crop.jpg](/uploads/20180722_Doingbird_05_196_retouch_crop.jpg)
-**Lee Matthews** dress, model's own necklace
+![20180722_Doingbird_04_098_retouch_crop-216f42.jpg](/uploads/20180722_Doingbird_04_098_retouch_crop-216f42.jpg)
+**Prada** top
 
 ![20180722_Doingbird_05_286_retouch_croop.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop.jpg)
 **Lee Matthews** dress, **Topshop** shoes and **Prada** socks

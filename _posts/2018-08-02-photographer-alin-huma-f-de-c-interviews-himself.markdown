@@ -63,21 +63,17 @@ I was like in the top 1000—or was it 5000?—on Artnet once... Then next time 
 
 I've always liked magazines, or I think I did. Doesn't everybody? But there weren't really any magazine that I liked enough to want to work for. I did work for all these crappy music magazines when I started (did some portraits just the other day for this online magazine here, it's gonna take two months to get paid, that's how things work here). Except *Purple*, of course... It was quite heartbreaking when they rejected me... Maybe I just sent them too much stuff... (I have since become quite good friends to some of the people who were on board then). So then I'm doing this thing (dunno whether to call it a magazine) that can never quite catch up with itself... the content, as such, ends up as a small fraction of what intended, but the methodology does stay pure. It's people who make magazines that generally love it and get it... but it's funny...
 
-![Huma_014-9c7415.jpg](/uploads/Huma_014-9c7415.jpg)
+![Huma_014.jpg](/uploads/Huma_014.jpg)
 
-![Huma_015-792374.jpg](/uploads/Huma_015-792374.jpg)\[The magazine has\] definitely sent some ripples... but I can't even sell it. To be honest why I started it was to find myself a decent place of employment, to do photography, fashion photography—I won't get into it now but I do have this line of reasoning where, depending which way you go the result is either that fashion photography is the highest form of photography, or that all photography is in fact fashion photography. Anyway, the idea was that once it's set and moving then I can do myself one fashion shoot per issue... but then there's this original sin where someone else was supposed to take care of production, and sales, and i was only supposed to take care of the general direction, content... and then do that bit of fashion photography, but that person pulled away after the thing actually started to make sense, so there's so much to do—not so much volume of work but all the synchronising, doing things in the right order so even when I did get to do the "fashion shoots"... And then even now I can't really sell the thing. Selling things makes me physically sick to start with, dunno what it is. Was even thinking at one point that there might actually be something to those rigid caste systems where traders are just traders and if you're not, well... But those brief periods when things do move are very cool. Like, being able to decide, hey, I'm gonna print this 200 pages conversation just as it is, uncut, unedited, the good bits and the epically boring parts.
+![Huma_015.jpg](/uploads/Huma_015.jpg)\[The magazine has\] definitely sent some ripples... but I can't even sell it. To be honest why I started it was to find myself a decent place of employment, to do photography, fashion photography—I won't get into it now but I do have this line of reasoning where, depending which way you go the result is either that fashion photography is the highest form of photography, or that all photography is in fact fashion photography. Anyway, the idea was that once it's set and moving then I can do myself one fashion shoot per issue... but then there's this original sin where someone else was supposed to take care of production, and sales, and i was only supposed to take care of the general direction, content... and then do that bit of fashion photography, but that person pulled away after the thing actually started to make sense, so there's so much to do—not so much volume of work but all the synchronising, doing things in the right order so even when I did get to do the "fashion shoots"... And then even now I can't really sell the thing. Selling things makes me physically sick to start with, dunno what it is. Was even thinking at one point that there might actually be something to those rigid caste systems where traders are just traders and if you're not, well... But those brief periods when things do move are very cool. Like, being able to decide, hey, I'm gonna print this 200 pages conversation just as it is, uncut, unedited, the good bits and the epically boring parts.
 
 —That's very Warhol, isn't it?
 
 Hmm, it is... More than social realism, dunno...
 
-![Huma_016-9b17ee.jpg](/uploads/Huma_016-9b17ee.jpg)
+![Huma_018.jpg](/uploads/Huma_018.jpg)
 
-![Huma_017-a05ad3.jpg](/uploads/Huma_017-a05ad3.jpg)
-
-![Huma_018-34c1d8.jpg](/uploads/Huma_018-34c1d8.jpg)
-
-![Huma_019-76b1a3.jpg](/uploads/Huma_019-76b1a3.jpg)
+![Huma_019.jpg](/uploads/Huma_019.jpg)
 
 —So, ok... photos? Photography?
 

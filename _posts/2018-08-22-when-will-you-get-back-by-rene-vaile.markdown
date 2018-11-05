@@ -17,29 +17,29 @@ Blurb: Photographs by Rene Vaile
 layout: gallery
 ---
 
-![20180722_Doingbird_02_058_retouch_crop.jpg](/uploads/20180722_Doingbird_02_058_retouch_crop.jpg)
+![20180722_Doingbird_02_058_retouch_crop-6979ff.jpg](/uploads/20180722_Doingbird_02_058_retouch_crop-6979ff.jpg)
 **Gucci** jacket, skirt and bag
 
-![20180722_Doingbird_02_193_retouch_crop.jpg](/uploads/20180722_Doingbird_02_193_retouch_crop.jpg)
+![20180722_Doingbird_02_193_retouch_crop-fefecf.jpg](/uploads/20180722_Doingbird_02_193_retouch_crop-fefecf.jpg)
 **Gucci** jacket, skirt, shirt and boots
 
-![20180722_Doingbird_03_060_retouch_crop.jpg](/uploads/20180722_Doingbird_03_060_retouch_crop.jpg)
+![20180722_Doingbird_03_060_retouch_crop-ec6e10.jpg](/uploads/20180722_Doingbird_03_060_retouch_crop-ec6e10.jpg)
 **Romance Was Born** coat, **Ellery** pants and **Topshop** shoes
 
-![20180722_Doingbird_03_067_retouch_crop.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop.jpg)
+![20180722_Doingbird_03_067_retouch_crop-0ca1d1.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop-0ca1d1.jpg)
 **Romance Was Born** coat and **Ellery** pants
 
-![20180722_Doingbird_04_104_retouch_crop.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop.jpg)
+![20180722_Doingbird_04_104_retouch_crop-6a6804.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop-6a6804.jpg)
 **Prada** jacket, dress, jumper, shoes and socks
 
-![20180722_Doingbird_04_151_retouch_crop.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop.jpg)
+![20180722_Doingbird_04_151_retouch_crop-dc1208.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop-dc1208.jpg)
 **Prada** hat, dress and jumper
 
-![20180722_Doingbird_05_196_retouch_crop.jpg](/uploads/20180722_Doingbird_05_196_retouch_crop.jpg)
-**Lee Matthews** dress, model's own necklace
+![20180722_Doingbird_04_098_retouch_crop-216f42.jpg](/uploads/20180722_Doingbird_04_098_retouch_crop-216f42.jpg)
+**Prada** top
 
-![20180722_Doingbird_05_286_retouch_croop.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop.jpg)
+![20180722_Doingbird_05_286_retouch_croop-b228d8.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop-b228d8.jpg)
 **Lee Matthews** dress, **Topshop** shoes and **Prada** socks
 
-![01_20180722_Doingbird_01_264_retouch_crop.jpg](/uploads/01_20180722_Doingbird_01_264_retouch_crop.jpg)
+![01_20180722_Doingbird_01_264_retouch_crop-8e4d31.jpg](/uploads/01_20180722_Doingbird_01_264_retouch_crop-8e4d31.jpg)
 **Topshop** top, **Sportmax** skirt, boots & top (worn underneath) and **Danielle Karlikoff** earring

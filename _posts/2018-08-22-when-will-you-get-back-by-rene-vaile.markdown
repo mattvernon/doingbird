@@ -29,10 +29,10 @@ layout: gallery
 ![20180722_Doingbird_03_067_retouch_crop-0ca1d1.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop-0ca1d1.jpg)
 **Romance Was Born** coat and **Ellery** pants
 
-![20180722_Doingbird_04_104_retouch_crop.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop.jpg)
+![20180722_Doingbird_04_104_retouch_crop-6a6804.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop-6a6804.jpg)
 **Prada** jacket, dress, jumper, shoes and socks
 
-![20180722_Doingbird_04_151_retouch_crop.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop.jpg)
+![20180722_Doingbird_04_151_retouch_crop-dc1208.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop-dc1208.jpg)
 **Prada** hat, dress and jumper
 
 ![20180722_Doingbird_05_196_retouch_crop.jpg](/uploads/20180722_Doingbird_05_196_retouch_crop.jpg)

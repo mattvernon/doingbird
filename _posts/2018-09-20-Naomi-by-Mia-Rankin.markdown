@@ -16,10 +16,10 @@ blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 
-![Naomi_Mia_Kurt_Joel0003.jpg](/uploads/Naomi_Mia_Kurt_Joel0003.jpg)
+![Naomi_Mia_Kurt_Joel0003-fdf20e.jpg](/uploads/Naomi_Mia_Kurt_Joel0003-fdf20e.jpg)
 **Maroske Peech** dress, **Prada** gloves, stylist's own shoes
 
-![Naomi_Mia_Kurt_Joel0004.jpg](/uploads/Naomi_Mia_Kurt_Joel0004.jpg)
+![Naomi_Mia_Kurt_Joel0004-135513.jpg](/uploads/Naomi_Mia_Kurt_Joel0004-135513.jpg)
 **Maroske Peech** dress, **Prada** gloves, stylist's own shoes
 
 ![Naomi_Mia_Kurt_Joel0006.jpg](/uploads/Naomi_Mia_Kurt_Joel0006.jpg)

@@ -19,6 +19,7 @@ Producer **[Chris Hemmings](https://www.instagram.com/contactstudios/)**
 ![Yulia_TOKYO_097.jpg](/uploads/Yulia_TOKYO_097.jpg)
 
 'My name is Yulia and I'm from Smolensk town, Russia. I always loved wandering around flea markets in Japan when traveling and I discovered that they sold a lot of antique and vintage kimonos. I fell in love with how beautiful they all were and with so much history (some over 100 years old). They are mostly hand painted and made from silk. So I started collecting them.
+
 ![Yulia_TOKYO_242.jpg](/uploads/Yulia_TOKYO_242.jpg)
 
 ![TOKYO-June2018_043.jpg](/uploads/TOKYO-June2018_043.jpg)

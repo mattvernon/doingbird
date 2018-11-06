@@ -10,7 +10,7 @@ Main Image: "/uploads/Yulia_TOKYO_132%201.jpg"
 ---
 
 Photographs **[Pierre Toussaint](https://www.instagram.com/pierretoussaint/)**
-Producer **[Chris Hemmings](https://www.instagram.com/contactstudios/)**
+Producer **[Chris Hemmings](https://www.instagram.com/stillrep/)** at **[Contact Studios](https://www.instagram.com/contactstudios/)**
 
 ![Yulia_TOKYO_132 1.jpg](/uploads/Yulia_TOKYO_132%201.jpg)
 

@@ -24,7 +24,7 @@ Producer **[Chris Hemmings](https://www.instagram.com/stillrep/)** at **[Contact
 
 ![TOKYO-June2018_043.jpg](/uploads/TOKYO-June2018_043.jpg)
 
-I then decided to start an account on Instagram to try and sell them to overseas. **[LOVEFORKIMONO](https://www.instagram.com/loveforkimono/)** became popular between friends and their friends and soon enough my collection started to fly to all over the world. I've had designers buy from me for fabric inspirations. I have sold over 300 kimono since I started a year ago.'
+I then decided to start an account on Instagram to try and sell them to overseas. **[LOVEFORKIMONO](https://www.instagram.com/loveforkimono/)** became popular between friends and their friends. Soon enough my collection started to fly to all over the world. I've had designers buy from me for fabric inspirations. I have sold over 300 kimono since I started a year ago.'
 
 ![Yulia_TOKYO_166.jpg](/uploads/Yulia_TOKYO_166.jpg)
 

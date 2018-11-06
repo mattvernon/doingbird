@@ -7,6 +7,8 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Yulia_TOKYO_132%201.jpg"
+is featured?: true
+blurb: Photographs by Pierre Toussaint
 ---
 
 Photographs **[Pierre Toussaint](https://www.instagram.com/pierretoussaint/)**

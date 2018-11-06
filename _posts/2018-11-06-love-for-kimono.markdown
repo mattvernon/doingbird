@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/Yulia_TOKYO_132%201.jpg"
 ---
 
 Photographs: **[Pierre Toussaint](https://www.instagram.com/pierretoussaint/)**

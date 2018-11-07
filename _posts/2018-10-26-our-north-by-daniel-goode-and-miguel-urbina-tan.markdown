@@ -48,10 +48,10 @@ Joey wears **Emporio Armani** jumper and **Jac + Jack** shorts
 ![181014_DoingBirdMagazine_015-ff8f05.jpg](/uploads/181014_DoingBirdMagazine_015-ff8f05.jpg)
 Joey wears **Louis Vuitton** hood
 
-![181014_DoingBirdMagazine_014.jpg](/uploads/181014_DoingBirdMagazine_014.jpg)
+![181014_DoingBirdMagazine_014-b88a4f.jpg](/uploads/181014_DoingBirdMagazine_014-b88a4f.jpg)
 Alex wears **Rag & Bone** jumper
 
-![181014_DoingBirdMagazine_013.jpg](/uploads/181014_DoingBirdMagazine_013.jpg)
+![181014_DoingBirdMagazine_013-9b2881.jpg](/uploads/181014_DoingBirdMagazine_013-9b2881.jpg)
 Alex wears **Rag & Bone** jumper and **Jac + Jack** shorts
 
 ![181014_DoingBirdMagazine_01.jpg](/uploads/181014_DoingBirdMagazine_01.jpg)

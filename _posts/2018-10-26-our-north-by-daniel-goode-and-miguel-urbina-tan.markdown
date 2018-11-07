@@ -45,7 +45,7 @@ Joey wears **Commas** top & shorts
 ![181014_DoingBirdMagazine_016.jpg](/uploads/181014_DoingBirdMagazine_016.jpg)
 Joey wears **Emporio Armani** jumper and **Jac + Jack** shorts
 
-![181014_DoingBirdMagazine_015.jpg](/uploads/181014_DoingBirdMagazine_015.jpg)
+![181014_DoingBirdMagazine_015-ff8f05.jpg](/uploads/181014_DoingBirdMagazine_015-ff8f05.jpg)
 Joey wears **Louis Vuitton** hood
 
 ![181014_DoingBirdMagazine_014.jpg](/uploads/181014_DoingBirdMagazine_014.jpg)

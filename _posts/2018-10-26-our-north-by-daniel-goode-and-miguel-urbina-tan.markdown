@@ -27,16 +27,16 @@ Joey wears **Zegna** blazer & pants and **Bally** shoes
 ![181014_DoingBirdMagazine_07.jpg](/uploads/181014_DoingBirdMagazine_07.jpg)
 Joey wears **Emporio Armani** jumper and own earrings (worn throughout)
 
-![181014_DoingBirdMagazine_03.jpg](/uploads/181014_DoingBirdMagazine_03.jpg)
+![181014_DoingBirdMagazine_03-9626f9.jpg](/uploads/181014_DoingBirdMagazine_03-9626f9.jpg)
 Alex wears **Louis Vuitton** coat
 
-![181014_DoingBirdMagazine_06.jpg](/uploads/181014_DoingBirdMagazine_06.jpg)
+![181014_DoingBirdMagazine_06-1e2d5a.jpg](/uploads/181014_DoingBirdMagazine_06-1e2d5a.jpg)
 Joey wears **Louis Vuitton** top and **Lacoste** jacket. Alex wears **Commas** top and **Emporio Armani** pants
 
-![181014_DoingBirdMagazine_08.jpg](/uploads/181014_DoingBirdMagazine_08.jpg)
+![181014_DoingBirdMagazine_08-ff61e7.jpg](/uploads/181014_DoingBirdMagazine_08-ff61e7.jpg)
 Alex wears **Lacoste** top and **Commas** shorts
 
-![181014_DoingBirdMagazine_09.jpg](/uploads/181014_DoingBirdMagazine_09.jpg)
+![181014_DoingBirdMagazine_09-e73e10.jpg](/uploads/181014_DoingBirdMagazine_09-e73e10.jpg)
 Joey wears **Commas top.** Alex wears **Lacoste** top
 
 ![181014_DoingBirdMagazine_010.jpg](/uploads/181014_DoingBirdMagazine_010.jpg)

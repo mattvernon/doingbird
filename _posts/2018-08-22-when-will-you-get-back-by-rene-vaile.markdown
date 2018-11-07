@@ -38,8 +38,8 @@ layout: gallery
 ![20180722_Doingbird_04_098_retouch_crop.jpg](/uploads/20180722_Doingbird_04_098_retouch_crop.jpg)
 **Prada** top
 
-![20180722_Doingbird_05_286_retouch_croop-b228d8.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop-b228d8.jpg)
+![20180722_Doingbird_05_286_retouch_croop.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop.jpg)
 **Lee Matthews** dress, **Topshop** shoes and **Prada** socks
 
-![01_20180722_Doingbird_01_264_retouch_crop-8e4d31.jpg](/uploads/01_20180722_Doingbird_01_264_retouch_crop-8e4d31.jpg)
+![01_20180722_Doingbird_01_264_retouch_crop.jpg](/uploads/01_20180722_Doingbird_01_264_retouch_crop.jpg)
 **Topshop** top, **Sportmax** skirt, boots & top (worn underneath) and **Danielle Karlikoff** earring

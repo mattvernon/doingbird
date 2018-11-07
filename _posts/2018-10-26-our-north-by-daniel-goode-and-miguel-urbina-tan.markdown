@@ -21,7 +21,7 @@ layout: gallery
 ![181014_DoingBirdMagazine_011.jpg](/uploads/181014_DoingBirdMagazine_011.jpg)
 Joey wears **Zegna** top, **Commas** shorts and **Veja** shoes. Alex wears **Zegna** top, **Commas** shorts and **Veja** shoes
  
-![181014_DoingBirdMagazine_02.jpg](/uploads/181014_DoingBirdMagazine_02.jpg)
+![181014_DoingBirdMagazine_02-11744e.jpg](/uploads/181014_DoingBirdMagazine_02-11744e.jpg)
 Joey wears **Zegna** blazer & pants and **Bally** shoes
 
 ![181014_DoingBirdMagazine_07.jpg](/uploads/181014_DoingBirdMagazine_07.jpg)

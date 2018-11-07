@@ -35,7 +35,7 @@ layout: gallery
 ![20180722_Doingbird_04_151_retouch_crop.jpg](/uploads/20180722_Doingbird_04_151_retouch_crop.jpg)
 **Prada** hat, dress and jumper
 
-![20180722_Doingbird_04_098_retouch_crop-216f42.jpg](/uploads/20180722_Doingbird_04_098_retouch_crop-216f42.jpg)
+![20180722_Doingbird_04_098_retouch_crop.jpg](/uploads/20180722_Doingbird_04_098_retouch_crop.jpg)
 **Prada** top
 
 ![20180722_Doingbird_05_286_retouch_croop-b228d8.jpg](/uploads/20180722_Doingbird_05_286_retouch_croop-b228d8.jpg)

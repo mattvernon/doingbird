@@ -23,10 +23,10 @@ layout: gallery
 ![20180722_Doingbird_02_193_retouch_crop.jpg](/uploads/20180722_Doingbird_02_193_retouch_crop.jpg)
 **Gucci** jacket, skirt, shirt and boots
 
-![20180722_Doingbird_03_060_retouch_crop-ec6e10.jpg](/uploads/20180722_Doingbird_03_060_retouch_crop-ec6e10.jpg)
+![20180722_Doingbird_03_060_retouch_crop.jpg](/uploads/20180722_Doingbird_03_060_retouch_crop.jpg)
 **Romance Was Born** coat, **Ellery** pants and **Topshop** shoes
 
-![20180722_Doingbird_03_067_retouch_crop-0ca1d1.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop-0ca1d1.jpg)
+![20180722_Doingbird_03_067_retouch_crop.jpg](/uploads/20180722_Doingbird_03_067_retouch_crop.jpg)
 **Romance Was Born** coat and **Ellery** pants
 
 ![20180722_Doingbird_04_104_retouch_crop-6a6804.jpg](/uploads/20180722_Doingbird_04_104_retouch_crop-6a6804.jpg)

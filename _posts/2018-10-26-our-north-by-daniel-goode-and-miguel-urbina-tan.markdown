@@ -39,7 +39,7 @@ Alex wears **Lacoste** top and **Commas** shorts
 ![181014_DoingBirdMagazine_09-e73e10.jpg](/uploads/181014_DoingBirdMagazine_09-e73e10.jpg)
 Joey wears **Commas top.** Alex wears **Lacoste** top
 
-![181014_DoingBirdMagazine_010.jpg](/uploads/181014_DoingBirdMagazine_010.jpg)
+![181014_DoingBirdMagazine_010-8c26e8.jpg](/uploads/181014_DoingBirdMagazine_010-8c26e8.jpg)
 Joey wears **Commas** top & shorts
 
 ![181014_DoingBirdMagazine_016.jpg](/uploads/181014_DoingBirdMagazine_016.jpg)

@@ -58,4 +58,4 @@ Sam wears **Emporio Armani** jacket, pants, shirt & bow-tie and own jewellery. F
 Sam wears **Emporio Armani** jacket, pants, shirt & bow-tie and own jewellery. Finley wears **Emporio Armani** jacket & lanyard and stylist's own shoes
 
 ![Doingbird Well Suited 15.jpg](/uploads/Doingbird%20Well%20Suited%2015.jpg)
-
+Sam wears **Van Heusen** jacket and **Ermenegildo Zegna** hooded vest. Brandon wears **Topman** jacket & shirt and **Ermenegildo Zegna** hooded vest

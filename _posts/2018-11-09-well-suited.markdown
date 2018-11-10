@@ -19,6 +19,7 @@ layout: gallery
 Finley wears **Paul Smith** suit & shirt, **Bally** shoes and own jewellery
 
 ![Doingbird Well Suited 2.jpg](/uploads/Doingbird%20Well%20Suited%202.jpg)
+Sam wears **Paul Smith** suit and own shirt & jewellery. Finley wears **Paul Smith** suit and own shirt & jewellery
 
 ![Doingbird Well Suited 3.jpg](/uploads/Doingbird%20Well%20Suited%203.jpg)
 
@@ -39,7 +40,6 @@ Finley wears **Paul Smith** suit & shirt, **Bally** shoes and own jewellery
 ![Doingbird Well Suited 11.jpg](/uploads/Doingbird%20Well%20Suited%2011.jpg)
 
 ![Doingbird Well Suited 12.jpg](/uploads/Doingbird%20Well%20Suited%2012.jpg)
-Sam wears **Paul Smith** suit and own shirt & jewellery. Finley wears **Paul Smith** suit and own shirt & jewellery
 
 ![Doingbird Well Suited 13.jpg](/uploads/Doingbird%20Well%20Suited%2013.jpg)
 

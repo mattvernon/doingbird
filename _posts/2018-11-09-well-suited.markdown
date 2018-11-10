@@ -36,6 +36,7 @@ layout: gallery
 ![Doingbird Well Suited 10.jpg](/uploads/Doingbird%20Well%20Suited%2010.jpg)
 
 ![Doingbird Well Suited 11.jpg](/uploads/Doingbird%20Well%20Suited%2011.jpg)
+Finley wears **Paul Smith** suit & shirt, **Bally** shoes and own jewellery
 
 ![Doingbird Well Suited 12.jpg](/uploads/Doingbird%20Well%20Suited%2012.jpg)
 

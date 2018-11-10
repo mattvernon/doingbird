@@ -22,7 +22,7 @@ Finley wears **Paul Smith** suit & shirt, **Bally** shoes and own jewellery
 Sam wears **Paul Smith** suit and own shirt & jewellery. Finley wears **Paul Smith** suit and own shirt & jewellery
 
 ![Doingbird Well Suited 3.jpg](/uploads/Doingbird%20Well%20Suited%203.jpg)
-Leif wears **Prada** top (worn as headscarf), suit & belt bag (from **Mr Porter**), own jewellery and stylist's own socks.
+Leif wears **Prada** top (worn as headscarf), suit & belt bag (from **Mr Porter**), own jewellery and stylist's own socks. Brandon wears **Prada** top (worn as headscarf), jacket & jeans and stylist's own socks
 
 ![Doingbird Well Suited 4.jpg](/uploads/Doingbird%20Well%20Suited%204.jpg)
 

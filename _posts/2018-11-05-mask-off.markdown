@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/180910_Maskoff_Shot_05.jpg"
+Main Image: "/uploads/180910_Maskoff_Shot_06.jpg"
 Credits Text: |-
   photographs **[Daniel Goode]**
   styling **[Suzannah Snow]**

@@ -49,6 +49,7 @@ Danny wears **Gucci** suit, shirt, shoes, case & eyewear and own jewellery
 Leif wears **Ermenegildo Zegna** suit, roll-neck & shoes and own jewellery
 
 ![Doingbird Well Suited 12.jpg](/uploads/Doingbird%20Well%20Suited%2012.jpg)
+Brandon wears **Lacoste** blazer & shoes, **Topman** shorts and stylist's own singlet & socks
 
 ![Doingbird Well Suited 13.jpg](/uploads/Doingbird%20Well%20Suited%2013.jpg)
 

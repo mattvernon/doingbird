@@ -40,6 +40,7 @@ Danny wears **Louis Vuitton** suit, shirt & shoes and own blanket & jewellery
 Sam wears **Hermès** suit, shirt, roll-neck & tie and own jewellery
 
 ![Doingbird Well Suited 9.jpg](/uploads/Doingbird%20Well%20Suited%209.jpg)
+Leif wears *Salvatore Ferragamo** jacket, shirt & shoes, stylist's own shorts & socks and own jewellery. Danny wears **Salvatore Ferragamo** jacket, shirt, shoes & bag and stylist's own shorts & socks
 
 ![Doingbird Well Suited 10.jpg](/uploads/Doingbird%20Well%20Suited%2010.jpg)
 

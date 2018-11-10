@@ -6,6 +6,12 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/Doingbird%20Well%20Suited%202.jpg"
+Credits Text: "photographs **[Bryce Thomas]**  \nstyling **[Kevin Hunter]**\nhair
+  **[Christopher Byrne]**\nmake-up **[Joel Babicci]** at **[Work Agency]**\nphotography
+  assistant **Oliver Seville**\nstyling assistant **Mercedes Rigby Ellis** \nhair
+  assistant **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent
+  FINLEY, SAM, LEIF, BRANDON & DANNY all at DISREGARD CREATIVE\n"
 layout: gallery
 ---
 

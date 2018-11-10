@@ -31,6 +31,7 @@ Leif wears **Prada** top (worn as headscarf), jacket, own jewellery and stylist'
 Brandon wears **Gucci** suit, bag & shoes and own t-shirt
 
 ![Doingbird Well Suited 6.jpg](/uploads/Doingbird%20Well%20Suited%206.jpg)
+Brandon wears **Gucci** suit & shoes and own t-shirt. Finley wears **Gucci** jumper, pants, shoes & bag and own jewellery
 
 ![Doingbird Well Suited 7.jpg](/uploads/Doingbird%20Well%20Suited%207.jpg)
 

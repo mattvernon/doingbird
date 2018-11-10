@@ -12,8 +12,8 @@ Credits Text: "photographs **[Bryce Thomas](https://www.instagram.com/friendlype
   Byrne](https://www.instagram.com/lalatopha/)**\nmake-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)**
   at **[Work Agency](https://www.instagram.com/workagency/\n)**\nphotography assistant
   **Oliver Seville**\nstyling assistant **Mercedes Rigby Ellis** \nhair assistant
-  **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent FINLEY, SAM,
-  LEIF, BRANDON & DANNY all at **[Disregard Creative](https://www.disregardcreative.com/)**\n"
+  **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent **Finley**,
+  **Sam**, *Leif**, **Brandon** & **Danny** all at **[Disregard Creative](https://www.disregardcreative.com/)**\n"
 layout: gallery
 ---
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Doingbird%20Well%20Suited%202.jpg"
-Credits Text: "photographs **[Bryce Thomas]**  \nstyling **[Kevin Hunter]**\nhair
+Credits Text: "photographs **[Bryce Thomas]**  \nstyling **[Kevin Hunter](https://www.instagram.com/djneefny/)**\nhair
   **[Christopher Byrne]**\nmake-up **[Joel Babicci]** at **[Work Agency]**\nphotography
   assistant **Oliver Seville**\nstyling assistant **Mercedes Rigby Ellis** \nhair
   assistant **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent

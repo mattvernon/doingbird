@@ -7,11 +7,12 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Doingbird%20Well%20Suited%202.jpg"
-Credits Text: "photographs **[Bryce Thomas]**  \nstyling **[Kevin Hunter](https://www.instagram.com/djneefny/)**\nhair
-  **[Christopher Byrne]**\nmake-up **[Joel Babicci]** at **[Work Agency]**\nphotography
-  assistant **Oliver Seville**\nstyling assistant **Mercedes Rigby Ellis** \nhair
-  assistant **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent
-  FINLEY, SAM, LEIF, BRANDON & DANNY all at DISREGARD CREATIVE\n"
+Credits Text: "photographs **[Bryce Thomas](https://www.instagram.com/friendlypervert/)**
+  \ \nstyling **[Kevin Hunter](https://www.instagram.com/djneefny/)**\nhair **[Christopher
+  Byrne]**\nmake-up **[Joel Babicci]** at **[Work Agency]**\nphotography assistant
+  **Oliver Seville**\nstyling assistant **Mercedes Rigby Ellis** \nhair assistant
+  **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent FINLEY, SAM,
+  LEIF, BRANDON & DANNY all at DISREGARD CREATIVE\n"
 layout: gallery
 ---
 

@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Doingbird%20Well%20Suited%202.jpg"
+Main Image: "/uploads/Doingbird%20Well%20Suited%204.jpg"
 Credits Text: "photographs **[Bryce Thomas](https://www.instagram.com/friendlypervert/)**
   \ \nstyling **[Kevin Hunter](https://www.instagram.com/djneefny/)**\nhair **[Christopher
   Byrne](https://www.instagram.com/lalatopha/)**\nmake-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)**

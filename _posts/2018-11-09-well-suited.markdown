@@ -28,6 +28,7 @@ Leif wears **Prada** top (worn as headscarf), suit & belt bag (from **Mr Porter*
 Leif wears **Prada** top (worn as headscarf), jacket, own jewellery and stylist's own socks. Brandon wears **Prada** top (worn as headscarf) & jacket
 
 ![Doingbird Well Suited 5.jpg](/uploads/Doingbird%20Well%20Suited%205.jpg)
+Brandon wears **Gucci** suit, bag & shoes and own t-shirt
 
 ![Doingbird Well Suited 6.jpg](/uploads/Doingbird%20Well%20Suited%206.jpg)
 

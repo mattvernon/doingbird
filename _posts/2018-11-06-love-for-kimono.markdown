@@ -1,12 +1,13 @@
 ---
 title: Love For Kimono
 date: 2018-11-06 22:39:00 +11:00
-published: false
 categories:
 - Features
 tags:
 - Shoot
 Main Image: "/uploads/Yulia_TOKYO_132%201.jpg"
+is featured?: true
+blurb: Photographs by Pierre Toussaint
 ---
 
 Photographs **[Pierre Toussaint](https://www.instagram.com/pierretoussaint/)**
@@ -24,7 +25,9 @@ Producer **[Chris Hemmings](https://www.instagram.com/stillrep/)** at **[Contact
 
 ![TOKYO-June2018_043.jpg](/uploads/TOKYO-June2018_043.jpg)
 
-I then decided to start an account on Instagram to try and sell them to overseas. **[LOVEFORKIMONO](https://www.instagram.com/loveforkimono/)** became popular between friends and their friends. Soon enough my collection started to fly to all over the world. I've had designers buy from me for fabric inspirations. I have sold over 300 kimono since I started a year ago.'
+I then decided to start an account on Instagram to try and sell them to overseas. **[LOVEFORKIMONO](https://www.instagram.com/loveforkimono/)** became popular between friends and their friends. 
+
+Soon enough my collection started to fly to all over the world. I've had designers buy from me for fabric inspirations. I have sold over 300 kimono since I started a year ago.'
 
 ![Yulia_TOKYO_166.jpg](/uploads/Yulia_TOKYO_166.jpg)
 

@@ -16,13 +16,13 @@ Blurb: Featuring Miu Miu FW18. Photographs by Daniel Goode
 layout: gallery
 ---
 
-![Doingbird_Shot_01_01.jpg](/uploads/Doingbird_Shot_01_01.jpg)
-![Doingbird_Shot_01_02.jpg](/uploads/Doingbird_Shot_01_02.jpg)
-![Doingbird_Shot_02_01.jpg](/uploads/Doingbird_Shot_02_01.jpg)
-![Doingbird_Shot_02_02.jpg](/uploads/Doingbird_Shot_02_02.jpg)
-![Doingbird_Shot_03_01.jpg](/uploads/Doingbird_Shot_03_01.jpg)
-![Doingbird_Shot_03_02.jpg](/uploads/Doingbird_Shot_03_02.jpg)
-![Doingbird_Shot_04_01.jpg](/uploads/Doingbird_Shot_04_01.jpg)
-![Doingbird_Shot_04_02.jpg](/uploads/Doingbird_Shot_04_02.jpg)
-![Doingbird_Shot_05_01.jpg](/uploads/Doingbird_Shot_05_01.jpg)
-![Doingbird_Shot_05_02.jpg](/uploads/Doingbird_Shot_05_02.jpg)
+![Doingbird_Shot_01_01-006c93.jpg](/uploads/Doingbird_Shot_01_01-006c93.jpg)
+![Doingbird_Shot_01_02-e4b6ac.jpg](/uploads/Doingbird_Shot_01_02-e4b6ac.jpg)
+![Doingbird_Shot_02_01-b2bbad.jpg](/uploads/Doingbird_Shot_02_01-b2bbad.jpg)
+![Doingbird_Shot_02_02-fd6f42.jpg](/uploads/Doingbird_Shot_02_02-fd6f42.jpg)
+![Doingbird_Shot_03_01-c773a4.jpg](/uploads/Doingbird_Shot_03_01-c773a4.jpg)
+![Doingbird_Shot_03_02-1a3832.jpg](/uploads/Doingbird_Shot_03_02-1a3832.jpg)
+![Doingbird_Shot_04_01-888f67.jpg](/uploads/Doingbird_Shot_04_01-888f67.jpg)
+![Doingbird_Shot_04_02-4dda7b.jpg](/uploads/Doingbird_Shot_04_02-4dda7b.jpg)
+![Doingbird_Shot_05_01-14a19a.jpg](/uploads/Doingbird_Shot_05_01-14a19a.jpg)
+![Doingbird_Shot_05_02-51d3c6.jpg](/uploads/Doingbird_Shot_05_02-51d3c6.jpg)

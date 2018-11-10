@@ -46,6 +46,7 @@ Leif wears *Salvatore Ferragamo** jacket, shirt & shoes, stylist's own shorts & 
 Danny wears **Gucci** suit, shirt, shoes, case & eyewear and own jewellery
 
 ![Doingbird Well Suited 11.jpg](/uploads/Doingbird%20Well%20Suited%2011.jpg)
+Leif wears **Ermenegildo Zegna** suit, roll-neck & shoes and own jewellery
 
 ![Doingbird Well Suited 12.jpg](/uploads/Doingbird%20Well%20Suited%2012.jpg)
 

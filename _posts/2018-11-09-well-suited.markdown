@@ -52,6 +52,7 @@ Leif wears **Ermenegildo Zegna** suit, roll-neck & shoes and own jewellery
 Brandon wears **Lacoste** blazer & shoes, **Topman** shorts and stylist's own singlet & socks
 
 ![Doingbird Well Suited 13.jpg](/uploads/Doingbird%20Well%20Suited%2013.jpg)
+Sam wears **Emporio Armani** jacket, pants, shirt & bow-tie and own jewellery. Finley wears **Emporio Armani** jacket & lanyard
 
 ![Doingbird Well Suited 14.jpg](/uploads/Doingbird%20Well%20Suited%2014.jpg)
 

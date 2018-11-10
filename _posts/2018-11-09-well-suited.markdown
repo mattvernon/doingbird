@@ -37,6 +37,7 @@ Brandon wears **Gucci** suit & shoes and own t-shirt. Finley wears **Gucci** jum
 Danny wears **Louis Vuitton** suit, shirt & shoes and own blanket & jewellery
 
 ![Doingbird Well Suited 8.jpg](/uploads/Doingbird%20Well%20Suited%208.jpg)
+Sam wears **Hermès** suit, shirt, roll-neck & tie and own jewellery
 
 ![Doingbird Well Suited 9.jpg](/uploads/Doingbird%20Well%20Suited%209.jpg)
 

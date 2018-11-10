@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/180929_Doingbird_Colours_Series_05.jpg"
+Main Image: "/uploads/180929_Doingbird_Colours_Series_05-bc0788.jpg"
 Credits Text: "photographs **[Levon Baird](https://www.instagram.com/levonbaird/)**
   at **[Company1](https://www.instagram.com/company1agency/)**\nstyling **[Peter Simon
   Phillips](https://www.instagram.com/petersimonphillips/)** at **[Company1](https://www.instagram.com/company1agency/)**\nhair

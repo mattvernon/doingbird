@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Doingbird_Shot_05_02.jpg"
+Main Image: "/uploads/Doingbird_Shot_05_02-51d3c6.jpg"
 Credits Text: |-
   All wear **[Miu Miu](http://www.miumiu.com/en?cc=IT)**
 

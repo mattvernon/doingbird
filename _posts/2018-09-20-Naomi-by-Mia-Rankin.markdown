@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Naomi_Mia_Kurt_Joel0003.jpg"
+Main Image: "/uploads/Naomi_Mia_Kurt_Joel0003-fdf20e.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   styling **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)

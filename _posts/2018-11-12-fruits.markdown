@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/8-CCSGG7-37.jpg"
+Main Image: "/uploads/7-CCSGG7-72.jpg"
 Credits Text: |-
   photographs **[Isabella Kerstens](https://www.instagram.com/isabellakerstens/)**
   styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**

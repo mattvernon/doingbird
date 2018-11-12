@@ -6,6 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/8-CCSGG7-37.jpg"
+is featured?: true
+blurb: Photographs by Isabella Kerstens
 layout: gallery
 ---
 

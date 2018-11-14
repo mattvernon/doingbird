@@ -6,6 +6,13 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/20180908_Drew_Wheeler_001_m.jpg"
+Credits Text: |
+  photographs **[Drew Wheeler]** at **[Union Management]**
+  styling **[Suzannah Snow]**
+  hair
+  make-up
+  models
 layout: gallery
 ---
 

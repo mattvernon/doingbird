@@ -12,7 +12,7 @@ Credits Text: |-
   styling **[Meg Gray](https://www.instagram.com/graygardens/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Company1](https://www.instagram.com/company1agency/)**
   make-up **[Claire Thompson](https://www.instagram.com/clairethomsonmakeup/)** at **[Company1](https://www.instagram.com/company1agency/)**
-  model **[Sofia Fanego]** at **[Kult]**
+  model **[Sofia Fanego](https://www.instagram.com/fblueswan/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
 layout: gallery
 ---
 

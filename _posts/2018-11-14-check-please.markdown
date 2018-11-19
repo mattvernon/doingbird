@@ -44,10 +44,13 @@ Bernie wears **Mastani** coat, **Max Mara** blazer & trousers and **Topshop** sh
 Billie wears **Sportmax** vest & skivvy
 
 ![20180908_Drew_Wheeler_011__m.jpg](/uploads/20180908_Drew_Wheeler_011__m.jpg)
+Billie wears **Sportmax** vest & skivvy and **Romance Was Born** skirt
 
 ![20180908_Drew_Wheeler_012_m.jpg](/uploads/20180908_Drew_Wheeler_012_m.jpg)
+Billie wears **Marimekki** coat and **Karen Walker** top
 
 ![20180908_Drew_Wheeler_013__m.jpg](/uploads/20180908_Drew_Wheeler_013__m.jpg)
+Billie wears **Paris Georgia** blazer and **Sportmax** vest
 
 ![20180908_Drew_Wheeler_014_m.jpg](/uploads/20180908_Drew_Wheeler_014_m.jpg)
 

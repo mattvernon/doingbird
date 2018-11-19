@@ -13,5 +13,6 @@ Credits Text: |-
   models (top to bottom)
 is featured?: true
 blurb: Photographs by Daniel Goode
+layout: gallery
 ---
 

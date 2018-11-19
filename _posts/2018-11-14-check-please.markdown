@@ -38,9 +38,10 @@ Bernie wears **Camilla and Marc** blazer, **Matin** top & shorts, **Rag & Bone**
 Bernie wears **Camilla and Marc** blazer and **Matin** top
 
 ![20180908_Drew_Wheeler_009__m.jpg](/uploads/20180908_Drew_Wheeler_009__m.jpg)
-Bernie w
+Bernie wears **Mastani** coat, **Max Mara** blazer & trousers and **Topshop** shoes
 
 ![20180908_Drew_Wheeler_010__m.jpg](/uploads/20180908_Drew_Wheeler_010__m.jpg)
+Billie wears **Sportmax** vest & skivvy
 
 ![20180908_Drew_Wheeler_011__m.jpg](/uploads/20180908_Drew_Wheeler_011__m.jpg)
 

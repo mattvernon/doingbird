@@ -11,5 +11,7 @@ Credits Text: |-
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   gaffer **Finbarr Collins**
   models (top to bottom)
+is featured?: true
+blurb: Photographs by Daniel Goode
 ---
 

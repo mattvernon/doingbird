@@ -32,10 +32,13 @@ Bernie wears **Zimmermann** coat
 Bernie wears **Zimmermann** coat
 
 ![20180908_Drew_Wheeler_007_m.jpg](/uploads/20180908_Drew_Wheeler_007_m.jpg)
+Bernie wears **Camilla and Marc** blazer, **Matin** top & shorts, **Rag & Bone** boots and stylist's own stockings
 
 ![20180908_Drew_Wheeler_008__m.jpg](/uploads/20180908_Drew_Wheeler_008__m.jpg)
+Bernie wears **Camilla and Marc** blazer and **Matin** top
 
 ![20180908_Drew_Wheeler_009__m.jpg](/uploads/20180908_Drew_Wheeler_009__m.jpg)
+Bernie w
 
 ![20180908_Drew_Wheeler_010__m.jpg](/uploads/20180908_Drew_Wheeler_010__m.jpg)
 

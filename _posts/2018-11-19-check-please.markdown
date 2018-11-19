@@ -48,7 +48,7 @@ Billie wears **Sportmax** vest & skivvy
 Billie wears **Sportmax** vest & skivvy and **Romance Was Born** skirt
 
 ![20180908_Drew_Wheeler_012_m.jpg](/uploads/20180908_Drew_Wheeler_012_m.jpg)
-Billie wears **Marimekki** coat and **Karen Walker** top
+Billie wears **Marimekko** coat and **Karen Walker** top
 
 ![20180908_Drew_Wheeler_013__m.jpg](/uploads/20180908_Drew_Wheeler_013__m.jpg)
 Billie wears **Paris Georgia** blazer and **Sportmax** vest

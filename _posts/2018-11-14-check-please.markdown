@@ -17,8 +17,10 @@ layout: gallery
 ---
 
 ![20180908_Drew_Wheeler_001_m.jpg](/uploads/20180908_Drew_Wheeler_001_m.jpg)
+Billie (left) wears **Zimmermann** coat. Bernie (right) wears **Max Mara** blazer and stylist's own earring.
 
 ![20180908_Drew_Wheeler_002_m.jpg](/uploads/20180908_Drew_Wheeler_002_m.jpg)
+Billie wears **Zimmermann** coat and **Sir** dress. Bernie wears **Max Mara** blazer, **Sir** shorts and stylist's own earring.
 
 ![20180908_Drew_Wheeler_003__m.jpg](/uploads/20180908_Drew_Wheeler_003__m.jpg)
 

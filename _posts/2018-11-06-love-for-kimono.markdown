@@ -6,7 +6,7 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Yulia_TOKYO_132%201.jpg"
-is featured?: true
+is featured?: false
 blurb: Photographs by Pierre Toussaint
 ---
 

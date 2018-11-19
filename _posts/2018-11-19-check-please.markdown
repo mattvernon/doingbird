@@ -1,7 +1,6 @@
 ---
 title: Check, Please
-date: 2018-11-14 14:34:00 +11:00
-published: false
+date: 2018-11-19 16:45:00 +11:00
 categories:
 - Fashion
 tags:
@@ -11,8 +10,8 @@ Credits Text: |
   photographs **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Rae Boriboun](https://www.instagram.com/raeski/)** at **[Sync](https://www.instagram.com/syncproductionandmanagement/)** using **Original** & **Mineral**
-  make-up **[Isabella Schimid]** at **[Union Management](https://www.instagram.com/union_management/)
-  models (left to right) **Billie** and **Bernie** at **[IMG](https://www.instagram.com/imgmodels/)**
+  make-up **[Isabella Schimid](https://www.instagram.com/isabellaschimid/)** at **[Union Management](https://www.instagram.com/union_management/)
+  models (left to right) **[Billie](https://www.instagram.com/billie_adams_/)** and **[Bernie](https://www.instagram.com/bernadetteanker/?hl=en)** at **[IMG](https://www.instagram.com/imgmodels/)**
 is featured?: true
 blurb: Photographs by Drew Wheeler
 layout: gallery
@@ -49,7 +48,7 @@ Billie wears **Sportmax** vest & skivvy
 Billie wears **Sportmax** vest & skivvy and **Romance Was Born** skirt
 
 ![20180908_Drew_Wheeler_012_m.jpg](/uploads/20180908_Drew_Wheeler_012_m.jpg)
-Billie wears **Marimekki** coat and **Karen Walker** top
+Billie wears **Marimekko** coat and **Karen Walker** top
 
 ![20180908_Drew_Wheeler_013__m.jpg](/uploads/20180908_Drew_Wheeler_013__m.jpg)
 Billie wears **Paris Georgia** blazer and **Sportmax** vest

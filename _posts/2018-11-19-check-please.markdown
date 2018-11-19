@@ -10,7 +10,7 @@ Credits Text: |
   photographs **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Rae Boriboun](https://www.instagram.com/raeski/)** at **[Sync](https://www.instagram.com/syncproductionandmanagement/)** using **Original** & **Mineral**
-  make-up **[Isabella Schimid](https://www.instagram.com/isabellaschimid/)**
+  make-up **[Isabella Schimid](https://www.instagram.com/isabellaschimid/)** using **[MAC](https://www.instagram.com/maccosmetics/)**
   models (left to right) **[Billie](https://www.instagram.com/billie_adams_/)** and **[Bernie](https://www.instagram.com/bernadetteanker/?hl=en)** at **[IMG](https://www.instagram.com/imgmodels/)**
 is featured?: true
 blurb: Photographs by Drew Wheeler

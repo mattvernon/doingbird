@@ -53,7 +53,8 @@ Billie wears **Marimekki** coat and **Karen Walker** top
 Billie wears **Paris Georgia** blazer and **Sportmax** vest
 
 ![20180908_Drew_Wheeler_014_m.jpg](/uploads/20180908_Drew_Wheeler_014_m.jpg)
+Bernie wears **Camilla and Marc** coat and **Matin** top. Billie wears **Camilla and Marc** dress
 
 ![20180908_Drew_Wheeler_015_m.jpg](/uploads/20180908_Drew_Wheeler_015_m.jpg)
-
+Bernie wears **Camilla and Marc** coat and **Matin** top. Billie wears **Camilla and Marc** dress
 

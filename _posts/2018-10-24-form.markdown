@@ -8,11 +8,27 @@ tags:
 - Shoot
 Main Image: "/uploads/180831_Doingbird_Form_Series_01.jpg"
 Credits Text: |-
-  photographs **[Levon Bair]** at **[Company1]**
-  styling **[Meg Gray]** at **[The Artist Group]**
-  hair **[Pete Lennon]** at **[Company1]**
-  make-up **[Claire Thompson]** at **[Company1]**
-  model **[Sofia Fanego]** at **[Kult]**
+  photographs **[Levon Baird](https://www.instagram.com/levonbaird/)** at **[Company1](https://www.instagram.com/company1agency/)**
+  styling **[Meg Gray](https://www.instagram.com/graygardens/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Company1](https://www.instagram.com/company1agency/)**
+  make-up **[Claire Thompson](https://www.instagram.com/clairethomsonmakeup/)** at **[Company1](https://www.instagram.com/company1agency/)**
+  model **[Sofia Fanego](https://www.instagram.com/fblueswan/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
+is featured?: true
+blurb: Photographs by Levon Baird
 layout: gallery
 ---
 
+**Sportmax** vest & jumper, **Sacai** skirt from **Parlour X** and **Marni** shoes
+
+**Emporio Armani** top
+
+
+**Emporio Armani** jacket, **White Story** shirt and **Sportmax** leggings & boots
+
+**Emporio Armani** coat, **Sportmax** vest and **Marni** skirt
+
+**Sportmax** skivvy, **Marni** shoes and stytlist's own jumpsuit
+
+**White Story** blazer, **Proenza Schouler** top and **Sportmax** leggings
+
+**Calvin Klein 205W39NYC** shirt from **Parlour X**, **PAM** pants, **Sportmax** leggings (worn under pants) and **Marni** shoes

@@ -13,7 +13,7 @@ Credits Text: "photographs **[Bryce Thomas](https://www.instagram.com/friendlype
   **Oliver Seville**\nstyling assistant **Mercedes Rigby Ellis** \nhair assistant
   **Brittany Cristaudo**\nproduction assistant **Steven Perry**\ntalent **Finley**,
   **Sam**, **Leif**, **Brandon** & **Danny** all at **[Disregard Creative](https://www.disregardcreative.com/)**\n"
-is featured?: true
+is featured?: false
 blurb: Photographs by Bryce Thomas
 layout: gallery
 ---

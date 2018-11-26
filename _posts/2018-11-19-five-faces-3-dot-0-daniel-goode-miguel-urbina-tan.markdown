@@ -28,3 +28,11 @@ layout: gallery
 
 ![181111_DoingBirdMagazine_07.jpg](/uploads/181111_DoingBirdMagazine_07.jpg)
 
+![181111_DoingBirdMagazine_10.jpg](/uploads/181111_DoingBirdMagazine_10.jpg)
+
+![181111_DoingBirdMagazine_09.jpg](/uploads/181111_DoingBirdMagazine_09.jpg)
+
+![181111_DoingBirdMagazine_06.jpg](/uploads/181111_DoingBirdMagazine_06.jpg)
+
+![181111_DoingBirdMagazine_05.jpg](/uploads/181111_DoingBirdMagazine_05.jpg)
+

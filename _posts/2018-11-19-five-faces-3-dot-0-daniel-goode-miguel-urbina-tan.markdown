@@ -16,3 +16,23 @@ blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![181111_DoingBirdMagazine_02.jpg](/uploads/181111_DoingBirdMagazine_02.jpg)
+
+![181111_DoingBirdMagazine_01.jpg](/uploads/181111_DoingBirdMagazine_01.jpg)
+
+![181111_DoingBirdMagazine_04.jpg](/uploads/181111_DoingBirdMagazine_04.jpg)
+
+![181111_DoingBirdMagazine_03.jpg](/uploads/181111_DoingBirdMagazine_03.jpg)
+
+![181111_DoingBirdMagazine_08.jpg](/uploads/181111_DoingBirdMagazine_08.jpg)
+
+![181111_DoingBirdMagazine_07.jpg](/uploads/181111_DoingBirdMagazine_07.jpg)
+
+![181111_DoingBirdMagazine_10.jpg](/uploads/181111_DoingBirdMagazine_10.jpg)
+
+![181111_DoingBirdMagazine_09.jpg](/uploads/181111_DoingBirdMagazine_09.jpg)
+
+![181111_DoingBirdMagazine_06.jpg](/uploads/181111_DoingBirdMagazine_06.jpg)
+
+![181111_DoingBirdMagazine_05.jpg](/uploads/181111_DoingBirdMagazine_05.jpg)
+

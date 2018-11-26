@@ -42,6 +42,7 @@ Claudia wears **Acne** jacket
 Claudia wears **Acne** jacket, pants & shoes
 
 ![181111_DoingBirdMagazine_06.jpg](/uploads/181111_DoingBirdMagazine_06.jpg)
+Imogen wears **Gucci** top
 
 ![181111_DoingBirdMagazine_05.jpg](/uploads/181111_DoingBirdMagazine_05.jpg)
-
+Imogen wears **Gucci** top, skirts & shoes

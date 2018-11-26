@@ -18,14 +18,16 @@ layout: gallery
 ---
 
 ![181111_DoingBirdMagazine_02.jpg](/uploads/181111_DoingBirdMagazine_02.jpg)
-
-![181111_DoingBirdMagazine_01.jpg](/uploads/181111_DoingBirdMagazine_01.jpg)
 Eilidh wears **Dior** blazer
 
-![181111_DoingBirdMagazine_04.jpg](/uploads/181111_DoingBirdMagazine_04.jpg)
+![181111_DoingBirdMagazine_01.jpg](/uploads/181111_DoingBirdMagazine_01.jpg)
 Eilidh wears **Dior** blazer, skirt & boots
 
+![181111_DoingBirdMagazine_04.jpg](/uploads/181111_DoingBirdMagazine_04.jpg)
+Lauren wears **Chanel** jacket, pants & beret
+
 ![181111_DoingBirdMagazine_03.jpg](/uploads/181111_DoingBirdMagazine_03.jpg)
+Lauren wears **Chanel** jacket, pants, beret & shoes
 
 ![181111_DoingBirdMagazine_08.jpg](/uploads/181111_DoingBirdMagazine_08.jpg)
 

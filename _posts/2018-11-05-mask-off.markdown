@@ -8,8 +8,8 @@ tags:
 - Shoot
 Main Image: "/uploads/180910_Maskoff_Shot_06.jpg"
 Credits Text: |-
-  photographs **[Daniel Goode]**
-  styling **[Suzannah Snow]**
+  photographs **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Kyye]**
   make-up **[Corinna Wilmshurst]**
   model **[insert name here]**

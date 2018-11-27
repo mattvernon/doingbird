@@ -12,7 +12,7 @@ Credits Text: |-
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Kyye]**
   make-up **[Corinna Wilmshurst]**
-  model **[insert name here]**
+  model **[Olivia Thornton](https://www.instagram.com/oliviakthornton/)**
 is featured?: true
 blurb: Photographs by Daniel Goode
 layout: gallery

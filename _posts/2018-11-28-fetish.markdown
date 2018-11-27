@@ -1,11 +1,11 @@
 ---
 title: Fetish
 date: 2018-11-28 20:49:00 +11:00
-published: false
 categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/DoingBird_Fetish0006.jpg"
 Credits Text: |-
   photography **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   styling & art direction **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**

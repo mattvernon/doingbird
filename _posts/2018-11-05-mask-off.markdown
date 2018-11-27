@@ -7,12 +7,14 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/180910_Maskoff_Shot_06.jpg"
-Credits Text: |-
-  photographs **[Daniel Goode]**
-  styling **[Suzannah Snow]**
-  hair **[Kyye]**
-  make-up **[Corinna Wilmshurst]**
-  model **[insert name here]**
+Credits Text: |
+  photographs **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
+  hair **[Kyye](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
+  make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**
+  photography assistant **Nick Ryall**
+  model **[Olivia Thornton](https://www.instagram.com/oliviakthornton/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+  shot at **[Baker Street Studios](https://www.instagram.com/bakerstreetstudios/)**
 is featured?: true
 blurb: Photographs by Daniel Goode
 layout: gallery

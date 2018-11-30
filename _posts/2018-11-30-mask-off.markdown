@@ -1,7 +1,6 @@
 ---
 title: Mask Off
-date: 2018-11-05 18:50:00 +11:00
-published: false
+date: 2018-11-30 18:50:00 +11:00
 categories:
 - Fashion
 tags:
@@ -10,8 +9,8 @@ Main Image: "/uploads/180910_Maskoff_Shot_06.jpg"
 Credits Text: |
   photographs **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
-  hair **[Kyye](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
-  make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**
+  hair **[Kyye](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[Oribe](https://www.instagram.com/oribe/)**
+  make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)** using **[Armani Beauty](https://www.instagram.com/armanibeauty/)**
   photography assistant **Nick Ryall**
   model **[Olivia Thornton](https://www.instagram.com/oliviakthornton/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
   shot at **[Baker Street Studios](https://www.instagram.com/bakerstreetstudios/)**

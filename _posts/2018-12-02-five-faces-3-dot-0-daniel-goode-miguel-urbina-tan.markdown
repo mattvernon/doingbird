@@ -30,7 +30,7 @@ Lauren wears **Chanel** jacket, pants & beret
 Lauren wears **Chanel** jacket, pants, beret & shoes
 
 ![181111_DoingBirdMagazine_08.jpg](/uploads/181111_DoingBirdMagazine_08.jpg)
-Zen Zen wears **Miu Miu** coat
+Zen Zen wears **Miu Miu** coat & dress
 
 ![181111_DoingBirdMagazine_07.jpg](/uploads/181111_DoingBirdMagazine_07.jpg)
 Zen Zen wears **Miu Miu** coat, dress & shoes

@@ -11,7 +11,7 @@ Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   gaffer **Finbarr Collins**
-  models (top to bottom) **[Eilidh](https://www.instagram.com/eilidh.a/)** and **[Lauren Stevenson](https://www.instagram.com/laurenstevenson13/)** at **[IMG](https://www.instagram.com/imgmodels/)**, **Zen Zen** at **Kult**, **Claudia Lamprea** at **Chic** and **Imogen** at **Priscillas**
+  models (top to bottom) **[Eilidh](https://www.instagram.com/eilidh.a/)** and **[Lauren Stevenson](https://www.instagram.com/laurenstevenson13/)** at **[IMG](https://www.instagram.com/imgmodels/)**, **[Zen Zen](https://www.instagram.com/zenzenzhang/)** at **[Kult](https://www.instagram.com/zenzenzhang/)**, **Claudia Lamprea** at **Chic** and **Imogen** at **Priscillas**
 is featured?: true
 blurb: Photographs by Daniel Goode
 layout: gallery

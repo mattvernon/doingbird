@@ -1,17 +1,16 @@
 ---
-title: Five Faces 3.0
-date: 2018-11-19 22:12:00 +11:00
-published: false
+title: Five Faces
+date: 2018-12-02 17:30:00 +11:00
 categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/181111_DoingBirdMagazine_02.jpg"
+Main Image: "/uploads/181111_DoingBirdMagazine_04.jpg"
 Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   gaffer **Finbarr Collins**
-  models (top to bottom) **Eilidh** at **IMG**, **Lauren Stevenson** at **IMG**, **Zen Zen** at **Kult**, **Claudia Lamprea** at **Chic** and **Imogen** at **Priscillas**
+  models (top to bottom) **[Eilidh](https://www.instagram.com/eilidh.a/)** and **[Lauren Stevenson](https://www.instagram.com/laurenstevenson13/)** at **[IMG](https://www.instagram.com/imgmodels/)**, **[Zen Zen](https://www.instagram.com/zenzenzhang/)** at **[Kult](https://www.instagram.com/zenzenzhang/)**, **[Claudia Lamprea](https://www.instagram.com/clavanlam/)** at **[Chic](https://www.instagram.com/chic_management/)** and **[Imogen](https://www.instagram.com/imogengentles/)** at **[Priscillas](https://www.instagram.com/imogengentles/)**
 is featured?: true
 blurb: Photographs by Daniel Goode
 layout: gallery
@@ -30,7 +29,7 @@ Lauren wears **Chanel** jacket, pants & beret
 Lauren wears **Chanel** jacket, pants, beret & shoes
 
 ![181111_DoingBirdMagazine_08.jpg](/uploads/181111_DoingBirdMagazine_08.jpg)
-Zen Zen wears **Miu Miu** coat
+Zen Zen wears **Miu Miu** coat & dress
 
 ![181111_DoingBirdMagazine_07.jpg](/uploads/181111_DoingBirdMagazine_07.jpg)
 Zen Zen wears **Miu Miu** coat, dress & shoes

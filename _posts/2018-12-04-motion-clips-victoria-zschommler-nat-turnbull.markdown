@@ -1,5 +1,5 @@
 ---
-title: victoria
+title: Motion Clips
 date: 2018-12-04 16:10:00 +11:00
 published: false
 categories:
@@ -7,8 +7,12 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Doingbird_Nat.gif"
-Credits Text: photography
+Credits Text: |-
+  photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
+  set & styling **[Nat Turnbull](https://www.instagram.com/natturnbull/)**
+  model **Charlotte Vermeesh**
 is featured?: true
+blurb: Photographs by Nat Turnbull
 layout: gallery
 ---
 

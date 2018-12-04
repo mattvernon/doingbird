@@ -7,7 +7,7 @@ tags:
 - Shoot
 Main Image: "/uploads/181111_DoingBirdMagazine_02.jpg"
 Credits Text: |-
-  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[Mecca Cosmetica](https://www.instagram.com/meccacosmetica/)** and **[Surratt](https://www.instagram.com/surrattbeauty/)**
   gaffer **Finbarr Collins**
   models (top to bottom) **[Eilidh](https://www.instagram.com/eilidh.a/)** and **[Lauren Stevenson](https://www.instagram.com/laurenstevenson13/)** at **[IMG](https://www.instagram.com/imgmodels/)**, **[Zen Zen](https://www.instagram.com/zenzenzhang/)** at **[Kult](https://www.instagram.com/zenzenzhang/)**, **[Claudia Lamprea](https://www.instagram.com/clavanlam/)** at **[Chic](https://www.instagram.com/chic_management/)** and **[Imogen](https://www.instagram.com/imogengentles/)** at **[Priscillas](https://www.instagram.com/imogengentles/)**

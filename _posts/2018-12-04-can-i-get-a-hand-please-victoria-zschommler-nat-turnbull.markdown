@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Doingbird_Nat.gif"
+Main Image: "/uploads/VZ_NAT_s05_389_2.jpg"
 Credits Text: |-
   photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
   set & styling **[Nat Turnbull](https://www.instagram.com/natturnbull/)**
@@ -30,4 +30,3 @@ layout: gallery
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/304295094?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 **Aalto** jacket
 
-![Doingbird_Nat.gif](/uploads/Doingbird_Nat.gif)

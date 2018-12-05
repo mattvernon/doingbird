@@ -6,6 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: |
+  photographs **[Levon Baird](https://www.instagram.com/levonbaird/)** at **[Company1](https://www.instagram.com/company1agency/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 layout: gallery
 ---
 

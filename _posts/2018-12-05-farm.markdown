@@ -1,0 +1,20 @@
+---
+title: Farm
+date: 2018-12-05 18:00:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/181105_Doingbird_Farm_Series_7.jpg"
+Credits Text: |-
+  photographs **[Levon Baird](https://www.instagram.com/levonbaird/)** at **[Company1](https://www.instagram.com/company1agency/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
+  model **[Sanne](http://instagram.com/sannejackson)** at **[Kult](https://www.instagram.com/kultaustralia/)**
+  special thanks to **Michael** & **Simon**
+is featured?: true
+blurb: Photographs by Levon Baird
+layout: gallery
+---
+

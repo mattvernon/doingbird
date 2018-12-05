@@ -9,6 +9,7 @@ tags:
 Credits Text: |
   photographs **[Levon Baird](https://www.instagram.com/levonbaird/)** at **[Company1](https://www.instagram.com/company1agency/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
 layout: gallery
 ---
 

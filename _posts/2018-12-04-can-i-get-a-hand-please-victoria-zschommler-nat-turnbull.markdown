@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/VZ_NAT_s05_389_2.jpg"
+Main Image: "/uploads/VZ_NAT_s05_389_2-5ddef7.jpg"
 Credits Text: |-
   photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
   set & styling **[Nat Turnbull](https://www.instagram.com/natturnbull/)**

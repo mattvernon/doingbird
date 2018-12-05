@@ -1,7 +1,6 @@
 ---
 title: Motion Clips
 date: 2018-12-04 16:10:00 +11:00
-published: false
 categories:
 - Fashion
 tags:

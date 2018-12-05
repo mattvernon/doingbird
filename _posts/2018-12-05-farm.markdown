@@ -18,3 +18,14 @@ blurb: Photographs by Levon Baird
 layout: gallery
 ---
 
+![181105_Doingbird_Farm_Series_1.jpg](/uploads/181105_Doingbird_Farm_Series_1.jpg)
+
+![181105_Doingbird_Farm_Series_2.jpg](/uploads/181105_Doingbird_Farm_Series_2.jpg)
+
+![181105_Doingbird_Farm_Series_3.jpg](/uploads/181105_Doingbird_Farm_Series_3.jpg)
+
+![181105_Doingbird_Farm_Series_4.jpg](/uploads/181105_Doingbird_Farm_Series_4.jpg)
+
+![181105_Doingbird_Farm_Series_5.jpg](/uploads/181105_Doingbird_Farm_Series_5.jpg)
+
+

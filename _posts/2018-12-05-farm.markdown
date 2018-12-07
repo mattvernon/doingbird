@@ -10,7 +10,7 @@ Main Image: "/uploads/181105_Doingbird_Farm_Series_7.jpg"
 Credits Text: |-
   photographs **[Levon Baird](https://www.instagram.com/levonbaird/)** at **[Company1](https://www.instagram.com/company1agency/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[MAC](https://www.instagram.com/maccosmetics/)*
   model **[Sanne](http://instagram.com/sannejackson)** at **[Kult](https://www.instagram.com/kultaustralia/)**
   special thanks to **Michael** & **Simon**
 is featured?: true
@@ -33,7 +33,7 @@ layout: gallery
 **Prada** jacket & earrings
 
 ![181105_Doingbird_Farm_Series_6.jpg](/uploads/181105_Doingbird_Farm_Series_6.jpg)
-Michael wears **Mr Breeches** pants
+Michael wears **[Mr Breeches](https://mrbreeches.com/)** pants
 
 ![181105_Doingbird_Farm_Series_7.jpg](/uploads/181105_Doingbird_Farm_Series_7.jpg)
 **Camilla & Marc** top & skirt and **Chanel** beret

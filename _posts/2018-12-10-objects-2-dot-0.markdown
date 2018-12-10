@@ -7,6 +7,8 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/1_MG_9958.jpg"
+is featured?: true
+blurb: Photographs by Anna Pogossova
 layout: gallery
 ---
 

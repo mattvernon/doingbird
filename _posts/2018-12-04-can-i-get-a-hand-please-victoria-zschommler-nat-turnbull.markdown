@@ -10,6 +10,8 @@ Credits Text: |-
   photographs **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
   set & styling **[Nat Turnbull](https://www.instagram.com/natturnbull/)**
   model **Charlotte Vermeesh**
+  audio **Black Blackman**
+  edit & grade **Jaclyn Paterson**
 is featured?: true
 blurb: Photographs by Nat Turnbull
 layout: gallery

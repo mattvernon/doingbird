@@ -7,14 +7,14 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/1_MG_9958.jpg"
-Credits Text: |-
-  photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
-  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 layout: gallery
 ---
 
 ![1_MG_9958.jpg](/uploads/1_MG_9958.jpg)
 **Respiro** [Edie bag in amber](https://valetstudio.com/collections/bags-from-respiro-studio/products/edie-bag-in-amber) AUD $279, [Alexa bag](https://valetstudio.com/collections/bags-from-respiro-studio/products/alexa-bag-in-red-x-incu) in red AUD $279 & [Alexa bag](https://valetstudio.com/collections/bags-from-respiro-studio/products/alexa-bag-in-green) in green AUD $279
+
+![2_MG_0042.jpg](/uploads/2_MG_0042.jpg)
+
 
 ![3_MG_0050.jpg](/uploads/3_MG_0050.jpg)
 **[Calvin Klein Jeans](Calvinklein.com.au )** boots POA
@@ -24,4 +24,3 @@ layout: gallery
 
 ![5_MG_0083.jpg](/uploads/5_MG_0083.jpg)
 **Sener Besim** choker in gold from **[Parlour X](https://www.parlourx.com/brands/sener-besim/choker-gold.html)** POA
-

@@ -1,0 +1,11 @@
+---
+title: Object 2.0
+date: 2018-12-10 13:16:00 +11:00
+published: false
+categories:
+- Objects
+tags:
+- Shoot
+layout: gallery
+---
+

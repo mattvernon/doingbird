@@ -1,7 +1,6 @@
 ---
 title: '2.0: Accessories'
 date: 2018-12-12 17:30:00 +11:00
-published: false
 categories:
 - Objects
 tags:

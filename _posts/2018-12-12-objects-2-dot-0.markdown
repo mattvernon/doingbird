@@ -1,11 +1,11 @@
 ---
-title: Objects 2.0
+title: '2.0: Accessories'
 date: 2018-12-12 17:30:00 +11:00
 published: false
 categories:
 - Objects
 tags:
-- Shoot
+- Accessories
 Main Image: "/uploads/1_MG_9958.jpg"
 Credits Text: |-
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**

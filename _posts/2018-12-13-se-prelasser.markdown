@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/07__LesterJones.jpg"
 layout: gallery
 ---
 

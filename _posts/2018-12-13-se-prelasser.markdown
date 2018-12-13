@@ -66,6 +66,7 @@ Vince wears **Acne Studios** top
 Seid wears **Bonds** top, **Commas** shorts and **Henson** necklace
 
 ![17__LesterJones.jpg](/uploads/17__LesterJones.jpg)
+Seid wears **Bonds** top, **Commas** shorts and **Henson** necklace
 
 ![18__LesterJones.jpg](/uploads/18__LesterJones.jpg)
-
+Seid wears **Commas** robe and speedos

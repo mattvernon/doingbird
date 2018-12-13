@@ -17,6 +17,7 @@ layout: gallery
 ---
 
 ![07__LesterJones.jpg](/uploads/07__LesterJones.jpg)
+**Hugo Boss** jumper
 
 ![01__LesterJones.jpg](/uploads/01__LesterJones.jpg)
 

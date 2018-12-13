@@ -41,6 +41,7 @@ Vince wears **Prada** top
 Vince wears **Prada** top
 
 ![11__LesterJones.jpg](/uploads/11__LesterJones.jpg)
+Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
 
 ![12__LesterJones.jpg](/uploads/12__LesterJones.jpg)
 

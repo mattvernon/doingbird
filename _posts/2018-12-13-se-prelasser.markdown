@@ -63,6 +63,7 @@ Vince wears **Acne Studios** top and stylist's own boxers
 Vince wears **Acne Studios** top
 
 ![16__LesterJones.jpg](/uploads/16__LesterJones.jpg)
+Seid wears **Bonds** top, **Commas** shorts and **Henson** necklace
 
 ![17__LesterJones.jpg](/uploads/17__LesterJones.jpg)
 

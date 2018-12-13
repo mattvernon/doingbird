@@ -12,7 +12,7 @@ Credits Text: |-
   styling **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**
   hair **[Anthony Nader](https://www.instagram.com/hair_anthonynader/)**
   make-up **[Cherry Cheung](https://www.instagram.com/cherrycheungmakeup/)**
-  models **[Seid Mahamat](https://www.instagram.com/seidmahamat/)** and **[Vince O'Malley](https://www.instagram.com/v_dogz/)**
+  models **[Seid Mahamat](https://www.instagram.com/seidmahamat/)** and **[Vince O'Malley](https://www.instagram.com/v_dogz/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 blurb: Photographs by Lester Jones
 layout: gallery

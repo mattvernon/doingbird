@@ -7,9 +7,10 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/07__LesterJones.jpg"
-Credits Text: |-
+Credits Text: |
   director & photographs **[Lester Jones](https://www.instagram.com/_lesterjones/)** at **[Company1](https://www.instagram.com/company1agency/)**
   styling **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**
+  hair **[Anthony Nader](https://www.instagram.com/hair_anthonynader/)**
 layout: gallery
 ---
 

@@ -50,6 +50,7 @@ Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
 Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
 
 ![14__LesterJones.jpg](/uploads/14__LesterJones.jpg)
+Vince wears **Acne Studios** top
 
 ![15__LesterJones.jpg](/uploads/15__LesterJones.jpg)
 

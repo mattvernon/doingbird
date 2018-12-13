@@ -38,6 +38,7 @@ Vince wears **Prada** top
 **Prada** top & t-shirt and stylist's own boxers
 
 ![10__LesterJones.jpg](/uploads/10__LesterJones.jpg)
+Vince wears **Prada** top
 
 ![11__LesterJones.jpg](/uploads/11__LesterJones.jpg)
 

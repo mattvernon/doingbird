@@ -17,7 +17,7 @@ layout: gallery
 ---
 
 ![07__LesterJones.jpg](/uploads/07__LesterJones.jpg)
-**Hugo Boss** jumper
+Seid wears **Hugo Boss** jumper
 
 ![01__LesterJones.jpg](/uploads/01__LesterJones.jpg)
 
@@ -32,6 +32,7 @@ layout: gallery
 ![06__LesterJones.jpg](/uploads/06__LesterJones.jpg)
 
 ![08__LesterJones.jpg](/uploads/08__LesterJones.jpg)
+Vince wears **Prada** top
 
 ![09__LesterJones.jpg](/uploads/09__LesterJones.jpg)
 

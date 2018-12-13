@@ -60,8 +60,8 @@ Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
 Vince wears **Acne Studios** top and stylist's own boxers
 
 ![15__LesterJones.jpg](/uploads/15__LesterJones.jpg)
-Vince wears **Acne Studios** top and stylist
-s own boxers
+Vince wears **Acne Studios** top
+
 ![16__LesterJones.jpg](/uploads/16__LesterJones.jpg)
 
 ![17__LesterJones.jpg](/uploads/17__LesterJones.jpg)

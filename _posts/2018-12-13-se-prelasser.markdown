@@ -31,8 +31,10 @@ Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top and **Amiri** pants from **Mr Porter**
 
 ![04__LesterJones.jpg](/uploads/04__LesterJones.jpg)
+Seid wears **Hugo Boss* jumper
 
 ![05__LesterJones.jpg](/uploads/05__LesterJones.jpg)
+Seid wears **Hugo Boss** jumper
 
 ![06__LesterJones.jpg](/uploads/06__LesterJones.jpg)
 
@@ -55,10 +57,11 @@ Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
 Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
 
 ![14__LesterJones.jpg](/uploads/14__LesterJones.jpg)
-Vince wears **Acne Studios** top
+Vince wears **Acne Studios** top and stylist's own boxers
 
 ![15__LesterJones.jpg](/uploads/15__LesterJones.jpg)
-
+Vince wears **Acne Studios** top and stylist
+s own boxers
 ![16__LesterJones.jpg](/uploads/16__LesterJones.jpg)
 
 ![17__LesterJones.jpg](/uploads/17__LesterJones.jpg)

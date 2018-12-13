@@ -25,6 +25,7 @@ Seid wears **Hugo Boss** jumper
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top and **Amiri** pants from **Mr Porter**
 
 ![02__LesterJones.jpg](/uploads/02__LesterJones.jpg)
+Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top
 
 ![03__LesterJones.jpg](/uploads/03__LesterJones.jpg)
 

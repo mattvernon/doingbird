@@ -35,6 +35,7 @@ Seid wears **Hugo Boss** jumper
 Vince wears **Prada** top
 
 ![09__LesterJones.jpg](/uploads/09__LesterJones.jpg)
+**Prada** top & t-shirt and stylist's own boxers
 
 ![10__LesterJones.jpg](/uploads/10__LesterJones.jpg)
 

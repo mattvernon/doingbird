@@ -19,38 +19,56 @@ layout: gallery
 ---
 
 <div style="padding:54.79% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/306113796?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ![01__LesterJones.jpg](/uploads/01__LesterJones.jpg)
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top
+
 ![02__LesterJones.jpg](/uploads/02__LesterJones.jpg)
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top
+
 ![03__LesterJones.jpg](/uploads/03__LesterJones.jpg)
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top and **Amiri** pants from **Mr Porter**
+
 ![04__LesterJones.jpg](/uploads/04__LesterJones.jpg)
 Seid wears **Hugo Boss* jumper
+
 ![05__LesterJones.jpg](/uploads/05__LesterJones.jpg)
 Seid wears **Hugo Boss** jumper
+
 ![06__LesterJones.jpg](/uploads/06__LesterJones.jpg)
+
 ![07__LesterJones.jpg](/uploads/07__LesterJones.jpg)
 Seid wears **Hugo Boss** jumper
+
 ![08__LesterJones.jpg](/uploads/08__LesterJones.jpg)
 Vince wears **Prada** top
+
 ![09__LesterJones.jpg](/uploads/09__LesterJones.jpg)
 **Prada** top & t-shirt and stylist's own boxers
+
 ![10__LesterJones.jpg](/uploads/10__LesterJones.jpg)
 Vince wears **Prada** top
+
 ![11__LesterJones.jpg](/uploads/11__LesterJones.jpg)
 Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
+
 ![12__LesterJones.jpg](/uploads/12__LesterJones.jpg)
 Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
+
 ![13__LesterJones.jpg](/uploads/13__LesterJones.jpg)
 Seid & Vince wear **Ermenegildo Zegna** tops and **Topman** shorts
+
 ![14__LesterJones.jpg](/uploads/14__LesterJones.jpg)
 Vince wears **Acne Studios** top and stylist's own boxers
+
 ![15__LesterJones.jpg](/uploads/15__LesterJones.jpg)
 Vince wears **Acne Studios** top
+
 ![16__LesterJones.jpg](/uploads/16__LesterJones.jpg)
 Seid wears **Bonds** top, **Commas** shorts and **Henson** necklace
+
 ![17__LesterJones.jpg](/uploads/17__LesterJones.jpg)
 Seid wears **Bonds** top, **Commas** shorts and **Henson** necklace
+
 ![18__LesterJones.jpg](/uploads/18__LesterJones.jpg)
 Seid wears **Commas** robe and speedos

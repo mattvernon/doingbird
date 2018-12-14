@@ -1,0 +1,22 @@
+---
+title: Offline
+date: 2018-12-12 21:11:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Credits Text: |-
+  director & photographs Tim Swallow
+  cinematographer Ed Triglone
+  stylist Miguel Urbina Tan
+  Hair Stylist Joel Foreman
+  models Ange Yu at Kult,Taj Richmond & Yohanis Diaz Morgan at IMG and Elisabeth Lucasse at Priscillas
+  production The Lagoon Collective
+  management The Kitchen Creative
+  voice over Barnabe White
+  colourist Matt Fezz
+layout: gallery
+---
+
+![DoingBird_TSP (11 of 34).jpg](/uploads/DoingBird_TSP%20(11%20of%2034).jpg)

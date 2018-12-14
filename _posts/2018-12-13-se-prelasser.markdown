@@ -18,12 +18,8 @@ blurb: Photographs by Lester Jones
 layout: gallery
 ---
 
-![07__LesterJones.jpg](/uploads/07__LesterJones.jpg)
-Seid wears **Hugo Boss** jumper
-
 ![01__LesterJones.jpg](/uploads/01__LesterJones.jpg)
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top
-
 ![02__LesterJones.jpg](/uploads/02__LesterJones.jpg)
 Vince wears **Versace** robe from **Mr Porter**. Seid wears **Prada** top
 
@@ -37,6 +33,9 @@ Seid wears **Hugo Boss* jumper
 Seid wears **Hugo Boss** jumper
 
 ![06__LesterJones.jpg](/uploads/06__LesterJones.jpg)
+
+![07__LesterJones.jpg](/uploads/07__LesterJones.jpg)
+Seid wears **Hugo Boss** jumper
 
 ![08__LesterJones.jpg](/uploads/08__LesterJones.jpg)
 Vince wears **Prada** top

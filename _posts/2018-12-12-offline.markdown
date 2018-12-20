@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/DoingBird_TSP%20(32%20of%2034).jpg"
 Credits Text: |-
   director & photographs **[Tim Swallow](https://www.instagram.com/tim_swallow_photo/)**
   cinematographer **[Ed Triglone](https://www.instagram.com/edtriglone/)**
@@ -14,8 +15,10 @@ Credits Text: |-
   models Ange Yu at Kult,Taj Richmond & Yohanis Diaz Morgan at IMG and Elisabeth Lucasse at Priscillas
   production **[The Lagoon Collective](https://www.instagram.com/lagoon_collective/)**
   management **[The Kitchen Creative](https://www.instagram.com/thekitchencreative/)**
-  voice over Barnabe White
-  colourist Matt Fezz
+  voice over **Barnabe White**
+  colourist **Matt Fezz**
+is featured?: true
+blurb: Photographs by Tim Swallow
 layout: gallery
 ---
 

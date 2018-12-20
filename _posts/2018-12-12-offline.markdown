@@ -7,13 +7,13 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
-  director & photographs **[Tim Swallow](https://www.instagram.com/tim_swallow_photo/)** at **[Kitchen Creative](https://www.instagram.com/thekitchencreative/)**
+  director & photographs **[Tim Swallow](https://www.instagram.com/tim_swallow_photo/)**
   cinematographer **[Ed Triglone](https://www.instagram.com/edtriglone/)**
   stylist **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair Stylist **[Joel Foreman](https://www.instagram.com/joelforman/)**
   models Ange Yu at Kult,Taj Richmond & Yohanis Diaz Morgan at IMG and Elisabeth Lucasse at Priscillas
   production The Lagoon Collective
-  management The Kitchen Creative
+  management **[The Kitchen Creative](https://www.instagram.com/thekitchencreative/)**
   voice over Barnabe White
   colourist Matt Fezz
 layout: gallery

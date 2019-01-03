@@ -19,8 +19,8 @@ layout: gallery
 ![MiaRankin_Milani_DoingBird0001.jpg](/uploads/MiaRankin_Milani_DoingBird0001.jpg)
 Milani wears **Louis Vuitton** jacket and **Reliquia** necklace
 
-
-
+![MiaRankin_Milani_DoingBird0002.jpg](/uploads/MiaRankin_Milani_DoingBird0002.jpg)
+Milani wears **Hermès** dress and **Gucci** shoes. Coco wears **Chanel** fur faux jacket, **Bally** pants and **Prada** jacket
 
 ![MiaRankin_Milani_DoingBird0004.jpg](/uploads/MiaRankin_Milani_DoingBird0004.jpg)
 Milani wears **Chanel** boots & gloves. Coco wears **Hermès** glove

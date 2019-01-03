@@ -1,7 +1,6 @@
 ---
 title: Yesterday I Cried
 date: 2019-01-04 08:45:00 +11:00
-published: false
 categories:
 - Fashion
 tags:

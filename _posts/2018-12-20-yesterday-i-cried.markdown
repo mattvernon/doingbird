@@ -14,3 +14,10 @@ Credits Text: |-
 layout: gallery
 ---
 
+![MiaRankin_Milani_DoingBird0010.jpg](/uploads/MiaRankin_Milani_DoingBird0010.jpg)
+Milani wears **Chanel** dress and **Max Mara** shoes
+
+![MiaRankin_Milani_DoingBird0013.jpg](/uploads/MiaRankin_Milani_DoingBird0013.jpg)
+Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**
+
+

@@ -7,10 +7,12 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
-  photographs Mia Rankin
-  styling Coco Adorjany
-  hair & make-up Joel Babicci at Work Agency
-  model Milani at IMG
+  photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
+  styling **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
+  hair & make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
+  model **[Milani](https://www.instagram.com/milanisobey/)** at **[IMG](https://www.instagram.com/imgmodels/)**
+is featured?: true
+blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 

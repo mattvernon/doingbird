@@ -16,11 +16,11 @@ blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 
-![MiaRankin_Milani_DoingBird0010.jpg](/uploads/MiaRankin_Milani_DoingBird0010.jpg)
-Milani wears **Chanel** dress and **Max Mara** shoes
+![MiaRankin_Milani_DoingBird0001.jpg](/uploads/MiaRankin_Milani_DoingBird0001.jpg)
+Milani wears **Louis Vuitton** jacket and **Reliquia** necklace
 
-![MiaRankin_Milani_DoingBird0013.jpg](/uploads/MiaRankin_Milani_DoingBird0013.jpg)
-Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**pants
+
+
 
 ![MiaRankin_Milani_DoingBird0004.jpg](/uploads/MiaRankin_Milani_DoingBird0004.jpg)
 Milani wears **Chanel** boots & gloves. Coco wears **Hermès** glove
@@ -28,4 +28,11 @@ Milani wears **Chanel** boots & gloves. Coco wears **Hermès** glove
 ![MiaRankin_Milani_DoingBird0005.jpg](/uploads/MiaRankin_Milani_DoingBird0005.jpg)
 Milani wears **Hermès** coat, vintage pants from **Zoo Emporium Vintage** and **Max Mara** shoes
 
+![MiaRankin_Milani_DoingBird0010.jpg](/uploads/MiaRankin_Milani_DoingBird0010.jpg)
+Milani wears **Chanel** dress and **Max Mara** shoes
+
+![MiaRankin_Milani_DoingBird0013.jpg](/uploads/MiaRankin_Milani_DoingBird0013.jpg)
+Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**pants
+
+![MiaRankin_Milani_DoingBird0011.jpg](/uploads/MiaRankin_Milani_DoingBird0011.jpg)
 

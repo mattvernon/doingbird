@@ -18,6 +18,9 @@ layout: gallery
 Milani wears **Chanel** dress and **Max Mara** shoes
 
 ![MiaRankin_Milani_DoingBird0013.jpg](/uploads/MiaRankin_Milani_DoingBird0013.jpg)
-Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**
+Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**pants
+
+![MiaRankin_Milani_DoingBird0004.jpg](/uploads/MiaRankin_Milani_DoingBird0004.jpg)
+Milani wears **Chanel** boots & gloves. Coco wears **Hermès** glove
 
 

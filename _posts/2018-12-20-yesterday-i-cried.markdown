@@ -23,4 +23,7 @@ Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**pants
 ![MiaRankin_Milani_DoingBird0004.jpg](/uploads/MiaRankin_Milani_DoingBird0004.jpg)
 Milani wears **Chanel** boots & gloves. Coco wears **Hermès** glove
 
+![MiaRankin_Milani_DoingBird0005.jpg](/uploads/MiaRankin_Milani_DoingBird0005.jpg)
+Milani wears **Hermès** coat, vintage pants from **Zoo Emporium Vintage** and **Max Mara** shoes
+
 

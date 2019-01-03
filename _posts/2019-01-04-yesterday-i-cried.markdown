@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/MiaRankin_Milani_DoingBird0013.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   fashion **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**

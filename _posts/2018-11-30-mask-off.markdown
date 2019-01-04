@@ -15,7 +15,7 @@ Credits Text: |
   photography assistant **Nick Ryall**
   model **[Olivia Thornton](https://www.instagram.com/oliviakthornton/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
   shot at **[Baker Street Studios](https://www.instagram.com/bakerstreetstudios/)**
-is featured?: true
+is featured?: false
 blurb: Photographs by Daniel Goode
 layout: gallery
 ---

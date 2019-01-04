@@ -1,7 +1,6 @@
 ---
 title: Yesterday I Cried
 date: 2019-01-04 08:45:00 +11:00
-published: false
 categories:
 - Fashion
 tags:
@@ -19,9 +18,6 @@ layout: gallery
 
 ![MiaRankin_Milani_DoingBird0001.jpg](/uploads/MiaRankin_Milani_DoingBird0001.jpg)
 Milani wears **Louis Vuitton** jacket and **Reliquia** necklace
-
-![MiaRankin_Milani_DoingBird0002.jpg](/uploads/MiaRankin_Milani_DoingBird0002.jpg)
-Milani wears **Hermès** dress and **Gucci** shoes. Coco wears **Chanel** fur faux jacket, **Bally** pants and **Prada** jacket
 
 ![MiaRankin_Milani_DoingBird0003.jpg](/uploads/MiaRankin_Milani_DoingBird0003.jpg)
 Milani wears **Prada** top, skirt, hat & shoes
@@ -51,5 +47,8 @@ Milani wears **Emporio Armani** bodysuit & skirt and **Prada** shoes
 
 ![MiaRankin_Milani_DoingBird0013.jpg](/uploads/MiaRankin_Milani_DoingBird0013.jpg)
 Milani wears **Chanel** earrings & bracelet. Mia wears **Gucci**pants
+
+![MiaRankin_Milani_DoingBird0002.jpg](/uploads/MiaRankin_Milani_DoingBird0002.jpg)
+Milani wears **Hermès** dress and **Gucci** shoes. Coco wears **Chanel** fur faux jacket, **Bally** pants and **Prada** jacket
 
 

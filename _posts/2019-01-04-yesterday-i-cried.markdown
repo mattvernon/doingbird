@@ -9,7 +9,7 @@ Main Image: "/uploads/MiaRankin_Milani_DoingBird0013.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   fashion **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
-  hair & make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
+  hair & make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
   model **[Milani](https://www.instagram.com/milanisobey/)** at **[IMG](https://www.instagram.com/imgmodels/)**
 is featured?: true
 blurb: Photographs by Mia Rankin

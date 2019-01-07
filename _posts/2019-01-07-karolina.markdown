@@ -10,6 +10,8 @@ Main Image: "/uploads/KarolinaE_DoingBird_1.jpg"
 Credits Text: "photographs **Connor Langford** at **2DM Management**\nstyling **Danielle
   Soglimbene** at **DLM**\nhair **Joel Forman** at **Lion Artist Management**\nmake-up\nmodel
   \n"
+is featured?: true
+blurb: Photographs by Connor Langford
 layout: gallery
 ---
 

@@ -9,7 +9,8 @@ tags:
 Main Image: "/uploads/KarolinaE_DoingBird_7.jpg"
 Credits Text: "photographs **[Connor Langford](https://www.instagram.com/connorlangford/)**
   at **2DM Management**\nstyling **[Danielle Soglimbene](https://www.instagram.com/danielle_soglimbene/)**
-  at **DLM**\nhair **Joel Forman** at **Lion Artist Management**\nmake-up\nmodel \n"
+  at **DLM**\nhair **[Joel Forman](https://www.instagram.com/joelforman/)** at **Lion
+  Artist Management**\nmake-up\nmodel \n"
 is featured?: true
 blurb: Photographs by Connor Langford
 layout: gallery

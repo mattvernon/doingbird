@@ -906,7 +906,7 @@ button:hover {
   align-items: flex-start;
 
   .about-person {
-    min-width: 210px;
+    min-width: 230px;
     margin-bottom: 20px;
 
     p,
@@ -919,6 +919,10 @@ button:hover {
     a {
       text-decoration: underline;
     }
+  }
+
+  .about-person:last-child {
+    margin-bottom: 120px;
   }
 }
 

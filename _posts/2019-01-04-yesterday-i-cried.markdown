@@ -25,11 +25,11 @@ Milani wears **Prada** top, skirt, hat & shoes
 ![MiaRankin_Milani_DoingBird0004.jpg](/uploads/MiaRankin_Milani_DoingBird0004.jpg)
 Milani wears **Chanel** boots & gloves. Coco wears **Hermès** glove
 
-![MiaRankin_Milani_DoingBird0006-e31315.jpg](/uploads/MiaRankin_Milani_DoingBird0006-e31315.jpg)
+![MiaRankin_Milani_DoingBird0005.jpg](/uploads/MiaRankin_Milani_DoingBird0005.jpg)
 Milani wears **Hermès** coat, vintage pants from **Zoo Emporium Vintage** and **Max Mara** shoes
 
-![MiaRankin_Milani_DoingBird0006.jpg](/uploads/MiaRankin_Milani_DoingBird0006.jpg)
-Milani wears **Prada** bags and **Hermès** boots
+![MiaRankin_Milani_DoingBird0006-e31315.jpg](/uploads/MiaRankin_Milani_DoingBird0006-e31315.jpg)
+Milani wears **Prada** bag and **Hermès** boots
 
 ![MiaRankin_Milani_DoingBird0007.jpg](/uploads/MiaRankin_Milani_DoingBird0007.jpg)
 Milani wears **Louis Vuitton** jacket and **Reliquia** necklace

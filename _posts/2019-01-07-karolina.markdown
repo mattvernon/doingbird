@@ -6,8 +6,25 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/KarolinaE_DoingBird_1.jpg"
+Credits Text: "photographs **Connor Langford** at **2DM Management**\nstyling **Danielle
+  Soglimbene** at **DLM**\nhair **Joel Forman** at **Lion Artist Management**\nmake-up\nmodel
+  \n"
+is featured?: true
+blurb: Photographs by Connor Langford
 layout: gallery
 ---
 
 ![KarolinaE_DoingBird_7.jpg](/uploads/KarolinaE_DoingBird_7.jpg)
 **Michael Lo Sordo** dress
+
+![KarolinaE_DoingBird_33.jpg](/uploads/KarolinaE_DoingBird_33.jpg)
+**Calvin Klein** jacket, **Hugo Boss** shorts and stylist's own earring
+
+![KarolinaE_DoingBird_1.jpg](/uploads/KarolinaE_DoingBird_1.jpg)
+**Calvin Klein** jacket and **Sir** crop
+
+
+
+
+

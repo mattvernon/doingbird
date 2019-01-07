@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/KarolinaE_DoingBird_1.jpg"
 layout: gallery
 ---
 
@@ -17,6 +18,7 @@ layout: gallery
 
 ![KarolinaE_DoingBird_1.jpg](/uploads/KarolinaE_DoingBird_1.jpg)
 **Calvin Klein** jacket and **Sir** crop
+
 
 
 

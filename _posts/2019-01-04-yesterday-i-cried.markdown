@@ -42,7 +42,7 @@ Milani wears **Prada** top, skirt, hat & shoes
 ![MiaRankin_Milani_DoingBird0010.jpg](/uploads/MiaRankin_Milani_DoingBird0010.jpg)
 Milani wears **Chanel** dress and **Max Mara** shoes
 
-![MiaRankin_Milani_DoingBird0011.jpg](/uploads/MiaRankin_Milani_DoingBird0011.jpg)
+![MiaRankin_Milani_DoingBird0011-8512b3.jpg](/uploads/MiaRankin_Milani_DoingBird0011-8512b3.jpg)
 Milani wears **Emporio Armani** bodysuit & skirt and **Prada** shoes
 
 ![MiaRankin_Milani_DoingBird0013.jpg](/uploads/MiaRankin_Milani_DoingBird0013.jpg)

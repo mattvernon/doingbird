@@ -16,7 +16,7 @@ blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 
-![MiaRankin_Milani_DoingBird0001.jpg](/uploads/MiaRankin_Milani_DoingBird0001.jpg)
+![MiaRankin_Milani_DoingBird0001-664da6.jpg](/uploads/MiaRankin_Milani_DoingBird0001-664da6.jpg)
 Milani wears **Louis Vuitton** jacket and **Reliquia** necklace
 
 ![MiaRankin_Milani_DoingBird0003.jpg](/uploads/MiaRankin_Milani_DoingBird0003.jpg)

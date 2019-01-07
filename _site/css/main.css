@@ -1064,7 +1064,7 @@ button:hover {
   flex-wrap: wrap;
   align-items: flex-start; }
   .team .about-person {
-    min-width: 210px;
+    min-width: 230px;
     margin-bottom: 20px; }
     .team .about-person p,
     .team .about-person a {
@@ -1073,6 +1073,8 @@ button:hover {
       display: block; }
     .team .about-person a {
       text-decoration: underline; }
+  .team .about-person:last-child {
+    margin-bottom: 120px; }
 
 .notification-page h1 {
   margin-bottom: 20px; }

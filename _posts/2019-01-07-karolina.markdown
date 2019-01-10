@@ -7,11 +7,12 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/KarolinaE_DoingBird_7.jpg"
-Credits Text: "photographs **[Connor Langford](https://www.instagram.com/connorlangford/)**
-  at **[2DM Management](https://www.instagram.com/2dmmanagement/)**\nstyling **[Danielle
-  Soglimbene](https://www.instagram.com/danielle_soglimbene/)** at **[DLM](https://www.instagram.com/DLM_AU/)**\nhair
-  **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**\nmake-up\nmodel
-  \n"
+Credits Text: |
+  photographs **[Connor Langford](https://www.instagram.com/connorlangford/)** at **[2DM Management](https://www.instagram.com/2dmmanagement/)**
+  styling **[Danielle Soglimbene](https://www.instagram.com/danielle_soglimbene/)** at **[DLM](https://www.instagram.com/DLM_AU/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[MAC](https://www.instagram.com/maccosmetics/)**
+  model **[Karolina](https://www.instagram.com/karolinaege/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 is featured?: true
 blurb: Photographs by Connor Langford
 layout: gallery

@@ -51,9 +51,6 @@ Were you scared?
 
 "Super scared. I always was intimidated by other people and feeling like I didn't belong. Like maybe I didn't really deserve to be here, or I wasn't good enough. Then on top of that, I never wanted anyone to find out about my sexuality."
 
-
-![KeiynanLonsdale 3.jpg](/uploads/KeiynanLonsdale%203.jpg)
-
 How long do you feel like you were struggling with it? Would you call it a struggle? 
 
 "Definitely. It's just a struggle that got easier over time. When I was 21 that's when shit, wasn't going to work out. Every day it was getting harder and harder to just try and breathe. I was really depressed. I honestly just didn't want to be here anymore. And then one of my best friends was like, “You have to see a psychiatrist, it's not normal to feel this way or to cry every day for months.”
@@ -70,6 +67,8 @@ What are you looking forward to the most when it comes to acting and music?
 I read somewhere that you believe you’re quite judgment free. Are there judgments you feel you’re still clinging onto?
 
 "I think we judge in others what we haven't dealt with within ourselves, so that's always going to be the case for many of us, including myself. I think where my judgement comes from is that I’m so hopeful for the world that I can see how we would be if we were free. How beautiful this life could be if we weren't all so afraid and thinking that we’re all so separate." 
+
+![KeiynanLonsdale 3.jpg](/uploads/KeiynanLonsdale%203.jpg)
 
 What advice would you give to people believing the negative thoughts over the good ones? 
 

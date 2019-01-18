@@ -13,4 +13,4 @@ Main Image: "/uploads/KeiynanLonsdale%201.jpg"
 Words **[Eva Barragan](https://www.instagram.com/evuhbee/)**
 Photographs **[Bryce Thomas](https://www.instagram.com/friendlypervert/)**
 Styling **[Kevin Hunter](https://www.instagram.com/studiokevinhunter/)
-Hair & make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/)
+Hair & make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/) at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**

@@ -19,15 +19,23 @@ The first time I met Keiynan Lonsdale was under a dark December night sky surrou
 
 Fast forward a year and we’re meeting for lunch on Melrose Ave. Arriving in a Dragon Ball Z tee and gold glitter nail polish, Lonsdale’s style reflects his artistry: inimitable. He is unapologetic about sharing his point of view, although, he says, this hasn’t always been the case. 
 
+
+![KeiynanLonsdale 5.jpg](/uploads/KeiynanLonsdale%205.jpg)
+Keiynan wears **Gucci** jacket, stylist's own necklace (worn throughout) and Keiynan's own earrings (worn throughout)
+
 Born in Sydney, Australia, with his father out of the picture and as one of the few African Americans among his peers, Lonsdale struggled with identity early on. He recalls a time when the thought of stepping inside a coffee shop would fill him with anxiety and a period in where the only people on the planet he felt safe in front of were his mum and Michael Jackson. 
 
 As a child, Lonsdale found solace in dancing, singing, and acting. Now, what was once his escape has become a vehicle to global stardom. Lonsdale made headlines earlier this year for his role in Love, Simon playing the love interest of a closeted teenage boy. He was recently named Actor of The Year by GQ Australia. Right now, he’s in the process of completing his debut album – just part of the massive musical plans he has for 2019. 
 
 I remember you once telling me you were a shy child. Did you know where that fear came from? 
 
-The fear comes from the fact that anytime I would express myself, outside of my mums support, it was laughed at or everyone was confused by it. Even when I got into school, the other boys didn’t dance. At the time there weren't that many black kids where I was growing up. Kids would actually come up to me and point out the fact that my skin was dark, or that I had long legs, they would tease me about everything that I was. From my hair to my skin, I didn't feel safe anywhere. 
+"The fear comes from the fact that anytime I would express myself, outside of my mums support, it was laughed at or everyone was confused by it. Even when I got into school, the other boys didn’t dance. At the time there weren't that many black kids where I was growing up. Kids would actually come up to me and point out the fact that my skin was dark, or that I had long legs, they would tease me about everything that I was. From my hair to my skin, I didn't feel safe anywhere."
 
-I would see Michael Jackson on TV and he was all of these things that I thought I connected to and that I wanted to be and the world was cheering him on. He was embraced by all these people, just fully committing to it. I think I clocked it in my brain if I fully commit to this if I fully commit then the people that don't get it now, will eventually get it. 
+
+![KeiynanLonsdale 2.jpg](/uploads/KeiynanLonsdale%202.jpg)
+Keiynan wears **Ermenegildo Zegna** suit, stylist's own necklace (worn throughout) and Keiynan's own earrings (worn throughout)
+
+"I would see Michael Jackson on TV and he was all of these things that I thought I connected to and that I wanted to be and the world was cheering him on. He was embraced by all these people, just fully committing to it. I think I clocked it in my brain if I fully commit to this if I fully commit then the people that don't get it now, will eventually get it." 
 
 How have you found struggling with your identity, whilst having to perform so many different roles? 
 

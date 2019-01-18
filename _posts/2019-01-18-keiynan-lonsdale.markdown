@@ -18,6 +18,9 @@ styling **[Kevin Hunter](https://www.instagram.com/studiokevinhunter/)
 hair & make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
 talent **[Keiynan Lonsdale](http://instagram.com/keiynanlonsdale)**
 
+![KeiynanLonsdale 1.jpg](/uploads/KeiynanLonsdale%201.jpg)
+Keiynan wears **Balenciaga** skirt, vintage boots from **Route 66**, stylist's own necklace (worn throughout) and Keiynan's own earrings (worn throughout)
+
 The first time I met Keiynan Lonsdale was under a dark December night sky surrounded by over a hundred acres of gardens. Keiynan appeared timid at first but endlessly curious. We laughed about aliens, fairy tales, and the secret same-sex crushes we both felt the need to hide when we were growing up. He shares his thoughts on love, and I share mine with him. 
 
 Fast forward a year and we’re meeting for lunch on Melrose Ave. Arriving in a Dragon Ball Z tee and gold glitter nail polish, Lonsdale’s style reflects his artistry: inimitable. He is unapologetic about sharing his point of view, although, he says, this hasn’t always been the case. 
@@ -42,11 +45,14 @@ Keiynan wears **Ermenegildo Zegna** suit, stylist's own necklace (worn throughou
 
 How have you found struggling with your identity, whilst having to perform so many different roles? 
 
-When you’re trying to find yourself there’s this level of performing that goes on when the cameras are rolling but then there’s, even more, performing when the cameras are off. For me, I know that's how I felt all the time. I was always performing. 
+"When you’re trying to find yourself there’s this level of performing that goes on when the cameras are rolling but then there’s, even more, performing when the cameras are off. For me, I know that's how I felt all the time. I was always performing." 
 
 Were you scared?
 
-Super scared. I always was intimidated by other people and feeling like I didn't belong. Like maybe I didn't really deserve to be here, or I wasn't good enough. Then on top of that, I never wanted anyone to find out about my sexuality. 
+"Super scared. I always was intimidated by other people and feeling like I didn't belong. Like maybe I didn't really deserve to be here, or I wasn't good enough. Then on top of that, I never wanted anyone to find out about my sexuality."
+
+
+![KeiynanLonsdale 3.jpg](/uploads/KeiynanLonsdale%203.jpg)
 
 How long do you feel like you were struggling with it? Would you call it a struggle? 
 

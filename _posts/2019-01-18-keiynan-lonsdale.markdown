@@ -8,6 +8,8 @@ tags:
 - Shoot
 - Interviews
 Main Image: "/uploads/KeiynanLonsdale%201.jpg"
+is featured?: true
+blurb: Photographs by Bryce Thomas
 ---
 
 Words **[Eva Barragan](https://www.instagram.com/evuhbee/)**

@@ -27,7 +27,7 @@ Fast forward a year and we’re meeting for lunch on Melrose Ave. Arriving in a 
 
 
 ![KeiynanLonsdale 5.jpg](/uploads/KeiynanLonsdale%205.jpg)
-Keiynan wears **Gucci** jacket, stylist's own necklace (worn throughout) and Keiynan's own earrings (worn throughout)
+Keiynan wears **Gucci** jacket
 
 Born in Sydney, Australia, with his father out of the picture and as one of the few African Americans among his peers, Lonsdale struggled with identity early on. He recalls a time when the thought of stepping inside a coffee shop would fill him with anxiety and a period in where the only people on the planet he felt safe in front of were his mum and Michael Jackson. 
 
@@ -39,7 +39,7 @@ I remember you once telling me you were a shy child. Did you know where that fea
 
 
 ![KeiynanLonsdale 2.jpg](/uploads/KeiynanLonsdale%202.jpg)
-Keiynan wears **Ermenegildo Zegna** suit, stylist's own necklace (worn throughout) and Keiynan's own earrings (worn throughout)
+Keiynan wears **Ermenegildo Zegna** suit
 
 "I would see Michael Jackson on TV and he was all of these things that I thought I connected to and that I wanted to be and the world was cheering him on. He was embraced by all these people, just fully committing to it. I think I clocked it in my brain if I fully commit to this if I fully commit then the people that don't get it now, will eventually get it." 
 
@@ -56,7 +56,7 @@ How long do you feel like you were struggling with it? Would you call it a strug
 "Definitely. It's just a struggle that got easier over time. When I was 21 that's when shit, wasn't going to work out. Every day it was getting harder and harder to just try and breathe. I was really depressed. I honestly just didn't want to be here anymore. And then one of my best friends was like, “You have to see a psychiatrist, it's not normal to feel this way or to cry every day for months.”
 
 ![KeiynanLonsdale 4.jpg](/uploads/KeiynanLonsdale%204.jpg)
-Keiynan wears **Emporio Armani** pants & shorts, vintage boots from **Route 66** 
+Keiynan wears **Emporio Armani** pants & shorts and vintage boots from **Route 66** 
 
 "So I took his advice and I was so blessed with the psychiatrist I got. After a few months of speaking with him, I started to come out to a bunch of friends and I started to accept myself. So 21 was a huge year for me and a huge weight lifted off my shoulders. But the next year, I moved over to America in a place by myself and I decided to go back into the closet. Then the pressure started building again. By the time I got to Love, Simon I was feeling like a bit of a hypocrite. I knew I had come so far but I was still hiding this secret." 
 

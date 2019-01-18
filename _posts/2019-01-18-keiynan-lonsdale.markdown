@@ -15,7 +15,7 @@ blurb: Photographs by Bryce Thomas
 Words **[Eva Barragan](https://www.instagram.com/evuhbee/)**
 Photographs **[Bryce Thomas](https://www.instagram.com/friendlypervert/)**
 Styling **[Kevin Hunter](https://www.instagram.com/studiokevinhunter/)
-Hair & make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/) at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
+Hair & make-up **[Joel Phillips](https://www.instagram.com/joelphillipsmakeup/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
 
 The first time I met Keiynan Lonsdale was under a dark December night sky surrounded by over a hundred acres of gardens. Keiynan appeared timid at first but endlessly curious. We laughed about aliens, fairy tales, and the secret same-sex crushes we both felt the need to hide when we were growing up. He shares his thoughts on love, and I share mine with him. 
 

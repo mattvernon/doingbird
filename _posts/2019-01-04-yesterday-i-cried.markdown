@@ -17,7 +17,7 @@ layout: gallery
 ---
 
 ![MiaRankin_Milani_DoingBird0001-664da6.jpg](/uploads/MiaRankin_Milani_DoingBird0001-664da6.jpg)
-Milani wears **Louis Vuitton** jacket and **Reliquia** necklace
+Milani wears **Louis Vuitton** jacket and **Primavera** necklace
 
 ![MiaRankin_Milani_DoingBird0003.jpg](/uploads/MiaRankin_Milani_DoingBird0003.jpg)
 Milani wears **Prada** top, skirt, hat & shoes
@@ -32,7 +32,7 @@ Milani wears **Hermès** coat, vintage pants from **Zoo Emporium Vintage** and *
 Milani wears **Prada** bag and **Hermès** boots
 
 ![MiaRankin_Milani_DoingBird0007.jpg](/uploads/MiaRankin_Milani_DoingBird0007.jpg)
-Milani wears **Louis Vuitton** jacket and **Reliquia** necklace
+Milani wears **Louis Vuitton** jacket and **Primavera** necklace
 
 ![MiaRankin_Milani_DoingBird0008.jpg](/uploads/MiaRankin_Milani_DoingBird0008.jpg)
 Milani wears **Prada** top, skirt, hat & shoes

@@ -28,7 +28,7 @@ Fast forward a year and we’re meeting for lunch on Melrose Ave. Arriving in a 
 ![KeiynanLonsdale 5.jpg](/uploads/KeiynanLonsdale%205.jpg)
 Keiynan wears **Gucci** jacket
 
-Born in Sydney, Australia, with his father out of the picture and as one of the few African Americans among his peers, Lonsdale struggled with identity early on. He recalls a time when the thought of stepping inside a coffee shop would fill him with anxiety and a period in where the only people on the planet he felt safe in front of were his mum and Michael Jackson. 
+Born in Sydney, Australia, with his father out of the picture and as one of the few African Australians among his peers, Lonsdale struggled with identity early on. He recalls a time when the thought of stepping inside a coffee shop would fill him with anxiety and a period in where the only people on the planet he felt safe in front of were his mum and Michael Jackson. 
 
 As a child, Lonsdale found solace in dancing, singing, and acting. Now, what was once his escape has become a vehicle to global stardom. Lonsdale made headlines earlier this year for his role in Love, Simon playing the love interest of a closeted teenage boy. He was recently named Actor of The Year by GQ Australia. Right now, he’s in the process of completing his debut album – just part of the massive musical plans he has for 2019. 
 
@@ -83,7 +83,7 @@ How do you go into situations like that when you are having these moments of sel
 
 I’ve heard you talk about magic a lot, especially on social media. Where do you feel the most magic? 
 
-"When I gave my MTV speech earlier this year I was so nervous because I had no idea what I was going to say. I was having a rough day, I didn’t feel inspired and I didn’t want to make up anything that wasn't true or real for me at that moment. Just before I went up I was in my seat thinking “umm you’re an openly gay African American man, you’re sitting here wearing a dress, and you’ve been nominated for best kiss. Wow. okay, if I get called up there, I’m just going to trust the words will come. I walked up, gave my speech and I was looking down at everyone thinking, “I can't believe I’m saying this to all of these people and it is being celebrated.” It was just a reminder to always trust the universe, let the fuck go. When we’re trying to hold on to something or we think “how am I supposed to believe in magic if I don't hear it and I don't see it.” Those are the times you have to trust it’s real." 
+"When I gave my MTV speech earlier this year I was so nervous because I had no idea what I was going to say. I was having a rough day, I didn’t feel inspired and I didn’t want to make up anything that wasn't true or real for me at that moment. Just before I went up I was in my seat thinking “umm you’re an openly queer African Australian man, you’re sitting here wearing a dress, and you’ve been nominated for best kiss. Wow. okay, if I get called up there, I’m just going to trust the words will come. I walked up, gave my speech and I was looking down at everyone thinking, “I can't believe I’m saying this to all of these people and it is being celebrated.” It was just a reminder to always trust the universe, let the fuck go. When we’re trying to hold on to something or we think “how am I supposed to believe in magic if I don't hear it and I don't see it.” Those are the times you have to trust it’s real." 
 
 What is the biggest sacrifice you’ve made in your artistic journey so far?
 

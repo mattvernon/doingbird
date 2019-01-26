@@ -7,6 +7,12 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/20181210_Sheer_09_1477.jpg"
+Credits Text: |
+  photographs **[Diego Lorenzo Jose]**
+  styling **[Cheryl Tan]**
+  hair **[Anthony Nader]**
+  make-up **[Jenny Roberts]**
+  models **[Madison]** at **[IMG]** **[Gabriela]** at **[Priscillas]**
 layout: gallery
 ---
 

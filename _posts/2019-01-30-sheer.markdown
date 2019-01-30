@@ -12,6 +12,8 @@ Credits Text: |
   hair **[Anthony Nader](https://www.instagram.com/anthony_nader/)**
   make-up **[Jenny Roberts](https://www.instagram.com/jennybird_mua/)**
   models **[Madison](https://www.instagram.com/madisonfanshawe/)** at **[IMG](https://www.instagram.com/imgmodels/)** **[Gabriela](https://www.instagram.com/gabifbaettig/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+is featured?: true
+blurb: Photographs by Diego Lorenzo Jose
 layout: gallery
 ---
 

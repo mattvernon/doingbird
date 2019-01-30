@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/20181210_Sheer_09_1477.jpg"
+Main Image: "/uploads/20181210_Sheer_07_1082.jpg"
 Credits Text: |
   photographs **[Diego Lorenzo Jose](https://www.instagram.com/diego_photos/)**
   styling **[Cheryl Tan](https://www.instagram.com/cheryltanstylist/)**

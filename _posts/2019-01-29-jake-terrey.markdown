@@ -9,3 +9,6 @@ tags:
 layout: gallery
 ---
 
+![Doing Bird 2.jpg](/uploads/Doing%20Bird%202.jpg)
+
+![Doing Bird 1.jpg](/uploads/Doing%20Bird%201.jpg)

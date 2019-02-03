@@ -37,6 +37,7 @@ Evan wears **Prada** suit and stylist's own gloves & cap. Zac wears **Emporio Ar
 Aweng wears **Lonely** bra, **CocaineSlim** du rag and stylist's own gloves. Nya wears **Nagnata** top, **Cocaineslim** du rag andf stylist's own gloves
 
 ![Doing Bird 13.jpg](/uploads/Doing%20Bird%2013.jpg)
+Otis wears **Lacoste** jacket, **Ermenegildo Zegna** pants & shoes and **Louis Vuitton** glasses & bag. Shimma wears **Max Mara** dress, **Thomas Puttick** pants and **Louis Vuitton** shoes
 
 ![Doing Bird 16.jpg](/uploads/Doing%20Bird%2016.jpg)
 

@@ -1,0 +1,42 @@
+---
+title: Sheer
+date: 2019-01-30 17:30:00 +11:00
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/20181210_Sheer_07_1082.jpg"
+Credits Text: |
+  photographs **[Diego Lorenzo Jose](https://www.instagram.com/diego_photos/)**
+  styling **[Cheryl Tan](https://www.instagram.com/cheryltanstylist/)**
+  hair **[Anthony Nader](https://www.instagram.com/anthony_nader/)**
+  make-up **[Jenny Roberts](https://www.instagram.com/jennybird_mua/)**
+  models **[Madison](https://www.instagram.com/madisonfanshawe/)** at **[IMG](https://www.instagram.com/imgmodels/)** **[Gabriela](https://www.instagram.com/gabifbaettig/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+is featured?: true
+blurb: Photographs by Diego Lorenzo Jose
+layout: gallery
+---
+
+![20181210_Sheer_09_1477.jpg](/uploads/20181210_Sheer_09_1477.jpg)
+**Karla Spetic** dress & one piece, **Valere** earring
+
+![20181210_Sheer_10_1667.jpg](/uploads/20181210_Sheer_10_1667.jpg)
+**Kate Sylvester** jacket, **Dinosaur Designs** earrings and **Sandro** heels
+
+![20181210_Sheer_08_1393.jpg](/uploads/20181210_Sheer_08_1393.jpg)
+**Twiin** bodysuit, **Kaliver** top, **Sandro** jacket, **Boohoo** shoes and **Louise Olsen** earrings available at **Dinosaur Designs**
+
+![20181210_Sheer_07_1082.jpg](/uploads/20181210_Sheer_07_1082.jpg)
+**Emporio Armani** jacket and **Louise Olsen** earrings available at **Dinosaur Designs**
+
+![20181210_Sheer_01_0150.jpg](/uploads/20181210_Sheer_01_0150.jpg)
+**Kaliver** jacket, **Equipment** top, **Anna Quan** pants and **Sandro** shoes
+
+![20181210_Sheer_02_0312.jpg](/uploads/20181210_Sheer_02_0312.jpg)
+**Louise Olsen** earrings available at **Dinosaur Designs**, **Equipment** shirt and **Karla Spetic** dress
+
+![20181210_Sheer_06_0930.jpg](/uploads/20181210_Sheer_06_0930.jpg)
+**Bally** top & pants, **J Brand** jacket, **Boohoo** shoes and **Suro Bola** earrings
+
+![20181210_Sheer_04_0513.jpg](/uploads/20181210_Sheer_04_0513.jpg)
+**Toni Maticevski** top & pants, **Karla Spetic** one piece (worn underneath), **Bally** shoes and **Louise Olsen** earrings available at **Dinosaur Designs**

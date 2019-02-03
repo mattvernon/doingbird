@@ -60,6 +60,7 @@ Nya wears **Emporio Armani** dress, **Natasha Schweitzer** necklace and stylist'
 ![DOING BIRD22.jpg](/uploads/DOING%20BIRD22.jpg)
 
 ![DOING BIRD23.jpg](/uploads/DOING%20BIRD23.jpg)
+Nya wears **Prada** shirt, jacket, skirt, socks, shoes & bag and stylist's own gloves
 
 ![DOING BIRD24.jpg](/uploads/DOING%20BIRD24.jpg)
 

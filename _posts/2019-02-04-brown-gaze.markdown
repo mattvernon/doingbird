@@ -20,8 +20,8 @@ Credits Text: |
   talent **[Aweng](https://www.instagram.com/awengchuol/)** at **[State NYC](https://www.instagram.com/statemgmt/)**
   **[Nya](https://www.instagram.com/nmmwl/)** & **[Shimma](https://www.instagram.com/shimmamarie/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
   **[Evan](https://www.instagram.com/evanbeezy/)**, **[Otis](https://www.instagram.com/yslotis/)** & **[Zac](https://www.instagram.com/zac_panyar/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
-  **[Ajier]** at **[Priscillas]**
-  **[Weah]** at **[THE. Mgmt]**
+  **[Ajier](https://www.instagram.com/ajieroo/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+  **[Weah](https://www.instagram.com/officialkinglightskin/)** at **[THE. Mgmt](https://www.instagram.com/the.mgmt/)**
 is featured?: true
 blurb: Photographs by Jake Terrey
 layout: gallery

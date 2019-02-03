@@ -17,8 +17,8 @@ Credits Text: |
   make-up assistant **Jenny Roberts**
   hair assistant **Sacha Lorge**
 
-  talent **[Aweng]** at **[State NYC]**
-  **[Nya]** & **[Shimma]** at **[Kult]**
+  talent **[Aweng](https://www.instagram.com/awengchuol/)** at **[State NYC](https://www.instagram.com/statemgmt/)**
+  **[Nya](https://www.instagram.com/nmmwl/)** & **[Shimma](https://www.instagram.com/shimmamarie/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
   **[Evan]**, **[Otis]** & **[Zac]** at **[Chadwick]**
   **[Ajier]** at **[Priscillas]**
   **[Weah]** at **[THE. Mgmt]**

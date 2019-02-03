@@ -46,8 +46,10 @@ Nya wears **Prada** jacket, shirt, shoes, socks & bag and stylist's own gloves
 Evan wears **Prada** shirt & hat, **Tommy Hilfiger** shorts from **Storeroom Vintage** and **Lacoste** shoes. Ajier wears **Sportmax** dress, **Prada** shoes, **Deadly Ponies** bag and stylist's own headwrap & socks
 
 ![Doing Bird 18.jpg](/uploads/Doing%20Bird%2018.jpg)
+Nya wears **Emporio Armani** dress and **Natasha Schweitzer** necklace. Zac wears **Emporio Armani** suit and stylist's own gloves. Aweng wears **Lonely** bra, **Sandro** pants and **CocaineSlim** du rag
 
 ![Doing Bird 19.jpg](/uploads/Doing%20Bird%2019.jpg)
+
 
 ![Doing Bird 20.jpg](/uploads/Doing%20Bird%2020.jpg)
 

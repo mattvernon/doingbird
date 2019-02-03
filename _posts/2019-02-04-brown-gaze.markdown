@@ -49,7 +49,7 @@ Evan wears **Prada** shirt & hat, **Tommy Hilfiger** shorts from **Storeroom Vin
 Nya wears **Emporio Armani** dress and **Natasha Schweitzer** necklace. Zac wears **Emporio Armani** suit and stylist's own gloves. Aweng wears **Lonely** bra, **Sandro** pants and **CocaineSlim** du rag
 
 ![Doing Bird 19.jpg](/uploads/Doing%20Bird%2019.jpg)
-
+Aweng wears **Lonely** bra, **CocaineSlim** du rag, **Sandro** pants, **Vejas** shoes and stylist's own gloves. Nya wears **Nagnata** top, **Lacoste** shorts, **Vejas** shoes, **CocaineSlim** du rag and stylist's own gloves & socks
 
 ![Doing Bird 20.jpg](/uploads/Doing%20Bird%2020.jpg)
 

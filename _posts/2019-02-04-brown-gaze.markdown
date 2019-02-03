@@ -16,6 +16,7 @@ Ajier wears **Incu** top, **Prada** bag and stylist's own gloves
 Aweng wears **Christopher Esber** suit, **CocaineSlim** du rag and **Veja** shoes. Nya wears **Nagnata** top, **Lacoste** shorts, **Vejas** shoes and **Cocaineslim** du rag
 
 ![Doing Bird 3.jpg](/uploads/Doing%20Bird%203.jpg)
+Otis wears **Lacoste** jacket, **Ermenegildo Zegna** pants and **Louis Vuitton** glasses. Shimma wears **Max Mara** dress and own jewellery
 
 ![Doing Bird 4.jpg](/uploads/Doing%20Bird%204.jpg)
 

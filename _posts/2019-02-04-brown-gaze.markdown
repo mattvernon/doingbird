@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/DOING%20BIRD22.jpg"
 layout: gallery
 ---
 

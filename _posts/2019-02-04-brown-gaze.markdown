@@ -34,6 +34,7 @@ Shimma wears **Lee Matthews** dress
 Evan wears **Prada** suit and stylist's own gloves & cap. Zac wears **Emporio Armani** suit and stylist's own gloves
 
 ![Doing Bird 11.jpg](/uploads/Doing%20Bird%2011.jpg)
+Aweng wears **Lonely** bra, **CocaineSlim** du rag and stylist's own gloves. Nya wears **Nagnata** top, **Cocaineslim** du rag andf stylist's own gloves
 
 ![Doing Bird 13.jpg](/uploads/Doing%20Bird%2013.jpg)
 

@@ -31,6 +31,7 @@ Shimma wears **Lee Matthews** dress
 Shimma wears **Lee Matthews** dress
 
 ![Doing Bird 10.jpg](/uploads/Doing%20Bird%2010.jpg)
+Evan wears **Prada** suit and stylist's own gloves & cap. Zac wears **Emporio Armani** suit and stylist's own gloves
 
 ![Doing Bird 11.jpg](/uploads/Doing%20Bird%2011.jpg)
 

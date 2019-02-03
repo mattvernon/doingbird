@@ -63,7 +63,10 @@ Nya wears **Emporio Armani** dress, **Natasha Schweitzer** necklace and stylist'
 Nya wears **Prada** shirt, jacket, skirt, socks, shoes & bag and stylist's own gloves
 
 ![DOING BIRD24.jpg](/uploads/DOING%20BIRD24.jpg)
+Ajier wears **Incu** top, **Max Mara** skirt, **Bally** shoes, **Prada** bag and stylist's own gloves & socks
 
 ![DOING BIRD25.jpg](/uploads/DOING%20BIRD25.jpg)
+Zac wears **Bally** jacket an stylist's own underwear and socks
 
 ![DOING BIRD26.jpg](/uploads/DOING%20BIRD26.jpg)
+Zac wears **Bally** jacket an stylist's own underwear and socks

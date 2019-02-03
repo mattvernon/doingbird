@@ -10,6 +10,7 @@ layout: gallery
 ---
 
 ![Doing Bird 1.jpg](/uploads/Doing%20Bird%201.jpg)
+Ajier wears **Incu** top, **Prada** bag and stylist's own gloves
 
 ![Doing Bird 2.jpg](/uploads/Doing%20Bird%202.jpg)
 

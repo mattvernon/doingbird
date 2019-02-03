@@ -52,8 +52,10 @@ Nya wears **Emporio Armani** dress and **Natasha Schweitzer** necklace. Zac wear
 Aweng wears **Lonely** bra, **CocaineSlim** du rag, **Sandro** pants, **Vejas** shoes and stylist's own gloves. Nya wears **Nagnata** top, **Lacoste** shorts, **Vejas** shoes, **CocaineSlim** du rag and stylist's own gloves & socks
 
 ![Doing Bird 20.jpg](/uploads/Doing%20Bird%2020.jpg)
+Weah wears **Ermenegildo Zegna** pants and **Avenue** hat
 
 ![DOING BIRD21.jpg](/uploads/DOING%20BIRD21.jpg)
+Nya wears **Emporio Armani** dress, **Natasha Schweitzer** necklace and stylist's own gloves
 
 ![DOING BIRD22.jpg](/uploads/DOING%20BIRD22.jpg)
 

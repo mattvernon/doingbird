@@ -43,6 +43,7 @@ Otis wears **Lacoste** jacket, **Ermenegildo Zegna** pants & shoes and **Louis V
 Nya wears **Prada** jacket, shirt, shoes, socks & bag and stylist's own gloves
 
 ![Doing Bird 17.jpg](/uploads/Doing%20Bird%2017.jpg)
+Evan wears **Prada** shirt & hat, **Tommy Hilfiger** shorts from **Storeroom Vintage** and **Lacoste** shoes. Ajier wears **Sportmax** dress, **Prada** shoes, **Deadly Ponies** bag and stylist's own headwrap & socks
 
 ![Doing Bird 18.jpg](/uploads/Doing%20Bird%2018.jpg)
 

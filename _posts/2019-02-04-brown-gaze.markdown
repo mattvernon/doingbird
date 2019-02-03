@@ -58,6 +58,7 @@ Weah wears **Ermenegildo Zegna** pants and **Avenue** hat
 Nya wears **Emporio Armani** dress, **Natasha Schweitzer** necklace and stylist's own gloves
 
 ![DOING BIRD22.jpg](/uploads/DOING%20BIRD22.jpg)
+Weah wears **Ermenegildo Zegna** pants and **Avenue** hat
 
 ![DOING BIRD23.jpg](/uploads/DOING%20BIRD23.jpg)
 Nya wears **Prada** shirt, jacket, skirt, socks, shoes & bag and stylist's own gloves

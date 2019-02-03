@@ -7,6 +7,23 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/DOING%20BIRD22.jpg"
+Credits Text: |
+  photographs **[Jake Terrey]** at **[The Artist Group]**
+  styling **[Evan Betts]**
+  hair **[Rory Rice]**
+  make-up **[Sandra Cooke]** at **[The Wall Group]**
+  photography assistant **Ryan Flanagan**
+  fashion assistant **Emma Gyallastrom**
+  make-up assistant **Jenny Roberts**
+  hair assistant **Sacha Lorge**
+
+  talent **[Aweng]** at **[State NYC]**
+  **[Nya]** & **[Shimma]** at **[Kult]**
+  **[Evan]**, **[Otis]** & **[Zac]** at **[Chadwick]**
+  **[Ajier]** at **[Priscillas]**
+  **[Weah]** at **[THE. Mgmt]**
+is featured?: true
+blurb: Photographs by Jake Terrey
 layout: gallery
 ---
 

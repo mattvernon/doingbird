@@ -40,6 +40,7 @@ Aweng wears **Lonely** bra, **CocaineSlim** du rag and stylist's own gloves. Nya
 Otis wears **Lacoste** jacket, **Ermenegildo Zegna** pants & shoes and **Louis Vuitton** glasses & bag. Shimma wears **Max Mara** dress, **Thomas Puttick** pants and **Louis Vuitton** shoes
 
 ![Doing Bird 16.jpg](/uploads/Doing%20Bird%2016.jpg)
+Nya wears **Prada** jacket, shirt, shoes, socks & bag and stylist's own gloves
 
 ![Doing Bird 17.jpg](/uploads/Doing%20Bird%2017.jpg)
 

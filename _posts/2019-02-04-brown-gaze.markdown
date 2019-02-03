@@ -13,6 +13,7 @@ layout: gallery
 Ajier wears **Incu** top, **Prada** bag and stylist's own gloves
 
 ![Doing Bird 2.jpg](/uploads/Doing%20Bird%202.jpg)
+Aweng wears **Christopher Esber** suit, **CocaineSlim** du rag and **Veja** shoes. Nya wears **Nagnata** top, **Lacoste** shorts, **Vejas** shoes and **Cocaineslim** du rag
 
 ![Doing Bird 3.jpg](/uploads/Doing%20Bird%203.jpg)
 

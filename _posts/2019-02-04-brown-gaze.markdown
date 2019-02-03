@@ -9,7 +9,7 @@ tags:
 Main Image: "/uploads/DOING%20BIRD22.jpg"
 Credits Text: |
   photographs **[Jake Terrey](https://www.instagram.com/jaketerrey/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
-  styling **[Evan Betts]**
+  styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**
   hair **[Rory Rice]**
   make-up **[Sandra Cooke]** at **[The Wall Group]**
   photography assistant **Ryan Flanagan**

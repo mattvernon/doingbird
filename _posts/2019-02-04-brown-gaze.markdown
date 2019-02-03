@@ -25,8 +25,10 @@ Otis wears **Ermenegildo Zegna** jacket
 Nya wears **Emporio Armani** dress and **Natasha Schweitzer** necklace. Zac wears **Emporio Armani** suit and stylist's own gloves. Aweng wears **Lonely** bra, **Sandro** pants and **CocaineSlim** du rag
 
 ![Doing Bird 7.jpg](/uploads/Doing%20Bird%207.jpg)
+Shimma wears **Lee Matthews** dress
 
 ![Doing Bird 9.jpg](/uploads/Doing%20Bird%209.jpg)
+Shimma wears **Lee Matthews** dress
 
 ![Doing Bird 10.jpg](/uploads/Doing%20Bird%2010.jpg)
 

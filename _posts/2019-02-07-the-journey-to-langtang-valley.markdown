@@ -1,5 +1,5 @@
 ---
-title: The journey to Langtang valley
+title: The Journey To Langtang Valley
 date: 2019-02-07 16:31:00 +11:00
 published: false
 ---

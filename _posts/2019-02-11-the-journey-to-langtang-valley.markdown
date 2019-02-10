@@ -11,8 +11,7 @@ is featured?: true
 blurb: Photographs by Yusuke Abe
 ---
 
-Story by **[Yusuke Abe (YARD)](https://www.yusukeabephoto.com/)**
-Photographs **[Yusuke Abe (YARD)](https://www.yusukeabephoto.com/)**
+Text & photographs by **[Yusuke Abe (YARD)](https://www.yusukeabephoto.com/)**
 
 Translation by Eminata
 

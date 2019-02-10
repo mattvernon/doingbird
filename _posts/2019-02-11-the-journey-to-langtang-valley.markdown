@@ -12,7 +12,6 @@ blurb: Photographs by Yusuke Abe
 ---
 
 Text & photographs by **[Yusuke Abe (YARD)](https://www.yusukeabephoto.com/)**
-
 Translation by Eminata
 
 March 2018, I started my journey to Langtang valley, 3514m from sea level, northwest of Nepal. A four day walk from a town called Syabrubesi, based at the foot of the mountain.

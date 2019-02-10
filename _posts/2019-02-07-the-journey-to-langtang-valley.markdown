@@ -37,6 +37,8 @@ Arriving at Langtang valley, an old Tamang lady welcomed me into her home. She h
 
 ![９.jpg](/uploads/%EF%BC%99.jpg)
 
+Stepping out of the house looking down at the valley made me realize that I've come a long way from home, but the calmness of the villagers surrounded by the beauty of the mountains, being satisfied with what they have in life, relaxed my chaotically scrambled heart from the city life.
+
 ![１０.jpg](/uploads/%EF%BC%91%EF%BC%90.jpg)
 
 ![１１.jpg](/uploads/%EF%BC%91%EF%BC%91.jpg)

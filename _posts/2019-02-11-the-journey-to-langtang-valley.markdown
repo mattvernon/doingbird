@@ -32,9 +32,9 @@ Passing through several small villages on the way to Langtang village, former Ti
 
 ![５.jpg](/uploads/%EF%BC%95.jpg)
 
-The Tamang people, still to this day practice old traditions to their life in the mountain range. Food supplies and goods are carried on their backs to their homes, from villages at the base of the mountain. They are small-built people, around 160cm tall but easily carry the supplies that weigh over 50kg.
+The Tamang people still apply old traditions to their life in the mountain range. Food supplies and goods are carried on their backs to their homes, from villages at the base of the mountain. They are small-built people, around 160cm tall but easily carry the supplies that weigh over 50kg.
  
-Arriving at Langtang valley, an old Tamang lady welcomed me into her home. She has lived in this village since birth. The kitchen was kept neat and clean, showing me the tidiness of the residents here.
+Arriving at Langtang valley, an old Tamang lady who has lived in this village since birth, welcomed me into her home. The kitchen was kept neat and clean, showing me the tidiness of the residents here.
 
 ![６.jpg](/uploads/%EF%BC%96.jpg)
 
@@ -44,7 +44,7 @@ Arriving at Langtang valley, an old Tamang lady welcomed me into her home. She h
 
 ![９.jpg](/uploads/%EF%BC%99.jpg)
 
-Stepping out of the house looking down at the valley made me realize that I've come a long way from home. The calmness of the villagers surrounded by the beauty of the mountains, being satisfied with what they have in life, relaxed my chaotically scrambled heart from the city life.
+Stepping out of the house looking down at the valley made me realize that I've come a long way from home. But the calmness of the villagers surrounded by the beauty of the mountains, being satisfied with what they have in life, relaxed my chaotically scrambled heart from the city life.
 
 ![１０.jpg](/uploads/%EF%BC%91%EF%BC%90.jpg)
 

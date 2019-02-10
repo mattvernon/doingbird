@@ -7,6 +7,8 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/%EF%BC%99.jpg"
+is featured?: true
+blurb: Photographs by Yusuke Abe
 ---
 
 Story by **[Yusuke Abe (YARD)](https://www.yusukeabephoto.com/)**

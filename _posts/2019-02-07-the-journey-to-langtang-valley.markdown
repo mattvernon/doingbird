@@ -17,11 +17,17 @@ Famous for its tracking routes, this place has attracted mountaineers from all o
 
 ![２.jpg](/uploads/%EF%BC%92.jpg)
 
+Passing through several small villages on the way to Langtang village, former Tibetans now known as the Tamang people welcome in the Mountaineers to their lodges and restaurants.
+
 ![３.jpg](/uploads/%EF%BC%93.jpg)
 
 ![４.jpg](/uploads/%EF%BC%94.jpg)
 
 ![５.jpg](/uploads/%EF%BC%95.jpg)
+
+The Tamang people still to this day, utilize old traditions to their life in the mountain range. Food supplies and goods are carried on their backs to their homes, from villages at the base of the mountain. They are small build people, around 160cm tall but easily carries up the supplies that weigh over 50kg.
+ 
+Arriving at Langtang valley, an old Tamang lady welcomed me into her home. She has lived in this village her whole life since birth. The kitchen was kept neat and clean, showing me the tidiness of the residents here.
 
 ![６.jpg](/uploads/%EF%BC%96.jpg)
 

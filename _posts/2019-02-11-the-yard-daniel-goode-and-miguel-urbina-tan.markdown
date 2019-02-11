@@ -6,6 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: |-
+  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  model **[Otis Giovanni](https://www.instagram.com/yslotis/)**
 layout: gallery
 ---
 

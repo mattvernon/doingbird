@@ -1,14 +1,16 @@
 ---
 title: The Yard
 date: 2019-02-11 18:06:00 +11:00
-published: false
 categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190124_DoingbirdMagazine_06.jpg"
 Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  model **[Otis Giovanni](https://www.instagram.com/yslotis/)**
+  model **[Otis Giovanni](https://www.instagram.com/yslotis/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
+is featured?: true
+Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 

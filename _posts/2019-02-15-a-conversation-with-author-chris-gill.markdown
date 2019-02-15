@@ -65,7 +65,7 @@ Speaking with Chris, I know how proud his dad would be of him and the book. He p
 
 Our conversation goes from heavy to light as the sun breaks through the storm clouds – new projects and his plans for future married life. For now, the storm is over. But with his brilliant new novel on the way, I can't help but think that for this driven young author, it’s simply the calm before.
 
-The Nowhere is out 4th June 2019 via PRNTD Publishing in both print and digital editions. Sign up to Chris Gill's mailing list now: http://chrisgillbooks.com/the-nowhere
+The Nowhere is out 4th June 2019 via **[PRNTD Publishing](http://prntdpublishing.com/)** in both print and digital editions. Sign up to Chris Gill's mailing list now **[Here}(http://chrisgillbooks.com/the-nowhere)**
 
 
 

@@ -5,6 +5,10 @@ published: false
 Main Image: "/uploads/IMG_4839.JPG"
 ---
 
+Words **[Gabriella Margerison](https://www.instagram.com/gabjovi/)**
+
+Photographs **[Michael Van De Kerkohf](https://www.instagram.com/michaelvdk/)**
+
 ![IMG_4839.JPG](/uploads/IMG_4839.JPG)
 Chris wears **Adidas Originals** t-shirt and his late father's blazer
 

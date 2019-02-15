@@ -45,7 +45,8 @@ The book, which is placed neatly on our table next to the quickly-warming ice bu
 “Of course I’d love to see my books in bookstores, what writer wouldn’t? But I’m publishing The Nowhere independently, so I’m under no false pretence. With the audience this book is meant for, I think it’s more important I focus on social media.”
 
 From reading the book, Chris isn’t wrong. It is in many ways a young adult novel, although the scenes that take place with Seb as an adult pull it back into the adult fiction genre. ‘New adult fiction’ is a term he’s aware of, and although resistant to have his work be defined by labels, he understands its importance when it comes to marketing his work. “It takes all the fun out,” he says simply.
-“The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”
+
+**“The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”**
 
 Although a joy to read, The Nowhere is definitely more of a slow-burner. One that gently builds up to a climactic conclusion, favouring internal dialogue and intricate memories to page-turning hooks. That said, I wouldn’t exactly call The Nowhere literary fiction, as it’s more plot-driven than lyrical. Chris appears acutely aware of how hard the book is to place into one set genre or target audience.
 “It’s exactly why I’m releasing the book independently. It’s not the most commercial piece of fiction ever written, but it’s something I’m immensely proud of. Who knows, maybe my next book will be one you pick up in an airport. But right now I’m happy with what I’ve created. The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”

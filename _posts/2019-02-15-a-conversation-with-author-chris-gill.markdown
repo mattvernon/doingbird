@@ -5,7 +5,7 @@ published: false
 Main Image: "/uploads/IMG_4839.JPG"
 ---
 
-[IMG_4839.JPG](/uploads/IMG_4839.JPG)
+![IMG_4839.JPG](/uploads/IMG_4839.JPG)
 Chris wears **Adidas Originals** t-shirt and his late father's blazer
 
 

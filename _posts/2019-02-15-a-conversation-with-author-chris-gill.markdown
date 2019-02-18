@@ -19,6 +19,9 @@ When you look a little further than the authors already lining the bestseller ai
 
 As an openly-gay man, Chris has experienced firsthand the trials and tribulations of the coming-out process. And while the British-born writer didn’t grow up in Australia, his small-country-town upbringing inspires everything he writes today. That teenage dream of escaping his hometown and longing for the fast pace of city life is something that helped form the bare bones of **[The Nowhere](http://chrisgillbooks.com/the-nowhere )**. Living in Australia the past five years and travelling through small, rural towns and the outback simply added flesh to its skeleton.
 
+[IMG_4841.JPG](/uploads/IMG_4841.JPG)
+Chris wears **Burberry** t-shirt
+
 When I meet with Chris, it’s one of those stifling summer days in Sydney, much like the weather in his novel. Except, the air today is heavier, more humid. In The Nowhere – the nickname given to the farm 17-year-old Sebastian Johns lives on with his father and brother in outback Western Australia – the days are hot but much dryer. The grass is sun-bleached, and the earth a reddish-brown.
 
 Chris asks the staff in The Winery – his favourite Surry Hills haunt – to try a particular Margaret River Chardonnay before committing to a bottle. Light-years away from the protagonist in his novel who spends his time swigging back a hipflask of anything that his mischievous yet alluring neighbour, Jake, can get his hands on. But it hasn’t always been this way, he assures me.

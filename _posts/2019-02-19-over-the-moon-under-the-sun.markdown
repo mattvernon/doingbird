@@ -37,7 +37,13 @@ Untitled (no.4 +) 2017–2018
 Gouache and graphite on archival paper
 48.3 x 33.5 cm 
  
-“I wanted to capture the cartoonism of a drip, or a globule, the funkiness and chunkiness of boulders on a hill. The clunky fluidity of graffiti, a tag or a throw up. 
+“I wanted to capture the cartoonism of a drip, or a globule, the funkiness and chunkiness of boulders on a hill. The clunky fluidity of graffiti, a tag or a throw up.
+
+![4. Untitled (bright sunshiny day), 2018–2019.jpg](/uploads/4.%20Untitled%20(bright%20sunshiny%20day),%202018%E2%80%932019.jpg)
+Untitled (bright sunshiny day), 2018–2019
+Patinated, polished bronze and oil paint
+Unique
+7 x 70 x 61 cm
 
 “I’ve been experimenting with glazes and clay. Pushing my knowledge of the material. Exploring cratering and volcanic glazes and deliciously colourful glazes and slips. I wanted to delve deeper into the richness and variety of the clays (porcelain, raku, stoneware and terracotta) – how they work together and how their opposing tactility bounces off each other. I’ve achieved this technique by slowly heating the kiln over a period of days, tricking the clays into shrinking at similar rates to each other. 
 

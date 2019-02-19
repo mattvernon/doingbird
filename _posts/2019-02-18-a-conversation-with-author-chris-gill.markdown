@@ -58,7 +58,7 @@ From reading the book, Chris isn’t wrong. It is in many ways a young adult nov
 
 **“The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”**
 
-[IMG_4841.JPG](/uploads/IMG_4841.JPG)
+![IMG_4841.JPG](/uploads/IMG_4841.JPG)
 Chris wears **Burberry** t-shirt
 
 Although a joy to read, The Nowhere is definitely more of a slow-burner. One that gently builds up to a climactic conclusion, favouring internal dialogue and intricate memories to page-turning hooks. That said, I wouldn’t exactly call The Nowhere literary fiction, as it’s more plot-driven than lyrical. Chris appears acutely aware of how hard the book is to place into one set genre or target audience.

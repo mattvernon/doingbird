@@ -81,7 +81,7 @@ Our conversation goes from heavy to light as the sun breaks through the storm cl
 
 ![nowhere land cover.jpg](/uploads/nowhere%20land%20cover.jpg)
 
-The Nowhere is out 4th June 2019 via **[PRNTD Publishing](http://prntdpublishing.com/)** in both print and digital editions. Sign up to Chris Gill's mailing list now **[Here}(http://chrisgillbooks.com/the-nowhere)**
+The Nowhere is out 4th June 2019 via **[PRNTD Publishing](http://prntdpublishing.com/)** in both print and digital editions. Sign up to Chris Gill's mailing list now **[Here](http://chrisgillbooks.com/the-nowhere)**
 
 
 

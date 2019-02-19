@@ -17,6 +17,11 @@ Unique
 
 Brendan Huntley paints and sculpts with a physicality and emotional presence that radiates throughout his body of work. Whatever he’s depicting, his art is always markedly raw and uninhibited, rich, textual and full of life. The human touch is ever present, and this physical connection to the material is something he clearly embraces, leaving the impression that the work is more an innate expression of a primal urge – like the best kind of poetry – than the result of a strained process. 
 
+![Untitled (no.6) 2018–2019.jpg](/uploads/Untitled%20(no.6)%202018%E2%80%932019.jpg)
+Untitled (no.6) 2018–2019
+Glaze, porcelain and terracotta
+20 x 12 x 12 cm 
+
 Knowing Brendan as I do (he’s my partner of almost seven years), I’ve often had the opportunity to observe the way he works. The creations seem to spill out of him – released from another plane of consciousness – as he works in an almost trance-like state. To interrupt him while he’s making art is akin to shaking someone out of a deep and pleasant dream. That being said, when questioned it’s always evident that the works stem from previously formed ideas – a way of seeing the world that is unique and surprising, even to someone who knows him as well as I do. He allows these ideas to filter through his thinking prior to beginning, then lets them settle under the surface so he can create with the raw force for which he’s known.
 
 Brendan’s solo exhibition, Over the Moon, Under the Sun, is launching in Auckland, NZ on the 20th February at Bowerbank Ninow. He’s shared these thoughts with me on new directions, ideas and inspirations:

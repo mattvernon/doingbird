@@ -5,7 +5,7 @@ categories:
 - Features
 tags:
 - Interviews
-Main Image: "/uploads/IMG_4839.JPG"
+Main Image: "/uploads/CG_HP.jpg"
 is featured?: true
 blurb: Photographs Michael Van De Kerkohf
 layout: post

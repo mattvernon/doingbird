@@ -6,6 +6,8 @@ categories:
 tags:
 - Interviews
 Main Image: "/uploads/IMG_4839.JPG"
+is featured?: true
+blurb: Photographs Michael Van De Kerkohf
 layout: post
 ---
 
@@ -22,9 +24,6 @@ Australian fiction is having a moment right now. Markus Zusak, Jane Harper, Matt
 When you look a little further than the authors already lining the bestseller aisles, there are many budding authors waiting eagerly in the sidelines to pounce. Waiting for their time to shine in Australia’s reformed literary glow. Sydney-based Chris Gill is one of these up-and-comers, whose new coming-of-age novel, The Nowhere, paints the perfect picture of a young man coming to terms with his identity in outback Australia during the 1990s.
 
 As an openly-gay man, Chris has experienced firsthand the trials and tribulations of the coming-out process. And while the British-born writer didn’t grow up in Australia, his small-country-town upbringing inspires everything he writes today. That teenage dream of escaping his hometown and longing for the fast pace of city life is something that helped form the bare bones of **[The Nowhere](http://chrisgillbooks.com/the-nowhere )**. Living in Australia the past five years and travelling through small, rural towns and the outback simply added flesh to its skeleton.
-
-[IMG_4841.JPG](/uploads/IMG_4841.JPG)
-Chris wears **Burberry** t-shirt
 
 When I meet with Chris, it’s one of those stifling summer days in Sydney, much like the weather in his novel. Except, the air today is heavier, more humid. In The Nowhere – the nickname given to the farm 17-year-old Sebastian Johns lives on with his father and brother in outback Western Australia – the days are hot but much dryer. The grass is sun-bleached, and the earth a reddish-brown.
 
@@ -59,7 +58,11 @@ From reading the book, Chris isn’t wrong. It is in many ways a young adult nov
 
 **“The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”**
 
+[IMG_4841.JPG](/uploads/IMG_4841.JPG)
+Chris wears **Burberry** t-shirt
+
 Although a joy to read, The Nowhere is definitely more of a slow-burner. One that gently builds up to a climactic conclusion, favouring internal dialogue and intricate memories to page-turning hooks. That said, I wouldn’t exactly call The Nowhere literary fiction, as it’s more plot-driven than lyrical. Chris appears acutely aware of how hard the book is to place into one set genre or target audience.
+
 “It’s exactly why I’m releasing the book independently. It’s not the most commercial piece of fiction ever written, but it’s something I’m immensely proud of. Who knows, maybe my next book will be one you pick up in an airport. But right now I’m happy with what I’ve created. The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”
 
 Almost instantly after finishing his sentence, the scheduled late-afternoon storm begins to close in. As if influenced by the weather, our conversation takes a darker turn and Chris’ upbeat demeaner dissipates. We’re talking about his late father, who sadly passed away in October last year.
@@ -79,7 +82,7 @@ Our conversation goes from heavy to light as the sun breaks through the storm cl
 
 ![nowhere land cover.jpg](/uploads/nowhere%20land%20cover.jpg)
 
-The Nowhere is out 4th June 2019 via **[PRNTD Publishing](http://prntdpublishing.com/)** in both print and digital editions. Sign up to Chris Gill's mailing list now **[Here}(http://chrisgillbooks.com/the-nowhere)**
+The Nowhere is out 4th June 2019 via **[PRNTD Publishing](http://prntdpublishing.com/)** in both print and digital editions. Sign up to Chris Gill's mailing list now **[Here](http://chrisgillbooks.com/the-nowhere)**
 
 
 

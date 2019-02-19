@@ -32,6 +32,12 @@ Glaze, porcelain, raku and stoneware
 Brendan’s solo exhibition, Over the Moon, Under the Sun, is launching in Auckland, NZ on the 20th February at Bowerbank Ninow. He’s shared these thoughts with me on new directions, ideas and inspirations:
 
 “After spending the last few years making large sculptures, I was itching to make some small clay works so I could get above, around and on top of them. I was craving the intimacy and immediacy of smaller works. I’m trying to conjure little glowing orbs. Something extra-terrestrial and other-worldly. The flickering of a candle flame. The shimmering of slime or moss. The dripping of water over rocks. Lakes, pools and ponds operating like a visual vortex, leading us to other worlds and trains of thought.
+
+![Untitled (no.4  ) 2017–2018.jpg](/uploads/Untitled%20(no.4%20%20)%202017%E2%80%932018.jpg)
+Untitled (in both directions - home), 2018–2019
+Patinated, polished bronze and oil paint
+Unique
+5 x 41 x 40 cm
  
 “I wanted to capture the cartoonism of a drip, or a globule, the funkiness and chunkiness of boulders on a hill. The clunky fluidity of graffiti, a tag or a throw up. 
 

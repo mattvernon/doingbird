@@ -24,6 +24,11 @@ Glaze, porcelain and terracotta
 
 Knowing Brendan as I do (he’s my partner of almost seven years), I’ve often had the opportunity to observe the way he works. The creations seem to spill out of him – released from another plane of consciousness – as he works in an almost trance-like state. To interrupt him while he’s making art is akin to shaking someone out of a deep and pleasant dream. That being said, when questioned it’s always evident that the works stem from previously formed ideas – a way of seeing the world that is unique and surprising, even to someone who knows him as well as I do. He allows these ideas to filter through his thinking prior to beginning, then lets them settle under the surface so he can create with the raw force for which he’s known.
 
+![Untitled (no.7) 2018–2019 top.jpg](/uploads/Untitled%20(no.7)%202018%E2%80%932019%20top.jpg)
+Untitled (no.7) 2018–2019
+Glaze, porcelain, raku and stoneware
+15 x 13 x 13 cm
+
 Brendan’s solo exhibition, Over the Moon, Under the Sun, is launching in Auckland, NZ on the 20th February at Bowerbank Ninow. He’s shared these thoughts with me on new directions, ideas and inspirations:
 
 “After spending the last few years making large sculptures, I was itching to make some small clay works so I could get above, around and on top of them. I was craving the intimacy and immediacy of smaller works. I’m trying to conjure little glowing orbs. Something extra-terrestrial and other-worldly. The flickering of a candle flame. The shimmering of slime or moss. The dripping of water over rocks. Lakes, pools and ponds operating like a visual vortex, leading us to other worlds and trains of thought.

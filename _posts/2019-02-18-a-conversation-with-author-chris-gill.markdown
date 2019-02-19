@@ -16,7 +16,7 @@ Words **[Gabriella Margerison](https://www.instagram.com/gabjovi/)**
 Photographs **[Michael Van De Kerkhof](https://www.instagram.com/michaelvdk/)**
 
 ![IMG_4839.JPG](/uploads/IMG_4839.JPG)
-Chris wears **Adidas Originals** t-shirt and his late father's blazer
+Chris wears **Adidas Originals** t-shirt and **Richard James** blazer
 
 
 Australian fiction is having a moment right now. Markus Zusak, Jane Harper, Matthew Reilly and Liane Moriarty are just some of the authors leading the way in a resurgence that’s seeing Aussie novels charting in countries all over the globe in the last couple of years. In other words, fiction Down Under is heating up as much as the dry, arid land in which the stories are often set.

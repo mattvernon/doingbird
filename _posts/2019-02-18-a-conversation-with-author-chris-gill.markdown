@@ -5,7 +5,7 @@ categories:
 - Features
 tags:
 - Interviews
-Main Image: "/uploads/IMG_4839.JPG"
+Main Image: "/uploads/CG_HP.jpg"
 is featured?: true
 blurb: Photographs Michael Van De Kerkohf
 layout: post
@@ -13,10 +13,10 @@ layout: post
 
 Words **[Gabriella Margerison](https://www.instagram.com/gabjovi/)**
 
-Photographs **[Michael Van De Kerkohf](https://www.instagram.com/michaelvdk/)**
+Photographs **[Michael Van De Kerkhof](https://www.instagram.com/michaelvdk/)**
 
 ![IMG_4839.JPG](/uploads/IMG_4839.JPG)
-Chris wears **Adidas Originals** t-shirt and his late father's blazer
+Chris wears **Adidas Originals** t-shirt and **Richard James** blazer
 
 
 Australian fiction is having a moment right now. Markus Zusak, Jane Harper, Matthew Reilly and Liane Moriarty are just some of the authors leading the way in a resurgence that’s seeing Aussie novels charting in countries all over the globe in the last couple of years. In other words, fiction Down Under is heating up as much as the dry, arid land in which the stories are often set.
@@ -58,7 +58,7 @@ From reading the book, Chris isn’t wrong. It is in many ways a young adult nov
 
 **“The minute I start getting caught up in sales and numbers is the moment I’ll stop being inspired.”**
 
-[IMG_4841.JPG](/uploads/IMG_4841.JPG)
+![IMG_4841.JPG](/uploads/IMG_4841.JPG)
 Chris wears **Burberry** t-shirt
 
 Although a joy to read, The Nowhere is definitely more of a slow-burner. One that gently builds up to a climactic conclusion, favouring internal dialogue and intricate memories to page-turning hooks. That said, I wouldn’t exactly call The Nowhere literary fiction, as it’s more plot-driven than lyrical. Chris appears acutely aware of how hard the book is to place into one set genre or target audience.

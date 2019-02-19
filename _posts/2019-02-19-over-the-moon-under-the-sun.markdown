@@ -54,7 +54,6 @@ Untitled (in both directions - home), 2018–2019
 Patinated, polished bronze and oil paint
 Unique
 5 x 41 x 40 cm
- 
 
 “The bronze wall works are a way for me to express line in a sculptural sense. Bronze as a medium allows for strength where a material like clay couldn’t physically do the job, or would be a lot more likely to warp or break. There’s a sense of security in the metal that opens up new pathways. Running coiled strokes form bronze rods like a drawn line. I like to imagine I’m drawing in 3D. 
 

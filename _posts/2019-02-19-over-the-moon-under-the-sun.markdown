@@ -11,6 +11,8 @@ Main Image: "/uploads/Untitled%20(no.6)%202018%E2%80%932019.jpg"
 is featured?: true
 ---
 
+Words **[Ellen Spooner](https://www.instagram.com/ellenrenoops/)**
+
 ![Untitled (no.3) 2017–2018.jpg](/uploads/Untitled%20(no.3%20%20)%202017%E2%80%932018.jpg)
 Untitled (no.3 +) 2017–2018
 Gouache and graphite on archival paper

@@ -1,8 +1,14 @@
 ---
 title: A Conversation With Author Chris Gill
-date: 2019-02-15 17:42:00 +11:00
-published: false
+date: 2019-02-18 19:30:00 +11:00
+categories:
+- Features
+tags:
+- Interviews
 Main Image: "/uploads/IMG_4839.JPG"
+is featured?: true
+blurb: Photographs Michael Van De Kerkohf
+layout: post
 ---
 
 Words **[Gabriella Margerison](https://www.instagram.com/gabjovi/)**
@@ -72,6 +78,8 @@ When I comment on the relationship between Seb and his father, which is testing 
 Speaking with Chris, I know how proud his dad would be of him and the book. He picks up the novel and thumbs to the dedication page: In loving memory of Dad. I raise the last of my wine as we toast his old man.
 
 Our conversation goes from heavy to light as the sun breaks through the storm clouds – new projects and his plans for future married life. For now, the storm is over. But with his brilliant new novel on the way, I can't help but think that for this driven young author, it’s simply the calm before.
+
+![nowhere land cover.jpg](/uploads/nowhere%20land%20cover.jpg)
 
 The Nowhere is out 4th June 2019 via **[PRNTD Publishing](http://prntdpublishing.com/)** in both print and digital editions. Sign up to Chris Gill's mailing list now **[Here}(http://chrisgillbooks.com/the-nowhere)**
 

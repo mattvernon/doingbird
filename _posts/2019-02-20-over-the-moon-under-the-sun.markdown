@@ -21,7 +21,7 @@ Gouache and graphite on archival paper
 
 **[Brendan Huntley](https://www.instagram.com/brendanhuntley/)** paints and sculpts with a physicality and emotional presence that radiates throughout his body of work. Whatever he’s depicting, his art is always markedly raw and uninhibited, rich, textual and full of life. The human touch is ever present, and this physical connection to the material is something he clearly embraces, leaving the impression that the work is more an innate expression of a primal urge – like the best kind of poetry – than the result of a strained process. 
 
-![Untitled (no.6) 2018–2019.jpg](/uploads/Untitled%20(no.6)%202018%E2%80%932019.jpg)
+![Untitled (no.6) 2018–2019-020840.jpg](/uploads/Untitled%20(no.6)%202018%E2%80%932019-020840.jpg)
 Untitled (no.6) 2018–2019
 Glaze, porcelain and terracotta
 20 x 12 x 12 cm 

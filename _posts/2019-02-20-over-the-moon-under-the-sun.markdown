@@ -51,9 +51,9 @@ Patinated, polished bronze and oil paint
 Unique
 7 x 70 x 61 cm
 
-“I’ve been experimenting with glazes and clay. Pushing my knowledge of the material. Exploring cratering and volcanic glazes and deliciously colourful glazes and slips. I wanted to delve deeper into the richness and variety of the clays (porcelain, raku, stoneware and terracotta) – how they work together and how their opposing tactility bounces off each other. I’ve achieved this technique by slowly heating the kiln over a period of days, tricking the clays into shrinking at similar rates to each other. 
+“I’ve been experimenting with glazes and clay. Pushing my knowledge of the material. Exploring cratering and volcanic glazes and deliciously colourful glazes and slips. I wanted to delve deeper into the richness and variety of the clays (porcelain, raku, stoneware and terracotta) – how they work together and how their opposing tactility bounces off each other. I’ve achieved this technique by slowly heating the kiln over a period of days, tricking the clays into shrinking at similar rates to each other." 
 
-“The gouache works on paper were the first of a series I made while I was on a residency in San Francisco. I feel like they lead into the sculptures. They’re playing on the same themes as my most recent exhibition at Tolarno in November 2018, Sky Light Mind: eyes and visions; exercises in colour combinations.
+“The gouache works on paper were the first of a series I made while I was on a residency in San Francisco. I feel like they lead into the sculptures. They’re playing on the same themes as my most recent exhibition at Tolarno in November 2018, Sky Light Mind: eyes and visions; exercises in colour combinations."
 
 ![5. Untitled (in both directions – home), 2018–2019 (1)-673367.jpg](/uploads/5.%20Untitled%20(in%20both%20directions%20%E2%80%93%20home),%202018%E2%80%932019%20(1)-673367.jpg)
 Untitled (in both directions - home), 2018–2019
@@ -61,7 +61,7 @@ Patinated, polished bronze and oil paint
 Unique
 5 x 41 x 40 cm
 
-“The bronze wall works are a way for me to express line in a sculptural sense. Bronze as a medium allows for strength where a material like clay couldn’t physically do the job, or would be a lot more likely to warp or break. There’s a sense of security in the metal that opens up new pathways. Running coiled strokes form bronze rods like a drawn line. I like to imagine I’m drawing in 3D.
+“The bronze wall works are a way for me to express line in a sculptural sense. Bronze as a medium allows for strength where a material like clay couldn’t physically do the job, or would be a lot more likely to warp or break. There’s a sense of security in the metal that opens up new pathways. Running coiled strokes form bronze rods like a drawn line. I like to imagine I’m drawing in 3D."
 
 ![Untitled (no.7) 2018–2019-1927a9.jpg](/uploads/Untitled%20(no.7)%202018%E2%80%932019-1927a9.jpg)
 Untitled (no.7) 2018–2019

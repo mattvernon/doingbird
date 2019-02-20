@@ -54,7 +54,7 @@ Unique
 
 “The gouache works on paper were the first of a series I made while I was on a residency in San Francisco. I feel like they lead into the sculptures. They’re playing on the same themes as my most recent exhibition at Tolarno in November 2018, Sky Light Mind: eyes and visions; exercises in colour combinations.
 
-![5. Untitled (in both directions – home), 2018–2019 (1).jpg](/uploads/5.%20Untitled%20(in%20both%20directions%20%E2%80%93%20home),%202018%E2%80%932019%20(1).jpg)
+![5. Untitled (in both directions – home), 2018–2019 (1)-673367.jpg](/uploads/5.%20Untitled%20(in%20both%20directions%20%E2%80%93%20home),%202018%E2%80%932019%20(1)-673367.jpg)
 Untitled (in both directions - home), 2018–2019
 Patinated, polished bronze and oil paint
 Unique

@@ -20,7 +20,7 @@ Untitled (no.3 +) 2017–2018
 Gouache and graphite on archival paper
 48.3 x 33.5 cm 
 
-**[Brendan Huntley](https://www.instagram.com/brendanhuntley/)** paints and sculpts with a physicality and emotional presence that radiates throughout his body of work. Whatever he’s depicting, his art is always markedly raw and uninhibited, rich, textual and full of life. The human touch is ever present, and this physical connection to the material is something he clearly embraces, leaving the impression that the work is more an innate expression of a primal urge – like the best kind of poetry – than the result of a strained process. 
+Brendan Huntley paints and sculpts with a physicality and emotional presence that radiates throughout his body of work. Whatever he’s depicting, his art is always markedly raw and uninhibited, rich, textual and full of life. The human touch is ever present, and this physical connection to the material is something he clearly embraces, leaving the impression that the work is more an innate expression of a primal urge – like the best kind of poetry – than the result of a strained process. 
 
 ![Untitled (no.6) 2018–2019-020840.jpg](/uploads/Untitled%20(no.6)%202018%E2%80%932019-020840.jpg)
 Untitled (no.6) 2018–2019
@@ -36,7 +36,7 @@ Glaze, porcelain, raku and stoneware
 
 Brendan’s solo exhibition, Over the Moon, Under the Sun, is launching in Auckland, NZ on the 20th February at Bowerbank Ninow. He’s shared these thoughts with me on new directions, ideas and inspirations:
 
-“After spending the last few years making large sculptures, I was itching to make some small clay works so I could get above, around and on top of them. I was craving the intimacy and immediacy of smaller works. I’m trying to conjure little glowing orbs. Something extra-terrestrial and other-worldly. The flickering of a candle flame. The shimmering of slime or moss. The dripping of water over rocks. Lakes, pools and ponds operating like a visual vortex, leading us to other worlds and trains of thought.
+“After spending the last few years making large sculptures, I was itching to make some small clay works so I could get above, around and on top of them. I was craving the intimacy and immediacy of smaller works. I’m trying to conjure little glowing orbs. Something extra-terrestrial and other-worldly. The flickering of a candle flame. The shimmering of slime or moss. The dripping of water over rocks. Lakes, pools and ponds operating like a visual vortex, leading us to other worlds and trains of thought."
 
 ![Untitled (no.4  ) 2017–2018-9e6c41.jpg](/uploads/Untitled%20(no.4%20%20)%202017%E2%80%932018-9e6c41.jpg)
 Untitled (no.4 +) 2017–2018

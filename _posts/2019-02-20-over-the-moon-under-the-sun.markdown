@@ -43,7 +43,7 @@ Untitled (no.4 +) 2017–2018
 Gouache and graphite on archival paper
 48.3 x 33.5 cm 
  
-“I wanted to capture the cartoonism of a drip, or a globule, the funkiness and chunkiness of boulders on a hill. The clunky fluidity of graffiti, a tag or a throw up.
+“I wanted to capture the cartoonism of a drip, or a globule, the funkiness and chunkiness of boulders on a hill. The clunky fluidity of graffiti, a tag or a throw up."
 
 ![4. Untitled (bright sunshiny day), 2018–2019-1977ff.jpg](/uploads/4.%20Untitled%20(bright%20sunshiny%20day),%202018%E2%80%932019-1977ff.jpg)
 Untitled (bright sunshiny day), 2018–2019
@@ -68,7 +68,7 @@ Untitled (no.7) 2018–2019
 Glaze, porcelain, raku and stoneware
 15 x 13 x 13 cm
 
-“The shapes are made from moulds of bowls or found objects from the past which are first cast in wax, then distorted, cut away, sculpted and added to, then taken to the foundry where through a series of processes they are cast in bronze. These distant memories of domestic vessels hint at the home, the safe house. A place of nostalgia that conjures up feelings of security. They’re also a nod to my early childhood life behind the stands at the craft markets where Mum and Dad would sell their functional pottery.
+“The shapes are made from moulds of bowls or found objects from the past which are first cast in wax, then distorted, cut away, sculpted and added to, then taken to the foundry where through a series of processes they are cast in bronze. These distant memories of domestic vessels hint at the home, the safe house. A place of nostalgia that conjures up feelings of security. They’re also a nod to my early childhood life behind the stands at the craft markets where Mum and Dad would sell their functional pottery."
 
 ![image1 (1).jpeg](/uploads/image1%20(1).jpeg)
 

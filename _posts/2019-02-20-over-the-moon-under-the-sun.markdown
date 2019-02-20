@@ -44,7 +44,7 @@ Gouache and graphite on archival paper
  
 “I wanted to capture the cartoonism of a drip, or a globule, the funkiness and chunkiness of boulders on a hill. The clunky fluidity of graffiti, a tag or a throw up.
 
-![4. Untitled (bright sunshiny day), 2018–2019.jpg](/uploads/4.%20Untitled%20(bright%20sunshiny%20day),%202018%E2%80%932019.jpg)
+![4. Untitled (bright sunshiny day), 2018–2019-1977ff.jpg](/uploads/4.%20Untitled%20(bright%20sunshiny%20day),%202018%E2%80%932019-1977ff.jpg)
 Untitled (bright sunshiny day), 2018–2019
 Patinated, polished bronze and oil paint
 Unique

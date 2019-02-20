@@ -71,4 +71,4 @@ Glaze, porcelain, raku and stoneware
 
 ![BRENDAN H - PORTRAIT - 000015770003.jpg](/uploads/BRENDAN%20H%20-%20PORTRAIT%20-%20000015770003.jpg) 
 
-Photograph by **[Daniela Vlickovic](https://www.instagram.com/danielavelickovic/)**
+Portrait by **[Daniela Vlickovic](https://www.instagram.com/danielavelickovic/)**

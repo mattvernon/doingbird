@@ -14,7 +14,7 @@ blurb:
 Words **[Ellen Spooner](https://www.instagram.com/ellenrenoops/)**
 Art photographs by **Andrew Curtis**
 
-![Untitled (no.3) 2017–2018.jpg](/uploads/Untitled%20(no.3%20%20)%202017%E2%80%932018.jpg)
+![Untitled (no.3  ) 2017–2018-2298de.jpg](/uploads/Untitled%20(no.3%20%20)%202017%E2%80%932018-2298de.jpg)
 Untitled (no.3 +) 2017–2018
 Gouache and graphite on archival paper
 48.3 x 33.5 cm 

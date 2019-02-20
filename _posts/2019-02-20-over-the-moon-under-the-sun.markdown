@@ -12,6 +12,7 @@ blurb:
 ---
 
 Words **[Ellen Spooner](https://www.instagram.com/ellenrenoops/)**
+Art photographs by **Andrew Curtis**
 
 ![Untitled (no.3) 2017–2018.jpg](/uploads/Untitled%20(no.3%20%20)%202017%E2%80%932018.jpg)
 Untitled (no.3 +) 2017–2018
@@ -68,5 +69,6 @@ Glaze, porcelain, raku and stoneware
 
 “The shapes are made from moulds of bowls or found objects from the past which are first cast in wax, then distorted, cut away, sculpted and added to, then taken to the foundry where through a series of processes they are cast in bronze. These distant memories of domestic vessels hint at the home, the safe house. A place of nostalgia that conjures up feelings of security. They’re also a nod to my early childhood life behind the stands at the craft markets where Mum and Dad would sell their functional pottery.
 
-
 ![BRENDAN H - PORTRAIT - 000015770003.jpg](/uploads/BRENDAN%20H%20-%20PORTRAIT%20-%20000015770003.jpg) 
+
+Photograph by **[Daniela Vlickovic](https://www.instagram.com/danielavelickovic/)**

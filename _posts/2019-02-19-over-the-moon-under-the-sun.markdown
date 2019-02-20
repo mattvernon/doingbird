@@ -18,7 +18,7 @@ Untitled (no.3 +) 2017–2018
 Gouache and graphite on archival paper
 48.3 x 33.5 cm 
 
-Brendan Huntley paints and sculpts with a physicality and emotional presence that radiates throughout his body of work. Whatever he’s depicting, his art is always markedly raw and uninhibited, rich, textual and full of life. The human touch is ever present, and this physical connection to the material is something he clearly embraces, leaving the impression that the work is more an innate expression of a primal urge – like the best kind of poetry – than the result of a strained process. 
+**[Brendan Huntley](https://www.instagram.com/brendanhuntley/)** paints and sculpts with a physicality and emotional presence that radiates throughout his body of work. Whatever he’s depicting, his art is always markedly raw and uninhibited, rich, textual and full of life. The human touch is ever present, and this physical connection to the material is something he clearly embraces, leaving the impression that the work is more an innate expression of a primal urge – like the best kind of poetry – than the result of a strained process. 
 
 ![Untitled (no.6) 2018–2019.jpg](/uploads/Untitled%20(no.6)%202018%E2%80%932019.jpg)
 Untitled (no.6) 2018–2019

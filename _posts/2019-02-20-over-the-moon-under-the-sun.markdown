@@ -62,6 +62,11 @@ Unique
 
 “The bronze wall works are a way for me to express line in a sculptural sense. Bronze as a medium allows for strength where a material like clay couldn’t physically do the job, or would be a lot more likely to warp or break. There’s a sense of security in the metal that opens up new pathways. Running coiled strokes form bronze rods like a drawn line. I like to imagine I’m drawing in 3D.
 
+![Untitled (no.7) 2018–2019-1927a9.jpg](/uploads/Untitled%20(no.7)%202018%E2%80%932019-1927a9.jpg)
+Untitled (no.7) 2018–2019
+Glaze, porcelain, raku and stoneware
+15 x 13 x 13 cm
+
 “The shapes are made from moulds of bowls or found objects from the past which are first cast in wax, then distorted, cut away, sculpted and added to, then taken to the foundry where through a series of processes they are cast in bronze. These distant memories of domestic vessels hint at the home, the safe house. A place of nostalgia that conjures up feelings of security. They’re also a nod to my early childhood life behind the stands at the craft markets where Mum and Dad would sell their functional pottery.
 
 ![BRENDAN H - PORTRAIT - 000015770003.jpg](/uploads/BRENDAN%20H%20-%20PORTRAIT%20-%20000015770003.jpg) 

@@ -1,7 +1,6 @@
 ---
 title: Over The Moon, Under The Sun
 date: 2019-02-19 11:33:00 +11:00
-published: false
 categories:
 - Features
 tags:
@@ -9,6 +8,7 @@ tags:
 - Shoots
 Main Image: "/uploads/Untitled%20(no.6)%202018%E2%80%932019.jpg"
 is featured?: true
+blurb: 
 ---
 
 Words **[Ellen Spooner](https://www.instagram.com/ellenrenoops/)**

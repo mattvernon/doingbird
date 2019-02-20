@@ -9,6 +9,7 @@ tags:
 Main Image: "/uploads/Untitled%20(no.7)%202018%E2%80%932019-1927a9.jpg"
 is featured?: true
 blurb: Photographs by Andrew Curtis
+layout: post
 ---
 
 Words **[Ellen Spooner](https://www.instagram.com/ellenrenoops/)**

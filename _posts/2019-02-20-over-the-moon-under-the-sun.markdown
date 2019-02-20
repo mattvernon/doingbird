@@ -6,7 +6,7 @@ categories:
 tags:
 - Interviews
 - Shoots
-Main Image: "/uploads/Untitled%20(no.6)%202018%E2%80%932019.jpg"
+Main Image: "/uploads/Untitled%20(no.6)%202018%E2%80%932019-020840.jpg"
 is featured?: true
 blurb: 
 ---

@@ -6,6 +6,11 @@ categories:
 - Fashion
 tags:
 - Shoots
+Credits Text: |
+  photographs **[Mia Rankin]**
+  styling **[Evan Betts]**
+  hair & make-up **[Cherry Cheung]**
+  talent **[Shareefa]** at **[Bella Management]** & **[Cindy Wang]** at **[Chadwick Models]**
 layout: gallery
 ---
 

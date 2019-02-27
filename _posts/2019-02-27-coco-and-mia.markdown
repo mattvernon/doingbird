@@ -6,6 +6,14 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: |-
+  photographs **[Mia Rankin]**
+  styling **[Coco Adorjany]**
+  hair **[Joel Forman]** at **[Lion Artist Management]**
+  make-up **[Joel Babicci]** at **[Work Agency]**
+  model **[Scarlet]**
+is featured?: true
+blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 

@@ -6,7 +6,7 @@ categories:
 tags:
 - Interviews
 - Shoots
-Main Image: "/uploads/Untitled%20(no.7)%202018%E2%80%932019-1927a9.jpg"
+Main Image: "/uploads/brendon%20home.jpg"
 is featured?: true
 blurb: Photographs by Andrew Curtis
 layout: post

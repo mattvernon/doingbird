@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoots
+Main Image: "/uploads/Doing%20Bird_Mia%20Rankin_Evan%20Betts001.jpg"
 Credits Text: |
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**

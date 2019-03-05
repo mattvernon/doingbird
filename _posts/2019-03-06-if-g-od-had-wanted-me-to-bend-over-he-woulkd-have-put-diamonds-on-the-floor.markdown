@@ -35,6 +35,7 @@ layout: gallery
 ![DoingBird_Scarlett_MiaRankin008.jpg](/uploads/DoingBird_Scarlett_MiaRankin008.jpg)
 
 ![DoingBird_Scarlett_MiaRankin010.jpg](/uploads/DoingBird_Scarlett_MiaRankin010.jpg)
+Scarlet wears **Chanel** top, skirt & shoes
 
 ![DoingBird_Scarlett_MiaRankin011.jpg](/uploads/DoingBird_Scarlett_MiaRankin011.jpg)
 

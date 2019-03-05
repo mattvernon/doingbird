@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/DoingBird_Scarlett_MiaRankin007.jpg"
+Main Image: "/uploads/DoingBird_Scarlett_MiaRankin014.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)** at [Work Agency](https://www.instagram.com/workagency/)**
   styling **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
@@ -30,4 +30,4 @@ layout: gallery
 
 ![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
 
-
+![DoingBird_Scarlett_MiaRankin007.jpg](/uploads/DoingBird_Scarlett_MiaRankin007.jpg)

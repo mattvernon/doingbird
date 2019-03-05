@@ -18,3 +18,7 @@ blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 
+![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
+
+![DoingBird_Scarlett_MiaRankin016 colour.jpg](/uploads/DoingBird_Scarlett_MiaRankin016%20colour.jpg)
+

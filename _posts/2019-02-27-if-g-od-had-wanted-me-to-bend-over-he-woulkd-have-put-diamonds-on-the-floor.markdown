@@ -11,7 +11,7 @@ Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   styling **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
-  make-up **[Joel Babicci]** at **[Work Agency]**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   model **[Scarlet]**
 is featured?: true
 blurb: Photographs by Mia Rankin

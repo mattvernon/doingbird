@@ -8,7 +8,7 @@ tags:
 - Shoot
 Main Image: "/uploads/DoingBird_Scarlett_MiaRankin007.jpg"
 Credits Text: |-
-  photographs **[Mia Rankin]**
+  photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   styling **[Coco Adorjany]**
   hair **[Joel Forman]** at **[Lion Artist Management]**
   make-up **[Joel Babicci]** at **[Work Agency]**

@@ -25,6 +25,7 @@ layout: gallery
 ![DoingBird_Scarlett_MiaRankin016 colour.jpg](/uploads/DoingBird_Scarlett_MiaRankin016%20colour.jpg)
 
 ![DoingBird_Scarlett_MiaRankin004.jpg](/uploads/DoingBird_Scarlett_MiaRankin004.jpg)
+Scarlet wears **Valet** bracelets and **Zoo Emporium Vintage** pants
 
 ![DoingBird_Scarlett_MiaRankin005.jpg](/uploads/DoingBird_Scarlett_MiaRankin005.jpg)
 

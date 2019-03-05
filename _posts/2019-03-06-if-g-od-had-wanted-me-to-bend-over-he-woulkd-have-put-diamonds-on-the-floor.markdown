@@ -30,6 +30,7 @@ Scarlet wears **Valet** bracelets and **Zoo Emporium Vintage** pants
 ![DoingBird_Scarlett_MiaRankin005.jpg](/uploads/DoingBird_Scarlett_MiaRankin005.jpg)
 
 ![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
+Scarlet wears **Prada** top & skirt
 
 ![DoingBird_Scarlett_MiaRankin007.jpg](/uploads/DoingBird_Scarlett_MiaRankin007.jpg)
 

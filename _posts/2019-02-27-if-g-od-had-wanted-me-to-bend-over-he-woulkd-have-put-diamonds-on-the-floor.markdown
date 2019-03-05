@@ -9,8 +9,8 @@ tags:
 Main Image: "/uploads/DoingBird_Scarlett_MiaRankin007.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
-  styling **[Coco Adorjany]**
-  hair **[Joel Forman]** at **[Lion Artist Management]**
+  styling **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Joel Babicci]** at **[Work Agency]**
   model **[Scarlet]**
 is featured?: true

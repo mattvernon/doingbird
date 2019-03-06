@@ -1,7 +1,6 @@
 ---
 title: If God Had Wanted Me to Bend Over, He Would Have Put Diamonds On The Floor
 date: 2019-03-06 18:30:00 +11:00
-published: false
 categories:
 - Fashion
 tags:

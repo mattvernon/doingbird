@@ -24,6 +24,8 @@ layout: gallery
 ![DoingBird_Scarlett_MiaRankin011.jpg](/uploads/DoingBird_Scarlett_MiaRankin011.jpg)
 **Max Mara** dress
 
+![DoingBird_Scarlett_MiaRankin007.jpg](/uploads/DoingBird_Scarlett_MiaRankin007.jpg)
+
 ![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
 **Hermes** necklaces
 
@@ -36,8 +38,6 @@ Scarlet wears **Valet** bracelets and **Zoo Emporium Vintage** pants
 
 ![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
 Scarlet wears **Prada** top & skirt
-
-![DoingBird_Scarlett_MiaRankin007.jpg](/uploads/DoingBird_Scarlett_MiaRankin007.jpg)
 
 ![DoingBird_Scarlett_MiaRankin008.jpg](/uploads/DoingBird_Scarlett_MiaRankin008.jpg)
 

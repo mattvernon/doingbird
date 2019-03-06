@@ -12,7 +12,7 @@ Credits Text: |-
   styling **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
-  model **[Scarlett Leithold]** at **[Viviens]**
+  model **[Scarlett Leithold](https://www.instagram.com/scarlett/)** at **[Viviens](https://www.instagram.com/viviensmodelmgmt/)**
 is featured?: true
 blurb: Photographs by Mia Rankin
 layout: gallery

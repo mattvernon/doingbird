@@ -33,7 +33,7 @@ layout: gallery
 **Emporio Armani** jacket and **Zoo Emporoium** vintage shirt
 
 ![DoingBird_Scarlett_MiaRankin010.jpg](/uploads/DoingBird_Scarlett_MiaRankin010.jpg)
-Scarlet wears **Chanel** top, skirt & shoes
+**Chanel** top, skirt & shoes
 
 ![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
 Scarlet wears **Prada** top & skirt

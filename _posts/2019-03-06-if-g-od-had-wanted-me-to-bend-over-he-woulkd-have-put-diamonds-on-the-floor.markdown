@@ -36,7 +36,7 @@ layout: gallery
 **Chanel** top, skirt & shoes
 
 ![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
-Scarlet wears **Prada** top & skirt
+**Prada** top & skirt
 
 ![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
 **Hermes** necklaces

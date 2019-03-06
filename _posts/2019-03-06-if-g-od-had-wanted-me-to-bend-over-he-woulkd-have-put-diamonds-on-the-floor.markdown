@@ -12,13 +12,14 @@ Credits Text: |-
   styling **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)**
-  model **[Scarlet]**
+  model **[Scarlett Leithold]** at **[Viviens]**
 is featured?: true
 blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 
 ![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
+**Hermes** necklaces
 
 ![DoingBird_Scarlett_MiaRankin003.jpg](/uploads/DoingBird_Scarlett_MiaRankin003.jpg)
 

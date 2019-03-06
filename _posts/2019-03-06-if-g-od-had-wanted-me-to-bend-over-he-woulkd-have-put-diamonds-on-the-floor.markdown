@@ -26,13 +26,13 @@ layout: gallery
 
 ![DoingBird_Scarlett_MiaRankin007.jpg](/uploads/DoingBird_Scarlett_MiaRankin007.jpg)
 
+![DoingBird_Scarlett_MiaRankin004.jpg](/uploads/DoingBird_Scarlett_MiaRankin004.jpg)
+Scarlet wears **Valet** bracelets and **Zoo Emporium Vintage** pants
+
 ![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
 **Hermes** necklaces
 
 ![DoingBird_Scarlett_MiaRankin003.jpg](/uploads/DoingBird_Scarlett_MiaRankin003.jpg)
-
-![DoingBird_Scarlett_MiaRankin004.jpg](/uploads/DoingBird_Scarlett_MiaRankin004.jpg)
-Scarlet wears **Valet** bracelets and **Zoo Emporium Vintage** pants
 
 ![DoingBird_Scarlett_MiaRankin005.jpg](/uploads/DoingBird_Scarlett_MiaRankin005.jpg)
 

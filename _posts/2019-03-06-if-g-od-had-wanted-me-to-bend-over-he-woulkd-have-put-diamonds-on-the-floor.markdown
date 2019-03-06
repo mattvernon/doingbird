@@ -32,17 +32,17 @@ layout: gallery
 ![DoingBird_Scarlett_MiaRankin008.jpg](/uploads/DoingBird_Scarlett_MiaRankin008.jpg)
 **Emporio Armani** jacket and **Zoo Emporoium** vintage shirt
 
+![DoingBird_Scarlett_MiaRankin010.jpg](/uploads/DoingBird_Scarlett_MiaRankin010.jpg)
+Scarlet wears **Chanel** top, skirt & shoes
+
+![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
+Scarlet wears **Prada** top & skirt
+
 ![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
 **Hermes** necklaces
 
 ![DoingBird_Scarlett_MiaRankin003.jpg](/uploads/DoingBird_Scarlett_MiaRankin003.jpg)
 
 ![DoingBird_Scarlett_MiaRankin005.jpg](/uploads/DoingBird_Scarlett_MiaRankin005.jpg)
-
-![DoingBird_Scarlett_MiaRankin006.jpg](/uploads/DoingBird_Scarlett_MiaRankin006.jpg)
-Scarlet wears **Prada** top & skirt
-
-![DoingBird_Scarlett_MiaRankin010.jpg](/uploads/DoingBird_Scarlett_MiaRankin010.jpg)
-Scarlet wears **Chanel** top, skirt & shoes
 
 

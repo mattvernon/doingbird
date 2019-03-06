@@ -18,7 +18,7 @@ layout: gallery
 ---
 
 ![DoingBird_Scarlett_MiaRankin016 colour.jpg](/uploads/DoingBird_Scarlett_MiaRankin016%20colour.jpg)
-**Chanel** bracelet, **Emporio Armani** and **Zoo Emporium** dress
+**Chanel** bracelet, **Emporio Armani** boots and **Zoo Emporium** dress
 
 ![DoingBird_Scarlett_MiaRankin011.jpg](/uploads/DoingBird_Scarlett_MiaRankin011.jpg)
 **Max Mara** dress

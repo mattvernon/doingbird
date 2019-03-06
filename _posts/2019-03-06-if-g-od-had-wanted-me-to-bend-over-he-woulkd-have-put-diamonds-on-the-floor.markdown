@@ -18,12 +18,16 @@ blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 
+![DoingBird_Scarlett_MiaRankin016 colour.jpg](/uploads/DoingBird_Scarlett_MiaRankin016%20colour.jpg)
+**Chanel** bracelet, **Emporio Armani** boots and stylist's own skirt (worn as dress)
+
+![DoingBird_Scarlett_MiaRankin011.jpg](/uploads/DoingBird_Scarlett_MiaRankin011.jpg)
+**Max Mara** dress
+
 ![DoingBird_Scarlett_MiaRankin001.jpg](/uploads/DoingBird_Scarlett_MiaRankin001.jpg)
 **Hermes** necklaces
 
 ![DoingBird_Scarlett_MiaRankin003.jpg](/uploads/DoingBird_Scarlett_MiaRankin003.jpg)
-
-![DoingBird_Scarlett_MiaRankin016 colour.jpg](/uploads/DoingBird_Scarlett_MiaRankin016%20colour.jpg)
 
 ![DoingBird_Scarlett_MiaRankin004.jpg](/uploads/DoingBird_Scarlett_MiaRankin004.jpg)
 Scarlet wears **Valet** bracelets and **Zoo Emporium Vintage** pants
@@ -39,10 +43,5 @@ Scarlet wears **Prada** top & skirt
 
 ![DoingBird_Scarlett_MiaRankin010.jpg](/uploads/DoingBird_Scarlett_MiaRankin010.jpg)
 Scarlet wears **Chanel** top, skirt & shoes
-
-![DoingBird_Scarlett_MiaRankin011.jpg](/uploads/DoingBird_Scarlett_MiaRankin011.jpg)
-
-
-
 
 

@@ -6,6 +6,7 @@ categories:
 - World
 tags:
 - Shoot
+Main Image: "/uploads/08__LesterJones-d84bb3.jpg"
 ---
 
 photographs and words by **[Lester Jones](https://www.instagram.com/_lesterjones/)** at **[Company1](https://www.instagram.com/company1agency/)**

@@ -35,8 +35,10 @@ Right, like the way that 'influencers' casually endorse brands or products, and 
 
 "You have these concentric circles where certain social groups are thought to influence and endorse ideas early on - so called early adopters - and then mainstream culture adopts them in a trickle-down effect. This type of influence, product placement with brands, can be so subversive it is now regulated by the government. In the 1950’s you had Payola, which was a radio scandal where some disc jockeys accepted bribes in return for airplay. So, it’s not a new phenomena, it’s just amplified and perhaps more visual in our current culture, as you suggest. The idea of authenticity, which is important in the book, comes from speaking in a tone that appears and feels genuine to other members of the sub-group. People are so used to reading images on a personal and advertising level that this becomes are a very refined action. A snap from a friend has in the past been ultimately more personal and credible, but now that’s being subverted."
 
-
 ![Untitled006.jpg](/uploads/Untitled006.jpg)
+Many of the images have something to do with leisure and lifestyle, things like skateboarding and yoga. These are activities that can contribute to how people define their identity, and shape their social circles. Is this in part where the title comes from?
+ 
+"Not completely - the title is more concerned with the mechanics of how the images operate. I had been working with that title since I started the research and reading component of the project. How we can collectively portray and identify our personalities through endorsed visual language, is more of an outcome of the process. I selected the images separately of each other, and it was not until we (myself and the design duo OK-RM, made up of Oliver Knight and Rory McGrath) put them in a sequence for the book right towards the end of the process, that these different connections became more apparent." 
 
 ![Untitled007.jpg](/uploads/Untitled007.jpg)
 

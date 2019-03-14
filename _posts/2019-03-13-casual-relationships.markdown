@@ -6,6 +6,9 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/Untitled002.jpg"
+is featured?: true
+blurb: Photographs by Max Creasy
 ---
 
 photographs and words by **[Max Creasy](https://www.instagram.com/maxcreasy/)**

@@ -13,7 +13,7 @@ blurb: Photographs by Max Creasy
 words **Charlotte McInnes**
 photographs **[Max Creasy](https://www.instagram.com/maxcreasy/)**
 
-Originally from Melbourne, Charlotte McInnes has been based in Europe since 2010. She is currently an Associate Director at Modern Art, London. 
+
 
 ![Untitled001.jpg](/uploads/Untitled001.jpg)
 
@@ -91,5 +91,7 @@ Right, it’s all part of our constructed identity, and how this is carefully co
 I know that the book launched at Paris Photo last year, and there’s an upcoming launch in London – how about Australia?
 
 "The book is going to be available in Australia for the first time with Perimeter at the **[NGV book fair](https://www.ngv.vic.gov.au/whats-on/programs-events/art-book-fair/)** (March 15-17th). This is really nice for me because I studied in Melbourne in the late 90’s.  The Centre for Contemporary Photography, in Melbourne, was the first place I exhibited when I was still studying in Melbourne and Daniel Palmer has written a brilliant essay in the book about my work, as we’ve known each other for 20 years through the CCP."
+
+Originally from Melbourne, Charlotte McInnes has been based in Europe since 2010. She is currently an Associate Director at Modern Art, London. 
 
 

@@ -42,6 +42,12 @@ Many of the images have something to do with leisure and lifestyle, things like 
 
 ![Untitled007.jpg](/uploads/Untitled007.jpg)
 
+
+Right, so perhaps it was more incidental rather than intended?  
+
+"The process of the book was really about exploration, in the sense that I was interested in this idea of norm circles and how they related to the construction of visual culture, but I didn’t yet know what it constituted visually. When I lived in London I shared a studio with OK-RM. We had talked about the project casually at that time, but it wasn’t until I moved to Berlin about a year ago that it really picked up steam. When I first showed the images to Rory I attempted to present them to him in a really objective way; simply placed single images on a page and then a series of contact sheets to just be able to see them all at once for reference. Rory picked up on this repetition of image - thumbnail/single image - which played in nicely to the idea of endorsement; seeing things over and over. This repetition and increase in size also speaks of the language of online culture. This repetition in the layout was really the starting point of the book design and we slightly tweaked a few things from there to question how we understand the reading of images to operate."
+
+
 ![Untitled008.jpg](/uploads/Untitled008.jpg)
 
 ![Untitled009.jpg](/uploads/Untitled009.jpg)

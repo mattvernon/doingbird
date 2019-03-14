@@ -10,8 +10,7 @@ tags:
 
 photographs and words by **[Max Creasy](https://www.instagram.com/maxcreasy/)**
 
-Originally from Melbourne, Charlotte McInnes has been based in Europe since 2010.
-She is currently an Associate Director at Modern Art, London. 
+Originally from Melbourne, Charlotte McInnes has been based in Europe since 2010. She is currently an Associate Director at Modern Art, London. 
 
 ![Untitled001.jpg](/uploads/Untitled001.jpg)
 

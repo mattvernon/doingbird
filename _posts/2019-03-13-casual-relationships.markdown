@@ -2,6 +2,10 @@
 title: Casual Relationships
 date: 2019-03-13 22:01:00 +11:00
 published: false
+categories:
+- Features
+tags:
+- Shoot
 ---
 
 ![Untitled001.jpg](/uploads/Untitled001.jpg)
@@ -63,7 +67,6 @@ Having been familiar with your work for a while now, I can also see the influenc
 Absolutely. It's interesting that you mention portraiture and still life too, as there are certain images that illustrate this genre mash-up. The image of the guy drinking the Fanta can, wearing a Coca-Cola cap, for example. There's also an element of tongue in cheek humour, or perhaps a visual pun in this. Would you agree?
 
 "Yes for sure. One of the things that I think compels people’s endorsement of images is colour, and what those colours might signify. The man drinking Fanta, wearing a Coca-Cola Cap is really a mash of those colour signifiers. It also has undertones of a commercial shoot with the studio lighting and white backdrop, but is subverted with this slightly unreal cross-pollination of brands and associations."
-
 
 ![Untitled010.jpg](/uploads/Untitled010.jpg)
 

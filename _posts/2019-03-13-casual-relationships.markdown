@@ -9,14 +9,25 @@ published: false
 I’ve always really liked the titles that you give your exhibitions and projects; Reflections (an exhibition at the CCP in 2012), Making Marks (exhibition at West Space, Melbourne 2012), and Nothing Matters, (an online photography archive/project).
 Can you talk a bit about this title, Casual Relationships? To me it calls to mind modern dating practices, blurred boundaries and social rituals.
 
-The title is a play between formal and informal and alludes to the idea of casual images and relationships. The images are casual in that they are at once vernacular, and also create non-binding relationships with other pictures from the image lexicon. But also, I do think you can draw parallels to this more contemporary idea of foregoing any of the more formal social rituals in connecting and dating. (maybe this last bit isn’t necessary? and engaging in promiscuous acts only for pleasure). The images are devoid of any context or ritual and they don’t have titles. What I’m really interested in is how they operate visually as codes.
+"The title is a play between formal and informal and alludes to the idea of casual images and relationships. The images are casual in that they are at once vernacular, and also create non-binding relationships with other pictures from the image lexicon. But also, I do think you can draw parallels to this more contemporary idea of foregoing any of the more formal social rituals in connecting and dating. (maybe this last bit isn’t necessary? and engaging in promiscuous acts only for pleasure). The images are devoid of any context or ritual and they don’t have titles. What I’m really interested in is how they operate visually as codes."
 
 
 ![Untitled002.jpg](/uploads/Untitled002.jpg)
 
+That's an interesting point, that the images are devoid of context, as so often photography books are put together as essays, grouped around a theme or a story. I think there's a natural impulse to try and draw associations between the images or work out some kind of narrative or theme. In a way you deny this, or perhaps you intentionally leave it open?
+
+
+"I’m not trying to deny it from happening, but I’m also intentionally not providing the normal narrative context that exists within a picture and certainly a book. We purposely skewed that a little in the book design, for instance the title page is not the first page in the sequence within. Usually photography books work on this ‘eye of the photographer’ type narrative that poetically links one page to the next with a subjective narrative. In the book I’ve constructed the image order through a conceptual process of curation and simulation. The images sit together because they visually illustrate that conceptual process, not because they form a narrative. Of course that doesn’t mean that by putting them together, we don’t read them in sequence or in relation to one another. The idea really is that in a sequence we can look to understand why people ‘endorse’ images to create visual culture." 
+
+
 ![Untitled003.jpg](/uploads/Untitled003.jpg)
 
 ![Untitled004.jpg](/uploads/Untitled004.jpg)
+
+You've also described the way that the collection of images in this book is "underpinned by the culture of online photography”. While there is a certain casual tone in the images in terms of their familiarity and referencing of the everyday and vernacular, I would also argue that they are highly staged. The same could be said about people’s use of online photography - it is made to look casual and instantaneous, however it’s actually very carefully constructed. Would you agree with that?
+
+"Absolutely- I‘m interested in photographs as staged simulations, an idea that also links to the process of sculpture. By creating this simulation of an object you question the meaning of that object, and our perception of what is real. So, in simulating the images I have curated, authenticity became a really important factor. I felt I needed to tread a fine line between constructing these images that were ‘authentic’ and presenting works that could be understood to be simulations. A lot of the images involve personal actions that make them authentic. For instance, the bike leaning up against some bushes - an image that references one I first saw on e-bay- suggests that the photographer has placed the bike on display ready to be photographed, a gesture that signals a new type of authentic commerce. It became important for me to mimic these small authentic gestures. Obviously eBay users wouldn’t photograph their bikes with a large format camera, so this becomes a way to discern the two images - the real and the simulated. It highlights this tension between casual authenticity and simulated construction. You can see this role reversal online; people appearing as brands, and brands appearing as people."
+
 
 ![Untitled005.jpg](/uploads/Untitled005.jpg)
 

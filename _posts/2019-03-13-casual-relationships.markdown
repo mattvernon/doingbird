@@ -70,5 +70,14 @@ Absolutely. It's interesting that you mention portraiture and still life too, as
 
 ![Untitled010.jpg](/uploads/Untitled010.jpg)
 
+In your ongoing online project, Nothing Matters, you match the automatically generated image file name with a book in your local library of the corresponding number in the dewy decimal system, creating random yet logical, and often poignant conjunctions. In this book, the relationships are contained between the images themselves, or perhaps how we draw associations and correlations?
+
+"Yes, what I am suggesting here is that when we put two or more images together we can read things (associations and meanings) between them that weren’t otherwise possible. This idea of endorsement by social groups/norm circles and how it operates can be seen more easily seen when we put all the images together to create a typology. Then the relationships, casual or formal, can be identified among the images. For example I see the parquet floor becoming a really important signifier of domestic authenticity; it represents a gesture made in the privacy of the home. Before, I mentioned this blurring of roles between brands and people. Take the image of Zeit Magazine on the floor for example. This is taken from Christoph Amends's (editor of Zeit Magazine) Instagram. He is presenting his newly finished piece of work in this quasi humble way - I did this!, but casually on the bedroom floor, so the gesture is not so grand and appears authentic."
+
+Right, it's very casual, thrown on the floor, but we all know that he most likely spent some time and consideration setting up the image. And, we're also thinking: hmm, I wonder what the rest of his apartment looks like!? 
+
+"Yes exactly. In that instance we’re provided with more context into the action of presentation because we know who Christoph Amend is and we can assume he is conscious of what he is doing. Whereas on the other hand, the skateboard deck on the parquet floor is more vernacular because it anonymous and seems to be less consciously set-up." 
+
+
 ![Untitled011.jpg](/uploads/Untitled011.jpg)
 

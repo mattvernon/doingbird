@@ -31,6 +31,11 @@ You've also described the way that the collection of images in this book is "und
 
 ![Untitled005.jpg](/uploads/Untitled005.jpg)
 
+Right, like the way that 'influencers' casually endorse brands or products, and equally brands use people to suggest a link or correlation between the two? These days this is done purely through images, as it's more 'authentic', as opposed to back when you had celebrities on TV ads explicitly endorsing products.
+
+"You have these concentric circles where certain social groups are thought to influence and endorse ideas early on - so called early adopters - and then mainstream culture adopts them in a trickle-down effect. This type of influence, product placement with brands, can be so subversive it is now regulated by the government. In the 1950’s you had Payola, which was a radio scandal where some disc jockeys accepted bribes in return for airplay. So, it’s not a new phenomena, it’s just amplified and perhaps more visual in our current culture, as you suggest. The idea of authenticity, which is important in the book, comes from speaking in a tone that appears and feels genuine to other members of the sub-group. People are so used to reading images on a personal and advertising level that this becomes are a very refined action. A snap from a friend has in the past been ultimately more personal and credible, but now that’s being subverted."
+
+
 ![Untitled006.jpg](/uploads/Untitled006.jpg)
 
 ![Untitled007.jpg](/uploads/Untitled007.jpg)

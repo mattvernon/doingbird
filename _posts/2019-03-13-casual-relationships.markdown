@@ -47,8 +47,16 @@ Right, so perhaps it was more incidental rather than intended?
 
 "The process of the book was really about exploration, in the sense that I was interested in this idea of norm circles and how they related to the construction of visual culture, but I didn’t yet know what it constituted visually. When I lived in London I shared a studio with OK-RM. We had talked about the project casually at that time, but it wasn’t until I moved to Berlin about a year ago that it really picked up steam. When I first showed the images to Rory I attempted to present them to him in a really objective way; simply placed single images on a page and then a series of contact sheets to just be able to see them all at once for reference. Rory picked up on this repetition of image - thumbnail/single image - which played in nicely to the idea of endorsement; seeing things over and over. This repetition and increase in size also speaks of the language of online culture. This repetition in the layout was really the starting point of the book design and we slightly tweaked a few things from there to question how we understand the reading of images to operate."
 
-
 ![Untitled008.jpg](/uploads/Untitled008.jpg)
+
+Right, and that’s definitely something unique about the book, the way that images are repeated. The contact-sheet style pages are like contents pages, and then you see the image again on its own, in a much larger scale. The second time you see the image, there’s already a degree of recognition and familiarity, but the shift in scale causes the viewer to look more closely, examine the detail. Was that part of the intention?
+
+"Yes there is a play between the image being an index picture originally, easier to understand as a photographic trope, then again enlarged and in more detail. The second time you see the image it is more revealing, you recognise you have seen it before. You can indulge in the reading of the image. This repeated familiarity helps us recognise the image and the endorsement of the image starts to take place. It’s illustrating a construct that within social groups we see things repeatedly from our peer group." 
+
+Having been familiar with your work for a while now, I can also see the influence in this book of architectural photography; the symmetry, the complex linear compositions and geometries. Does your interest and work in the field of architecture consciously influence your work, or is it something more intuitive?
+
+"With my architectural work I’m interested in architectural ideas and concepts and I use my photographic language, that I borrow from elsewhere, to portray what I see within architecture. I don’t look at very much architectural photography per se but rather still life, portrait and landscape imagery. These interests all feed into my work and it’s all really a jumble; I quite often cross over more subjective and objective ways of taking photographs. I do think though, as you alluded before, these images are missing certain narrative cues that give them a more architectural feel. Architectural and advertising photography is often presented without context, in order to give us the viewer the possibility to project themselves into the space and onto the objects."
+
 
 ![Untitled009.jpg](/uploads/Untitled009.jpg)
 

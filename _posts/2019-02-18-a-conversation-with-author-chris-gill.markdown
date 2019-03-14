@@ -6,7 +6,7 @@ categories:
 tags:
 - Interviews
 Main Image: "/uploads/CG_HP.jpg"
-is featured?: true
+is featured?: false
 blurb: Photographs Michael Van De Kerkohf
 layout: post
 ---

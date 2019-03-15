@@ -10,9 +10,7 @@ is featured?: true
 blurb: Photographs by Max Creasy
 ---
 
-words **Charlotte McInnes**
-photographs **[Max Creasy](https://www.instagram.com/maxcreasy/)**
-
+Visual artist Max Creasy speaks to Charlotte McInnes about his recently published book ‘Casual Relationships.’
 
 ![Untitled001.jpg](/uploads/Untitled001.jpg)
 

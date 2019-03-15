@@ -89,6 +89,9 @@ I know that the book launched at Paris Photo last year, and there’s an upcomin
 
 "The book is going to be available in Australia for the first time with Perimeter at the **[NGV book fair](https://www.ngv.vic.gov.au/whats-on/programs-events/art-book-fair/)** (March 15-17th). This is really nice for me because I studied in Melbourne in the late 90’s.  The Centre for Contemporary Photography, in Melbourne, was the first place I exhibited when I was still studying in Melbourne and Daniel Palmer has written a brilliant essay in the book about my work, as we’ve known each other for 20 years through the CCP."
 
+Max Creasy is a half-Australian half-Norwegian visual artist living and working between London and Berlin. His photographic practice explores systems of meaning through architecture, the archive and still life.
+
 Originally from Melbourne, Charlotte McInnes has been based in Europe since 2010. She is currently an Associate Director at Modern Art, London. 
 
+https://in-other-words.co.uk/products/casual-relationships
 

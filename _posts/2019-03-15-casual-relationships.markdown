@@ -93,6 +93,6 @@ Max Creasy is a half-Australian half-Norwegian visual artist living and working 
 
 Originally from Melbourne, Charlotte McInnes has been based in Europe since 2010. She is currently an Associate Director at Modern Art, London. 
 
-(https://in-other-words.co.uk/products/casual-relationships)**
+(https://in-other-words.co.uk/products/casual-relationships/)**
 
 

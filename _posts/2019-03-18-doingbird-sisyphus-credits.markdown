@@ -2,6 +2,11 @@
 title: Sisyphus
 date: 2019-03-18 14:25:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Shoot
+layout: gallery
 ---
 
 ![Sisyphus shot 1.jpg](/uploads/Sisyphus%20shot%201.jpg)

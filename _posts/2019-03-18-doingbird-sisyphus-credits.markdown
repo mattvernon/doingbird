@@ -29,7 +29,9 @@ Condemned for eternity to repeat the same meaningless task, the fate of Sisyphus
 Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself (toward the heights) is enough to fill a man's heart.
 
 One must imagine Sisyphus happy.
+
 ![Sisyphus shot 1.jpg](/uploads/Sisyphus%20shot%201.jpg)
+Connie wears **Strateas Carlucci** shirt & jacket and **Acne Studios** shirt (worn underneath)
 
 ![Sisyphus shot 2.jpg](/uploads/Sisyphus%20shot%202.jpg)
 

@@ -6,6 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/Sisyphus%20shot%209.jpg"
+is featured?: true
+blurb: Photographs by Frenchy
 layout: gallery
 ---
 

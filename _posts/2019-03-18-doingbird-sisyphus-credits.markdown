@@ -86,4 +86,5 @@ Connie wears **Acne Studios** shirt (worn underneath) & pants, **Strateas Carluc
 ![Sisyphus shot 20.jpg](/uploads/Sisyphus%20shot%2020.jpg)
 
 ![Sisyphus shot 21.jpg](/uploads/Sisyphus%20shot%2021.jpg)
+Cindy wears **Kate Sylvester** dress and **Max Mara** shoes
 

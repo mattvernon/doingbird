@@ -7,7 +7,7 @@ tags:
 - Interviews
 - Shoots
 Main Image: "/uploads/brendon%20home.jpg"
-is featured?: true
+is featured?: false
 blurb: Photographs by Andrew Curtis
 layout: post
 ---

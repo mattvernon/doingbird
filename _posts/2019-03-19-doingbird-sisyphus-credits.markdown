@@ -8,7 +8,7 @@ tags:
 Main Image: "/uploads/Sisyphus%20shot%208.jpg"
 Credits Text: |-
   photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)**
-  film **William Robertson** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**
+  film **[William Robertson](https://www.instagram.com/william___robertson/)** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**
   film music **[Tex Crick](https://www.instagram.com/texa55/)**
   film colourist **Scott Stirling**
   styling & art direction **[Nicki Colbran](https://www.instagram.com/nickicolbran/)** at **[Union Management](https://www.instagram.com/union_management/)**

@@ -30,6 +30,7 @@ Each atom of that stone, each mineral flake of that night-filled mountain, in it
 
 One must imagine Sisyphus happy.
 
+
 ![Sisyphus shot 1.jpg](/uploads/Sisyphus%20shot%201.jpg)
 Connie wears **Strateas Carlucci** shirt & jacket and **Acne Studios** shirt (worn underneath)
 

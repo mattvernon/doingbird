@@ -7,14 +7,15 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Sisyphus%20shot%209.jpg"
-Credits Text: "photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)**\nfilm
-  **William Robertson** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**\nfilm
-  music **[Tex Crick](https://www.instagram.com/texa55/)**\nfilm colourist **Scott
-  Stirling**\nstyling & art direction **[Nicki Colbran](https://www.instagram.com/nickicolbran/)**
-  at **[Union Management](https://www.instagram.com/union_management/)**\nhair & make-up
-  **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**\nhair
-  (Jenny, Cindy & Clare) **[Sacha Lorge](https://www.instagram.com/sachalorge/)**\ntalent
-  (in order of appearance) Connie Harris, "
+Credits Text: |-
+  photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)**
+  film **William Robertson** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**
+  film music **[Tex Crick](https://www.instagram.com/texa55/)**
+  film colourist **Scott Stirling**
+  styling & art direction **[Nicki Colbran](https://www.instagram.com/nickicolbran/)** at **[Union Management](https://www.instagram.com/union_management/)**
+  hair & make-up **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  hair (Jenny, Cindy & Clare) **[Sacha Lorge](https://www.instagram.com/sachalorge/)**
+  talent (in order of appearance) **Connie Harris**, **Waangenga Blanco**, **Jenny Hayman**, **Adam Metcalfe**, **Cindy Wang** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
 is featured?: true
 blurb: Photographs by Frenchy
 layout: gallery

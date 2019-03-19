@@ -24,7 +24,11 @@ layout: gallery
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/321657183?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+Condemned for eternity to repeat the same meaningless task, the fate of Sisyphus is paralell to man's futile search for meaning, unity and clarity in the face of an unintelligible world.
 
+Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself (toward the heights) is enough to fill a man's heart.
+
+One must imagine Sisyphus happy.
 ![Sisyphus shot 1.jpg](/uploads/Sisyphus%20shot%201.jpg)
 
 ![Sisyphus shot 2.jpg](/uploads/Sisyphus%20shot%202.jpg)

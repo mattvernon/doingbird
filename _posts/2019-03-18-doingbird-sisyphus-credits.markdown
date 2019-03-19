@@ -16,6 +16,7 @@ Credits Text: |-
   hair & make-up **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   hair (Jenny, Cindy & Clare) **[Sacha Lorge](https://www.instagram.com/sachalorge/)**
   talent (in order of appearance) **Connie Harris**, **Waangenga Blanco**, **Jenny Hayman**, **Adam Metcalfe**, **[Cindy Wang](https://www.instagram.com/papiislove/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**, **[Victoria](https://www.instagram.com/jadaahvictoria/)** at **[Debut](https://www.instagram.com/debutmanagement/)**, **[Clare Crawford](https://www.instagram.com/clareacrawford/)** at **[IMG](https://www.instagram.com/imgmodels/)**
+  special thanks to **[Gaby Dillon](https://www.instagram.com/gaby.dillon/)** & **[Studio Mondo](https://www.instagram.com/studio_mondo/)**
 is featured?: true
 blurb: Photographs by Frenchy
 layout: gallery

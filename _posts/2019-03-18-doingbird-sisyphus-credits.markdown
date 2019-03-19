@@ -51,9 +51,10 @@ Victoria wears **Acne Studios** coat, **Arnsdorf** turtleneck and vintage boots 
 ![Sisyphus shot 7.jpg](/uploads/Sisyphus%20shot%207.jpg)
 
 ![Sisyphus shot 8.jpg](/uploads/Sisyphus%20shot%208.jpg)
-
+Connie wears **Acne Studios** shirt & jacket, stylist's own skirt and talents own Tabi boots
 
 ![Sisyphus shot 9.jpg](/uploads/Sisyphus%20shot%209.jpg)
+Adam wears vintage **Ermenegildo Zegna** jacket & vintage scarf from **Zoo Emporium Vintage**
 
 ![Sisyphus shot 10.jpg](/uploads/Sisyphus%20shot%2010.jpg)
 

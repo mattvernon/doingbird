@@ -7,9 +7,12 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Sisyphus%20shot%209.jpg"
-Credits Text: 'photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)
-
-'
+Credits Text: |
+  photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)**
+  film **William Robertson** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**
+  film music **[Tex Crick](https://www.instagram.com/texa55/)**
+  film colourist **Scott Stirling**
+  styling & art direction **[Nicki Colbran](https://www.instagram.com/nickicolbran/)** at **[Union Management](https://www.instagram.com/union_management/)**
 is featured?: true
 blurb: Photographs by Frenchy
 layout: gallery

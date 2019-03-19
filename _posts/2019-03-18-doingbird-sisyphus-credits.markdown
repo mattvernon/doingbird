@@ -7,6 +7,9 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Sisyphus%20shot%209.jpg"
+Credits Text: 'photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)
+
+'
 is featured?: true
 blurb: Photographs by Frenchy
 layout: gallery

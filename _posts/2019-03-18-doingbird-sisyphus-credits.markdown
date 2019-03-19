@@ -14,6 +14,7 @@ Credits Text: |-
   film colourist **Scott Stirling**
   styling & art direction **[Nicki Colbran](https://www.instagram.com/nickicolbran/)** at **[Union Management](https://www.instagram.com/union_management/)**
   hair & make-up **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  hair (Jenny, Cindy & Clare) **[Sacha Lorge](https://www.instagram.com/sachalorge/)**
 is featured?: true
 blurb: Photographs by Frenchy
 layout: gallery

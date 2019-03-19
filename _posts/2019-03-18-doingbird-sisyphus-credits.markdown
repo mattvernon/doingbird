@@ -70,12 +70,16 @@ Victoria wears **Arnsdorf** jumpsuit and vintage earrings from **Zoo Emporium Vi
 ![Sisyphus shot 14.jpg](/uploads/Sisyphus%20shot%2014.jpg)
 
 ![Sisyphus shot 15.jpg](/uploads/Sisyphus%20shot%2015.jpg)
+Jenny wears **Sportmax** top and vintage jacket from **Zoo Emporium Vintage**
 
 ![Sisyphus shot 16.jpg](/uploads/Sisyphus%20shot%2016.jpg)
+Clare wears **Chanel** pantyhose & shoes, **Giorgio Armani** bodysuit and stylist's own jacket
 
 ![Sisyphus shot 17.jpg](/uploads/Sisyphus%20shot%2017.jpg)
+Victroria wears **Arnsdorf** jumpsuit and vintage earrings from **Zoo Emporium Vintage**
 
 ![Sisyphus shot 18.jpg](/uploads/Sisyphus%20shot%2018.jpg)
+Connie wears **Acne Studios** shirt (worn underneath) & pants, **Strateas Carlucci** wrap shirt & jacket and talents own boots
 
 ![Sisyphus shot 19.jpg](/uploads/Sisyphus%20shot%2019.jpg)
 

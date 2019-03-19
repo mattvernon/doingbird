@@ -57,8 +57,10 @@ Connie wears **Acne Studios** shirt & jacket, stylist's own skirt and talents ow
 Adam wears vintage **Ermenegildo Zegna** jacket & vintage scarf from **Zoo Emporium Vintage**
 
 ![Sisyphus shot 10.jpg](/uploads/Sisyphus%20shot%2010.jpg)
+Cindy wears **Kate Sylvester** turtleneck, **Duskii** bodysuit and **Max Mara** pants, belt & shoes
 
 ![Sisyphus shot 11.jpg](/uploads/Sisyphus%20shot%2011.jpg)
+Clare wears **Chanel** jacket & earrings
 
 ![Sisyphus shot 12.jpg](/uploads/Sisyphus%20shot%2012.jpg)
 

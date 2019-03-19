@@ -40,8 +40,10 @@ Waangenga wears **Acne Studios** pants
 Jenny wears vintage **Giorgio Armani** suit & vintage collar from **Zoo Emporium Vintage** and vintage shoes from **Route 66**
 
 ![Sisyphus shot 4.jpg](/uploads/Sisyphus%20shot%204.jpg)
+Adam wears **Marques Almeida** top from **Matchesfashion** and **Prada** turtleneck 
 
 ![Sisyphus shot 5.jpg](/uploads/Sisyphus%20shot%205.jpg)
+Cindy wears **Dinosaur Designs** earrings
 
 ![Sisyphus shot 6.jpg](/uploads/Sisyphus%20shot%206.jpg)
 

@@ -34,8 +34,10 @@ One must imagine Sisyphus happy.
 Connie wears **Strateas Carlucci** shirt & jacket and **Acne Studios** shirt (worn underneath)
 
 ![Sisyphus shot 2.jpg](/uploads/Sisyphus%20shot%202.jpg)
+Waangenga wears **Acne Studios** pants
 
 ![Sisyphus shot 3.jpg](/uploads/Sisyphus%20shot%203.jpg)
+Jenny wears vintage **Giorgio Armani** suit & vintage collar from **Zoo Emporium Vintage** and vintage shoes from **Route 66**
 
 ![Sisyphus shot 4.jpg](/uploads/Sisyphus%20shot%204.jpg)
 

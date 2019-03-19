@@ -63,6 +63,7 @@ Cindy wears **Kate Sylvester** turtleneck, **Duskii** bodysuit and **Max Mara** 
 Clare wears **Chanel** jacket & earrings
 
 ![Sisyphus shot 12.jpg](/uploads/Sisyphus%20shot%2012.jpg)
+Victoria wears **Arnsdorf** jumpsuit and vintage earrings from **Zoo Emporium Vintage**
 
 ![Sisyphus shot 13.jpg](/uploads/Sisyphus%20shot%2013.jpg)
 

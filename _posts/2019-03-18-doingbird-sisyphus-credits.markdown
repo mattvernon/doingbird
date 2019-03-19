@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Sisyphus%20shot%209.jpg"
+Main Image: "/uploads/Sisyphus%20shot%208.jpg"
 Credits Text: |-
   photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)**
   film **William Robertson** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**

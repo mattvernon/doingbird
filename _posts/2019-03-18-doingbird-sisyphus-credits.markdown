@@ -46,10 +46,12 @@ Adam wears **Marques Almeida** top from **Matchesfashion** and **Prada** turtlen
 Cindy wears **Dinosaur Designs** earrings
 
 ![Sisyphus shot 6.jpg](/uploads/Sisyphus%20shot%206.jpg)
+Victoria wears **Acne Studios** coat, **Arnsdorf** turtleneck and vintage boots from **Route 66**
 
 ![Sisyphus shot 7.jpg](/uploads/Sisyphus%20shot%207.jpg)
 
 ![Sisyphus shot 8.jpg](/uploads/Sisyphus%20shot%208.jpg)
+
 
 ![Sisyphus shot 9.jpg](/uploads/Sisyphus%20shot%209.jpg)
 

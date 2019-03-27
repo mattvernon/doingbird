@@ -55,5 +55,6 @@ Stylist's own necklace
 **Pool** shirt
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_14.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_14.jpg)
+(Left to right) **Blair Archibald** jacket, **CL Deluxe Line** pants, **Blair Archibald** pants, **Pool** top, **Levis** pants, **Pool** pants and **Cameron Studio** jewellery
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_05.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_05.jpg)

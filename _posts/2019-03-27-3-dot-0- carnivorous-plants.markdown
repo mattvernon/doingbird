@@ -15,6 +15,4 @@ blurb: Photographs by Anna Pogossova
 layout: gallery
 ---
 
-![_MG_0200.jpg](/uploads/_MG_0200.jpg)
-
-![_MG_0139.jpg](/uploads/_MG_0139.jpg)
+![_MG_0200-591e43.jpg](/uploads/_MG_0200-591e43.jpg)

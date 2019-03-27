@@ -47,6 +47,7 @@ Stylist's own necklace
 **Pool** pants, **Calvin Klein** beanie and stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_03.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_03.jpg)
+**Maison Margiela** coat and talent's own earring
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_07.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_07.jpg)
 

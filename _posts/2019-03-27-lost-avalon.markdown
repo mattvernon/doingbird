@@ -52,6 +52,7 @@ Stylist's own necklace
 ![Lost_Avalon_Drew_Wheeler_Doingbird_07.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_07.jpg)
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_08.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_08.jpg)
+**Pool** shirt
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_14.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_14.jpg)
 

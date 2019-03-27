@@ -14,8 +14,10 @@ layout: gallery
 ---
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_11.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_11.jpg)
+Stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_01.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_01.jpg)
+**Ambush** jeans and stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_17.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_17.jpg)
 

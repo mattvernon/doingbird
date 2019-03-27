@@ -9,8 +9,8 @@ tags:
 Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysripper/)**
   \nphoto **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union
   Management](https://www.instagram.com/union_management/)**\nstyling **Julin Burak**
-  \nproducer **Andy Henson** \nphoto assist Enrico Kasjan \ntalent Nic @ IMG, Johan
-  @ Viviens, Jack @ Duval & Harrison @ Chadwick "
+  \nproducer **Andy Henson** \nphoto assist **Enrico Kasjan** \ntalent **Nic** at
+  **IMG**, **Johan** at **Viviens**, **Jack** at **Duval** & **Harrison** at **Chadwick** "
 layout: gallery
 ---
 

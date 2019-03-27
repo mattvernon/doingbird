@@ -6,6 +6,7 @@ categories:
 - Objects
 tags:
 - Shoot
+Main Image: "/uploads/Parfemme__0239_crop.jpg"
 Credits Text: |-
   Je Joue kegel balls from **[Par Femme](https://www.parfemme.net/)**
 

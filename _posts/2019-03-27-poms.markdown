@@ -7,7 +7,7 @@ tags:
 - Shoot
 Main Image: "/uploads/POMs007.jpg"
 is featured?: true
-blurb: 
+blurb: Photographs by Anna Pogossova
 layout: post
 ---
 

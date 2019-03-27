@@ -1,14 +1,13 @@
 ---
 title: POMS
 date: 2019-03-27 18:46:00 +11:00
-published: false
 categories:
 - Features
 tags:
 - Shoot
 Main Image: "/uploads/POMs007.jpg"
 is featured?: true
-blurb: 
+blurb: Photographs by Anna Pogossova
 layout: post
 ---
 

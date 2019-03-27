@@ -10,6 +10,7 @@ Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Viviens](instagram.com/vivienscreative/)**
   make-up **[Tracy Terashima](https://www.instagram.com/tracyterashima/)**
   gaffer **Finbarr Collins**
+  models (top to bottom) **Zephyr** at **KULT**, **Reece** at **IMG**, **Doug** at **IMG**, **Zarik** at **IMG** and **Remy** at **Priscillas**
 layout: gallery
 ---
 

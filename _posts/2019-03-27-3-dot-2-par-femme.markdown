@@ -6,6 +6,8 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
+  Je Joue kegel balls from **[Par Femme](https://www.parfemme.net/)**
+
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 layout: gallery

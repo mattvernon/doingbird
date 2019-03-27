@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/POMs007.jpg"
 Credits Text: |-
   text **[John Buckley](https://www.instagram.com/johnalbertbuckley/)**
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**

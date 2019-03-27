@@ -6,10 +6,11 @@ categories:
 - Fashion
 tags:
 - Shoot
-Credits Text: "creative director Rhys Ripper \nphoto **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)**
-  at **[Union Management](https://www.instagram.com/union_management/)**\nstyling
-  Julin Burak \nproducer Andy Henson \nphoto assist Enrico Kasjan \ntalent Nic @ IMG,
-  Johan @ Viviens, Jack @ Duval & Harrison @ Chadwick "
+Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysripper/)**
+  \nphoto **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union
+  Management](https://www.instagram.com/union_management/)**\nstyling **Julin Burak**
+  \nproducer **Andy Henson** \nphoto assist **Enrico Kasjan** \ntalent **Nic** at
+  **IMG**, **Johan** at **Viviens**, **Jack** at **Duval** & **Harrison** at **Chadwick** "
 layout: gallery
 ---
 
@@ -38,17 +39,23 @@ Stylist's own necklace
 ![Lost_Avalon_Drew_Wheeler_Doingbird_19.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_19.jpg)
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_10.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_10.jpg)
+**Pool** pants, **Raf Simons** shoes, **Calvin Klein** beanie, talent's own rings and stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_18.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_18.jpg)
+**Calvin Klein** beanie, talent's own rings and stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_09.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_09.jpg)
+**Pool** pants, **Calvin Klein** beanie and stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_03.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_03.jpg)
+**Maison Margiela** coat and talent's own earring
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_07.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_07.jpg)
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_08.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_08.jpg)
+**Pool** shirt
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_14.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_14.jpg)
+(Left to right) **Blair Archibald** jacket, **CL Deluxe Line** pants, **Blair Archibald** pants, **Pool** top, **Levis** pants, **Pool** pants and **Cameron Studio** jewellery
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_05.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_05.jpg)

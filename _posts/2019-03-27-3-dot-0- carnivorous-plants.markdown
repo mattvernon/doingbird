@@ -6,8 +6,10 @@ categories:
 - Objects
 tags:
 - Shoot
-Main Image: "/uploads/_MG_0200.jpg"
+Main Image: "/uploads/Botanicals019.jpg"
 Credits Text: |-
+  From the Royal Botanic Gardens **[Plants with bite](https://www.rbgsyd.nsw.gov.au/whatson/plants-with-bite)** exhibition.
+
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 is featured?: true

@@ -6,11 +6,14 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_16.jpg"
 Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysripper/)**
   \nphoto **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union
   Management](https://www.instagram.com/union_management/)**\nstyling **Julin Burak**
   \nproducer **Andy Henson** \nphoto assist **Enrico Kasjan** \ntalent **Nic** at
   **IMG**, **Johan** at **Viviens**, **Jack** at **Duval** & **Harrison** at **Chadwick** "
+is featured?: true
+blurb: Photographs by Drew Wheeler
 layout: gallery
 ---
 

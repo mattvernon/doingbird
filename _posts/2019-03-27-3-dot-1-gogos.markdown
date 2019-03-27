@@ -6,6 +6,7 @@ categories:
 - Objects
 tags:
 - Shoot
+Main Image: "/uploads/Doingbird%2018.jpg"
 Credits Text: |-
   **[GOGOS](https://www.instagram.com/gogos.online/)** table made from aluminium. 580mm x 580mm x 580mm. AUD $1553
 

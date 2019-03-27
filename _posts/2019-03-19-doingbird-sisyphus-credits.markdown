@@ -1,21 +1,20 @@
 ---
 title: Sisyphus
-date: 2019-03-18 14:25:00 +11:00
-published: false
+date: 2019-03-19 17:00:00 +11:00
 categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Sisyphus%20shot%209.jpg"
+Main Image: "/uploads/Sisyphus%20shot%208.jpg"
 Credits Text: |-
   photographs **[Frenchy](https://www.instagram.com/frenchyphoto/)**
-  film **William Robertson** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**
+  film **[William Robertson](https://www.instagram.com/william___robertson/)** & **[Frenchy](https://www.instagram.com/frenchyphoto/)**
   film music **[Tex Crick](https://www.instagram.com/texa55/)**
   film colourist **Scott Stirling**
   styling & art direction **[Nicki Colbran](https://www.instagram.com/nickicolbran/)** at **[Union Management](https://www.instagram.com/union_management/)**
   hair & make-up **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   hair (Jenny, Cindy & Clare) **[Sacha Lorge](https://www.instagram.com/sachalorge/)**
-  talent (in order of appearance) **Connie Harris**, **Waangenga Blanco**, **Jenny Hayman**, **Adam Metcalfe**, **[Cindy Wang](https://www.instagram.com/papiislove/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**, **[Victoria](https://www.instagram.com/jadaahvictoria/)** at **[Debut](https://www.instagram.com/debutmanagement/)**, **[Clare Crawford](https://www.instagram.com/clareacrawford/)** at **[IMG](https://www.instagram.com/imgmodels/)**
+  talent (in order of appearance) **Connie Harris**, **[Waangenga Blanco](https://www.instagram.com/waangenga/)**, **Jenny Hayman**, **[Adam Metcalfe](https://www.instagram.com/adammmetcalfe/)**, **[Cindy Wang](https://www.instagram.com/papiislove/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**, **[Victoria](https://www.instagram.com/jadaahvictoria/)** at **[Debut](https://www.instagram.com/debutmanagement/)**, **[Clare Crawford](https://www.instagram.com/clareacrawford/)** at **[IMG](https://www.instagram.com/imgmodels/)**
   special thanks to **[Gaby Dillon](https://www.instagram.com/gaby.dillon/)** & **[Studio Mondo](https://www.instagram.com/studio_mondo/)**
 is featured?: true
 blurb: Photographs by Frenchy

@@ -12,5 +12,7 @@ layout: gallery
 ---
 
 ![Doingbird 158.jpg](/uploads/Doingbird%20158.jpg)
+(In order from left to right) **Salvatore Ferragamo** bag, **Prada** bag, **Salvatore Ferragamo** bags & shoes
 
 ![Doingbird 119.jpg](/uploads/Doingbird%20119.jpg)
+**Prada** shoes

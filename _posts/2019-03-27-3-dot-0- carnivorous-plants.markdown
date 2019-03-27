@@ -15,4 +15,10 @@ blurb: Photographs by Anna Pogossova
 layout: gallery
 ---
 
-![_MG_0200.jpg](/uploads/_MG_0200.jpg)
+![Botanicals019.jpg](/uploads/Botanicals019.jpg)
+
+![Botanicals018.jpg](/uploads/Botanicals018.jpg)
+
+![Botanicals017.jpg](/uploads/Botanicals017.jpg)
+
+![Botanicals016.jpg](/uploads/Botanicals016.jpg)

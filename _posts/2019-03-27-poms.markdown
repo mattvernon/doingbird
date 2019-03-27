@@ -1,7 +1,6 @@
 ---
 title: POMS
 date: 2019-03-27 18:46:00 +11:00
-published: false
 categories:
 - Features
 tags:

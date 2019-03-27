@@ -11,7 +11,7 @@ Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Viviens](instagram.com/vivienscreative/)**
   make-up **[Tracy Terashima](https://www.instagram.com/tracyterashima/)**
   gaffer **Finbarr Collins**
-  models (top to bottom) **Zephyr** at **[KULT](https://www.instagram.com/kultaustralia/)**, **Reece**, **Doug** & **Zarik** at **[IMG](https://www.instagram.com/imgmodels/)** and **Remy** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+  models (top to bottom) **[Zephyr](https://www.instagram.com/zephyr1825/)** at **[KULT](https://www.instagram.com/kultaustralia/)**, **[Reece](https://www.instagram.com/reecemmyles/)**, **[Doug](https://www.instagram.com/thecertifiednerd/)** & **Zarik** at **[IMG](https://www.instagram.com/imgmodels/)** and **[Remy](http://instagram.com/remy.faint)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 is featured?: true
 blurb: Photographs by Daniel Goode
 layout: gallery

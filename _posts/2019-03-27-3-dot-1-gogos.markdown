@@ -1,0 +1,17 @@
+---
+title: '3.1: GOGOS'
+date: 2019-03-27 18:21:00 +11:00
+published: false
+categories:
+- Objects
+tags:
+- Shoot
+Credits Text: |-
+  **[GOGOS](https://www.instagram.com/gogos.online/)** table made from aluminium. 580mm x 580mm x 580mm. AUD $1553
+
+  photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+layout: gallery
+---
+
+![Doingbird 18.jpg](/uploads/Doingbird%2018.jpg)

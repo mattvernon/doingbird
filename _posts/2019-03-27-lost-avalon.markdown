@@ -38,6 +38,7 @@ Stylist's own necklace
 ![Lost_Avalon_Drew_Wheeler_Doingbird_19.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_19.jpg)
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_10.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_10.jpg)
+**Pool** pants, **Raf Simons** shoes, **Calvin Klein** beanie, talent's own rings and stylist's own necklace
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_18.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_18.jpg)
 

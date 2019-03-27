@@ -1,5 +1,5 @@
 ---
-title: '3.0'
+title: '3.0: Carnivorous Plants'
 date: 2019-03-27 17:46:00 +11:00
 published: false
 categories:
@@ -18,11 +18,3 @@ layout: gallery
 ![_MG_0200.jpg](/uploads/_MG_0200.jpg)
 
 ![_MG_0139.jpg](/uploads/_MG_0139.jpg)
-
-![Doingbird 18.jpg](/uploads/Doingbird%2018.jpg)
-
-![Doingbird 158.jpg](/uploads/Doingbird%20158.jpg)
-
-![Doingbird 119.jpg](/uploads/Doingbird%20119.jpg)
-
-![Parfemme__0239_crop.jpg](/uploads/Parfemme__0239_crop.jpg)

@@ -15,9 +15,6 @@ blurb: Photographs by Anna Pogossova
 layout: gallery
 ---
 
-![_MG_0200.jpg](/uploads/_MG_0200.jpg)
-
-![_MG_0139.jpg](/uploads/_MG_0139.jpg)
 
 ![Doingbird 18.jpg](/uploads/Doingbird%2018.jpg)
 

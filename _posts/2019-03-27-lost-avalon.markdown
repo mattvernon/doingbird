@@ -27,3 +27,9 @@ layout: gallery
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_10.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_10.jpg)
 
+![Lost_Avalon_Drew_Wheeler_Doingbird_18.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_18.jpg)
+
+![Lost_Avalon_Drew_Wheeler_Doingbird_09.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_09.jpg)
+
+![Lost_Avalon_Drew_Wheeler_Doingbird_03.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_03.jpg)
+

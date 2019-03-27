@@ -27,6 +27,7 @@ Stylist's own necklace
 ![Lost_Avalon_Drew_Wheeler_Doingbird_15.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_15.jpg)!
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_02.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_02.jpg)
+**Blair Archibald** coat and **Levis** jeans
 
 ![Lost_Avalon_Drew_Wheeler_Doingbird_12.jpg](/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_12.jpg)
 

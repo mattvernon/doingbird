@@ -6,6 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: "creative director Rhys Ripper \nphoto Drew Wheeler\nstyling Julin Burak
+  \nproducer: Andy Henson \nphoto assist Enrico Kasjan \nTalent Nic @ IMG, Johan @
+  Viviens, Jack @ Duval & Harrison @ Chadwick "
 layout: gallery
 ---
 

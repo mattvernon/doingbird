@@ -8,6 +8,12 @@ tags:
 - Shoot
 Main Image: "/uploads/Botanicals019.jpg"
 Credits Text: |-
+  (Top to bottom) **Sarracenia Alata** pitcher plant known as Pubescent.
+
+  **Nepenthes Sanguinea** hanging pitcher plant.
+
+  **Nepenthes hyprid** hanging pitcher plant known as Jungle Bells.
+
   From the Royal Botanic Gardens **[Plants with bite](https://www.rbgsyd.nsw.gov.au/whatson/plants-with-bite)** exhibition.
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**

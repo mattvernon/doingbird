@@ -10,7 +10,8 @@ Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysr
   \nphoto **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union
   Management](https://www.instagram.com/union_management/)**\nstyling **Julin Burak**
   \nproducer **Andy Henson** \nphoto assist **Enrico Kasjan** \ntalent **Nic** at
-  **IMG**, **Johan** at **Viviens**, **Jack** at **Duval** & **Harrison** at **Chadwick** "
+  **[IMG](https://www.instagram.com/imgmodels/)**, **Johan** at **[Viviens](https://www.instagram.com/viviensmodelmgmt/)**,
+  **Jack** at **Duval** & **Harrison** at **[Chadwick](https://www.instagram.com/chadwickmodels/)** "
 is featured?: true
 blurb: Photographs by Drew Wheeler
 layout: gallery

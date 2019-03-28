@@ -14,6 +14,8 @@ Credits Text: |-
 
   **Nepenthes hyprid** hanging pitcher plant known as Jungle Bells.
 
+  All pitcher plants are known as pitfall traps.
+
   From the Royal Botanic Gardens **[Plants with bite](https://www.rbgsyd.nsw.gov.au/whatson/plants-with-bite)** exhibition.
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**

@@ -8,8 +8,8 @@ tags:
 Main Image: "/uploads/Lost_Avalon_Drew_Wheeler_Doingbird_16.jpg"
 Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysripper/)**
   \nphotographs **[Drew Wheeler](https://www.instagram.com/drewbydrewby/)** at **[Union
-  Management](https://www.instagram.com/union_management/)**\nstyling **Julin Burak**
-  \nproducer **Andy Henson** \nphoto assist **Enrico Kasjan** \ntalent **Nic** at
+  Management](https://www.instagram.com/union_management/)**\nstyling **Julian Burak**
+  \nproducer **Andy Henson** \nphoto assist **Enrico Kasjan** \ntalent **Matt** at
   **[IMG](https://www.instagram.com/imgmodels/)**, **Johan** at **[Viviens](https://www.instagram.com/viviensmodelmgmt/)**,
   **Jack** at **[Duval](https://www.instagram.com/duval.agency/)**, and **Harrison**
   at **[Chadwick](https://www.instagram.com/chadwickmodels/)** "

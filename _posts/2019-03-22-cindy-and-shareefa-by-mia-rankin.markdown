@@ -13,7 +13,7 @@ Credits Text: |
   hair & make-up **[Cherry Cheung](https://www.instagram.com/cherrycheungmakeup/)**
   talent **[Shareefa](https://www.instagram.com/shareefa_j/)** at **[Bella Management](https://www.instagram.com/bellatalentmanagement/)** & **[Cindy Wang](https://www.instagram.com/papiislove/)** at **[Chadwick Models](https://www.instagram.com/chadwickmodels/)**
 is featured?: true
-blurb: Photographs by Mia Rankin
+Blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 

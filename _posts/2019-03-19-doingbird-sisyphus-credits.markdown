@@ -17,7 +17,7 @@ Credits Text: |-
   talent (in order of appearance) **Connie Harris**, **[Waangenga Blanco](https://www.instagram.com/waangenga/)**, **Jenny Hayman**, **[Adam Metcalfe](https://www.instagram.com/adammmetcalfe/)**, **[Cindy Wang](https://www.instagram.com/papiislove/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**, **[Victoria](https://www.instagram.com/jadaahvictoria/)** at **[Debut](https://www.instagram.com/debutmanagement/)**, **[Clare Crawford](https://www.instagram.com/clareacrawford/)** at **[IMG](https://www.instagram.com/imgmodels/)**
   special thanks to **[Gaby Dillon](https://www.instagram.com/gaby.dillon/)** & **[Studio Mondo](https://www.instagram.com/studio_mondo/)**
 is featured?: true
-blurb: Photographs by Frenchy
+Blurb: Photographs by Frenchy
 layout: gallery
 ---
 

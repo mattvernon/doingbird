@@ -24,10 +24,10 @@ Zephyr wears **Louis Vuitton** jumper
 Zephyr wears **Louis Vuitton** jumper, pants & shoes
 
 ![190224_DoingBirdMagazine_06.jpg](/uploads/190224_DoingBirdMagazine_06.jpg)
-Reece wears **Dior** top
+Reece wears **Dior Men** top
 
 ![190224_DoingBirdMagazine_05.jpg](/uploads/190224_DoingBirdMagazine_05.jpg)
-Reece wears **Dior** top, jacket & pants
+Reece wears **Dior Men** top, jacket & pants
 
 ![190224_DoingBirdMagazine_10.jpg](/uploads/190224_DoingBirdMagazine_10.jpg)
 Doug wears **Prada** top & pants

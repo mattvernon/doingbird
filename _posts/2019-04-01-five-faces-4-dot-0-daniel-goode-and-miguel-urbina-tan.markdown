@@ -1,6 +1,6 @@
 ---
 title: Five Faces
-date: 2019-03-27 21:44:00 +11:00
+date: 2019-04-01 08:30:00 +11:00
 categories:
 - Fashion
 tags:
@@ -13,7 +13,7 @@ Credits Text: |-
   photography assistants **Julian Schulz** & **Nick Ryall**
   models (top to bottom) **[Zephyr](https://www.instagram.com/zephyr1825/)** at **[KULT](https://www.instagram.com/kultaustralia/)**, **[Reece](https://www.instagram.com/reecemmyles/)**, **[Doug](https://www.instagram.com/thecertifiednerd/)** & **Zarik** at **[IMG](https://www.instagram.com/imgmodels/)** and **[Remy](http://instagram.com/remy.faint)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 is featured?: true
-blurb: Photographs by Daniel Goode
+Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 

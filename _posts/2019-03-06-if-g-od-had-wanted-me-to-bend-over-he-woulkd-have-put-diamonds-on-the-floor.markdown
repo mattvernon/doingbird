@@ -13,7 +13,7 @@ Credits Text: |-
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
   model **[Scarlett Leithold](https://www.instagram.com/scarlett/)** at **[Viviens](https://www.instagram.com/viviensmodelmgmt/)**
 is featured?: true
-blurb: Photographs by Mia Rankin
+Blurb: Photographs by Mia Rankin
 layout: gallery
 ---
 

@@ -14,7 +14,7 @@ Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysr
   **Jack** at **[Duval](https://www.instagram.com/duval.agency/)**, and **Harrison**
   at **[Chadwick](https://www.instagram.com/chadwickmodels/)** "
 is featured?: true
-blurb: Photographs by Drew Wheeler
+Blurb: Photographs by Drew Wheeler
 layout: gallery
 ---
 

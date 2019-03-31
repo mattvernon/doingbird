@@ -6,7 +6,7 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/Untitled002.jpg"
-is featured?: true
+is featured?: false
 blurb: Photographs by Max Creasy
 ---
 

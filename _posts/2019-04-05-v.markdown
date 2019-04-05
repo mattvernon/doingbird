@@ -13,7 +13,7 @@ layout: gallery
 
 ![DB_8.jpg](/uploads/DB_8.jpg)
 
-![DB_5-3b1228.jpg](/uploads/DB_5-3b1228.jpg)
+![DB_5b.jpg](/uploads/DB_5b.jpg)
 
 ![DB_6.jpg](/uploads/DB_6.jpg)
 

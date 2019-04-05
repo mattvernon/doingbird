@@ -2,7 +2,7 @@
 title: V
 date: 2019-04-05 09:43:00 +11:00
 published: false
-Main Image: "/uploads/DB_1.jpg"
+Main Image: "/uploads/DB_1b.jpg"
 is featured?: true
 layout: gallery
 ---
@@ -25,6 +25,6 @@ layout: gallery
 
 ![DB_10.jpg](/uploads/DB_10.jpg)
 
-![DB_1.jpg](/uploads/DB_1.jpg)
+![DB_1b.jpg](/uploads/DB_1b.jpg)
 
 ![DB_11.jpg](/uploads/DB_11.jpg)

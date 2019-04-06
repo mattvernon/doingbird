@@ -3,7 +3,13 @@ title: Valentiuna
 date: 2019-04-05 09:43:00 +11:00
 published: false
 Main Image: "/uploads/DB_1b.jpg"
+Credits Text: |-
+  photographs **[Max Doyle]**
+  styling **[Abby Bennett]**
+  hair & make-up **[Rosie Neyle]**
+  model **[Valentina]** at **[Chadwick]**
 is featured?: true
+Blurb: Photographs by Max Doyle
 layout: gallery
 ---
 

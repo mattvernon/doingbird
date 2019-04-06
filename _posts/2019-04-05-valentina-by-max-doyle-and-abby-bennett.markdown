@@ -38,3 +38,4 @@ Valentina wears **Max Mara** top, pants & shoes, **Etesian** earrings & **POMS**
 Valentina wears **Chanel** top and **Etesian** earrings
 
 ![DB_11.jpg](/uploads/DB_11.jpg)
+Valentina wears **Chanel** jacket, skirt, belt, necklace and bag

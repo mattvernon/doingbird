@@ -6,7 +6,7 @@ Main Image: "/uploads/DB_1b.jpg"
 Credits Text: |-
   photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
   styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
-  hair & make-up **[Rosie Neyle]**
+  hair & make-up **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**
   model **[Valentina](https://www.instagram.com/shemelinaaa/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
 is featured?: true
 Blurb: Photographs by Max Doyle

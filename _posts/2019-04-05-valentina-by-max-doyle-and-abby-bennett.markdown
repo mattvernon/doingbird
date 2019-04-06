@@ -35,5 +35,6 @@ Valentina wears **Prada** top, skirt & shoes and stylist's own headband, stockin
 Valentina wears **Max Mara** top, pants & shoes, **Etesian** earrings & **POMS** sunglasses
 
 ![DB_1b.jpg](/uploads/DB_1b.jpg)
+Valentina wears **Chanel** top and **Etesian** earrings
 
 ![DB_11.jpg](/uploads/DB_11.jpg)

@@ -4,8 +4,8 @@ date: 2019-04-05 09:43:00 +11:00
 published: false
 Main Image: "/uploads/DB_1b.jpg"
 Credits Text: |-
-  photographs **[Max Doyle]**
-  styling **[Abby Bennett]**
+  photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
+  styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   hair & make-up **[Rosie Neyle]**
   model **[Valentina]** at **[Chadwick]**
 is featured?: true

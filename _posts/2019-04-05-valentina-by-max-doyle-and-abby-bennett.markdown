@@ -32,6 +32,7 @@ Valentina wears **Louis Vuitton** dress, **Reebok** sneakers from **JD Sports** 
 Valentina wears **Prada** top, skirt & shoes and stylist's own headband, stockings & socks
 
 ![DB_10.jpg](/uploads/DB_10.jpg)
+Valentina wears **Max Mara** top, pants & shoes, **Etesian** earrings & **POMS** sunglasses
 
 ![DB_1b.jpg](/uploads/DB_1b.jpg)
 

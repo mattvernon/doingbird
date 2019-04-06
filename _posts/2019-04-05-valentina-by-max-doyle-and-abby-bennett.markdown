@@ -11,8 +11,10 @@ layout: gallery
 Valentina wears **Etesian** earrings
 
 ![DB_2.jpg](/uploads/DB_2.jpg)
+Valentina wears **Miu Miu** cardigan, shorts, belt & shoes and stylist's own socks
 
 ![DB_8.jpg](/uploads/DB_8.jpg)
+Valentina wears **Chanel** top, bodysuit & shoes and **Etesian** earrings
 
 ![DB_5b.jpg](/uploads/DB_5b.jpg)
 

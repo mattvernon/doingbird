@@ -23,6 +23,7 @@ Valentina wears **Louis Vuitton** dress
 Valentina wears **Chanel** jacket & swimsuit
 
 ![DB_7.jpg](/uploads/DB_7.jpg)
+Valentina wears **Prada** bodysuit & bag, **Reebok** sneakers from **JD Sports** and stylist's own stockings & socks
 
 ![DB_4b.jpg](/uploads/DB_4b.jpg)
 

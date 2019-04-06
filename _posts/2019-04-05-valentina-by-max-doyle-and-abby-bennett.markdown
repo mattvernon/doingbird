@@ -8,6 +8,7 @@ layout: gallery
 ---
 
 ![DB_3.jpg](/uploads/DB_3.jpg)
+Valentina wears **Etesian** earrings
 
 ![DB_2.jpg](/uploads/DB_2.jpg)
 

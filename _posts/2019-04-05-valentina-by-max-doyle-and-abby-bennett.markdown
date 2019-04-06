@@ -29,6 +29,7 @@ Valentina wears **Prada** bodysuit & bag, **Reebok** sneakers from **JD Sports**
 Valentina wears **Louis Vuitton** dress, **Reebok** sneakers from **JD Sports** and stylist's own socks
 
 ![DB_9.jpg](/uploads/DB_9.jpg)
+Valentina wears **Prada** top, skirt & shoes and stylist's own headband, stockings & socks
 
 ![DB_10.jpg](/uploads/DB_10.jpg)
 

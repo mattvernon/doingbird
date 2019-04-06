@@ -17,6 +17,7 @@ Valentina wears **Miu Miu** cardigan, shorts, belt & shoes and stylist's own soc
 Valentina wears **Chanel** top, bodysuit & shoes and **Etesian** earrings
 
 ![DB_5b.jpg](/uploads/DB_5b.jpg)
+Valentina wears **Louis Vuitton** dress
 
 ![DB_6.jpg](/uploads/DB_6.jpg)
 

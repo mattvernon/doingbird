@@ -20,6 +20,7 @@ Valentina wears **Chanel** top, bodysuit & shoes and **Etesian** earrings
 Valentina wears **Louis Vuitton** dress
 
 ![DB_6.jpg](/uploads/DB_6.jpg)
+Valentina wears **Chanel** jacket & swimsuit
 
 ![DB_7.jpg](/uploads/DB_7.jpg)
 

@@ -1,6 +1,10 @@
 ---
 title: Valentina
 date: 2019-04-08 08:30:00 +10:00
+categories:
+- Fashion
+tags:
+- Shoot
 Main Image: "/uploads/DB_1b.jpg"
 Credits Text: |-
   photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**

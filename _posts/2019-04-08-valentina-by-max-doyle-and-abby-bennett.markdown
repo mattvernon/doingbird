@@ -1,13 +1,17 @@
 ---
 title: Valentina
 date: 2019-04-08 08:30:00 +10:00
-published: false
+categories:
+- Fashion
+tags:
+- Shoot
 Main Image: "/uploads/DB_1b.jpg"
 Credits Text: |-
   photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
   styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   hair & make-up **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**
   model **[Valentina](https://www.instagram.com/shemelinaaa/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
+  photography assistant **Jess Blunden**
 is featured?: true
 Blurb: Photographs by Max Doyle
 layout: gallery

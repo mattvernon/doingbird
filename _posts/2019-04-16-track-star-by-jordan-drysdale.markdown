@@ -19,3 +19,13 @@ Blurb: Photographs by Jordan Drysdale
 layout: gallery
 ---
 
+**Louis Vuitton** jumper & pants
+
+
+
+**Acne Studios** top, pants & shoes
+
+**Perks and Mini** top & pants and **Asics** top (worn underneath)
+
+**Walter Van Beirendonck** jacket from the private archive of **Octavius La Rosa** and **Puma** shorts
+

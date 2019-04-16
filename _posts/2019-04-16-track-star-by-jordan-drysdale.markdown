@@ -19,28 +19,36 @@ Blurb: Photographs by Jordan Drysdale
 layout: gallery
 ---
 
+![Image 01.jpg](/uploads/Image%2001.jpg)
 **Louis Vuitton** jumper & pants
 
+![Image 02.jpg](/uploads/Image%2002.jpg)
 
-
+![Image 03.jpg](/uploads/Image%2003.jpg)
 **Acne Studios** top, pants & shoes
 
+![Image 04.jpg](/uploads/Image%2004.jpg)
 **Perks and Mini** top & pants and **Asics** top (worn underneath)
 
+![Image 05.jpg](/uploads/Image%2005.jpg)
 **Walter Van Beirendonck** jacket from the private archive of **Octavius La Rosa** and **Puma** shorts
 
+![Image 06.jpg](/uploads/Image%2006.jpg)
 **Louis Vuitton** bag
 
+![Image 07.jpg](/uploads/Image%2007.jpg)
 **Acne Studios** bodysuit and **Onitsuka Tigers** shoes
 
+![Image 08.jpg](/uploads/Image%2008.jpg)
 **Acne Studios** bodysuit
 
-**Ermenegildo Zegna** jacket, pants & shoes
+![Image 009.jpg](/uploads/Image%20009.jpg)
+Left to right. **Ermenegildo Zegna** jacket, pants & shoes and **Nike** headband
 
-**Nike** headband
-
+![Image 11.jpg](/uploads/Image%2011.jpg)
 **Coach** bag, **Acne Studios** shorts and **Calvin Klein** top & shoes
 
+![Image 12.jpg](/uploads/Image%2012.jpg)
 **Gucci** jacket, pants & shoes
 
 **Ermengildo Zegna** pants (worn as shorts), **Asics** leggings, **Nike** headband and **Acne Studios** top & shoes

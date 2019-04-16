@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoots
+Main Image: "/uploads/Image%2005.jpg"
 Credits Text: |-
   photographs **[Jordyn Drysdale](https://www.instagram.com/jordandrysdale/)**
   direction & fashion **[Sarah Pritchard](https://www.instagram.com/sar4hcant/)**

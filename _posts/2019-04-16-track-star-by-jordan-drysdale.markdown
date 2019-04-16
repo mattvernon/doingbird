@@ -24,11 +24,8 @@ layout: gallery
 
 ![Image 02.jpg](/uploads/Image%2002.jpg)
 
-![Image 03.jpg](/uploads/Image%2003.jpg)
-**Acne Studios** top, pants & shoes
-
-![Image 04.jpg](/uploads/Image%2004.jpg)
-**Perks and Mini** top & pants and **Asics** top (worn underneath)
+![Image 003.jpg](/uploads/Image%20003.jpg)
+Left to right. **Acne Studios** top, pants & shoes, **Perks and Mini** top & pants and **Asics** top (worn underneath)
 
 ![Image 05.jpg](/uploads/Image%2005.jpg)
 **Walter Van Beirendonck** jacket from the private archive of **Octavius La Rosa** and **Puma** shorts
@@ -51,7 +48,9 @@ Left to right. **Ermenegildo Zegna** jacket, pants & shoes and **Nike** headband
 ![Image 12.jpg](/uploads/Image%2012.jpg)
 **Gucci** jacket, pants & shoes
 
+![Image 13.jpg](/uploads/Image%2013.jpg)
 **Ermengildo Zegna** pants (worn as shorts), **Asics** leggings, **Nike** headband and **Acne Studios** top & shoes
 
+![Image 14.jpg](/uploads/Image%2014.jpg)
 **Acne Studios** top, **Asics** leggings and **Nike** headband
 

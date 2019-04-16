@@ -29,3 +29,21 @@ layout: gallery
 
 **Walter Van Beirendonck** jacket from the private archive of **Octavius La Rosa** and **Puma** shorts
 
+**Louis Vuitton** bag
+
+**Acne Studios** bodysuit and **Onitsuka Tigers** shoes
+
+**Acne Studios** bodysuit
+
+**Ermenegildo Zegna** jacket, pants & shoes
+
+**Nike** headband
+
+**Coach** bag, **Acne Studios** shorts and **Calvin Klein** top & shoes
+
+**Gucci** jacket, pants & shoes
+
+**Ermengildo Zegna** pants (worn as shorts), **Asics** leggings, **Nike** headband and **Acne Studios** top & shoes
+
+**Acne Studios** top, **Asics** leggings and **Nike** headband
+

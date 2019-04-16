@@ -1,7 +1,6 @@
 ---
 title: Do I Make You Feel Shy?
-date: 2019-04-10 08:30:00 +10:00
-published: false
+date: 2019-04-11 08:30:00 +10:00
 categories:
 - Fashion
 tags:
@@ -12,7 +11,7 @@ Credits Text: |
   styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**
   hair & make-up **[Cherry Cheung](https://www.instagram.com/cherrycheungmakeup/)**
   talent **[Shareefa](https://www.instagram.com/shareefa_j/)** at **[Bella Management](https://www.instagram.com/bellatalentmanagement/)** & **[Cindy Wang](https://www.instagram.com/papiislove/)** at **[Chadwick Models](https://www.instagram.com/chadwickmodels/)**
-is featured?: false
+is featured?: true
 Blurb: Photographs by Mia Rankin
 layout: gallery
 ---

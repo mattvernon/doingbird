@@ -6,6 +6,11 @@ categories:
 - Fashion
 tags:
 - Shoots
+Credits Text: |-
+  photographs **[JOrdyn Drysdale](https://www.instagram.com/jordandrysdale/)**
+  direction & fashion **[Sarah Pritchard](https://www.instagram.com/sar4hcant/)**
+  make-up **[Georgia Gaillard](https://www.instagram.com/gg.mua/)**
+  hair **[Xeneb Allen](https://www.instagram.com/curlysiouxsie/)** using **[Kevin Murphy](https://www.instagram.com/curlysiouxsie/)**
 layout: gallery
 ---
 

@@ -4,7 +4,7 @@ date: 2019-04-16 19:30:00 +10:00
 categories:
 - Fashion
 tags:
-- Shoots
+- Shoot
 Main Image: "/uploads/Image%2005.jpg"
 Credits Text: |-
   photographs **[Jordyn Drysdale](https://www.instagram.com/jordandrysdale/)**

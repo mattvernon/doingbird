@@ -1,6 +1,6 @@
 ---
 title: '3.2: Par Femme'
-date: 2019-03-27 18:28:00 +11:00
+date: 2019-04-22 08:30:00 +10:00
 published: false
 categories:
 - Objects

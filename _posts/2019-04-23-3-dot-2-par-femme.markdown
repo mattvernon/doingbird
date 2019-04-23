@@ -1,18 +1,18 @@
 ---
-title: '3.1: GOGOS'
-date: 2019-04-22 08:30:00 +10:00
+title: '3.2: Par Femme'
+date: 2019-04-23 17:30:00 +10:00
 published: false
 categories:
 - Objects
 tags:
 - Shoot
-Main Image: "/uploads/Doingbird%2018.jpg"
+Main Image: "/uploads/Parfemme__0239_crop.jpg"
 Credits Text: |-
-  **[GOGOS](https://www.instagram.com/gogos.online/)** table made from aluminium. 580mm x 580mm x 580mm. AUD $1553
+  Je Joue kegel balls from **[Par Femme](https://www.parfemme.net/)**
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 layout: gallery
 ---
 
-![Doingbird 18.jpg](/uploads/Doingbird%2018.jpg)
+![Parfemme__0239_crop.jpg](/uploads/Parfemme__0239_crop.jpg)

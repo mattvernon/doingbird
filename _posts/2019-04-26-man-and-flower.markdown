@@ -1,0 +1,18 @@
+---
+title: Man and Flower
+date: 2019-04-26 10:13:00 +10:00
+published: false
+---
+
+![OPENING_SPREAD__ANGELS_AUSTY_AND.jpg](/uploads/OPENING_SPREAD__ANGELS_AUSTY_AND.jpg)
+
+![SPREAD_1_ANGELS_AUSTY.jpg](/uploads/SPREAD_1_ANGELS_AUSTY.jpg)
+
+![SPREAD_2_ANGELS_AUSTY.jpg](/uploads/SPREAD_2_ANGELS_AUSTY.jpg)
+
+![SPREAD_3_ANGELS_AUSTY.jpg](/uploads/SPREAD_3_ANGELS_AUSTY.jpg)
+
+![SPREAD_4_ANGELS_AUSTY.jpg](/uploads/SPREAD_4_ANGELS_AUSTY.jpg)
+
+![SPREAD_5_ANGELS_AUSTY.jpg](/uploads/SPREAD_5_ANGELS_AUSTY.jpg)
+

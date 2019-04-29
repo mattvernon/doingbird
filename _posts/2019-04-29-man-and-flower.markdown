@@ -17,6 +17,7 @@ William Robertson andAgapanthus
 (Left to right) Paul Mclean and Bougainvillea. Michael French and Australian Native Iris
 
 ![SPREAD_3_ANGELS_AUSTY.jpg](/uploads/SPREAD_3_ANGELS_AUSTY.jpg)
+(Left to right) Tom Simpson and Hibiscus. Paul Mclean and Bougainvillea 
 
 ![SPREAD_4_ANGELS_AUSTY.jpg](/uploads/SPREAD_4_ANGELS_AUSTY.jpg)
 

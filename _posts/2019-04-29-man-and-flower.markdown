@@ -23,6 +23,8 @@ In 1980 I was five years old – an infant posing as a child – embarking on a 
 ![SPREAD_2_ANGELS_AUSTY.jpg](/uploads/SPREAD_2_ANGELS_AUSTY.jpg)
 (Left to right) Paul Mclean and Bougainvillea. Michael French and Australian Native Iris
 
+My father loved the indigenous flowers passionately and planted them on all sides of our brand new, off-the-plan AV Jennings home that stood in a deep valley of giant, ancient, eucalyptus trees. But it was through my witness of his living and dying – his own gravity and grace, that the flowers would become an analogical revelation to me and I would be compelled by their innate allegorical authority to make them my primary, my absolute, medium. 
+
 ![SPREAD_3_ANGELS_AUSTY.jpg](/uploads/SPREAD_3_ANGELS_AUSTY.jpg)
 (Left to right) Tom Simpson and Hibiscus. Paul Mclean and Bougainvillea 
 

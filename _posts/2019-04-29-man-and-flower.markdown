@@ -6,11 +6,15 @@ categories:
 - Art
 tags:
 - Shoot
+Main Image: "/uploads/OPENING_SPREAD__ANGELS_AUSTY_AND.jpg"
 layout: gallery
 ---
 
+‘GIVE ME A CHILD UNTIL HE IS SEVEN AND I WILL SHOW YOU THE MAN’. ARISTOTLE
 ![OPENING_SPREAD__ANGELS_AUSTY_AND.jpg](/uploads/OPENING_SPREAD__ANGELS_AUSTY_AND.jpg)
 William Robertson andAgapanthus
+
+In 1979 I was four years old. It is the year I recall identifying a blatant inflexibility in my perception of beauty – a rigidity and clarity in my aesthetic preferences. I vividly recollect breaking the ‘stuff’ of life, the mise en scène, into two distinct categories; the beautiful and the completely unacceptable. In my role as aesthetic judge and executioner I was precise and cruel. This proclivity remains unchanged, my precision and cruelty; my sense of awe and astonishment is fixed, in my work with the flowers.
 
 ![SPREAD_1_ANGELS_AUSTY.jpg](/uploads/SPREAD_1_ANGELS_AUSTY.jpg)
 (Left to right) Michael French and Australian Native Iris. T and Grevilla

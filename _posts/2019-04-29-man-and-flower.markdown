@@ -4,6 +4,8 @@ date: 2019-04-29 10:30:00 +10:00
 published: false
 categories:
 - Art
+tags:
+- Shoot
 layout: gallery
 ---
 
@@ -20,8 +22,9 @@ William Robertson andAgapanthus
 (Left to right) Tom Simpson and Hibiscus. Paul Mclean and Bougainvillea 
 
 ![SPREAD_4_ANGELS_AUSTY.jpg](/uploads/SPREAD_4_ANGELS_AUSTY.jpg)
+(Left to right)  T and Grevillea. David Rogers and Lantana
 
 ![SPREAD_5_ANGELS_AUSTY.jpg](/uploads/SPREAD_5_ANGELS_AUSTY.jpg)
-
+(Left to right) T and Grevillea. Paul Mclean and Bougainvillea
 
 

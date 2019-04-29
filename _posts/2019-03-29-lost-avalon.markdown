@@ -13,7 +13,7 @@ Credits Text: "creative director **[Rhys Ripper](https://www.instagram.com/rhysr
   **[IMG](https://www.instagram.com/imgmodels/)**, **Johan** at **[Viviens](https://www.instagram.com/viviensmodelmgmt/)**,
   **Jack** at **[Duval](https://www.instagram.com/duval.agency/)**, and **Harrison**
   at **[Chadwick](https://www.instagram.com/chadwickmodels/)** "
-is featured?: true
+is featured?: false
 Blurb: Photographs by Drew Wheeler
 layout: gallery
 ---

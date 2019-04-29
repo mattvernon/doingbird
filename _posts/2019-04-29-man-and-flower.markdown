@@ -18,6 +18,7 @@ In 1979 I was four years old. It is the year I recall identifying a blatant infl
 
 ![SPREAD_1_ANGELS_AUSTY.jpg](/uploads/SPREAD_1_ANGELS_AUSTY.jpg)
 (Left to right) Michael French and Australian Native Iris. T and Grevilla
+In 1980 I was five years old – an infant posing as a child – embarking on a formal education. My father, Gary Cooper (the butcher) and my grandfather, Frank Cooper (the milkman) were blood, kindred and idol. These two men, the male protagonists, were also the two people (I had ever met) that I felt the greatest correspondence to. They were the same species as me, while the female characters seemed to me to be quite a different genus. My grandfather grew fragrant, lyrical, garden roses that we visited with excessive regularity and uncommon awe, at each repetition relearning their respective names and fragrances and watching the generations unfurl and pass away in their time. It became our habit together to wonder at the fullness with which they lived and to regard the grace with which they died. My grandfather and I had made a study of gravity and grace. 
 
 ![SPREAD_2_ANGELS_AUSTY.jpg](/uploads/SPREAD_2_ANGELS_AUSTY.jpg)
 (Left to right) Paul Mclean and Bougainvillea. Michael French and Australian Native Iris

@@ -43,6 +43,6 @@ In 1980 I was five years old – an infant posing as a child – stealing a rose
 In the afternoon my tiny frame carried a giant watermelon to the door of the wounded, mad, beetroot-red grower and I handed it to him and I apologised as I had been coached. Then I sat on the step with my father and watched the sun set on man and flower, on gravity and grace.              
 
 ![SPREAD_5_ANGELS_AUSTY.jpg](/uploads/SPREAD_5_ANGELS_AUSTY.jpg)
-(Left to right) T and Grevillea. Paul Mclean and Bougainvillea
+(Left to right) Paul Mclean and Bougainvillea. T and Grevillea
 
 

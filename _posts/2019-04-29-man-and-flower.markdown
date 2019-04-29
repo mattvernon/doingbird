@@ -14,6 +14,7 @@ William Robertson andAgapanthus
 (Left to right) Michael French and Australian Native Iris. T and Grevilla
 
 ![SPREAD_2_ANGELS_AUSTY.jpg](/uploads/SPREAD_2_ANGELS_AUSTY.jpg)
+(Left to right) Paul Mclean and Bougainvillea. Michael French and Australian Native Iris
 
 ![SPREAD_3_ANGELS_AUSTY.jpg](/uploads/SPREAD_3_ANGELS_AUSTY.jpg)
 

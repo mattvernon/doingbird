@@ -7,6 +7,13 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/OPENING_SPREAD__ANGELS_AUSTY_AND.jpg"
+Credits Text: |-
+  words **[Dr Lisa Cooper](https://www.instagram.com/doctorcooper/?hl=en)
+  photographs **[Joshua Heath](https://www.instagram.com/joshua.heath/?hl=en)**
+
+  All talent chose their own flowers.
+is featured?: true
+Blurb: Photographs by Joshua Heath
 layout: gallery
 ---
 

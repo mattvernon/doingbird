@@ -28,8 +28,12 @@ My father loved the indigenous flowers passionately and planted them on all side
 ![SPREAD_3_ANGELS_AUSTY.jpg](/uploads/SPREAD_3_ANGELS_AUSTY.jpg)
 (Left to right) Tom Simpson and Hibiscus. Paul Mclean and Bougainvillea 
 
+In 1980 I was five years old – an infant posing as a child – stealing a rose. I couldn’t have articulated it at the time but now I can at least try. In short, I wonder if the couple that lived next door to us might have been ‘swingers’, him more so than her, she might simply have acquiesced or perhaps she was instigator, what the hell do I know, I was five. I did, however, sense some perversity in him, though I have nothing to substantiate it. A sense such as this might have endeared him to some but to my five year old self he wore the stench of transgression. He could however, grow a rose and he did in a large patch of earth very near to our front door, and on the path to everywhere at the time. One morning I noticed a single intoxicating specimen in its fullest manifestation of life; open, fragrant, dancing. In the trance it had put upon me I plunged into its deep green foliage, isolated its strong stem and plucked it from its seemingly staunch position. As I bought the rose up to my nose to fully take in its fragrance the man ran out from his dwelling screaming like the mythological banshee. 
+
 ![SPREAD_4_ANGELS_AUSTY.jpg](/uploads/SPREAD_4_ANGELS_AUSTY.jpg)
 (Left to right)  T and Grevillea. David Rogers and Lantana
+
+In the afternoon my tiny frame carried a giant watermelon to the door of the wounded, mad, beetroot-red grower and I handed it to him and I apologised as I had been coached. Then I sat on the step with my father and watched the sun set on man and flower, on gravity and grace.              
 
 ![SPREAD_5_ANGELS_AUSTY.jpg](/uploads/SPREAD_5_ANGELS_AUSTY.jpg)
 (Left to right) T and Grevillea. Paul Mclean and Bougainvillea

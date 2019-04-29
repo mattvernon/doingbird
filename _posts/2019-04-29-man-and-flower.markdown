@@ -8,8 +8,10 @@ layout: gallery
 ---
 
 ![OPENING_SPREAD__ANGELS_AUSTY_AND.jpg](/uploads/OPENING_SPREAD__ANGELS_AUSTY_AND.jpg)
+William Robertson andAgapanthus
 
 ![SPREAD_1_ANGELS_AUSTY.jpg](/uploads/SPREAD_1_ANGELS_AUSTY.jpg)
+(Left to right) Michael French and Australian Native Iris. T and Grevilla
 
 ![SPREAD_2_ANGELS_AUSTY.jpg](/uploads/SPREAD_2_ANGELS_AUSTY.jpg)
 

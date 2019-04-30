@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam004.jpg"
+Main Image: "/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam010.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

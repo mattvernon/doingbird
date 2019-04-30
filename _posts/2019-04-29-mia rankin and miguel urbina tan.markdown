@@ -48,6 +48,9 @@ Agi wears jumper from **Zoo Emporium Vintage** and **Dion Lee** shoes. Zoe wears
 ![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam006.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam006.jpg)
 Agi wears bracelets from **Zoo Emporium Vintage**
 
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam005.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam005.jpg)
+Zoe wears necklace from **Zoo Emporium Vintage**
+
 
 
 

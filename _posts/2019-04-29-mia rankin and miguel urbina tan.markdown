@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam004.jpg"
+Main Image: "/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam010.jpg"
 Credits Text: |-
   photographs **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
@@ -44,6 +44,14 @@ Zoe wears **Celine** bracelet
 
 ![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam011.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam011.jpg)
 Agi wears jumper from **Zoo Emporium Vintage** and **Dion Lee** shoes. Zoe wears **Camilla & Marc** top and **Chanel** shorts & belt
+
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam006.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam006.jpg)
+Agi wears bracelets from **Zoo Emporium Vintage**
+
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam005.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam005.jpg)
+Zoe wears necklace from **Zoo Emporium Vintage**
+
+
 
 
 

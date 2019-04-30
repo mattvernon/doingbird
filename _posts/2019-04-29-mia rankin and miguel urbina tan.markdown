@@ -15,3 +15,12 @@ Credits Text: |-
 layout: gallery
 ---
 
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam004.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam004.jpg)
+Zoe wears **Prada** dress & shoes
+
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam008.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam008.jpg)
+Agi wears **Romance Was Born** dress and **Rag & Bone** shoes
+
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam001.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam001.jpg)
+Zoe wears **Chanel** jacket, shorts, earrings & belt
+

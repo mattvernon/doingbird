@@ -1,5 +1,5 @@
 ---
-title: I'm A Fan Of Very, Very Expensive Creams
+title: Glam
 date: 2019-04-29 10:51:00 +10:00
 published: false
 categories:

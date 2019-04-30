@@ -39,5 +39,11 @@ Agi wears **Chanel** jumpsuit, bracelets, belt & shoes
 ![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam009.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam009.jpg)
 Zoe wears **Michael Lo Sordo** dress, **Miu Miu** shoes and necklaces from **Zoo Emporium Vintage**
 
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam007.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam007.jpg)
+Zoe wears **Celine** bracelet
+
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam011.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam011.jpg)
+Agi wears jumper from **Zoo Emporium Vintage** and **Dion Lee** shoes. Zoe wears **Camilla & Marc** top and **Chanel** shorts & belt
+
 
 

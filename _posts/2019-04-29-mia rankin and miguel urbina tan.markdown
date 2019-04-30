@@ -30,3 +30,8 @@ Zoe wears **Chanel** jacket, shorts, earrings & belt
 ![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam010.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam010.jpg)
 Agi wears top from **Zoo Emporium Vintage**
 
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam002.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam002.jpg)
+Agi wears **Chanel** jumpsuit, bracelets, belt & shoes
+
+
+

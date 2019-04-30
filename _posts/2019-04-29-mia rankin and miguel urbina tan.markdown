@@ -36,5 +36,8 @@ Zoe wears **Miu Miu** top, blazer, shorts & socks and **Max Mara** shoes. Agi we
 ![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam002.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam002.jpg)
 Agi wears **Chanel** jumpsuit, bracelets, belt & shoes
 
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam009.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam009.jpg)
+Zoe wears **Michael Lo Sordo** dress, **Miu Miu** shoes and necklaces from **Zoo Emporium Vintage**
+
 
 

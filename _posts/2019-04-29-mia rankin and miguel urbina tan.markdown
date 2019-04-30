@@ -12,7 +12,7 @@ Credits Text: |-
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)**
   make-up **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**
-  models **[Agi](https://www.instagram.com/agiakur/)** at [IMG](https://www.instagram.com/imgmodels/)** and **[Zoe Wurm](https://www.instagram.com/zoewurm/)** at [Kult](https://www.instagram.com/zoewurm/)**
+  models **[Agi](https://www.instagram.com/agiakur/)** at **[IMG](https://www.instagram.com/imgmodels/)** and **[Zoe Wurm](https://www.instagram.com/zoewurm/)** at **[Kult](https://www.instagram.com/zoewurm/)**
 is featured?: true
 Blurb: Photographs by Mia Rankin
 layout: gallery

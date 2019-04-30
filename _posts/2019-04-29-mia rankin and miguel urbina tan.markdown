@@ -45,5 +45,10 @@ Zoe wears **Celine** bracelet
 ![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam011.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam011.jpg)
 Agi wears jumper from **Zoo Emporium Vintage** and **Dion Lee** shoes. Zoe wears **Camilla & Marc** top and **Chanel** shorts & belt
 
+![Mia Rankin_Miguel Urbina Tan_Doing Bird_Glam006.jpg](/uploads/Mia%20Rankin_Miguel%20Urbina%20Tan_Doing%20Bird_Glam006.jpg)
+Agi wears bracelets from **Zoo Emporium Vintage**
+
+
+
 
 

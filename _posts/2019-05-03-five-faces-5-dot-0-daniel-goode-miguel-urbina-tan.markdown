@@ -1,6 +1,6 @@
 ---
 title: Five Faces
-date: 2019-04-29 12:01:00 +10:00
+date: 2019-05-03 16:00:00 +10:00
 published: false
 categories:
 - Fashion
@@ -15,3 +15,10 @@ Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![190427_DoingbirdMagazine_08.jpg](/uploads/190427_DoingbirdMagazine_08.jpg)
+
+![190427_DoingbirdMagazine_07.jpg](/uploads/190427_DoingbirdMagazine_07.jpg)
+
+![190427_DoingbirdMagazine_010.jpg](/uploads/190427_DoingbirdMagazine_010.jpg)
+
+![190427_DoingbirdMagazine_09.jpg](/uploads/190427_DoingbirdMagazine_09.jpg)

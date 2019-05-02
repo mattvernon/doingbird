@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/190427_DoingbirdMagazine_08.jpg"
+Main Image: "/uploads/190427_DoingbirdMagazine_010.jpg"
 Credits Text: |-
   All wear **[Prada](https://www.prada.com/us/en.html)**
 

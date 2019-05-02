@@ -23,3 +23,15 @@ layout: gallery
 ![190427_DoingbirdMagazine_010.jpg](/uploads/190427_DoingbirdMagazine_010.jpg)
 
 ![190427_DoingbirdMagazine_09.jpg](/uploads/190427_DoingbirdMagazine_09.jpg)
+
+![190427_DoingbirdMagazine_04.jpg](/uploads/190427_DoingbirdMagazine_04.jpg)
+
+![190427_DoingbirdMagazine_03.jpg](/uploads/190427_DoingbirdMagazine_03.jpg)
+
+![190427_DoingbirdMagazine_06.jpg](/uploads/190427_DoingbirdMagazine_06.jpg)
+
+![190427_DoingbirdMagazine_05.jpg](/uploads/190427_DoingbirdMagazine_05.jpg)
+
+![190427_DoingbirdMagazine_02.jpg](/uploads/190427_DoingbirdMagazine_02.jpg)
+
+![190427_DoingbirdMagazine_01.jpg](/uploads/190427_DoingbirdMagazine_01.jpg)

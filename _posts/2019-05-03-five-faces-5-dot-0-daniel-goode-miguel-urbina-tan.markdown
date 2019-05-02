@@ -8,6 +8,8 @@ tags:
 - Shoot
 Main Image: "/uploads/190427_DoingbirdMagazine_08.jpg"
 Credits Text: |-
+  All wear **[Prada](https://www.prada.com/us/en.html)**
+
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   makeup **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**

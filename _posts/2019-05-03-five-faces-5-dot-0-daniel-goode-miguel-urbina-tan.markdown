@@ -10,7 +10,7 @@ Main Image: "/uploads/190427_DoingbirdMagazine_08.jpg"
 Credits Text: |-
   All wear **[Prada](https://www.prada.com/us/en.html)**
 
-  photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  lensed by **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   makeup **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   models (top to bottom) **[Kristen](https://www.instagram.com/golden_ladi/)**, **[Chloe](https://www.instagram.com/chloepearce___/)**, **Santa**, **[Stella H](https://www.instagram.com/stellahagerstrand/)** and **[Adrienne](https://www.instagram.com/a.drienne/)** all at **[Kult](https://www.instagram.com/kultaustralia/)**

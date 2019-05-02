@@ -13,7 +13,7 @@ Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   makeup **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
-  models (top to bottom) **[Kristen](https://www.instagram.com/golden_ladi/)**, **[Chloe](https://www.instagram.com/chloepearce___/)**, **Santa**, **Stella H** and **Adrienne** all at **[Kult](https://www.instagram.com/kultaustralia/)**
+  models (top to bottom) **[Kristen](https://www.instagram.com/golden_ladi/)**, **[Chloe](https://www.instagram.com/chloepearce___/)**, **Santa**, **[Stella H](https://www.instagram.com/stellahagerstrand/)** and **Adrienne** all at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 Blurb: Photographs by Daniel Goode
 layout: gallery

@@ -10,7 +10,7 @@ Credits Text: |-
   All wear **[Prada](https://www.prada.com/us/en.html)**
 
   lensed by **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Davines](https://www.instagram.com/davines_australia/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Davines Australia](https://www.instagram.com/davines_australia/)** & **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)**
   makeup **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
   gaffer **[Finbarr Collins](https://www.instagram.com/finbarr_collins/)**
   photography assistants **Alex Johnstone** & **Blake Azar**

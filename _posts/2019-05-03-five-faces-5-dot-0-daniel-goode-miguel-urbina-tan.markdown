@@ -13,6 +13,7 @@ Credits Text: |-
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Davines](https://www.instagram.com/davines_australia/)**
   makeup **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   gaffer **Finbarr Collins**
+  photography assistants **Alex Johnstone** and **Blake Azar**
   models (top to bottom) **[Kristen](https://www.instagram.com/golden_ladi/)**, **[Chloe](https://www.instagram.com/chloepearce___/)**, **Santa**, **[Stella H](https://www.instagram.com/stellahagerstrand/)** and **[Adrienne](https://www.instagram.com/a.drienne/)** all at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 Blurb: Photographs by Daniel Goode

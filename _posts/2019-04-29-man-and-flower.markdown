@@ -11,7 +11,7 @@ Credits Text: |-
   photographs **[Joshua Heath](https://www.instagram.com/joshua.heath/?hl=en)**
 
   All talent chose their own flowers.
-is featured?: true
+is featured?: false
 Blurb: Photographs by Joshua Heath
 layout: gallery
 ---

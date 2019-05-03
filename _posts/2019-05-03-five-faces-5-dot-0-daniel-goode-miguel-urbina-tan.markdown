@@ -14,6 +14,7 @@ Credits Text: |-
   makeup **[Gillian Campbell](https://www.instagram.com/gillielove/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
   gaffer **[Finbarr Collins](https://www.instagram.com/finbarr_collins/)**
   photography assistants **Alex Johnstone** & **Blake Azar**
+  hair assistant **Adam Dyer**
   models (top to bottom) **[Kristen](https://www.instagram.com/golden_ladi/)**, **[Chloe](https://www.instagram.com/chloepearce___/)**, **Santa**, **[Stella H](https://www.instagram.com/stellahagerstrand/)** and **[Adrienne](https://www.instagram.com/a.drienne/)** all at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 Blurb: Photographs by Daniel Goode

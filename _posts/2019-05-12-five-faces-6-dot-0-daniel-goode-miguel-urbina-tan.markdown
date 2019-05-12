@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190505_DoingbirdMagazine_shot_06.jpg"
 Credits Text: |-
   lensed by **[Daniel Goode](http://www.danielgoodephoto.com/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)** fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Viviens](instagram.com/vivienscreative/)** using **[Hair Rituel by Sisley](https://www.instagram.com/hairrituelbysisley/)**

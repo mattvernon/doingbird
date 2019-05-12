@@ -16,7 +16,7 @@ Credits Text: |-
   photography assistants **Alex Johnstone** & **Blake Azar**
   hair assistant **Adam Dyer**
   models (top to bottom) **[Kristen](https://www.instagram.com/golden_ladi/)**, **[Chloe](https://www.instagram.com/chloepearce___/)**, **Santa**, **[Stella H](https://www.instagram.com/stellahagerstrand/)** and **[Adrienne](https://www.instagram.com/a.drienne/)** all at **[Kult](https://www.instagram.com/kultaustralia/)**
-is featured?: true
+is featured?: false
 Blurb: Photographs by Daniel Goode
 layout: gallery
 ---

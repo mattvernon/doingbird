@@ -18,3 +18,23 @@ Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![190505_DoingbirdMagazine_shot_02.jpg](/uploads/190505_DoingbirdMagazine_shot_02.jpg)
+Gabriel wears **Prada** top
+
+![190505_DoingbirdMagazine_shot_01.jpg](/uploads/190505_DoingbirdMagazine_shot_01.jpg)
+
+![190505_DoingbirdMagazine_shot_08.jpg](/uploads/190505_DoingbirdMagazine_shot_08.jpg)
+
+![190505_DoingbirdMagazine_shot_07.jpg](/uploads/190505_DoingbirdMagazine_shot_07.jpg)
+
+![190505_DoingbirdMagazine_shot_04.jpg](/uploads/190505_DoingbirdMagazine_shot_04.jpg)
+
+![190505_DoingbirdMagazine_shot_03.jpg](/uploads/190505_DoingbirdMagazine_shot_03.jpg)
+
+![190505_DoingbirdMagazine_shot_06.jpg](/uploads/190505_DoingbirdMagazine_shot_06.jpg)
+
+![190505_DoingbirdMagazine_shot_05.jpg](/uploads/190505_DoingbirdMagazine_shot_05.jpg)
+
+![190505_DoingbirdMagazine_shot_010.jpg](/uploads/190505_DoingbirdMagazine_shot_010.jpg)
+
+![190505_DoingbirdMagazine_shot_09.jpg](/uploads/190505_DoingbirdMagazine_shot_09.jpg)

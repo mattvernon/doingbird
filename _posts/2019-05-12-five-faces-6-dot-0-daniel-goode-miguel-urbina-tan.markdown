@@ -13,6 +13,8 @@ Credits Text: |-
   gaffer **Finbarr Collins**
   photography assistants **Blake Azar** and **Nick Ryall**
   models (top to bottom) **Gabriel**, **Jack**, **Mikka**, **Kye** and **Mun** all at **[Kult](https://www.instagram.com/kultaustralia/)**
+is featured?: true
+Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 

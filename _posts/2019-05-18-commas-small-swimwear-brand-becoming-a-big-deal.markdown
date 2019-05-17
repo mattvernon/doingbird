@@ -34,7 +34,7 @@ You're always using crazy water-side locations in your campaigns. How do you fin
 
 I'm always on the hunt for new places of cultural and aesthetic significance. We've shot at Piscine Molitor in Paris where the first bikini was unveiled in 1946, an abandoned limestone quarry, the Northern beaches outside of Sydney, and this great little bathhouse called Gillian Adams (really recommend you checking it out — it's amazing). The photographers and stylists I work with are probably starting to dread my location scouting... We've hiked kms up mountains in 40 degree heat and once spent pretty much 24 hours driving around to all of these different beaches I'd found, with the team sleeping on and off in the backseat. I tend to get way too excited about extraordinary new locations and tell people before I have had a chance to shoot, so I'm going to have to be a little more tight-lipped!
 
-![SH 15_20190326_DOING BIRD_2144 copy.jpg](/uploads/SH%2015_20190326_DOING%20BIRD_2144%20copy.jpg)
+![SH 14_20190326_DOING BIRD_2128 copy.jpg](/uploads/SH%2014_20190326_DOING%20BIRD_2128%20copy.jpg)
 
 How would you sum up the Commas aesthetic?
 

@@ -57,7 +57,7 @@ What's your favourite piece that Commas offers?
 
 The swim shorts — when I started Commas that’s all I really wanted to make. My mission was to perfect them so that you wouldn’t want to take them off... The rest of the wardrobe we make is really designed to complement the swimwear. Commas aims to one day provide 'a full menswear wardrobe for holidays and everyday', but swimwear will always be at the heart of what we do.
 
-![SH 16_20190326_DOING BIRD_2471.jpg](/uploads/SH%2016_20190326_DOING%20BIRD_2471.jpg)
+![SH 13_20190326_DOING BIRD_2006 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_2006%20copy.jpg)
 
 Do you think swim briefs are superior to swim shorts?
 
@@ -66,6 +66,8 @@ I don’t think you'll have heard that from me, but I can’t pretend I'm a not 
 What makes Commas swimwear better than wearing no swimwear?
 
 That's a question I ask myself every single day.
+
+![SH 16_20190326_DOING BIRD_2471.jpg](/uploads/SH%2016_20190326_DOING%20BIRD_2471.jpg)
 
 What business lessons have you learned three years in with Commas?
 

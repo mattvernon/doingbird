@@ -51,7 +51,7 @@ What makes Commas' swimwear so special compared to other swimmers?
 
 There’s so many other swimwear brands I love but I feel that Commas has a unique point of difference. The swimwear is not designed to only be worn in the water or to the beach but really to be worn throughout life. Plus, we really do invest in gorgeous fabrics from the finest Italian and Japanese mills.
 
-![SH 13_20190326_DOING BIRD_1894 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_1894%20copy.jpg)
+![SH 10_20190326_DOING BIRD_1565 copy.jpg](/uploads/SH%2010_20190326_DOING%20BIRD_1565%20copy.jpg)
 
 What's your favourite piece that Commas offers?
 
@@ -78,3 +78,5 @@ So many, but by far the most important lesson is that success comes from buildin
 Do you have a five year plan? What's in it? Can we steal it?
 
 We have huge goals for Commas however being patient with the right things has proven to be a virtue.
+
+![SH 13_20190326_DOING BIRD_1894 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_1894%20copy.jpg)

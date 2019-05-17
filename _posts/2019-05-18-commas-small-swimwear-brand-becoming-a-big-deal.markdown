@@ -1,7 +1,6 @@
 ---
 title: Commas, Small Swimwear Brand Becoming a Big Deal
 date: 2019-05-18 10:00:00 +10:00
-published: false
 categories:
 - Features
 tags:

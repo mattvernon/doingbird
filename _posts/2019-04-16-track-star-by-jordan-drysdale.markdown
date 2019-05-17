@@ -14,7 +14,7 @@ Credits Text: |-
   talent **Riley** at **[People Agency](https://www.instagram.com/people.agency/)**
   fashion assistant **Charmaine Salvacion**
   hair assistant **Gemma Victoria**
-is featured?: true
+is featured?: false
 Blurb: Photographs by Jordan Drysdale
 layout: gallery
 ---

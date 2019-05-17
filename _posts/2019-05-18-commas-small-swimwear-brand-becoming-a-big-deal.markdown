@@ -28,8 +28,6 @@ Did you grow up in the surf?
 
 I did! Most of my childhood I grew up surfing a place nicknamed ‘Sandshoes’, around the corner from my parents' place. It’s a friendly-looking wave that starts at the edge of an ocean pool. I still go there a lot, and it frequently features on Commas' Instagram. It’s always had the most amazing energy and community around it. Each morning at sunrise there are a bunch of elderly men and women who swim in the ocean pool and you can hear them laughing, singing and splashing around as you walk down the street. They always have the biggest smiles on their faces and seem so content. Since I was young I’ve always planned to be doing the same thing at their age.
 
-![SH 16_20190326_DOING BIRD_2471.jpg](/uploads/SH%2016_20190326_DOING%20BIRD_2471.jpg)
-
 You're always using crazy water-side locations in your campaigns. How do you find them?
 
 I'm always on the hunt for new places of cultural and aesthetic significance. We've shot at Piscine Molitor in Paris where the first bikini was unveiled in 1946, an abandoned limestone quarry, the Northern beaches outside of Sydney, and this great little bathhouse called Gillian Adams (really recommend you checking it out — it's amazing). The photographers and stylists I work with are probably starting to dread my location scouting... We've hiked kms up mountains in 40 degree heat and once spent pretty much 24 hours driving around to all of these different beaches I'd found, with the team sleeping on and off in the backseat. I tend to get way too excited about extraordinary new locations and tell people before I have had a chance to shoot, so I'm going to have to be a little more tight-lipped!
@@ -65,6 +63,8 @@ What's your favourite piece that Commas offers?
 
 
 The swim shorts — when I started Commas that’s all I really wanted to make. My mission was to perfect them so that you wouldn’t want to take them off... The rest of the wardrobe we make is really designed to complement the swimwear. Commas aims to one day provide 'a full menswear wardrobe for holidays and everyday', but swimwear will always be at the heart of what we do.
+
+![SH 16_20190326_DOING BIRD_2471.jpg](/uploads/SH%2016_20190326_DOING%20BIRD_2471.jpg)
 
 Do you think swim briefs are superior to swim shorts?
 

@@ -38,29 +38,23 @@ How would you sum up the Commas aesthetic?
 
 Sophisticated and unrestrained.
 
-![SH 1_20190326_DOING BIRD_0124 copy.jpg](/uploads/SH%201_20190326_DOING%20BIRD_0124%20copy.jpg)
-
 Which films have inspired Commas' aquatic aesthetic?
-
 
 So many! Film is a love of mine and one of my favourite forms of inspiration. The SS19 collection was inspired by the early scenes of Luc Besson’s 1988 free-diving film, *Le Grand Bleu*, however for me It’s not always purely the visual. The collection I’m currently working on is again inspired by a period film but I guess it has different layers and it’s heavily influenced by the score and soundtrack.
 
-![SH 13_20190326_DOING BIRD_1894 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_1894%20copy.jpg)
+![SH 1_20190326_DOING BIRD_0124 copy.jpg](/uploads/SH%201_20190326_DOING%20BIRD_0124%20copy.jpg)
 
 Are there any Australian icons, dead or alive, that you'd like to see in Commas?
 
-
 Actor Peter Finch, but I’m not sure if we get to claim him as an Australian.
-
-![SH 12_20190326_DOING BIRD_1845 copy.jpg](/uploads/SH%2012_20190326_DOING%20BIRD_1845%20copy.jpg)
 
 What makes Commas' swimwear so special compared to other swimmers?
 
-
 There’s so many other swimwear brands I love but I feel that Commas has a unique point of difference. The swimwear is not designed to only be worn in the water or to the beach but really to be worn throughout life. Plus, we really do invest in gorgeous fabrics from the finest Italian and Japanese mills.
 
-What's your favourite piece that Commas offers?
+![SH 13_20190326_DOING BIRD_1894 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_1894%20copy.jpg)
 
+What's your favourite piece that Commas offers?
 
 The swim shorts — when I started Commas that’s all I really wanted to make. My mission was to perfect them so that you wouldn’t want to take them off... The rest of the wardrobe we make is really designed to complement the swimwear. Commas aims to one day provide 'a full menswear wardrobe for holidays and everyday', but swimwear will always be at the heart of what we do.
 
@@ -68,20 +62,18 @@ The swim shorts — when I started Commas that’s all I really wanted to make. 
 
 Do you think swim briefs are superior to swim shorts?
 
-
 I don’t think you'll have heard that from me, but I can’t pretend I'm a not a fan of having an upper thigh tan in summer.
 
 What makes Commas swimwear better than wearing no swimwear?
-
 
 That's a question I ask myself every single day.
 
 What business lessons have you learned three years in with Commas?
 
-
 So many, but by far the most important lesson is that success comes from building the right team and making sure you look after them first. Also, don’t be afraid to reach out to people whose craft you admire; there is so much to be learned through different disciplines and different walks of life, and starting discussions with different creatives can lead you all sorts of great places.
 
-Do you have a five year plan? What's in it? Can we steal it?
+![SH 12_20190326_DOING BIRD_1845 copy.jpg](/uploads/SH%2012_20190326_DOING%20BIRD_1845%20copy.jpg)
 
+Do you have a five year plan? What's in it? Can we steal it?
 
 We have huge goals for Commas however being patient with the right things has proven to be a virtue.

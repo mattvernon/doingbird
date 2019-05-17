@@ -78,3 +78,5 @@ So many, but by far the most important lesson is that success comes from buildin
 Do you have a five year plan? What's in it? Can we steal it?
 
 We have huge goals for Commas however being patient with the right things has proven to be a virtue.
+
+![SH 15_20190326_DOING BIRD_2144 copy.jpg](/uploads/SH%2015_20190326_DOING%20BIRD_2144%20copy.jpg)

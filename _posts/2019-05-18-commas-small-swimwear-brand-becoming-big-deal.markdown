@@ -1,5 +1,5 @@
 ---
-title: Commas, Small Swimwear Brand Becoming a Big Deal
+title: Commas, Small Swimwear Brand Becoming Big Deal
 date: 2019-05-18 10:00:00 +10:00
 categories:
 - Features
@@ -7,7 +7,7 @@ tags:
 - Shoot
 Main Image: "/uploads/SH%207_20190326_DOING%20BIRD_1041%20copy.jpg"
 is featured?: true
-Blurb: Photographs Tim Ashton
+Blurb: Photographs by Tim Ashton
 ---
 
 photographs **[Tim Ashton](https://www.instagram.com/timjohntom/)**
@@ -27,6 +27,8 @@ Did you grow up in the surf?
 
 I did! Most of my childhood I grew up surfing a place nicknamed ‘Sandshoes’, around the corner from my parents' place. It’s a friendly-looking wave that starts at the edge of an ocean pool. I still go there a lot, and it frequently features on Commas' Instagram. It’s always had the most amazing energy and community around it. Each morning at sunrise there are a bunch of elderly men and women who swim in the ocean pool and you can hear them laughing, singing and splashing around as you walk down the street. They always have the biggest smiles on their faces and seem so content. Since I was young I’ve always planned to be doing the same thing at their age.
 
+![SH 1_20190326_DOING BIRD_0124 copy.jpg](/uploads/SH%201_20190326_DOING%20BIRD_0124%20copy.jpg)
+
 You're always using crazy water-side locations in your campaigns. How do you find them?
 
 I'm always on the hunt for new places of cultural and aesthetic significance. We've shot at Piscine Molitor in Paris where the first bikini was unveiled in 1946, an abandoned limestone quarry, the Northern beaches outside of Sydney, and this great little bathhouse called Gillian Adams (really recommend you checking it out — it's amazing). The photographers and stylists I work with are probably starting to dread my location scouting... We've hiked kms up mountains in 40 degree heat and once spent pretty much 24 hours driving around to all of these different beaches I'd found, with the team sleeping on and off in the backseat. I tend to get way too excited about extraordinary new locations and tell people before I have had a chance to shoot, so I'm going to have to be a little more tight-lipped!
@@ -41,7 +43,7 @@ Which films have inspired Commas' aquatic aesthetic?
 
 So many! Film is a love of mine and one of my favourite forms of inspiration. The SS19 collection was inspired by the early scenes of Luc Besson’s 1988 free-diving film, *Le Grand Bleu*, however for me It’s not always purely the visual. The collection I’m currently working on is again inspired by a period film but I guess it has different layers and it’s heavily influenced by the score and soundtrack.
 
-![SH 1_20190326_DOING BIRD_0124 copy.jpg](/uploads/SH%201_20190326_DOING%20BIRD_0124%20copy.jpg)
+![SH 15_20190326_DOING BIRD_2144 copy.jpg](/uploads/SH%2015_20190326_DOING%20BIRD_2144%20copy.jpg)
 
 Are there any Australian icons, dead or alive, that you'd like to see in Commas?
 
@@ -51,7 +53,7 @@ What makes Commas' swimwear so special compared to other swimmers?
 
 There’s so many other swimwear brands I love but I feel that Commas has a unique point of difference. The swimwear is not designed to only be worn in the water or to the beach but really to be worn throughout life. Plus, we really do invest in gorgeous fabrics from the finest Italian and Japanese mills.
 
-![SH 13_20190326_DOING BIRD_1894 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_1894%20copy.jpg)
+![SH 10_20190326_DOING BIRD_1565 copy.jpg](/uploads/SH%2010_20190326_DOING%20BIRD_1565%20copy.jpg)
 
 What's your favourite piece that Commas offers?
 
@@ -67,13 +69,13 @@ What makes Commas swimwear better than wearing no swimwear?
 
 That's a question I ask myself every single day.
 
-![SH 16_20190326_DOING BIRD_2471.jpg](/uploads/SH%2016_20190326_DOING%20BIRD_2471.jpg)
+![SH 12_20190326_DOING BIRD_1845 copy.jpg](/uploads/SH%2012_20190326_DOING%20BIRD_1845%20copy.jpg)
 
 What business lessons have you learned three years in with Commas?
 
 So many, but by far the most important lesson is that success comes from building the right team and making sure you look after them first. Also, don’t be afraid to reach out to people whose craft you admire; there is so much to be learned through different disciplines and different walks of life, and starting discussions with different creatives can lead you all sorts of great places.
 
-![SH 12_20190326_DOING BIRD_1845 copy.jpg](/uploads/SH%2012_20190326_DOING%20BIRD_1845%20copy.jpg)
+![SH 13_20190326_DOING BIRD_1894 copy.jpg](/uploads/SH%2013_20190326_DOING%20BIRD_1894%20copy.jpg)
 
 Do you have a five year plan? What's in it? Can we steal it?
 

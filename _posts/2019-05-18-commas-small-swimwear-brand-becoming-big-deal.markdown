@@ -7,7 +7,7 @@ tags:
 - Shoot
 Main Image: "/uploads/SH%207_20190326_DOING%20BIRD_1041%20copy.jpg"
 is featured?: true
-Blurb: Photographs Tim Ashton
+Blurb: Photographs by Tim Ashton
 ---
 
 photographs **[Tim Ashton](https://www.instagram.com/timjohntom/)**

@@ -12,6 +12,7 @@ Blurb: Photographs by Tim Ashton
 
 photographs **[Tim Ashton](https://www.instagram.com/timjohntom/)**
 words **[Zac Bayly](https://www.instagram.com/zacbayly/)**
+grooming **[Madison Voloshin](https://www.instagram.com/badisonv/)**
 
 Richard Jarman is the Sydney-based surfer and economist-turned-designer whose men's resort and swimwear brand Commas is (yes I'm gonna say it) making waves. It's been worn by big deals Chris Hemsworth, Jordan Barrett, and Luke Evans on the covers of big deal magazines such as *Vogue* and *Esquire* (*GQ* also called it 'Steve Lacy's favourite brand'!); it was the first swimwear label EVER to represent Australia at the Italian fashion festival Pitti Uomo, and it's also the most expensive swimwear available via online retail behemoth Matches Fashion (because everything's made from very fancy fabrics from Italy and Japan). What's his secret? Is it a not-so-secret genuine passion for his beachside lifestyle and the fashions that go with it? Or is it something way more sinister, something dark and scary that would shock you to your core... (Tbh it's a genuine passion for his beachside lifestyle and the fashions that go with it.)
 

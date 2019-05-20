@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+layout: post
 ---
 
 ![03_05_2019_Holiday_Sidewinder_SH07_1180.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH07_1180.jpg)

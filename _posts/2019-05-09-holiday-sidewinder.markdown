@@ -11,3 +11,6 @@ tags:
 ![03_05_2019_Holiday_Sidewinder_SH07_1180.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH07_1180.jpg)
 **[Madam Virtue](https://madamvirtue.com.au/)** top
 
+![03_05_2019_Holiday_Sidewinder_SH06_1090 1.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH06_1090%201.jpg)
+**[Marda Label](https://www.instagram.com/marda_label/)** cape and **Voodoo** tights (worn throughout)
+

@@ -34,3 +34,7 @@ layout: gallery
 ![03_05_2019_Holiday_Sidewinder_SH04_0937.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH04_0937.jpg)
 **Roberto Cavalli** necklace from **[Madam Virtue](https://madamvirtue.com.au/)**, talent's own bra
 
+![03_05_2019_Holiday_Sidewinder_SH04_0867.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH04_0867.jpg)
+
+
+

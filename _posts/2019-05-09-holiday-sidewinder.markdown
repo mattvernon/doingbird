@@ -23,3 +23,6 @@ tags:
 ![03_05_2019_Holiday_Sidewinder_SH02_0316.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH02_0316.jpg)
 **Comme Des Garcons** coat & **Balenciaga** necklace from **[Madam Virtue](https://madamvirtue.com.au/)**, vintage **YSL** ring and **Voodoo** tights
 
+![03_05_2019_Holiday_Sidewinder_SH04_0937.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH04_0937.jpg)
+**Roberto Cavalli** necklace from **[Madam Virtue](https://madamvirtue.com.au/)**, talent's own bra
+

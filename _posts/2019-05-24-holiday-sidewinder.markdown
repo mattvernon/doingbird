@@ -10,6 +10,9 @@ Credits Text: |
   photographs **[Amelia J Dowd](https://www.instagram.com/ameliajdowd/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
   styling **[Jade Leung](https://www.instagram.com/jadeleungstylist/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
   hair & make-up **[Georgia Gaillard](https://www.instagram.com/gg.mua/)**
+  talent **[Holiday Sidewinder](https://www.instagram.com/holidaysidewinder/)**
+is featured?: true
+Blurb: Photographs by Amelia J Dowd
 layout: gallery
 ---
 

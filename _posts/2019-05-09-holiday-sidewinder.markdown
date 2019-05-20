@@ -21,4 +21,5 @@ tags:
 **[Marda Label](https://www.instagram.com/marda_label/)** jumpsuit and stylist's own vintage **Balenciaga** rings
 
 ![03_05_2019_Holiday_Sidewinder_SH02_0316.jpg](/uploads/03_05_2019_Holiday_Sidewinder_SH02_0316.jpg)
-**Comme Des Garcons** coat from **[Madam Virtue](https://madamvirtue.com.au/)**
+**Comme Des Garcons** coat & **Balenciaga** necklace from **[Madam Virtue](https://madamvirtue.com.au/)**, vintage **YSL** ring and **Voodoo** tights
+

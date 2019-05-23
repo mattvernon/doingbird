@@ -5,7 +5,7 @@ categories:
 - Features
 tags:
 - Shoot
-Main Image: "/uploads/03_05_2019_Holiday_Sidewinder_SH07_1180.jpg"
+Main Image: "/uploads/03_05_2019_Holiday_Sidewinder_SH06_1098.jpg"
 Credits Text: |
   photographs **[Amelia J Dowd](https://www.instagram.com/ameliajdowd/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
   styling **[Jade Leung](https://www.instagram.com/jadeleungstylist/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**

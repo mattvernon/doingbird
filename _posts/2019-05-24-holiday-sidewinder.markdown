@@ -1,11 +1,12 @@
 ---
 title: Holiday Sidewinder
-date: 2019-05-24 20:30:00 +10:00
+date: 2019-05-24 08:30:00 +10:00
 published: false
 categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/03_05_2019_Holiday_Sidewinder_SH01_0049.jpg"
 Credits Text: |
   photographs **[Amelia J Dowd](https://www.instagram.com/ameliajdowd/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
   styling **[Jade Leung](https://www.instagram.com/jadeleungstylist/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**

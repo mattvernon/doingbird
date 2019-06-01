@@ -6,5 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+is featured?: true
+Blurb: Photographs by Levon Baird
 ---
 

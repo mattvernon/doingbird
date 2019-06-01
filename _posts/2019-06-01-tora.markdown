@@ -1,0 +1,14 @@
+---
+title: Tora
+date: 2019-06-01 18:25:00 +10:00
+published: false
+categories:
+- Features
+tags:
+- Shoot
+Credits Text: photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
+  at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+is featured?: true
+Blurb: Photographs by Levon Baird
+---
+

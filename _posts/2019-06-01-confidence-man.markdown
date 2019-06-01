@@ -7,6 +7,12 @@ categories:
 - Features
 tags:
 - Shoot
+Credits Text: |-
+  photographs **[Jordan Drysdale](https://www.instagram.com/jordandrysdale/)**
+  styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+  talent **[Confidence Man](https://www.instagram.com/confidenceman_/)**
+is featured?: true
+Blurb: Photographs by Jordan Drysdale
 layout: gallery
 ---
 

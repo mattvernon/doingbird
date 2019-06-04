@@ -10,8 +10,9 @@ Credits Text: |-
   photographs **[Oliver Begg](https://www.instagram.com/oliver.begg/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/
-  )**
-  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)**
+  )** using **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)** and **[Davines Australia](https://www.instagram.com/davines_australia/)**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
+  model **[Dominika](https://www.instagram.com/ddwska/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 is featured?: true
 Blurb: Photographs by Oliver Begg
 layout: gallery

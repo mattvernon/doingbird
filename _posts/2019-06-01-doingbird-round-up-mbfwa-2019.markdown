@@ -33,3 +33,11 @@ photographs by **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
 
 ![DoingBird_fashion week355.jpg](/uploads/DoingBird_fashion%20week355.jpg)
 
+**Anna Quan**
+![DoingBird_fashion week240.jpg](/uploads/DoingBird_fashion%20week240.jpg)
+
+![DoingBird_fashion week245.jpg](/uploads/DoingBird_fashion%20week245.jpg)
+
+![DoingBird_fashion week265.jpg](/uploads/DoingBird_fashion%20week265.jpg)
+
+![DoingBird_fashion week322.jpg](/uploads/DoingBird_fashion%20week322.jpg)

@@ -1,0 +1,34 @@
+---
+title: Eventide
+date: 2019-06-04 20:30:00 +10:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Credits Text: |-
+  photographs **[Oliver Begg](https://www.instagram.com/oliver.begg/)**
+  styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/
+  )**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)**
+is featured?: true
+Blurb: Photographs by Oliver Begg
+layout: gallery
+---
+
+![190501_DB_EVENTIDE_08.jpg](/uploads/190501_DB_EVENTIDE_08.jpg)
+
+![190501_DB_EVENTIDE_02.jpg](/uploads/190501_DB_EVENTIDE_02.jpg)
+
+![190501_DB_EVENTIDE_07.jpg](/uploads/190501_DB_EVENTIDE_07.jpg)
+
+![190501_DB_EVENTIDE_09.jpg](/uploads/190501_DB_EVENTIDE_09.jpg)
+
+![190501_DB_EVENTIDE_06.jpg](/uploads/190501_DB_EVENTIDE_06.jpg)
+
+![190501_DB_EVENTIDE_05.jpg](/uploads/190501_DB_EVENTIDE_05.jpg)
+
+![190501_DB_EVENTIDE_03.jpg](/uploads/190501_DB_EVENTIDE_03.jpg)
+
+![190501_DB_EVENTIDE_12.jpg](/uploads/190501_DB_EVENTIDE_12.jpg)

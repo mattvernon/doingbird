@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/DoingBird_fashion%20week502.jpg"
 is featured?: true
 Blurb: Photographs by Max Doyle
 layout: post

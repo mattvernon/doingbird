@@ -41,3 +41,17 @@ photographs by **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
 ![DoingBird_fashion week265.jpg](/uploads/DoingBird_fashion%20week265.jpg)
 
 ![DoingBird_fashion week322.jpg](/uploads/DoingBird_fashion%20week322.jpg)
+
+**Matteau**
+![DoingBird_fashion week941.jpg](/uploads/DoingBird_fashion%20week941.jpg)
+
+![DoingBird_fashion week938.jpg](/uploads/DoingBird_fashion%20week938.jpg)
+
+**Jonathan Simkhai**
+![DoingBird_fashion week1013.jpg](/uploads/DoingBird_fashion%20week1013.jpg)
+
+![DoingBird_fashion week1068.jpg](/uploads/DoingBird_fashion%20week1068.jpg)
+
+![DoingBird_fashion week1045.jpg](/uploads/DoingBird_fashion%20week1045.jpg)
+
+![DoingBird_fashion week1104.jpg](/uploads/DoingBird_fashion%20week1104.jpg)

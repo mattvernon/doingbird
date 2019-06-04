@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190501_DB_EVENTIDE_02.jpg"
 Credits Text: |-
   photographs **[Oliver Begg](https://www.instagram.com/oliver.begg/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**

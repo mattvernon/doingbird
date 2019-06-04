@@ -1,34 +1,42 @@
 ---
 title: Eventide
 date: 2019-06-04 20:30:00 +10:00
-published: false
 categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190501_DB_EVENTIDE_02.jpg"
 Credits Text: |-
   photographs **[Oliver Begg](https://www.instagram.com/oliver.begg/)**
   styling **[Suzannah Snow](https://www.instagram.com/suzannahsnow/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/
-  )**
-  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)**
+  )** using **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)** and **[Davines Australia](https://www.instagram.com/davines_australia/)**
+  make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
+  model **[Dominika](https://www.instagram.com/ddwska/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 is featured?: true
 Blurb: Photographs by Oliver Begg
 layout: gallery
 ---
 
 ![190501_DB_EVENTIDE_08.jpg](/uploads/190501_DB_EVENTIDE_08.jpg)
+**Dion Lee** jacket, shirt, top & skirt
 
 ![190501_DB_EVENTIDE_02.jpg](/uploads/190501_DB_EVENTIDE_02.jpg)
+**Anna Quan** jacket & pants
 
 ![190501_DB_EVENTIDE_07.jpg](/uploads/190501_DB_EVENTIDE_07.jpg)
+**Michael Lo Sorda88 coat
 
 ![190501_DB_EVENTIDE_09.jpg](/uploads/190501_DB_EVENTIDE_09.jpg)
+**Camilla & Marc** coat, **Michael Lo Sordo** jacket & shorts, **Kate Spade** bag, **Charles & Keith** shoes and **Levante** socks
 
 ![190501_DB_EVENTIDE_06.jpg](/uploads/190501_DB_EVENTIDE_06.jpg)
+**Dion Lee** top & pants
 
 ![190501_DB_EVENTIDE_05.jpg](/uploads/190501_DB_EVENTIDE_05.jpg)
+**INCU Collection** coat, **Lee Matthews** top & skirt
 
 ![190501_DB_EVENTIDE_03.jpg](/uploads/190501_DB_EVENTIDE_03.jpg)
+**Valet Studio** earrings
 
 ![190501_DB_EVENTIDE_12.jpg](/uploads/190501_DB_EVENTIDE_12.jpg)

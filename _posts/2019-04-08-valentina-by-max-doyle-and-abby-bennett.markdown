@@ -12,7 +12,7 @@ Credits Text: |-
   hair & make-up **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**
   model **[Valentina](https://www.instagram.com/shemelinaaa/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
   photography assistant **Jess Blunden**
-is featured?: false
+is featured?: true
 Blurb: Photographs by Max Doyle
 layout: gallery
 ---

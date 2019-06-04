@@ -1,5 +1,5 @@
 ---
-title: 'Doingbird Round-up: Australian Fashion Week 2019'
+title: 'Doingbird Round-up: MBFWA 2019'
 date: 2019-06-01 18:18:00 +10:00
 published: false
 categories:

@@ -12,7 +12,7 @@ Credits Text: |-
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Davines](https://www.instagram.com/davines_australia/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** at **[Work Agency](https://www.instagram.com/workagency/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
   model **[Scarlett Leithold](https://www.instagram.com/scarlett/)** at **[Viviens](https://www.instagram.com/viviensmodelmgmt/)**
-is featured?: true
+is featured?: false
 Blurb: Photographs by Mia Rankin
 layout: gallery
 ---

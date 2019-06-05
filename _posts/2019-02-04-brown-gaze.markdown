@@ -12,7 +12,7 @@ Credits Text: |
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)**
   make-up **[Sandra Cooke](https://www.instagram.com/sandracooke/)** at **[The Wall Group](https://www.instagram.com/thewallgroup/)**
   photography assistant **Ryan Flanagan**
-  fashion assistant **Emma Gyallastrom**
+  fashion assistant **Emma Gyllstrom**
   make-up assistant **Jenny Roberts**
   hair assistant **Sacha Lorge**
 

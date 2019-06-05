@@ -1,12 +1,12 @@
 ---
 title: 'Doingbird Round-up: MBFWA 2019'
-date: 2019-06-01 18:18:00 +10:00
-published: false
+date: 2019-05-20 18:30:00 +10:00
 categories:
 - Features
 tags:
 - Shoot
-is featured?: true
+Main Image: "/uploads/DoingBird_fashion%20week502.jpg"
+is featured?: false
 Blurb: Photographs by Max Doyle
 layout: post
 ---

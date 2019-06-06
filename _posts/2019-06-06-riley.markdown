@@ -6,6 +6,11 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: |-
+  photographs **[Gavin Green](https://www.instagram.com/gavin__green/)**
+  stylist **[Elle Packham]**
+  stylist's assistant **Laura Vaquero**
+  talent **[Riley]** at **[People Agency]**
 layout: gallery
 ---
 

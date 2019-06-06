@@ -8,7 +8,7 @@ tags:
 - Shoot
 Credits Text: |-
   photographs **[Gavin Green](https://www.instagram.com/gavin__green/)**
-  stylist **[Elle Packham]**
+  stylist **[Elle Packham](https://www.instagram.com/elle_packham/)**
   stylist's assistant **Laura Vaquero**
   talent **[Riley]** at **[People Agency]**
 layout: gallery

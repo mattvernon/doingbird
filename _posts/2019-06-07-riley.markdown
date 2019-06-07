@@ -1,7 +1,6 @@
 ---
 title: Riley
-date: 2019-06-06 00:00:00 +10:00
-published: false
+date: 2019-06-07 00:00:00 +10:00
 categories:
 - Fashion
 tags:
@@ -12,6 +11,8 @@ Credits Text: |-
   stylist **[Elle Packham](https://www.instagram.com/elle_packham/)**
   stylist's assistant **Laura Vaquero**
   talent **[Riley](https://www.instagram.com/ri13d/)** at **[People Agency](https://www.instagram.com/people.agency/)**
+is featured?: true
+Blurb: Photographs by Gavin Green
 layout: gallery
 ---
 
@@ -37,4 +38,4 @@ layout: gallery
 **Acne** jeans, vintage **Paul Smith** blazer and stylist's own vest
 
 ![GG_EP_08.jpg](/uploads/GG_EP_08.jpg)
-**Acne** shirt & jumper and **Strateas Carlucci* pants
+**Acne** shirt & jumper and **Strateas Carlucci** pants

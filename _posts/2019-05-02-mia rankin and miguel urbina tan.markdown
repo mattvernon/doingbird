@@ -12,7 +12,7 @@ Credits Text: |-
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
   make-up **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**
   models **[Agi](https://www.instagram.com/agiakur/)** at **[IMG](https://www.instagram.com/imgmodels/)** and **[Zoe Wurm](https://www.instagram.com/zoewurm/)** at **[Kult](https://www.instagram.com/zoewurm/)**
-is featured?: true
+is featured?: false
 Blurb: Photographs by Mia Rankin
 layout: gallery
 ---

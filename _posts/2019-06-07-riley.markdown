@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/GG_EP_02.jpg"
+Main Image: "/uploads/GG_EP_07.jpg"
 Credits Text: |-
   photographs **[Gavin Green](https://www.instagram.com/gavin__green/)**
   stylist **[Elle Packham](https://www.instagram.com/elle_packham/)**

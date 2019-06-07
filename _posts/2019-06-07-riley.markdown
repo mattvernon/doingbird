@@ -12,6 +12,8 @@ Credits Text: |-
   stylist **[Elle Packham](https://www.instagram.com/elle_packham/)**
   stylist's assistant **Laura Vaquero**
   talent **[Riley](https://www.instagram.com/ri13d/)** at **[People Agency](https://www.instagram.com/people.agency/)**
+is featured?: true
+Blurb: Photographs by Gavin Green
 layout: gallery
 ---
 

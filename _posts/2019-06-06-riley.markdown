@@ -6,26 +6,35 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/GG_EP_02.jpg"
 Credits Text: |-
   photographs **[Gavin Green](https://www.instagram.com/gavin__green/)**
   stylist **[Elle Packham](https://www.instagram.com/elle_packham/)**
   stylist's assistant **Laura Vaquero**
-  talent **[Riley]** at **[People Agency]**
+  talent **[Riley](https://www.instagram.com/ri13d/)** at **[People Agency](https://www.instagram.com/people.agency/)**
 layout: gallery
 ---
 
+![GG_EP_01.jpg](/uploads/GG_EP_01.jpg)
 **Acne** jeans, vintage **Paul Smith** blazer, **Uniqlo** socks (worn throughout) and stylist's own vest & loafers
 
+![GG_EP_02.jpg](/uploads/GG_EP_02.jpg)
 **Acne** shirt & pants, stylist's own necklace and model's own rings (worn throughout)
 
+![GG_EP_03.jpg](/uploads/GG_EP_03.jpg)
 **Strateas Carlucci** blazer, **Hanes** singlet, **Acne** pants and **Mitchell's Adventure** belt
 
+![GG_EP_04.jpg](/uploads/GG_EP_04.jpg)
 **Acne** coat, vintage **Florida** t-shirt, **Mitchell's Adventure** belt and **Strateas Carlucci** pants
 
+![GG_EP_05.jpg](/uploads/GG_EP_05.jpg)
 **Strateas Carlucci** coat, **Hanes** t-shirt and stylist's own striped shirt
 
+![GG_EP_06.jpg](/uploads/GG_EP_06.jpg)
 **Acne** shirt & pants
 
+![GG_EP_07.jpg](/uploads/GG_EP_07.jpg)
 **Acne** jeans, vintage **Paul Smith** blazer and stylist's own vest
 
+![GG_EP_08.jpg](/uploads/GG_EP_08.jpg)
 **Acne** shirt & jumper and **Strateas Carlucci* pants

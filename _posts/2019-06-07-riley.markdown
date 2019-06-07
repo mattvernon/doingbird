@@ -17,7 +17,7 @@ layout: gallery
 ---
 
 ![GG_EP_01.jpg](/uploads/GG_EP_01.jpg)
-**Acne** jeans, vintage **Paul Smith** blazer, **Uniqlo** socks (worn throughout) and stylist's own vest & loafers
+**Acne** jeans, vintage **Paul Smith** blazer, **Uniqlo** socks (worn throughout) and stylist's own vest & shoes
 
 ![GG_EP_02.jpg](/uploads/GG_EP_02.jpg)
 **Acne** shirt & pants, stylist's own necklace and model's own rings (worn throughout)
@@ -32,7 +32,7 @@ layout: gallery
 **Strateas Carlucci** coat, **Hanes** t-shirt and stylist's own striped shirt
 
 ![GG_EP_06.jpg](/uploads/GG_EP_06.jpg)
-**Acne** shirt & pants
+**Acne** shirt & pants, stylist's own necklace & shoes
 
 ![GG_EP_07.jpg](/uploads/GG_EP_07.jpg)
 **Acne** jeans, vintage **Paul Smith** blazer and stylist's own vest

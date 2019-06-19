@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/Bene_2.jpg"
 Credits Text: |-
   photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

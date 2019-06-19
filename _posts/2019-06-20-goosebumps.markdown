@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/190525_DB_GOOSEBUMPS_01.jpg"
+Main Image: "/uploads/190525_DB_GOOSEBUMPS_08-223768.jpg"
 Credits Text: |-
   photographs **[Oliver Begg](http://instagram.com/oliver.begg)**
   styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**

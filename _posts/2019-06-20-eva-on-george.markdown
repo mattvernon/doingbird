@@ -7,7 +7,7 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
-  photographs **Daniel Goode** at **The Artist Group**
+  photographs **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling **Miguel Urbina Tan**
   hair **Joel Forman** at **Lion Artist Management**
   make-up **Corina Wilmshurst**
@@ -17,3 +17,14 @@ Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+**Miu Miu** top, shorts, shoes & socks
+
+**Chanel** jacket, pants, shoes, belt & bags
+
+**Christian Dior** vest, skirt, bodysuit & shoes
+
+**Christian Dior** dress, bodysuit & shoes
+
+**Salvatore Ferragamo** blazer, pants, shoes & brief case
+
+**Romance Was Born** jumpsuit and **Miu Miu** shoes

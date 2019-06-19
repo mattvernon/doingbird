@@ -10,9 +10,9 @@ Main Image: "/uploads/190525_DB_GOOSEBUMPS_01.jpg"
 Credits Text: |-
   photographs **[Oliver Begg](http://instagram.com/oliver.begg)**
   styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**
-  hair **Kyye** at **Work Agency**
-  make-up **Kristyan Lo**
-  model **Aylah** at **Kult**
+  hair **[Kyye](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
+  make-up **[Kristyan Low](https://www.instagram.com/kristyanlow/)** at **[DLM](https://www.instagram.com/DLM_AU/)**
+  model **[Aylah](https://www.instagram.com/_aylah_/)** at **[Kult](https://www.instagram.com/kultaustralia/)**
 is featured?: true
 Blurb: Photographs by Oliver Begg
 layout: gallery

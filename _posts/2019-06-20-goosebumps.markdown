@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/190525_DB_GOOSEBUMPS_01.jpg"
+Main Image: "/uploads/190525_DB_GOOSEBUMPS_08-223768.jpg"
 Credits Text: |-
   photographs **[Oliver Begg](http://instagram.com/oliver.begg)**
   styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**
@@ -43,10 +43,10 @@ layout: gallery
 **Chanel** jumper, pants, backpack & shoes
 
 ![190525_DB_GOOSEBUMPS_09-cec4cd.jpg](/uploads/190525_DB_GOOSEBUMPS_09-cec4cd.jpg)
-**Strateas Carlucci** jumper, **Romance Was Born** dress & **Calvin Klein** sneakers
+**Strateas Carlucci** coat & dress
 
 ![190525_DB_GOOSEBUMPS_10-f910a8.jpg](/uploads/190525_DB_GOOSEBUMPS_10-f910a8.jpg)
-**Strateas Carlucci** coat & dress
+**Strateas Carlucci** jumper, **Romance Was Born** dress & **Calvin Klein** sneakers
 
 ![190525_DB_GOOSEBUMPS_12-04c476.jpg](/uploads/190525_DB_GOOSEBUMPS_12-04c476.jpg)
 **Nobody** t-shirt

@@ -15,3 +15,14 @@ is featured?: true
 Blurb: Photographs by Max Doyle
 ---
 
+![Bene_2.jpg](/uploads/Bene_2.jpg)
+
+![Bene_6.jpg](/uploads/Bene_6.jpg)
+
+![Bene_9.jpg](/uploads/Bene_9.jpg)
+
+![Bene_7.jpg](/uploads/Bene_7.jpg)
+
+![Bene_4.jpg](/uploads/Bene_4.jpg)
+
+![Bene_1.jpg](/uploads/Bene_1.jpg)

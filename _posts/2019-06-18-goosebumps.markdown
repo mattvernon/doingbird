@@ -28,20 +28,28 @@ layout: gallery
 **Christopher Esber** top & skirt and **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_05.jpg](/uploads/190525_DB_GOOSEBUMPS_05.jpg)
+**Dries Van Noten** t-shirt from **Poepke**
 
 ![190525_DB_GOOSEBUMPS_03.jpg](/uploads/190525_DB_GOOSEBUMPS_03.jpg)
+**Jac + Jack** jumper, **Dion Lee** shorts and **Chanel** shoes
 
 ![190525_DB_GOOSEBUMPS_06.jpg](/uploads/190525_DB_GOOSEBUMPS_06.jpg)
+**Christian Dior** t-shirt, cardigan & trousers and **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_08-223768.jpg](/uploads/190525_DB_GOOSEBUMPS_08-223768.jpg)
+**Tory Burch** gown & **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_11-eaa671.jpg](/uploads/190525_DB_GOOSEBUMPS_11-eaa671.jpg)
+**Chanel** jumper, pants, backpack & shoes
 
 ![190525_DB_GOOSEBUMPS_09-cec4cd.jpg](/uploads/190525_DB_GOOSEBUMPS_09-cec4cd.jpg)
+**Strateas Carlucci** jumper, **Romance Was Born** dress & **Calvin Klein** sneakers
 
 ![190525_DB_GOOSEBUMPS_10-f910a8.jpg](/uploads/190525_DB_GOOSEBUMPS_10-f910a8.jpg)
+**Strateas Carlucci** coat & dress
 
 ![190525_DB_GOOSEBUMPS_12-04c476.jpg](/uploads/190525_DB_GOOSEBUMPS_12-04c476.jpg)
+**Nobody** t-shirt
 
 ![190525_DB_GOOSEBUMPS_13.jpg](/uploads/190525_DB_GOOSEBUMPS_13.jpg)
 

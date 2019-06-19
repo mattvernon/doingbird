@@ -11,7 +11,7 @@ Credits Text: |-
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**
-  model **Eva** at **IMG**
+  model **[Eva](https://www.instagram.com/evavarlamova/)** at **[IMG](https://www.instagram.com/imgmodels/)**
 is featured?: true
 Blurb: Photographs by Daniel Goode
 layout: gallery

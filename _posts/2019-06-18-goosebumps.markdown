@@ -8,8 +8,8 @@ tags:
 - Shoot
 Main Image: "/uploads/190525_DB_GOOSEBUMPS_01.jpg"
 Credits Text: |-
-  photographs **Oliver Begg**
-  styling **Aubree Smith**
+  photographs **[Oliver Begg](http://instagram.com/oliver.begg)**
+  styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**
   hair **Kyye** at **Work Agency**
   make-up **Kristyan Lo**
   model **Aylah** at **Kult**

@@ -7,6 +7,12 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/190525_DB_GOOSEBUMPS_01.jpg"
+Credits Text: |-
+  photographs **Oliver Begg**
+  styling **Aubree Smith**
+  hair **Kyye** at **Work Agency**
+  make-up **Kristyan Lo**
+  model **Aylah** at **Kult**
 is featured?: true
 Blurb: Photographs by Oliver Begg
 layout: gallery

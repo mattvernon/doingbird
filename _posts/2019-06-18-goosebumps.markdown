@@ -25,6 +25,7 @@ layout: gallery
 **Polo Ralph Lauren** jumper & dress
 
 ![190525_DB_GOOSEBUMPS_04.jpg](/uploads/190525_DB_GOOSEBUMPS_04.jpg)
+**Christopher Esber** top & skirt and **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_05.jpg](/uploads/190525_DB_GOOSEBUMPS_05.jpg)
 

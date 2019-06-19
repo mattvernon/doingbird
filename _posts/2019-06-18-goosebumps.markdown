@@ -19,8 +19,10 @@ layout: gallery
 ---
 
 ![190525_DB_GOOSEBUMPS_01.jpg](/uploads/190525_DB_GOOSEBUMPS_01.jpg)
+**Rag & Bone** t-shirt and **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_02.jpg](/uploads/190525_DB_GOOSEBUMPS_02.jpg)
+**Polo Ralph Lauren** jumper & dress
 
 ![190525_DB_GOOSEBUMPS_04.jpg](/uploads/190525_DB_GOOSEBUMPS_04.jpg)
 

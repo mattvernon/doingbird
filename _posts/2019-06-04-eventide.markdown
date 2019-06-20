@@ -13,7 +13,7 @@ Credits Text: |-
   )** using **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)** and **[Davines Australia](https://www.instagram.com/davines_australia/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** using **[MAC Cosmetics](https://www.instagram.com/maccosmetics/)**
   model **[Dominika](https://www.instagram.com/ddwska/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
-is featured?: true
+is featured?: false
 Blurb: Photographs by Oliver Begg
 layout: gallery
 ---

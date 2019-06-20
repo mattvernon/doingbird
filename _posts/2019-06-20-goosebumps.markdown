@@ -19,7 +19,7 @@ layout: gallery
 ---
 
 ![190525_DB_GOOSEBUMPS_01.jpg](/uploads/190525_DB_GOOSEBUMPS_01.jpg)
-**Rag & Bone** t-shirt and **Louis Vuitton** sneakers
+**Rag & Bone** t-shirt & dress and **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_02.jpg](/uploads/190525_DB_GOOSEBUMPS_02.jpg)
 **Polo Ralph Lauren** jumper & dress
@@ -49,7 +49,7 @@ layout: gallery
 **Strateas Carlucci** jumper, **Romance Was Born** dress & **Calvin Klein** sneakers
 
 ![190525_DB_GOOSEBUMPS_12-04c476.jpg](/uploads/190525_DB_GOOSEBUMPS_12-04c476.jpg)
-**Nobody** t-shirt
+**Strateas Carlucci** dress & jacket and **Louis Vuitton** sneakers
 
 ![190525_DB_GOOSEBUMPS_13.jpg](/uploads/190525_DB_GOOSEBUMPS_13.jpg)
 

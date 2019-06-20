@@ -14,6 +14,7 @@ Credits Text: |-
   talent **[Bene](https://www.instagram.com/benemusicc/)**
 is featured?: true
 Blurb: Photographs by Max Doyle
+layout: gallery
 ---
 
 ![Bene_2.jpg](/uploads/Bene_2.jpg)

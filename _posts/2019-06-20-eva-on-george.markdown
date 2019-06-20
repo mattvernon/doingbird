@@ -7,13 +7,24 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
-  photographs **Daniel Goode** at **The Artist Group**
-  styling **Miguel Urbina Tan**
-  hair **Joel Forman** at **Lion Artist Management**
-  make-up **Corina Wilmshurst**
-  model **Eva** at **IMG**
+  photographs **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**
+  model **[Eva](https://www.instagram.com/evavarlamova/)** at **[IMG](https://www.instagram.com/imgmodels/)**
 is featured?: true
 Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+**Miu Miu** top, shorts, shoes & socks
+
+**Chanel** jacket, pants, shoes, belt & bags
+
+**Christian Dior** vest, skirt, bodysuit & shoes
+
+**Christian Dior** dress, bodysuit & shoes
+
+**Salvatore Ferragamo** blazer, pants, shoes & brief case
+
+**Romance Was Born** jumpsuit and **Miu Miu** shoes

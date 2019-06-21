@@ -14,6 +14,8 @@ Credits Text: |+
   styling assistant **Louie Oblin**
   models **Adam Zammit** & **[Astrid Holler](https://www.instagram.com/astrid_holler/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 
+is featured?: true
+Blurb: Photographs by Jake Terrey
 layout: gallery
 ---
 

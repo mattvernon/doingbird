@@ -12,7 +12,7 @@ Credits Text: |+
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)**
   make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
   styling assistant **Louie Oblin**
-  models **Adam Zammit** & **Astrid Holler** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+  models **Adam Zammit** & **[Astrid Holler](https://www.instagram.com/astrid_holler/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 
 layout: gallery
 ---

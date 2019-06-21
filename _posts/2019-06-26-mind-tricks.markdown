@@ -32,8 +32,10 @@ Astrid wears **Fendi** blazer & pants and **Christopher Esber** shirt
 Astrid wears **Prada** shirt, jumper, corset & belt and **Salvatore Ferragamo** dress (worn underneath)
 
 ![09_DOINGBIRD_DUAL_1829.jpg](/uploads/09_DOINGBIRD_DUAL_1829.jpg)
+Astrid wears **Matin** top and **Fendi** dress (worn underneath)
 
 ![SCANS_21_05_190061.jpg](/uploads/SCANS_21_05_190061.jpg)
+
 
 ![SCANS_21_05_190065.jpg](/uploads/SCANS_21_05_190065.jpg)
 

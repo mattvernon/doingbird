@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/01_DOINGBIRD_DUAL_0448.jpg"
 Credits Text: |+
   photographs **[Jake Terrey](https://www.instagram.com/jaketerrey/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling & art direction **[Evan Betts](https://www.instagram.com/evanbeezy/)**
@@ -26,25 +27,28 @@ Astrid wears **Emporio Armani** coat
 Adam wears **Bally** coat, jumper & shoes and **Paul Smith** shoes
 
 ![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
-Astrid wears **Fendi** blazer & pants and **Christopher Esber** shirt
-
-![06_DOINGBIRD_DUAL_1397.jpg](/uploads/06_DOINGBIRD_DUAL_1397.jpg)
-Astrid wears **Prada** shirt, jumper, corset & belt and **Salvatore Ferragamo** dress (worn underneath)
+Astrid wears **Fendi** blazer & pants and **Christopher Esber** top
 
 ![09_DOINGBIRD_DUAL_1829.jpg](/uploads/09_DOINGBIRD_DUAL_1829.jpg)
 Astrid wears **Matin** top and **Fendi** dress (worn underneath)
 
 ![SCANS_21_05_190061.jpg](/uploads/SCANS_21_05_190061.jpg)
-
+Adam wears **Paul Smith** coat & jumper, **Prada** pants and **Salvatore Ferragamo** belt
 
 ![SCANS_21_05_190065.jpg](/uploads/SCANS_21_05_190065.jpg)
+Astrid wears **Prada** top, belt & corset
 
 ![SCANS_21_05_190073 1.jpg](/uploads/SCANS_21_05_190073%201.jpg)
+Astrid wears **Prada** top, belt & corset
 
 ![SCANS_21_05_190079.jpg](/uploads/SCANS_21_05_190079.jpg)
+Adam wears **Paul Smith** top & jacket, **Prada** belt and own jewellery
 
 ![SCANS_21_05_190083.jpg](/uploads/SCANS_21_05_190083.jpg)
+Adam wears **Paul Smith** jumper
 
 ![SCANS_21_05_190107.jpg](/uploads/SCANS_21_05_190107.jpg)
+Astrid wears **Prada** top
 
 ![SCANS_21_05_190117.jpg](/uploads/SCANS_21_05_190117.jpg)
+Astrid wears **Emporio Armani** coat and **Christopher Esber** top

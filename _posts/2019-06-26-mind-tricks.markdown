@@ -12,22 +12,30 @@ Credits Text: |+
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)**
   make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
   styling assistant **Louie Oblin**
-  models **Adam Zammit** & **Astrid Holler** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+  models **Adam Zammit** & **[Astrid Holler](https://www.instagram.com/astrid_holler/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 
+is featured?: true
+Blurb: Photographs by Jake Terrey
 layout: gallery
 ---
 
 ![01_DOINGBIRD_DUAL_0448.jpg](/uploads/01_DOINGBIRD_DUAL_0448.jpg)
+Astrid wears **Emporio Armani** coat
 
 ![03_DOINGBIRD_DUAL_0804.jpg](/uploads/03_DOINGBIRD_DUAL_0804.jpg)
+Adam wears **Bally** coat, jumper & shoes and **Paul Smith** shoes
 
 ![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
+Astrid wears **Fendi** blazer & pants and **Christopher Esber** shirt
 
 ![06_DOINGBIRD_DUAL_1397.jpg](/uploads/06_DOINGBIRD_DUAL_1397.jpg)
+Astrid wears **Prada** shirt, jumper, corset & belt and **Salvatore Ferragamo** dress (worn underneath)
 
 ![09_DOINGBIRD_DUAL_1829.jpg](/uploads/09_DOINGBIRD_DUAL_1829.jpg)
+Astrid wears **Matin** top and **Fendi** dress (worn underneath)
 
 ![SCANS_21_05_190061.jpg](/uploads/SCANS_21_05_190061.jpg)
+
 
 ![SCANS_21_05_190065.jpg](/uploads/SCANS_21_05_190065.jpg)
 

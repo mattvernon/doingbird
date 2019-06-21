@@ -6,9 +6,25 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/190424_Doingbird_Tora_SH01_205_FINAL.jpg"
 Credits Text: photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
   at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
 is featured?: true
 Blurb: Photographs by Levon Baird
 ---
 
+![190424_Doingbird_Tora_SH01_205_FINAL.jpg](/uploads/190424_Doingbird_Tora_SH01_205_FINAL.jpg)
+
+![190424_Doingbird_Tora_Film_.Group.jpg](/uploads/190424_Doingbird_Tora_Film_.Group.jpg)
+
+![190424_Doingbird_Tora_SH01_097_FINAL.jpg](/uploads/190424_Doingbird_Tora_SH01_097_FINAL.jpg)
+
+![190424_Doingbird_Tora_Film_Grid.jpg](/uploads/190424_Doingbird_Tora_Film_Grid.jpg)
+
+![190424_Doingbird_Tora_Film_03.jpg](/uploads/190424_Doingbird_Tora_Film_03.jpg)
+
+![190424_Doingbird_Tora_Film_02.jpg](/uploads/190424_Doingbird_Tora_Film_02.jpg)
+
+![190424_Doingbird_Tora_Film_04.jpg](/uploads/190424_Doingbird_Tora_Film_04.jpg)
+
+![190424_Doingbird_Tora_Film_01.jpg](/uploads/190424_Doingbird_Tora_Film_01.jpg)

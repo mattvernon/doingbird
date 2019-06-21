@@ -20,12 +20,16 @@ layout: gallery
 ---
 
 ![01_DOINGBIRD_DUAL_0448.jpg](/uploads/01_DOINGBIRD_DUAL_0448.jpg)
+Astrid wears **Emporio Armani** coat
 
 ![03_DOINGBIRD_DUAL_0804.jpg](/uploads/03_DOINGBIRD_DUAL_0804.jpg)
+Adam wears **Bally** coat, jumper & shoes and **Paul Smith** shoes
 
 ![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
+Astrid wears **Fendi** blazer & pants and **Christopher Esber** shirt
 
 ![06_DOINGBIRD_DUAL_1397.jpg](/uploads/06_DOINGBIRD_DUAL_1397.jpg)
+Astrid wears **Prada** shirt, jumper, corset & belt and **Salvatore Ferragamo** dress (worn underneath)
 
 ![09_DOINGBIRD_DUAL_1829.jpg](/uploads/09_DOINGBIRD_DUAL_1829.jpg)
 

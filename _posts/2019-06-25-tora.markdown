@@ -1,6 +1,6 @@
 ---
 title: Tora
-date: 2019-06-01 18:25:00 +10:00
+date: 2019-06-25 18:25:00 +10:00
 published: false
 categories:
 - Features

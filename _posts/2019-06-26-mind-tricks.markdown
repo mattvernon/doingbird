@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/01_DOINGBIRD_DUAL_0448.jpg"
 Credits Text: |+
   photographs **[Jake Terrey](https://www.instagram.com/jaketerrey/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling & art direction **[Evan Betts](https://www.instagram.com/evanbeezy/)**

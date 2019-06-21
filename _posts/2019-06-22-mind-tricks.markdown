@@ -23,3 +23,5 @@ layout: gallery
 
 ![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
 
+![06_DOINGBIRD_DUAL_1397.jpg](/uploads/06_DOINGBIRD_DUAL_1397.jpg)
+

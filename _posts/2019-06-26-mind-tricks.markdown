@@ -24,7 +24,7 @@ layout: gallery
 Astrid wears **Emporio Armani** coat
 
 ![03_DOINGBIRD_DUAL_0804.jpg](/uploads/03_DOINGBIRD_DUAL_0804.jpg)
-Adam wears **Bally** coat, jumper & shoes and **Paul Smith** shoes
+Adam wears **Paul Smith** jumper and **Bally** coat, pants & shoes
 
 ![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
 Astrid wears **Fendi** blazer & pants and **Christopher Esber** top

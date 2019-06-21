@@ -17,3 +17,9 @@ Credits Text: |+
 layout: gallery
 ---
 
+![01_DOINGBIRD_DUAL_0448.jpg](/uploads/01_DOINGBIRD_DUAL_0448.jpg)
+
+![03_DOINGBIRD_DUAL_0804.jpg](/uploads/03_DOINGBIRD_DUAL_0804.jpg)
+
+![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
+

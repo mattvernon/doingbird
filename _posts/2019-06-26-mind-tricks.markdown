@@ -28,9 +28,6 @@ Adam wears **Bally** coat, jumper & shoes and **Paul Smith** shoes
 ![04_DOINGBIRD_DUAL_0966.jpg](/uploads/04_DOINGBIRD_DUAL_0966.jpg)
 Astrid wears **Fendi** blazer & pants and **Christopher Esber** top
 
-![06_DOINGBIRD_DUAL_1397.jpg](/uploads/06_DOINGBIRD_DUAL_1397.jpg)
-Astrid wears **Prada** top, jumper, corset & belt and **Salvatore Ferragamo** dress (worn underneath)
-
 ![09_DOINGBIRD_DUAL_1829.jpg](/uploads/09_DOINGBIRD_DUAL_1829.jpg)
 Astrid wears **Matin** top and **Fendi** dress (worn underneath)
 

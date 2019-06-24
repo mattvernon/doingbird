@@ -1,6 +1,6 @@
 ---
 title: Eva On George
-date: 2019-06-20 00:21:00 +10:00
+date: 2019-06-25 18:30:00 +10:00
 published: false
 categories:
 - Fashion

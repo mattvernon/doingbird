@@ -10,7 +10,7 @@ Main Image: "/uploads/190410_Doingbirdmagazine_03-47f415.jpg"
 Credits Text: |-
   lensed by **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)**
   make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**
   model **[Eva](https://www.instagram.com/evavarlamova/)** at **[IMG](https://www.instagram.com/imgmodels/)**
   retouching **[Sara Donvito](http://www.sarahdonvito.com/)**

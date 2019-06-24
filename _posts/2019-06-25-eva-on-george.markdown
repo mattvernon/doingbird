@@ -6,8 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190410_Doingbirdmagazine_02-930245.jpg"
 Credits Text: |-
-  photographs **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
+  lensed by **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**

@@ -12,7 +12,7 @@ Credits Text: |+
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
   make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
   styling assistant **Louie Oblin**
-  models **Adam Zammit** & **[Astrid Holler](https://www.instagram.com/astrid_holler/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
+  models **[Adam Zammit](https://www.instagram.com/itsadamzammit/)** & **[Astrid Holler](https://www.instagram.com/astrid_holler/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 
 is featured?: true
 Blurb: Photographs by Jake Terrey

@@ -26,8 +26,11 @@ layout: gallery
 ![190410_Doingbirdmagazine_01-b73fcf.jpg](/uploads/190410_Doingbirdmagazine_01-b73fcf.jpg)
 **Christian Dior** vest, skirt, bodysuit & shoes
 
+![190410_Doingbirdmagazine_06.jpg](/uploads/190410_Doingbirdmagazine_06.jpg)
 **Christian Dior** dress, bodysuit & shoes
 
+![190410_Doingbirdmagazine_04.jpg](/uploads/190410_Doingbirdmagazine_04.jpg)
 **Salvatore Ferragamo** blazer, pants, shoes & brief case
 
+![190410_Doingbirdmagazine_05.jpg](/uploads/190410_Doingbirdmagazine_05.jpg)
 **Romance Was Born** jumpsuit and **Miu Miu** shoes

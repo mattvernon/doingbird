@@ -1,7 +1,6 @@
 ---
 title: Tora
 date: 2019-06-25 08:30:00 +10:00
-published: false
 categories:
 - Features
 tags:

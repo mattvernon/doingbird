@@ -1,6 +1,6 @@
 ---
 title: Eva On George
-date: 2019-06-20 00:21:00 +10:00
+date: 2019-06-25 18:30:00 +10:00
 published: false
 categories:
 - Fashion
@@ -17,14 +17,20 @@ Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![190410_Doingbirdmagazine_02-930245.jpg](/uploads/190410_Doingbirdmagazine_02-930245.jpg)
 **Miu Miu** top, shorts, shoes & socks
 
+![190410_Doingbirdmagazine_03-47f415.jpg](/uploads/190410_Doingbirdmagazine_03-47f415.jpg)
 **Chanel** jacket, pants, shoes, belt & bags
 
+![190410_Doingbirdmagazine_01-b73fcf.jpg](/uploads/190410_Doingbirdmagazine_01-b73fcf.jpg)
 **Christian Dior** vest, skirt, bodysuit & shoes
 
+![190410_Doingbirdmagazine_06.jpg](/uploads/190410_Doingbirdmagazine_06.jpg)
 **Christian Dior** dress, bodysuit & shoes
 
+![190410_Doingbirdmagazine_04.jpg](/uploads/190410_Doingbirdmagazine_04.jpg)
 **Salvatore Ferragamo** blazer, pants, shoes & brief case
 
+![190410_Doingbirdmagazine_05.jpg](/uploads/190410_Doingbirdmagazine_05.jpg)
 **Romance Was Born** jumpsuit and **Miu Miu** shoes

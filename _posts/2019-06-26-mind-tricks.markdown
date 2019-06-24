@@ -9,7 +9,7 @@ Main Image: "/uploads/01_DOINGBIRD_DUAL_0448.jpg"
 Credits Text: |+
   photographs **[Jake Terrey](https://www.instagram.com/jaketerrey/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling & art direction **[Evan Betts](https://www.instagram.com/evanbeezy/)**
-  hair **[Rory Rice](https://www.instagram.com/_roryrice_/)**
+  hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
   make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
   styling assistant **Louie Oblin**
   models **Adam Zammit** & **[Astrid Holler](https://www.instagram.com/astrid_holler/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**

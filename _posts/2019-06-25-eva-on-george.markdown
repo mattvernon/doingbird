@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/190410_Doingbirdmagazine_02-930245.jpg"
+Main Image: "/uploads/190410_Doingbirdmagazine_03-47f415.jpg"
 Credits Text: |-
   lensed by **[Daniel Goode](https://www.instagram.com/dl.goode/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

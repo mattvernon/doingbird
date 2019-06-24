@@ -19,7 +19,7 @@ layout: gallery
 ---
 
 ![190410_Doingbirdmagazine_02-930245.jpg](/uploads/190410_Doingbirdmagazine_02-930245.jpg)
-**Miu Miu** top, shorts, shoes & socks
+**Miu Miu** top, shorts, belt, shoes & socks
 
 ![190410_Doingbirdmagazine_03-47f415.jpg](/uploads/190410_Doingbirdmagazine_03-47f415.jpg)
 **Chanel** jacket, pants, shoes, belt & bags

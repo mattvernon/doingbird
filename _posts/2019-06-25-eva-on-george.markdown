@@ -13,6 +13,8 @@ Credits Text: |-
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Corinna Wilmshurst](https://www.instagram.com/corinnawilmshurst/)**
   model **[Eva](https://www.instagram.com/evavarlamova/)** at **[IMG](https://www.instagram.com/imgmodels/)**
+  retouching **[Sara Donvito](http://www.sarahdonvito.com/)**
+  photography assistant **[Alex Johnstone](https://www.instagram.com/alxjohnstone/)**
 is featured?: true
 Blurb: Photographs by Daniel Goode
 layout: gallery

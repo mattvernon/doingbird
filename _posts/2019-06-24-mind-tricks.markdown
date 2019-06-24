@@ -1,6 +1,6 @@
 ---
 title: Mind Tricks
-date: 2019-06-26 00:12:00 +10:00
+date: 2019-06-24 00:12:00 +10:00
 categories:
 - Fashion
 tags:

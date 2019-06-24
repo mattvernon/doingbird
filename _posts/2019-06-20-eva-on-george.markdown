@@ -17,10 +17,13 @@ Blurb: Photographs by Daniel Goode
 layout: gallery
 ---
 
+![190410_Doingbirdmagazine_02-930245.jpg](/uploads/190410_Doingbirdmagazine_02-930245.jpg)
 **Miu Miu** top, shorts, shoes & socks
 
+![190410_Doingbirdmagazine_03-47f415.jpg](/uploads/190410_Doingbirdmagazine_03-47f415.jpg)
 **Chanel** jacket, pants, shoes, belt & bags
 
+![190410_Doingbirdmagazine_01-b73fcf.jpg](/uploads/190410_Doingbirdmagazine_01-b73fcf.jpg)
 **Christian Dior** vest, skirt, bodysuit & shoes
 
 **Christian Dior** dress, bodysuit & shoes

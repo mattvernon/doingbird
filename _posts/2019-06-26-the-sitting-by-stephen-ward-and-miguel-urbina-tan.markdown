@@ -17,3 +17,19 @@ Blurb: Photographs by Stephen Ward
 layout: gallery
 ---
 
+![web -190601_DOINGBIRD_08_0839.jpg](/uploads/web%20-190601_DOINGBIRD_08_0839.jpg)
+Carla wears **Christian Dior** top & jacket
+
+![web -190601_DOINGBIRD_09_0932.jpg](/uploads/web%20-190601_DOINGBIRD_09_0932.jpg)
+
+![web -190602_DOINGBIRD_02_0151.jpg](/uploads/web%20-190602_DOINGBIRD_02_0151.jpg)
+
+![web -190601_DOINGBIRD_10_0964.jpg](/uploads/web%20-190601_DOINGBIRD_10_0964.jpg)
+
+![web -190602_DOINGBIRD_05_0362.jpg](/uploads/web%20-190602_DOINGBIRD_05_0362.jpg)
+
+![web -190602_DOINGBIRD_05_0336.jpg](/uploads/web%20-190602_DOINGBIRD_05_0336.jpg)
+
+![web -190602_DOINGBIRD_11_0835.jpg](/uploads/web%20-190602_DOINGBIRD_11_0835.jpg)
+
+![web -190602_DOINGBIRD_03_0191bw.jpg](/uploads/web%20-190602_DOINGBIRD_03_0191bw.jpg)

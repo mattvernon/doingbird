@@ -10,7 +10,7 @@ Main Image: "/uploads/190601_DOINGBIRD_17_1584%203.jpg"
 Credits Text: |-
   photographs **[Stephen Ward](https://www.instagram.com/stephenwardstudio/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Davines](https://www.instagram.com/davines_australia/)** & **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)**
   make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   photography assistants **Charlie Aiken** & **Patrick Mackey**
   models **Carla Pereira**, **Harry Eland**, **Eva Varlamova**, **Lauren Brown** & **Ella** at **IMG**, **Penny Capp** & **Zephyr** at **Kult**, **Saria White** at **Priscillas** and **Wisdom** at **Chic Management**

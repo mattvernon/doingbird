@@ -60,7 +60,7 @@ Harry wears **Ermenegildo Zegna** vest (worn on top) and **Hugo Boss** jumper
 Penny (left) wears **Christopher Esber** blazer, **Paris Georgia** dress and **Chanel** hat & necklace. Saria wears **Romance Was Born** top and **Chanel** earrings
 
 ![190601_DOINGBIRD_13_1184.jpg](/uploads/190601_DOINGBIRD_13_1184.jpg)
-
+Carla (top) wears **Romance Was Born** top, **White Story** pants and **Reliquia** earring. Harry (left) wears **Dior Men** top & pants. Alice wears **Miu Miu** jacket & skirt
 ![190601_DOINGBIRD_16_1448 1.jpg](/uploads/190601_DOINGBIRD_16_1448%201.jpg)
 
 ![190602_DOINGBIRD_12_0759.jpg](/uploads/190602_DOINGBIRD_12_0759.jpg)

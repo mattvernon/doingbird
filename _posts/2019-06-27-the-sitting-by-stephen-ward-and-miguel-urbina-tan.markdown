@@ -1,6 +1,6 @@
 ---
 title: The Sitting
-date: 2019-06-26 19:00:00 +10:00
+date: 2019-06-27 08:30:00 +10:00
 published: false
 categories:
 - Fashion
@@ -52,3 +52,4 @@ layout: gallery
 
 ![190602_DOINGBIRD_12_0759.jpg](/uploads/190602_DOINGBIRD_12_0759.jpg)
 
+![190602_DOINGBIRD_11_0835.jpg](/uploads/190602_DOINGBIRD_11_0835.jpg)

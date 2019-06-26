@@ -66,5 +66,6 @@ Carla (top) wears **Romance Was Born** top, **White Story** pants and **Reliquia
 Alice wears **Mulberry** top
 
 ![190602_DOINGBIRD_12_0759.jpg](/uploads/190602_DOINGBIRD_12_0759.jpg)
+Zephyr wears **Gucc** top, jacket, pants, belt & shoes. Lauren wears **Gucci** dress, pants, jacket, socks & shoes
 
 ![190602_DOINGBIRD_11_0835.jpg](/uploads/190602_DOINGBIRD_11_0835.jpg)

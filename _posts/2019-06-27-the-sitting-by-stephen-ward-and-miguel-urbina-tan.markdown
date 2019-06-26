@@ -61,7 +61,9 @@ Penny (left) wears **Christopher Esber** blazer, **Paris Georgia** dress and **C
 
 ![190601_DOINGBIRD_13_1184.jpg](/uploads/190601_DOINGBIRD_13_1184.jpg)
 Carla (top) wears **Romance Was Born** top, **White Story** pants and **Reliquia** earring. Harry (left) wears **Dior Men** top & pants. Alice wears **Miu Miu** jacket & skirt
+
 ![190601_DOINGBIRD_16_1448 1.jpg](/uploads/190601_DOINGBIRD_16_1448%201.jpg)
+Alice wears **Mulberry** top
 
 ![190602_DOINGBIRD_12_0759.jpg](/uploads/190602_DOINGBIRD_12_0759.jpg)
 

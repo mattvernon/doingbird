@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/190602_DOINGBIRD_06_0392BW.jpg"
+Main Image: "/uploads/190601_DOINGBIRD_17_1584%203.jpg"
 Credits Text: |-
   photographs **[Stephen Ward](https://www.instagram.com/stephenwardstudio/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

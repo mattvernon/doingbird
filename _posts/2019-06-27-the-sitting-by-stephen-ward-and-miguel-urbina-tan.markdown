@@ -42,6 +42,7 @@ Zephyr wears **Prada** top & necklace
 Zephyr wears **Prada** top, pants, necklace, belt & shoes
 
 ![190601_DOINGBIRD_17_1584 3.jpg](/uploads/190601_DOINGBIRD_17_1584%203.jpg)
+Ella wears **Louis Vuitton** dress & earrings
 
 ![190602_DOINGBIRD_03_0191bw.jpg](/uploads/190602_DOINGBIRD_03_0191bw.jpg)
 

@@ -45,10 +45,13 @@ Zephyr wears **Prada** top, pants, necklace, belt & shoes
 Ella wears **Louis Vuitton** dress & earrings
 
 ![190602_DOINGBIRD_03_0191bw.jpg](/uploads/190602_DOINGBIRD_03_0191bw.jpg)
+Wisdom wears **Ermenegildo Zegna** top
 
 ![190602_DOINGBIRD_13_0930.jpg](/uploads/190602_DOINGBIRD_13_0930.jpg)
+Lauren wears **Hugo Boss** jumper (worn underneath) & worn on top
 
 ![190602_DOINGBIRD_08_0569.jpg](/uploads/190602_DOINGBIRD_08_0569.jpg)
+Saria (left) wears **Christopher Esber** blazer & pants and **Salvatore Ferragamo** belt, Wisdom (right) wears **Prada** cardigan, **Ermenegildo Zegna** blazer & pants, Zephyr (bottom left) wears **Gucci** top, pants, jacket & belt, Penny wears **Romance Was Born** top, **Chanel** pants & **Reliquia** earrings
 
 ![190601_DOINGBIRD_02_0145.jpg](/uploads/190601_DOINGBIRD_02_0145.jpg)
 

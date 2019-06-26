@@ -30,9 +30,10 @@ Carla wears **Christian Dior** top, jacket, skirt & shoes
 Harry wears **Emporio Armani** jumper & vest
 
 ![190602_DOINGBIRD_02_0151.jpg](/uploads/190602_DOINGBIRD_02_0151.jpg)
-
+Penny wears **Chanel** top
 
 ![190601_DOINGBIRD_10_0964.jpg](/uploads/190601_DOINGBIRD_10_0964.jpg)
+Eva wears **Incu Collection** jacket (worn underneath) & dress, **Emporio Armani** jacket, **Reliquia** earrings and **Salvatore Ferragamo** shoes
 
 ![190602_DOINGBIRD_05_0362.jpg](/uploads/190602_DOINGBIRD_05_0362.jpg)
 

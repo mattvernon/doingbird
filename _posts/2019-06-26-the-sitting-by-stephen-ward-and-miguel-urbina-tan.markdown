@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190602_DOINGBIRD_06_0392BW.jpg"
 Credits Text: |-
   photographs **[Stephen Ward](https://www.instagram.com/stephenwardstudio/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
@@ -16,4 +17,32 @@ is featured?: true
 Blurb: Photographs by Stephen Ward
 layout: gallery
 ---
+
+![190601_DOINGBIRD_08_0839.jpg](/uploads/190601_DOINGBIRD_08_0839.jpg)
+
+![190601_DOINGBIRD_09_0932.jpg](/uploads/190601_DOINGBIRD_09_0932.jpg)
+
+![190601_DOINGBIRD_10_0964.jpg](/uploads/190601_DOINGBIRD_10_0964.jpg)
+
+![190601_DOINGBIRD_17_1584 3.jpg](/uploads/190601_DOINGBIRD_17_1584%203.jpg)
+
+![190602_DOINGBIRD_05_0362.jpg](/uploads/190602_DOINGBIRD_05_0362.jpg)
+
+![190602_DOINGBIRD_05_0336.jpg](/uploads/190602_DOINGBIRD_05_0336.jpg)
+
+![190602_DOINGBIRD_03_0191bw.jpg](/uploads/190602_DOINGBIRD_03_0191bw.jpg)
+
+![190602_DOINGBIRD_13_0930.jpg](/uploads/190602_DOINGBIRD_13_0930.jpg)
+
+![190602_DOINGBIRD_08_0569.jpg](/uploads/190602_DOINGBIRD_08_0569.jpg)
+
+![190601_DOINGBIRD_02_0145.jpg](/uploads/190601_DOINGBIRD_02_0145.jpg)
+
+![190602_DOINGBIRD_06_0392BW.jpg](/uploads/190602_DOINGBIRD_06_0392BW.jpg)
+
+![190601_DOINGBIRD_13_1184.jpg](/uploads/190601_DOINGBIRD_13_1184.jpg)
+
+![190601_DOINGBIRD_16_1448 1.jpg](/uploads/190601_DOINGBIRD_16_1448%201.jpg)
+
+![190602_DOINGBIRD_12_0759.jpg](/uploads/190602_DOINGBIRD_12_0759.jpg)
 

@@ -21,12 +21,16 @@ layout: gallery
 ---
 
 ![190601_DOINGBIRD_08_0839.jpg](/uploads/190601_DOINGBIRD_08_0839.jpg)
+Carla wears **Christian Dior** top & jacket
 
 ![190601_DOINGBIRD_09_0932.jpg](/uploads/190601_DOINGBIRD_09_0932.jpg)
+Carla wears **Christian Dior** top, jacket, skirt & shoes
 
 ![190601_DOINGBIRD_01_0065.jpg](/uploads/190601_DOINGBIRD_01_0065.jpg)
+Harry wears **Emporio Armani** jumper & vest
 
 ![190602_DOINGBIRD_02_0151.jpg](/uploads/190602_DOINGBIRD_02_0151.jpg)
+
 
 ![190601_DOINGBIRD_10_0964.jpg](/uploads/190601_DOINGBIRD_10_0964.jpg)
 

@@ -51,12 +51,13 @@ Wisdom wears **Ermenegildo Zegna** top
 Lauren wears **Hugo Boss** jumper (worn underneath) & worn on top
 
 ![190602_DOINGBIRD_08_0569.jpg](/uploads/190602_DOINGBIRD_08_0569.jpg)
-Saria (left) wears **Christopher Esber** blazer & pants and **Salvatore Ferragamo** belt, Wisdom (right) wears **Prada** cardigan, **Ermenegildo Zegna** blazer & pants, Zephyr (bottom left) wears **Gucci** top, pants, jacket & belt, Penny wears **Romance Was Born** top, **Chanel** pants & **Reliquia** earrings
+Saria (left) wears **Christopher Esber** blazer & pants and **Salvatore Ferragamo** belt. Wisdom (right) wears **Prada** cardigan, **Ermenegildo Zegna** blazer & pants. Zephyr (bottom left) wears **Gucci** top, pants, jacket & belt. Penny wears **Romance Was Born** top, **Chanel** pants & **Reliquia** earrings
 
 ![190601_DOINGBIRD_02_0145.jpg](/uploads/190601_DOINGBIRD_02_0145.jpg)
 Harry wears **Ermenegildo Zegna** vest (worn on top) and **Hugo Boss** jumper
 
 ![190602_DOINGBIRD_06_0392BW.jpg](/uploads/190602_DOINGBIRD_06_0392BW.jpg)
+Penny (left) wears **Christopher Esber** blazer, **Paris Georgia** dress and **Chanel** hat & necklace. Saria wears **Romance Was Born** top and **Chanel** earrings
 
 ![190601_DOINGBIRD_13_1184.jpg](/uploads/190601_DOINGBIRD_13_1184.jpg)
 

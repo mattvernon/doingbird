@@ -13,6 +13,7 @@ Credits Text: |-
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   photography assistants **Charlie Aiken** & **Patrick Mackey**
+  models **Carla Pereira**, **Harry Eland**, **Eva Varlamova**, **Lauren Brown** & **Ella** at **IMG**, **Penny Capp** & **Zephyr** at **Kult**, **Saria White** at **Priscillas** and **Wisdom** at **Chic Management**
 is featured?: true
 Blurb: Photographs by Stephen Ward
 layout: gallery

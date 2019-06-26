@@ -36,8 +36,10 @@ Penny wears **Chanel** top
 Eva wears **Incu Collection** jacket (worn underneath) & dress, **Emporio Armani** jacket, **Reliquia** earrings and **Salvatore Ferragamo** shoes
 
 ![190602_DOINGBIRD_05_0362.jpg](/uploads/190602_DOINGBIRD_05_0362.jpg)
+Zephyr wears **Prada** top & necklace
 
 ![190602_DOINGBIRD_05_0336.jpg](/uploads/190602_DOINGBIRD_05_0336.jpg)
+Zephyr wears **Prada** top, pants, necklace, belt & shoes
 
 ![190601_DOINGBIRD_17_1584 3.jpg](/uploads/190601_DOINGBIRD_17_1584%203.jpg)
 

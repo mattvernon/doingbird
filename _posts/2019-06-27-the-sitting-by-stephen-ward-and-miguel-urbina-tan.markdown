@@ -69,3 +69,4 @@ Alice wears **Mulberry** top
 Zephyr wears **Gucc** top, jacket, pants, belt & shoes. Lauren wears **Gucci** dress, pants, jacket, socks & shoes
 
 ![190602_DOINGBIRD_11_0835.jpg](/uploads/190602_DOINGBIRD_11_0835.jpg)
+Saria wears **Hugo Boss** jumper

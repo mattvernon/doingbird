@@ -12,7 +12,7 @@ Credits Text: |-
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Davines](https://www.instagram.com/davines_australia/)** & **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)**
   make-up **[Peter Beard](https://www.instagram.com/peterbeard/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   photography assistants **Charlie Aiken** & **Patrick Mackey**
-  models **[Carla Pereira](https://www.instagram.com/carlapereirax/)**, **[Harry Eland](https://www.instagram.com/harryeland1/)**, **[Eva Varlamova](https://www.instagram.com/evavarlamova/)**, **Lauren Brown** & **Ella** at **[IMG](https://www.instagram.com/imgmodels/)**, **Penny Capp** & **Zephyr** at **[Kult](https://www.instagram.com/kultaustralia/)**, **[Saria White](https://www.instagram.com/squatchnsoda/
+  models **[Carla Pereira](https://www.instagram.com/carlapereirax/)**, **[Harry Eland](https://www.instagram.com/harryeland1/)**, **[Eva Varlamova](https://www.instagram.com/evavarlamova/)**, **[Lauren Brown](https://www.instagram.com/lozza.brown/)** & **Ella** at **[IMG](https://www.instagram.com/imgmodels/)**, **[Penny Capp](https://www.instagram.com/penny_capp/)** & **[Zephyr](https://www.instagram.com/zephyr1825/)** at **[Kult](https://www.instagram.com/kultaustralia/)**, **[Saria White](https://www.instagram.com/squatchnsoda/
   )** at **[Priscillas](https://www.instagram.com/priscillasmodels/)** and **Wisdom** at **[Chic Management](https://www.instagram.com/chic_management/)**
 is featured?: true
 Blurb: Photographs by Stephen Ward

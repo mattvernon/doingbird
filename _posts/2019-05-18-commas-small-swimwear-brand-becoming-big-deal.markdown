@@ -6,7 +6,7 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/SH%207_20190326_DOING%20BIRD_1041%20copy.jpg"
-is featured?: true
+is featured?: false
 Blurb: Photographs by Tim Ashton
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: The Sitting
 date: 2019-06-27 18:30:00 +10:00
-published: false
 categories:
 - Fashion
 tags:
@@ -29,8 +28,8 @@ Carla wears **Christian Dior** top, jacket, skirt & shoes
 ![190601_DOINGBIRD_01_0065.jpg](/uploads/190601_DOINGBIRD_01_0065.jpg)
 Harry wears **Emporio Armani** jumper & vest
 
-![190602_DOINGBIRD_02_0151.jpg](/uploads/190602_DOINGBIRD_02_0151.jpg)
-Penny wears **Chanel** top
+![190601_DOINGBIRD_17_1584 3.jpg](/uploads/190601_DOINGBIRD_17_1584%203.jpg)
+Ella wears **Louis Vuitton** dress & earrings
 
 ![190601_DOINGBIRD_10_0964.jpg](/uploads/190601_DOINGBIRD_10_0964.jpg)
 Eva wears **Incu Collection** jacket (worn underneath) & dress, **Emporio Armani** jacket, **Reliquia** earrings and **Salvatore Ferragamo** shoes
@@ -41,8 +40,8 @@ Zephyr wears **Prada** top & necklace
 ![190602_DOINGBIRD_05_0336.jpg](/uploads/190602_DOINGBIRD_05_0336.jpg)
 Zephyr wears **Prada** top, pants, necklace, belt & shoes
 
-![190601_DOINGBIRD_17_1584 3.jpg](/uploads/190601_DOINGBIRD_17_1584%203.jpg)
-Ella wears **Louis Vuitton** dress & earrings
+![190602_DOINGBIRD_02_0151.jpg](/uploads/190602_DOINGBIRD_02_0151.jpg)
+Penny wears **Chanel** top
 
 ![190602_DOINGBIRD_03_0191bw.jpg](/uploads/190602_DOINGBIRD_03_0191bw.jpg)
 Wisdom wears **Ermenegildo Zegna** top

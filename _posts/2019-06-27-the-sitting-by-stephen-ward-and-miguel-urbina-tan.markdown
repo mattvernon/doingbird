@@ -1,7 +1,6 @@
 ---
 title: The Sitting
 date: 2019-06-27 18:30:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

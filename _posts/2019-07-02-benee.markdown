@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+- Interviews
 Main Image: "/uploads/Bene_2.jpg"
 is featured?: true
 Blurb: Photographs by Max Doyle

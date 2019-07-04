@@ -7,7 +7,7 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
-  photographs **[Sarah Adamson](https://www.instagram.com/sarahadamson/)** at **[Union Management]**
+  photographs **[Sarah Adamson](https://www.instagram.com/sarahadamson/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Miguel Urbina Tan]**
   hair **[Gaving Anesbury]** at **[Viviens Creative]**
   make-up **[Claire Thomson]**

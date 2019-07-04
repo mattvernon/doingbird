@@ -1,6 +1,6 @@
 ---
 title: Beswick (Wugular)
-date: 2019-07-03 09:40:00 +10:00
+date: 2019-07-05 08:30:00 +10:00
 published: false
 categories:
 - World

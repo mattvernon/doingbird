@@ -8,10 +8,10 @@ tags:
 - Shoot
 Credits Text: |-
   photographs **[Sarah Adamson](https://www.instagram.com/sarahadamson/)** at **[Union Management](https://www.instagram.com/union_management/)**
-  styling **[Miguel Urbina Tan]**
-  hair **[Gaving Anesbury]** at **[Viviens Creative]**
-  make-up **[Claire Thomson]**
-  model **[London Scully]** at **[Priscillas]**
+  styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  hair **[Gaving Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
+  make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
+  model **[London Scully](https://www.instagram.com/londonscully/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
   fashion assistant **Gerardine Wijangco**
 is featured?: true
 Blurb: Photographs by Sarah Adamson

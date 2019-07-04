@@ -7,6 +7,8 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/000032.JPG"
+is featured?: true
+Blurb: Photographs by Kira Puru
 ---
 
 photos by **[Kira Puru](https://www.instagram.com/kirapuru/)**

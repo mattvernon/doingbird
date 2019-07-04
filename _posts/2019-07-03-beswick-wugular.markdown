@@ -11,7 +11,7 @@ is featured?: true
 Blurb: Photographs by Kira Puru
 ---
 
-photos by **[Kira Puru](https://www.instagram.com/kirapuru/)**
+photographs by **[Kira Puru](https://www.instagram.com/kirapuru/)**
 
 [000005.JPG](/uploads/000005.JPG)
 

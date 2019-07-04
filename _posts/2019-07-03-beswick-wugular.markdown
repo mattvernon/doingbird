@@ -6,6 +6,7 @@ categories:
 - World
 tags:
 - Shoot
+Main Image: "/uploads/000032.JPG"
 ---
 
 photos by **[Kira Puru](https://www.instagram.com/kirapuru/)**

@@ -6,6 +6,16 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: |-
+  photographs **[Sarah Adamson]** at **[Union Management]**
+  styling **[Miguel Urbina Tan]**
+  hair **[Gaving Anesbury]** at **[Viviens Creative]**
+  make-up **[Claire Thomson]**
+  model **[London Scully]** at **[Priscillas]**
+  fashion assistant **Gerardine Wijangco**
+is featured?: true
+Blurb: Photographs by Sarah Adamson
 layout: gallery
 ---
 
+![ADAMSON_DOINGBIRD_11.jpg](/uploads/ADAMSON_DOINGBIRD_11.jpg)

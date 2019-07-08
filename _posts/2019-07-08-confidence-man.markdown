@@ -21,8 +21,8 @@ Confidence Man is the Australian dance-pop band partying their way around the wo
 
 
 
-Janet wears ACNE Jumper, ACNE leather pants, POPPY LISSIMAN sunglasses, Stylists own shoes
-Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses, stylists own socks 
+Janet wears ACNE Jumper & leather pants, POPPY LISSIMAN sunglasses, and stylists own shoes
+Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses and stylists own socks 
 
 
 Janet wears GUCCI jacket & pants , PJOHNSON shirt, vintage GUCCI thongs stylist own

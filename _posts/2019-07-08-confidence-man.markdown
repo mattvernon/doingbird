@@ -6,6 +6,7 @@ categories:
 - Feature
 tags:
 - Shoot
+Main Image: "/uploads/Prada3.jpg"
 Credits Text: |-
   interview & text **Tina Sumers**
   photographs **[Jordan Drysdale](https://www.instagram.com/jordandrysdale/)**

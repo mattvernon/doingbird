@@ -20,10 +20,12 @@ layout: gallery
 
 Confidence Man is the Australian dance-pop band partying their way around the world with high energy, super choreographed live sets. Singer Janet Planet and her hunky musical partner Sugar Bones (their intergalactic stage names) along with band members Clarence McGuffie and Reggie Goodchild, have been shimmying from club to festival since forming in Brisbane in 2016. Their first hit single ‘Boyfriend (Repeat)’ in 2017 and their subsequent album ‘Confident Music for Confident People’ in 2018 set the stage for their impending world domination, seeing them touring pretty much constantly since then. We caught up with Janet and Sugar on a rare day off, in between their sold out UK and European tour, quizzing them on their wild moves and near-constant touring schedule.
 
+![Gucci9.jpg](/uploads/Gucci9.jpg)
 
+![Gucci8.jpg](/uploads/Gucci8.jpg)
 
-Janet wears ACNE Jumper & leather pants, POPPY LISSIMAN sunglasses, and stylists own shoes
-Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses and stylists own socks 
+Janet wears GUCCI jacket & pants , PJOHNSON shirt, vintage GUCCI thongs stylist own
+Sugar wears GUCCI jacket, vest, shirt, pants & loafers
 
 What is life like on tour?
 Wild, tiring and fun. 
@@ -37,10 +39,14 @@ Primavera last year was a highlight. We played at 3am on a huge stage to about 2
 Do you get time to write on tour, or do you need to take time off to create new work? 
 It can be a bit hard writing on tour. We've slowly accepted that the best way for us to write is at home. When you're in Berlin I think you've just got to let yourself be in Berlin. I definitely want to try to experience where I am, even if it's just for a few hours.
 
+![Prada3.jpg](/uploads/Prada3.jpg)
 
+![Prada6.jpg](/uploads/Prada6.jpg)
 
-Janet wears GUCCI jacket & pants , PJOHNSON shirt, vintage GUCCI thongs stylist own
-Sugar wears GUCCI jacket, vest, shirt, pants & loafers
+![Prada5.jpg](/uploads/Prada5.jpg)
+
+Janet wears PRADA shirt, skirt, jumper & boots
+Sugar wears PRADA jacket, trousers, shoes and bag
 
 How do you approach creating songs? 
 We write pretty differently to most other bands I know.  Reggie usually has the beginnings of a beat, and the 4 of us work from song names we've written down in our phones. It's pretty crazy, and honest. We're always yelling over each other and jumping up and down when a song idea finally works. I think the 4 of us are pretty comfortable to say our opinions without a filter. If there's no reaction to your idea then that's when you know it's bad.
@@ -75,9 +81,8 @@ What is the best dance-pop album of all time?
 Thriller
 
 
-
-Janet wears PRADA shirt, skirt, jumper & boots
-Sugar wears PRADA jacket, trousers, shoes and bag
+Janet wears ACNE Jumper & leather pants, POPPY LISSIMAN sunglasses, and stylists own shoes
+Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses and stylists own socks 
 
 What's your favourite Confidence Man song ever? 
 I think mine is Try Your Luck. I still reckon that shit is nasty. And those lyrics are just so silly, I love it

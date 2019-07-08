@@ -7,7 +7,7 @@ categories:
 tags:
 - Shoot
 Credits Text: |-
-  interview & text **[Zac Bayly](https://www.instagram.com/zacbayly/)**
+  interview & text **Tina Sumers**
   photographs **[Jordan Drysdale](https://www.instagram.com/jordandrysdale/)**
   styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   hair & make-up **[Aline Joyce](https://www.instagram.com/alinejoycemakeup/)**

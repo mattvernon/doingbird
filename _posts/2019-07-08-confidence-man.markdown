@@ -26,7 +26,7 @@ Confidence Man is the Australian dance-pop band partying their way around the wo
 
 ![Gucci5.jpg](/uploads/Gucci5.jpg)
 
-Janet wears GUCCI jacket & pants , PJOHNSON shirt, vintage GUCCI thongs stylist own
+### Janet wears GUCCI jacket & pants , PJOHNSON shirt, vintage GUCCI thongs stylist own
 Sugar wears GUCCI jacket, vest, shirt, pants & loafers
 
 **What is life like on tour?**
@@ -50,7 +50,7 @@ It can be a bit hard writing on tour. We've slowly accepted that the best way fo
 ![Prada6.jpg](/uploads/Prada6.jpg)
 
 ![Prada5.jpg](/uploads/Prada5.jpg)
-
+### 
 Janet wears PRADA shirt, skirt, jumper & boots
 Sugar wears PRADA jacket, trousers, shoes and bag
 
@@ -74,7 +74,7 @@ I think the key is just committing. You can pretty much do any terrible dance mo
 
 ![CM2.jpg](/uploads/CM2.jpg)
 
-Janet wears ARNSDORF Coat, APC jacket, stylists own vintage mules
+### Janet wears ARNSDORF Coat, APC jacket, stylists own vintage mules
 Sugar wears CMMN SWDN shirt from INCU, PJOHNSON Tailors pants, DR MARTENS boots, POMS ‘Oro’ sunglasses
 
 **What are your favourite dance-filled scenes in cinema?**
@@ -103,7 +103,7 @@ Thriller
 
 ![CM10.jpg](/uploads/CM10.jpg)
 
-Janet wears ACNE Jumper & leather pants, POPPY LISSIMAN sunglasses, and stylists own shoes
+### Janet wears ACNE Jumper & leather pants, POPPY LISSIMAN sunglasses, and stylists own shoes
 Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses and stylists own socks 
 
 **What's your favourite Confidence Man song ever?**

@@ -25,6 +25,8 @@ Confidence Man is the Australian dance-pop band partying their way around the wo
 
 ![Gucci8.jpg](/uploads/Gucci8.jpg)
 
+![Gucci5.jpg](/uploads/Gucci5.jpg)
+
 Janet wears GUCCI jacket & pants , PJOHNSON shirt, vintage GUCCI thongs stylist own
 Sugar wears GUCCI jacket, vest, shirt, pants & loafers
 

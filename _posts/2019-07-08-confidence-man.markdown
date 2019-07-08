@@ -60,7 +60,9 @@ Spaghetti legs is a favourite. Always makes you look like you know what you're d
 Can you recommend any instructional videos for those who would like to learn to dance like you? 
 I think the key is just committing. You can pretty much do any terrible dance moves but if you do it without embarrassment, everyone thinks you're a good dancer. It's pretty weird actually. 
 
+![CM3.jpg](/uploads/CM3.jpg)
 
+![CM2.jpg](/uploads/CM2.jpg)
 
 Janet wears ARNSDORF Coat, APC jacket, stylists own vintage mules
 Sugar wears CMMN SWDN shirt from INCU, PJOHNSON Tailors pants, DR MARTENS boots, POMS ‘Oro’ sunglasses
@@ -80,6 +82,11 @@ I'm probably posh spice because she wears the best clothes, Sugar is sporty beca
 What is the best dance-pop album of all time? 
 Thriller
 
+![CM8.jpg](/uploads/CM8.jpg)
+
+![CM6 Wider.jpg](/uploads/CM6%20Wider.jpg)
+
+![CM10.jpg](/uploads/CM10.jpg)
 
 Janet wears ACNE Jumper & leather pants, POPPY LISSIMAN sunglasses, and stylists own shoes
 Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses and stylists own socks 

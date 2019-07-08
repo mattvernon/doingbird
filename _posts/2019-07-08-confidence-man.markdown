@@ -17,6 +17,10 @@ Blurb: Photographs by Jordan Drysdale
 layout: gallery
 ---
 
+Confidence Man is the Australian dance-pop band partying their way around the world with high energy, super choreographed live sets. Singer Janet Planet and her hunky musical partner Sugar Bones (their intergalactic stage names) along with band members Clarence McGuffie and Reggie Goodchild, have been shimmying from club to festival since forming in Brisbane in 2016. Their first hit single ‘Boyfriend (Repeat)’ in 2017 and their subsequent album ‘Confident Music for Confident People’ in 2018 set the stage for their impending world domination, seeing them touring pretty much constantly since then. We caught up with Janet and Sugar on a rare day off, in between their sold out UK and European tour, quizzing them on their wild moves and near-constant touring schedule.
+
+
+
 Janet wears ACNE Jumper, ACNE leather pants, POPPY LISSIMAN sunglasses, Stylists own shoes
 Sugar wears NOON GOONS jumper from INCU, HOLIDAY pants, GUCCI loafers, ACNE Sunglasses, stylists own socks 
 

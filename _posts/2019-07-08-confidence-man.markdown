@@ -11,6 +11,7 @@ Credits Text: |-
   styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   hair & make-up **[Aline Joyce](https://www.instagram.com/alinejoycemakeup/)**
   talent **[Confidence Man](https://www.instagram.com/confidenceman_/)**
+  fashion assistant **Thea Stirrat**
 is featured?: true
 Blurb: Photographs by Jordan Drysdale
 layout: gallery

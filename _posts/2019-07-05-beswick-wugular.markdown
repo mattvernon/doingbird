@@ -1,5 +1,5 @@
 ---
-title: Beswick (Wugular)
+title: Beswick (Wugularr)
 date: 2019-07-05 11:30:00 +10:00
 categories:
 - World

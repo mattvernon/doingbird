@@ -1,7 +1,6 @@
 ---
 title: Confidence Man
 date: 2019-07-08 18:00:00 +10:00
-published: false
 categories:
 - Feature
 tags:

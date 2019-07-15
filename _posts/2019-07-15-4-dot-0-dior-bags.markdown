@@ -14,7 +14,7 @@ Credits Text: |-
 
   **[Dior](https://www.dior.com/en_us/products/couture-M9203UMOS_M46E_TU-30-montaigne-calfskin-bag)** 30 Montaigne in pale pink
 
-  **[Dior](https://www.dior.com/en_us/products/couture-M9203UMOS_M257_TU-30-montaigne-calfskin-bag) 30 Montaigne in sienna
+  **[Dior](https://www.dior.com/en_us/products/couture-M9203UMOS_M257_TU-30-montaigne-calfskin-bag)** 30 Montaigne in sienna
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

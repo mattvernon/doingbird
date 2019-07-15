@@ -1,0 +1,17 @@
+---
+title: '4.2: Beauty'
+date: 2019-07-15 22:59:00 +10:00
+published: false
+categories:
+- Objects
+tags:
+- Shoot
+Main Image: "/uploads/Votary.jpg"
+layout: gallery
+---
+
+![Votary.jpg](/uploads/Votary.jpg)
+
+![DrJart.jpg](/uploads/DrJart.jpg)
+
+![Quai.jpg](/uploads/Quai.jpg)

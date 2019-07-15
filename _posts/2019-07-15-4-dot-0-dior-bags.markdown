@@ -20,6 +20,7 @@ Credits Text: |-
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 is featured?: true
 Blurb: Photographs by Anna Pogossova
+layout: gallery
 ---
 
 ![Dior.jpg](/uploads/Dior.jpg)

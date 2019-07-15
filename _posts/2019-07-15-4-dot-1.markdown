@@ -1,13 +1,15 @@
 ---
-title: '4.1'
+title: '4.1: Technogym Weights'
 date: 2019-07-15 22:37:00 +10:00
 published: false
 categories:
 - Objects
 tags:
 - Shoot
-Main Image: "/uploads/Votary.jpg"
+Main Image: "/uploads/Weights.jpg"
 Credits Text: |-
+  **[Technogym](https://www.technogym.com/au/wellness-rack.html)** weights
+
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
 is featured?: false
@@ -15,9 +17,3 @@ layout: gallery
 ---
 
 ![Weights.jpg](/uploads/Weights.jpg)
-
-![Quai.jpg](/uploads/Quai.jpg)
-
-![Votary.jpg](/uploads/Votary.jpg)
-
-![DrJart.jpg](/uploads/DrJart.jpg)

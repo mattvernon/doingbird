@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/180929_Doingbirdmagazine_Shot_06-45c200.jpg"
+Main Image: "/uploads/180929_Doingbirdmagazine_Shot_08-1509ac.jpg"
 Credits Text: |-
   photographs **[Daniel Goode](http://www.danielgoodephoto.com/)** styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)** hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
   make-up **[Rosie Neyle](https://www.rosieneyle.com/)**

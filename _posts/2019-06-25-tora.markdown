@@ -7,7 +7,7 @@ tags:
 - Shoot
 - Interviews
 Main Image: "/uploads/190424_Doingbird_Tora_SH01_205_FINAL.jpg"
-is featured?: true
+is featured?: false
 Blurb: Photographs by Levon Baird
 ---
 

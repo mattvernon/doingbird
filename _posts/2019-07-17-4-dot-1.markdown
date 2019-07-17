@@ -1,7 +1,6 @@
 ---
 title: '4.1: Technogym Weights'
-date: 2019-07-15 22:37:00 +10:00
-published: false
+date: 2019-07-17 17:00:00 +10:00
 categories:
 - Objects
 tags:

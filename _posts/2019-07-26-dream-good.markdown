@@ -6,6 +6,9 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/20190414_DREAMGOOD_104.jpg"
+is featured?: true
+Blurb: Photographs by Max Doyle
 layout: gallery
 ---
 

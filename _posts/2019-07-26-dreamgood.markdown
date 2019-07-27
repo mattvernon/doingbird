@@ -56,6 +56,38 @@ With three completed videos and three albums in the works, we recently sat down 
 
 ![20190414_DREAMGOOD_254.jpg](/uploads/20190414_DREAMGOOD_254.jpg)
 
+**What is the song writing process for Dreamgood?**
+
+"At the moment its changing a lot which is great. To start, Mitch and I were really the driving forces. With the first album I wrote the vocals, the loose song, with Mitch and I jamming and refining. I’d listen back and then I’d start writing a song out of it at my own place. And then a lot of the lyrics are written just me on my own. Then Mitch and I would get together and he would start orchestrating. 
+
+But now, when Mitch and I get together and jam, songs have just been coming up in that process. He’s a really beautiful composer. We’ll work them out in a day, or one jamming session. We let the sound come first. With the vocals, at the moment it’s the 3 of us. These are better songs because it’s a beautiful collaboration between 3 people who really enjoy each other’s company which is really lucky. The three of us are just open with each other. It’s very in sync." 
+
+
+**Have you finalised an album?**
+
+"Yes the problem was we did too many songs. We recorded 18 songs. The mixing and mastering has been a bit slower coming back. At the moment we have ‘Part One’ which we’ll release. That’s 10 songs with 2 instrumentals." 
+
+
+**Will there be a ‘Part 2’ or ‘Part 3’?**
+
+"We’ll do ‘Part 2’, but we’ve started working on a completely different album, because ‘Part One’ and ‘Part 2’ are all recorded. ‘Part 2’ just needs some more mixing and mastering which we’re halfway through. We are working on a new album which is beautiful, which is Mitch, dad and I getting together and writing everything - song, lyrics, melody, all of it. This new album is going to be crazy. Because I’m going to take on an alter ego, and that person exists in real life. Mitch has started to muck around with really aggressive sounds, so the music will be really crazy too. I’m not quite sure what to compare it to, but it’s a different album."
+ 
+
+**Why are you creating an alter ego who exists?** 
+
+"So there’s a guy named Paris De Bono. He’s a fortune teller in Surry Hills, on Crown Street. I went to him randomly and he predicted these things.. or I created them. But I want to now write an album now where I’m him. I’ve been studying tarot cards. I’ve been really going into that world and working out why it works, how it works, and the psychology of it as well. So this next album we’ll be calling by his name, which we may change, but I love his name so much that I’m finding it really hard. Maybe it’s a tribute album. He’s a very interesting character. There are photos of him without his shirt on, with his tarot cards, flexing with chains. He’s a good-looking, strapping man. But he’s a really odd bod, and it’s inspired me. He’s just incredible to look at, and I love characters. 
+
+The thing I really struggle with is performing live, especially with some songs being so personal in the first album about divorce, domestic violence, and just things that are kind of more intense. So I kind of want the opportunity to be more light-hearted and fun, and to perform as an alter ego which this new album is really doing for me. It’s freeing, really. The first album was definitely catharsis."
+
+ 
+**Tell me about your first album. When you’re all writing music, where is that all coming from?**
+
+"I think it comes from compassion a lot of the time, and conversations. Mitch and I have really overwhelmingly beautiful conversations. Also between dad and I. In the full album we cover lots of different emotions and different styles which really is a tribute to Mitch and his ability to be so diverse as a musician. 
+
+
+Three of the songs came from watching ‘Paris is Burning’ and being overwhelmed by the beauty that’s captured in that documentary. I cried. I guess that documentary moved me because I went to school in the inner west-slash-west of Sydney where it was very homophobic, racist, narrow minded, bullying...that was the environment. I went from Wagga, Lismore, to being a teenager in the Western suburbs. And it was just very different. Lismore is very open and supportive. Sydney was competitive, and hectic, so many different cultures and insecurities, being different in school and what that creates … violence… ‘Paris is Burning’ for Mitch did something else. He’s seen it as well and we talked about it a lot when writing the songs. For me, it was a purging of my western suburbs upbringing and welcoming to becoming a more human person; more loving, caring and compassionate to all people. For me, this first album is definitely an emotional thing."
+
+
 ![20190414_DREAMGOOD_271.jpg](/uploads/20190414_DREAMGOOD_271.jpg)
 
 ![20190414_DREAMGOOD_267.jpg](/uploads/20190414_DREAMGOOD_267.jpg)

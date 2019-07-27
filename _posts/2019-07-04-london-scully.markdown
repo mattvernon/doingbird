@@ -20,7 +20,7 @@ layout: gallery
 ---
 
 ![ADAMSON_DOINGBIRD_3.jpg](/uploads/ADAMSON_DOINGBIRD_3.jpg)
-**Coach** dress & coat. **Chanel** shoes
+**Coach** dress & coat and **Chanel** shoes
 
 ![ADAMSON_DOINGBIRD_5.jpg](/uploads/ADAMSON_DOINGBIRD_5.jpg)
 **Chanel** coat
@@ -32,6 +32,7 @@ layout: gallery
 **Gucci** dress & shoes
 
 ![ADAMSON_DOINGBIRD_10.jpg](/uploads/ADAMSON_DOINGBIRD_10.jpg)
+**Zoo Emporium Vintage** blazer & gloves, **Coach** shorts and **Gucci** shoes & beret
 
 ![ADAMSON_DOINGBIRD_11-fbe4fe.jpg](/uploads/ADAMSON_DOINGBIRD_11-fbe4fe.jpg)
 

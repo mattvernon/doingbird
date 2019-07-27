@@ -7,6 +7,9 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/20190414_DREAMGOOD_104.jpg"
+Credits Text: |-
+  photographs **[Rene Vaile](https://www.instagram.com/renevaile_photo/)**
+  talent **Dreamgood**
 is featured?: true
 Blurb: Photographs by Max Doyle
 layout: gallery

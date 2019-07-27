@@ -47,5 +47,6 @@ layout: gallery
 **Jil Sander** top & **Christopher Kane** dress from **The Outnet**, **Salvatore Ferragamo** scarf and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_14.jpg](/uploads/ADAMSON_DOINGBIRD_14.jpg)
+**Zimmermann** top & pants, **Coach** shoes and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_20.jpg](/uploads/ADAMSON_DOINGBIRD_20.jpg)

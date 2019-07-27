@@ -20,10 +20,13 @@ layout: gallery
 ---
 
 ![ADAMSON_DOINGBIRD_3.jpg](/uploads/ADAMSON_DOINGBIRD_3.jpg)
+**Coach** dress & coat. **Chanel** shoes
 
 ![ADAMSON_DOINGBIRD_5.jpg](/uploads/ADAMSON_DOINGBIRD_5.jpg)
+**Chanel** coat
 
 ![ADAMSON_DOINGBIRD_9.jpg](/uploads/ADAMSON_DOINGBIRD_9.jpg)
+**Gucci** dress
 
 ![ADAMSON_DOINGBIRD_8.jpg](/uploads/ADAMSON_DOINGBIRD_8.jpg)
 

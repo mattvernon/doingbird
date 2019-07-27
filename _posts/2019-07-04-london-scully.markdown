@@ -29,6 +29,7 @@ layout: gallery
 **Gucci** dress
 
 ![ADAMSON_DOINGBIRD_8.jpg](/uploads/ADAMSON_DOINGBIRD_8.jpg)
+**Gucci** dress & shoes
 
 ![ADAMSON_DOINGBIRD_10.jpg](/uploads/ADAMSON_DOINGBIRD_10.jpg)
 

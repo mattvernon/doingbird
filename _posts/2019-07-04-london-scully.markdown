@@ -38,7 +38,7 @@ layout: gallery
 **Bottega Veneta** bodysuit and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_13.jpg](/uploads/ADAMSON_DOINGBIRD_13.jpg)
-
+**Chanel** earrings & necklace
 
 ![ADAMSON_DOINGBIRD_16 (1).jpg](/uploads/ADAMSON_DOINGBIRD_16%20(1).jpg)
 

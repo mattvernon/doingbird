@@ -44,6 +44,7 @@ layout: gallery
 **Miu Miu** top, vest, bustier & pants and **Coach** shoes
 
 ![ADAMSON_DOINGBIRD_17-8a782f.jpg](/uploads/ADAMSON_DOINGBIRD_17-8a782f.jpg)
+**Jil Sander** top & **Christopher Kane** dress from **The Outnet**, **Salvatore Ferragamo** scarf and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_14.jpg](/uploads/ADAMSON_DOINGBIRD_14.jpg)
 

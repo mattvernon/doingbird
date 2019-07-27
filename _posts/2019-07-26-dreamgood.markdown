@@ -122,3 +122,21 @@ I love Mitch. If you look at him.. he’s a character beyond words and dresses s
 
 
 ![20190414_DREAMGOOD_104.jpg](/uploads/20190414_DREAMGOOD_104.jpg)
+
+**Do you have of fun performing together?**
+
+"Yes. I tend to avoid ‘the scene’ and get these gigs that are unusual and to the left of it. I don’t know why but I don’t enjoy being too seen. It’s something I’m working on. My other creative pursuits were internal, but this, music, is more public facing. I find it really intense performing, but it’s getting easier. With our live stuff I’m taking baby steps. I want to push that further to do something unique and enjoy it more.
+
+Compared to dad and Mitch I’m definitely the newborn. I get really anxious and nervous. Mitch who’s 14 years my junior is calm, collected, together. He’s playing a bass line on one hand, a cord, or riff on the other, a drum machine looping in and out with his foot, and he’s singing harmony. He’s making a lot of sound and he’s so relaxed when doing it, so serene. And I’m either just singing, or playing guitar and singing. And, dad, he’s playing a lot of harmonies, solos, and hooks. Both Mitch and Dad have played music their entire lives since they were children." 
+ 
+
+**Best gig to date?**
+
+"We did this gig with The Fables at Alpha House and in Newtown. The Fables organized it. It was such a good night. It was an older crowd, more underground art scene, a real bunch of weirdos, and it was a packed gallery full of people where everyone sat down and listened. A merging of two worlds."
+ 
+ 
+**What’s next for Dreamgood?**
+
+"Next for us is releasing the album, doing as many shows as we possibly can to work on that live performance muscle. It’s a thing I avoided that I need to get comfortable doing. The ‘Paris De Bono’ album. That’s a thing. I’m so inspired to do that. Mitch and I have already brainstormed what ‘Paris’ is as an artwork and it was a great process. We looked into psychology and therapy.. We looked into what it means to create an alter ego and what fortune telling is as well. I looked at Jung and symbol and how it all works with how we could tell this story about ‘Paris De Bono’. We bought all this gold paper and spread all the paper out on this kitchen bench. Over five hours we wrote until we had a firm idea of what it’ll look like, and it’s really exciting!"
+ 
+ 

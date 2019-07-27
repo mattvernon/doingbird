@@ -50,3 +50,4 @@ layout: gallery
 **Zimmermann** top & pants, **Coach** shoes and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_20.jpg](/uploads/ADAMSON_DOINGBIRD_20.jpg)
+**Zoo Emporium Vintage** jacket, **Zimmermann** pants & scarf and **Gucci** shoes

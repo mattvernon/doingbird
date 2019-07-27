@@ -90,22 +90,21 @@ Three of the songs came from watching ‘Paris is Burning’ and being overwhelm
 
 ![20190414_DREAMGOOD_271.jpg](/uploads/20190414_DREAMGOOD_271.jpg)
 
-An emotional love letter to compassion, almost?
+**An emotional love letter to compassion, almost?**
 
-For some of the songs. ‘Heaven’ is like that. I wrote ‘Heaven’, and a lot of the content in that because my nana and pop believe that gay people go to hell. The first line in the song is ‘no heaven not for her’ and it was written for friends of mine who are gay after watching ‘Paris is burning’. The song ‘Paris is Burning’ came out of it as well. There’s also a lot of emotional reactions and stories that come out of conversation between the three of us.
+"For some of the songs. ‘Heaven’ is like that. I wrote ‘Heaven’, and a lot of the content in that because my nana and pop believe that gay people go to hell. The first line in the song is ‘no heaven not for her’ and it was written for friends of mine who are gay after watching ‘Paris is burning’. The song ‘Paris is Burning’ came out of it as well. There’s also a lot of emotional reactions and stories that come out of conversation between the three of us.
 
-‘Visit Me’ was written to my best friend who passed away. He was driving through the hills of Byron bay and his car hit a cow which caused it to careen off a cliff where he died upon impact. I never got to say goodbye to him obviously, so that song was farewell. We had a really beautiful friendship. Although we lost each other in life, as you do sometimes. When he died that song came out. I was also going through a divorce at the time.
+‘Visit Me’ was written to my best friend who passed away. He was driving through the hills of Byron bay and his car hit a cow which caused it to careen off a cliff where he died upon impact. I never got to say goodbye to him obviously, so that song was farewell. We had a really beautiful friendship. Although we lost each other in life, as you do sometimes. When he died that song came out. I was also going through a divorce at the time."
 
 
-It’s a song about endings, but the lyrics speak about visiting. What’s that about?
+**It’s a song about endings, but the lyrics speak about visiting. What’s that about?**
  
-Well, have you ever been haunted by something? You don’t really have a choice when it comes to being haunted. It’s there. I was haunted by Dave when it happened. I find it really hard to sing that song live, actually. Mitch wants to perform it every time because he loves the song. So every time we go to do a gig we have this fight (laughs).
+"Well, have you ever been haunted by something? You don’t really have a choice when it comes to being haunted. It’s there. I was haunted by Dave when it happened. I find it really hard to sing that song live, actually. Mitch wants to perform it every time because he loves the song. So every time we go to do a gig we have this fight (laughs)."
 
 
- 
-What about ‘Fast Love’?
+**What about *Fast Love*?**
 
-‘Fast Love’ is more of a pop song. It relates to when love dies, the transience of love. About how it’s impermanent at times, your relationships, when it comes to love. You really need to work on them or else they unfortunately end. Also, I lived on William street and had this relationship with this lovely sex worker. She worked downstairs from me and would hit on me every time I came home. She was joking, and it just kept continuing until it became really hilarious and we would just laugh every time. And that became our relationship. We were light hearted about it all. So when I was writing that song, I thought of her within this room that overlooked where she worked. You would see people pulling up, and she’d hop in cars and so on. So both forms of fast love worked together.
+"*Fast Love* is more of a pop song. It relates to when love dies, the transience of love. About how it’s impermanent at times, your relationships, when it comes to love. You really need to work on them or else they unfortunately end. Also, I lived on William street and had this relationship with this lovely sex worker. She worked downstairs from me and would hit on me every time I came home. She was joking, and it just kept continuing until it became really hilarious and we would just laugh every time. And that became our relationship. We were light hearted about it all. So when I was writing that song, I thought of her within this room that overlooked where she worked. You would see people pulling up, and she’d hop in cars and so on. So both forms of fast love worked together."
 
 
 

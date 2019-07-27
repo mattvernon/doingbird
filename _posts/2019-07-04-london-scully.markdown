@@ -41,6 +41,7 @@ layout: gallery
 **Chanel** earrings & necklace
 
 ![ADAMSON_DOINGBIRD_16 (1).jpg](/uploads/ADAMSON_DOINGBIRD_16%20(1).jpg)
+**Miu Miu** top, vest, bustier & pants and **Coach** shoes
 
 ![ADAMSON_DOINGBIRD_17-8a782f.jpg](/uploads/ADAMSON_DOINGBIRD_17-8a782f.jpg)
 

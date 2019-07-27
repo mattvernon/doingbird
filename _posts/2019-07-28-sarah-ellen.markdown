@@ -13,7 +13,7 @@ Credits Text: |-
   hair **[Kyye](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   make-up **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
 is featured?: true
-Blurb: Photographs by Sarah Adamson
+Blurb: Photographs by Sarah Ellen
 layout: gallery
 ---
 

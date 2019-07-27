@@ -23,8 +23,6 @@ layout: gallery
 
 ![ADAMSON_DOINGBIRD_5.jpg](/uploads/ADAMSON_DOINGBIRD_5.jpg)
 
-![ADAMSON_DOINGBIRD_6.jpg](/uploads/ADAMSON_DOINGBIRD_6.jpg)
-
 ![ADAMSON_DOINGBIRD_9.jpg](/uploads/ADAMSON_DOINGBIRD_9.jpg)
 
 ![ADAMSON_DOINGBIRD_8.jpg](/uploads/ADAMSON_DOINGBIRD_8.jpg)

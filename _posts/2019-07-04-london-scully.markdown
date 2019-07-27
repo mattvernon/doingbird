@@ -35,8 +35,10 @@ layout: gallery
 **Zoo Emporium Vintage** blazer & gloves, **Coach** shorts and **Gucci** shoes & beret
 
 ![ADAMSON_DOINGBIRD_11-fbe4fe.jpg](/uploads/ADAMSON_DOINGBIRD_11-fbe4fe.jpg)
+**Bottega Veneta** bodysuit and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_13.jpg](/uploads/ADAMSON_DOINGBIRD_13.jpg)
+
 
 ![ADAMSON_DOINGBIRD_16 (1).jpg](/uploads/ADAMSON_DOINGBIRD_16%20(1).jpg)
 

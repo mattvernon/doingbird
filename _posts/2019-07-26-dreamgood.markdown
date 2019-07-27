@@ -107,7 +107,18 @@ Three of the songs came from watching *Paris is Burning* and being overwhelmed b
 "*Fast Love* is more of a pop song. It relates to when love dies, the transience of love. About how it’s impermanent at times, your relationships, when it comes to love. You really need to work on them or else they unfortunately end. Also, I lived on William street and had this relationship with this lovely sex worker. She worked downstairs from me and would hit on me every time I came home. She was joking, and it just kept continuing until it became really hilarious and we would just laugh every time. And that became our relationship. We were light hearted about it all. So when I was writing that song, I thought of her within this room that overlooked where she worked. You would see people pulling up, and she’d hop in cars and so on. So both forms of fast love worked together."
 
 
-
 ![20190414_DREAMGOOD_267.jpg](/uploads/20190414_DREAMGOOD_267.jpg)
+
+**And *Lost Boys*?**
+ 
+"With *Lost Boys*, I hadn’t animated before, and I created all those singing faces of old photographs I’d shot where I merged all these faces together so these people would end with no identity really. And, importantly, no gender. That song came out of Mitch and I jamming one night. I’d looped these cords while mucking around. Mitch started moving them around with a synth. And I started rapping almost like a joke, just fluidly. Somehow it became a song. It happened so fast. Suddenly it was just there, in the world. The song for me is about confused masculinity. There’s something about the lyrics that are some of my favourite in terms of content. It covers a lot of ground in 4 minutes. It’s less of a story, it has a sense of spoken word or poetry more so than other songs. 
+
+I love Mitch. If you look at him.. he’s a character beyond words and dresses so flamboyantly. People may look at him and not understand his orientation. When I was writing the song, I was looking at him and thinking about the man he is and how beautiful he is. And I guess that came out in the lyrics as well. I’ve never told that to him. It’s also just about life. It’s so confusing, it’s so diverse, with so much disparity. It’s a crazy world we live in where you can be born in the world and be in a really fortunate situation, or born in the world in a very abusive situation. It creates all these people and they’re all so different. What it means to be a man means so many different things."
+
+
+**So you all write produce, record your own songs, and make your own videos?**
+
+"Yes, it’s ridiculous, we’re the full production team for our own band."
+
 
 ![20190414_DREAMGOOD_104.jpg](/uploads/20190414_DREAMGOOD_104.jpg)

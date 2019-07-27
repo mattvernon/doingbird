@@ -20,27 +20,34 @@ layout: gallery
 ---
 
 ![ADAMSON_DOINGBIRD_3.jpg](/uploads/ADAMSON_DOINGBIRD_3.jpg)
+**Coach** dress & coat and **Chanel** shoes
 
 ![ADAMSON_DOINGBIRD_5.jpg](/uploads/ADAMSON_DOINGBIRD_5.jpg)
-
-![ADAMSON_DOINGBIRD_6.jpg](/uploads/ADAMSON_DOINGBIRD_6.jpg)
+**Chanel** coat
 
 ![ADAMSON_DOINGBIRD_9.jpg](/uploads/ADAMSON_DOINGBIRD_9.jpg)
+**Gucci** dress
 
 ![ADAMSON_DOINGBIRD_8.jpg](/uploads/ADAMSON_DOINGBIRD_8.jpg)
+**Gucci** dress & shoes
 
 ![ADAMSON_DOINGBIRD_10.jpg](/uploads/ADAMSON_DOINGBIRD_10.jpg)
+**Zoo Emporium Vintage** blazer & gloves, **Coach** shorts and **Gucci** shoes & beret
 
 ![ADAMSON_DOINGBIRD_11-fbe4fe.jpg](/uploads/ADAMSON_DOINGBIRD_11-fbe4fe.jpg)
+**Bottega Veneta** bodysuit and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_13.jpg](/uploads/ADAMSON_DOINGBIRD_13.jpg)
+**Chanel** earrings & necklace
 
 ![ADAMSON_DOINGBIRD_16 (1).jpg](/uploads/ADAMSON_DOINGBIRD_16%20(1).jpg)
+**Miu Miu** top, vest, bustier & pants and **Coach** shoes
 
 ![ADAMSON_DOINGBIRD_17-8a782f.jpg](/uploads/ADAMSON_DOINGBIRD_17-8a782f.jpg)
-
-![ADAMSON_DOINGBIRD_18.jpg](/uploads/ADAMSON_DOINGBIRD_18.jpg)
+**Jil Sander** top & **Christopher Kane** dress from **The Outnet**, **Salvatore Ferragamo** scarf and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_14.jpg](/uploads/ADAMSON_DOINGBIRD_14.jpg)
+**Zimmermann** top & pants, **Coach** shoes and **Zoo Emporium Vintage** gloves
 
 ![ADAMSON_DOINGBIRD_20.jpg](/uploads/ADAMSON_DOINGBIRD_20.jpg)
+**Zoo Emporium Vintage** jacket, **Zimmermann** pants & scarf and **Gucci** shoes

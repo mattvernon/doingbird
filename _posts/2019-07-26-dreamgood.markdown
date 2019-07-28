@@ -8,10 +8,11 @@ tags:
 - Shoot
 Main Image: "/uploads/20190414_DREAMGOOD_104.jpg"
 Credits Text: |-
+  text **[Vy Nguyen](https://www.instagram.com/ynvynyty/)**
   photographs **[Rene Vaile](https://www.instagram.com/renevaile_photo/)**
   talent **[Dreamgood](https://www.instagram.com/dreamgoodband/)**
 is featured?: true
-Blurb: Photographs by Max Doyle
+Blurb: Photographs by Rene Vaile
 layout: gallery
 ---
 

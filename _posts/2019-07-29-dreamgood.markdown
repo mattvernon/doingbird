@@ -1,6 +1,6 @@
 ---
 title: Dreamgood
-date: 2019-07-26 18:00:00 +10:00
+date: 2019-07-29 08:30:00 +10:00
 published: false
 categories:
 - Features
@@ -8,10 +8,11 @@ tags:
 - Shoot
 Main Image: "/uploads/20190414_DREAMGOOD_104.jpg"
 Credits Text: |-
+  text **[Vy Nguyen](https://www.instagram.com/ynvynyty/)**
   photographs **[Rene Vaile](https://www.instagram.com/renevaile_photo/)**
   talent **[Dreamgood](https://www.instagram.com/dreamgoodband/)**
 is featured?: true
-Blurb: Photographs by Max Doyle
+Blurb: Photographs by Rene Vaile
 layout: gallery
 ---
 

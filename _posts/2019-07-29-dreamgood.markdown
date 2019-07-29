@@ -4,7 +4,8 @@ date: 2019-07-29 14:30:00 +10:00
 categories:
 - Features
 tags:
-- Shoot
+- Interviews
+- Shoots
 Main Image: "/uploads/20190414_DREAMGOOD_104.jpg"
 Credits Text: |-
   text **[Vy Nguyen](https://www.instagram.com/ynvynyty/)**

@@ -1,16 +1,15 @@
 ---
 title: London Scully
-date: 2019-07-30 16:30:00 +10:00
-published: false
+date: 2019-07-30 16:00:00 +10:00
 categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/ADAMSON_DOINGBIRD_3.jpg"
+Main Image: "/uploads/ADAMSON_DOINGBIRD_9.jpg"
 Credits Text: |-
   photographs **[Sarah Adamson](https://www.instagram.com/sarahadamson/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Gaving Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
+  hair **[Gaving Anesbury](https://www.instagram.com/gavinanesburybeauty/)** using **[Hair Rituel by Sisley](https://www.instagram.com/hairrituelbysisley/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
   make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
   model **[London Scully](https://www.instagram.com/londonscully/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
   fashion assistant **Gerardine Wijangco**
@@ -33,6 +32,9 @@ layout: gallery
 
 ![ADAMSON_DOINGBIRD_10.jpg](/uploads/ADAMSON_DOINGBIRD_10.jpg)
 **Zoo Emporium Vintage** blazer & gloves, **Coach** shorts and **Gucci** shoes & beret
+
+![ADAMSON_DOINGBIRD_6.jpg](/uploads/ADAMSON_DOINGBIRD_6.jpg)
+**Chanel** coat, belt & shoes
 
 ![ADAMSON_DOINGBIRD_11-fbe4fe.jpg](/uploads/ADAMSON_DOINGBIRD_11-fbe4fe.jpg)
 **Bottega Veneta** bodysuit and **Zoo Emporium Vintage** gloves

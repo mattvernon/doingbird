@@ -1,6 +1,6 @@
 ---
 title: London Scully
-date: 2019-07-30 16:30:00 +10:00
+date: 2019-07-30 16:00:00 +10:00
 published: false
 categories:
 - Fashion

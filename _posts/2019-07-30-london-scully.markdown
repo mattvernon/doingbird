@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/ADAMSON_DOINGBIRD_3.jpg"
+Main Image: "/uploads/ADAMSON_DOINGBIRD_9.jpg"
 Credits Text: |-
   photographs **[Sarah Adamson](https://www.instagram.com/sarahadamson/)** at **[Union Management](https://www.instagram.com/union_management/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

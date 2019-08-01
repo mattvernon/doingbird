@@ -13,6 +13,7 @@ layout: gallery
 Zach wears **Calvin Klein** jeans & shirt and **Prada** shoes
 
 ![2_doingbird manly.jpg](/uploads/2_doingbird%20manly.jpg)
+Zach wears **Prada** shirt & sweater. Emilli wears **Christopher Esber** shirt & dress
 
 ![8_doingbird manly.jpg](/uploads/8_doingbird%20manly.jpg)
 

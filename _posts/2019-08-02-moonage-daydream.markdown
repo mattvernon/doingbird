@@ -6,6 +6,9 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/8_doingbird%20manly.jpg"
+is featured?: true
+Blurb: Photographs by Max Doyle
 layout: gallery
 ---
 

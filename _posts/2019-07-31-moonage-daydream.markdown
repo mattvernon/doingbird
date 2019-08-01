@@ -22,6 +22,7 @@ Carla wears **Chloe** shirt, jacket & shoes. Mili wears **Chloe** top, dress & s
 Mili wears **Miu Miu** dress, pants, gloves & shoes. Emilli wears **Louis Vuitton** top & pants and **Chanel** shoes. Carla wears **Fendi** dress & shoes
 
 ![5_doingbird manly.jpg](/uploads/5_doingbird%20manly.jpg)
+Zach wears **Prada** pants and own singlet
 
 ![4_doingbird manly.jpg](/uploads/4_doingbird%20manly.jpg)
 

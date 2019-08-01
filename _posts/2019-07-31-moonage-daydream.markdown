@@ -34,6 +34,7 @@ Adam wears **Prada** jumper & pants/ Emilli wears **Christopher Esber** top & sk
 Mili wears **Miu Miu** dress & gloves. Zac wears **Prada** top
 
 ![9_doingbird manly.jpg](/uploads/9_doingbird%20manly.jpg)
+Adam wears **Calvin Klein** singlet and **Prada** pants. Mili wears **Chanel** dress and **Reliquia** earrings
 
 ![12_doingbird  manly.jpg](/uploads/12_doingbird%20%20manly.jpg)
 

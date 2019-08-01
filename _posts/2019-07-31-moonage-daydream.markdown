@@ -43,6 +43,7 @@ Mili wears **Chloe** top, dress & boots (left). Adam wears **Double Rainbouu** t
 Carla wears **Chanel** dress & belt
 
 ![14_doingbird manly.jpg](/uploads/14_doingbird%20manly.jpg)
+Carla wears **Chloe** shirt & jacket. Emilli wears **Emporio Armani** jacket & dress
 
 ![11_doingbird manly.jpg](/uploads/11_doingbird%20manly.jpg)
 

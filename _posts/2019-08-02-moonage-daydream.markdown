@@ -1,6 +1,6 @@
 ---
 title: Moonage Daydream
-date: 2019-07-31 08:30:00 +10:00
+date: 2019-08-02 17:00:00 +10:00
 published: false
 categories:
 - Fashion

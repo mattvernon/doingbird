@@ -1,9 +1,9 @@
 ---
 title: Moonage Daydream
-date: 2019-07-30 12:44:00 +10:00
+date: 2019-07-31 08:30:00 +10:00
 published: false
 categories:
-- fashion
+- Fashion
 tags:
 - Shoot
 layout: gallery

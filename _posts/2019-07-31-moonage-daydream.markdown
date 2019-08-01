@@ -37,6 +37,7 @@ Mili wears **Miu Miu** dress & gloves. Zac wears **Prada** top
 Adam wears **Calvin Klein** singlet and **Prada** pants. Mili wears **Chanel** dress and **Reliquia** earrings
 
 ![12_doingbird  manly.jpg](/uploads/12_doingbird%20%20manly.jpg)
+Mili wears **Chloe** top, dress & boots (left). Adam wears **Double Rainbouu** top. Mili wears **Michael Lo Sordo** top & skirt and **Chloe** boots. Emilli wears **Emporio Armani** dress and **Louis Vuitton** boots
 
 ![10_doingbird manly.jpg](/uploads/10_doingbird%20manly.jpg)
 

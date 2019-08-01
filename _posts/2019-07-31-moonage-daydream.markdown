@@ -28,6 +28,7 @@ Zach wears **Prada** pants and own singlet
 Adam wears **Prada** jumper. Carla wears **Fendi** dress
 
 ![6_doingbird manly.jpg](/uploads/6_doingbird%20manly.jpg)
+Adam wears **Prada** jumper & pants/ Emilli wears **Christopher Esber** top & skirt and **Chanel** shoes
 
 ![7_doingbird manly.jpg](/uploads/7_doingbird%20manly.jpg)
 

@@ -52,6 +52,7 @@ Adam wears **Prada** jumper. Carla wears **Emporio Armani** dress
 Mili wears **Christian Dior** dress & briefs
 
 ![15_doingbird manly.jpg](/uploads/15_doingbird%20manly.jpg)
+Mili wears **Christian Dior** dress. Zac wears **Emporio Armani** shirt & pants. Carla wears **Chloe** shirt & pants. Adam wears **Louis Vuitton** shirt & pants. Emilli wears **Georgia Alice** top & pants
 
 ![16_doingbird manly.jpg](/uploads/16_doingbird%20manly.jpg)
 

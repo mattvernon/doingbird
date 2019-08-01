@@ -10,16 +10,16 @@ layout: gallery
 ---
 
 ![1_doingbird manly.jpg](/uploads/1_doingbird%20manly.jpg)
-Zach wears **Calvin Klein** jeans & shirt and **Prada** shoes. Mili wears **Miu Miu** dress.
+Zach wears **Calvin Klein** jeans & shirt and **Prada** shoes. Mili wears **Miu Miu** dress
 
 ![2_doingbird manly.jpg](/uploads/2_doingbird%20manly.jpg)
 Zach wears **Prada** shirt & sweater. Emilli wears **Christopher Esber** shirt & dress
 
 ![8_doingbird manly.jpg](/uploads/8_doingbird%20manly.jpg)
-Carla wears **Chloe** shirt, jacket & shoes. Mili wears **Chloe** top, dress & shoes. Adam wears **Louis Vuitton** shirt, t-shirt & pants. Zach wears **Calvin Klein** shirt & pants and **Prada** shoes. Emilli wears **Dion Lee** top, **Romance Was Born** shorts and **Louis Vuitton** shoes.
+Carla wears **Chloe** shirt, jacket & shoes. Mili wears **Chloe** top, dress & shoes. Adam wears **Louis Vuitton** shirt, t-shirt & pants. Zach wears **Calvin Klein** shirt & pants and **Prada** shoes. Emilli wears **Dion Lee** top, **Romance Was Born** shorts and **Louis Vuitton** shoes
 
 ![3_doingbird manly.jpg](/uploads/3_doingbird%20manly.jpg)
-Mili wears **Miu Miu** dress, pants, gloves & shoes. Emilli wears **Louis Vuitton** top & pants and **Chanel** shoes. Carla wears **Fendi** dress & shoes.
+Mili wears **Miu Miu** dress, pants, gloves & shoes. Emilli wears **Louis Vuitton** top & pants and **Chanel** shoes. Carla wears **Fendi** dress & shoes
 
 ![5_doingbird manly.jpg](/uploads/5_doingbird%20manly.jpg)
 

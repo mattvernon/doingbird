@@ -10,6 +10,7 @@ layout: gallery
 ---
 
 ![1_doingbird manly.jpg](/uploads/1_doingbird%20manly.jpg)
+Zach wears **Calvin Klein** jeans & shirt and **Prada** shoes
 
 ![2_doingbird manly.jpg](/uploads/2_doingbird%20manly.jpg)
 

@@ -31,7 +31,7 @@ Adam wears **Prada** jumper. Carla wears **Fendi** dress
 Adam wears **Prada** jumper & pants/ Emilli wears **Christopher Esber** top & skirt and **Chanel** shoes
 
 ![7_doingbird manly.jpg](/uploads/7_doingbird%20manly.jpg)
-Mili wears **Miu Miu** dress & gloves. Za
+Mili wears **Miu Miu** dress & gloves. Zac wears **Prada** top
 
 ![9_doingbird manly.jpg](/uploads/9_doingbird%20manly.jpg)
 

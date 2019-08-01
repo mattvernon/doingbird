@@ -16,6 +16,7 @@ Zach wears **Calvin Klein** jeans & shirt and **Prada** shoes
 Zach wears **Prada** shirt & sweater. Emilli wears **Christopher Esber** shirt & dress
 
 ![8_doingbird manly.jpg](/uploads/8_doingbird%20manly.jpg)
+Carla wears **Chloe** shirt, jacket & shoes. Milli wears **Chloe** top, dress & shoes. Adam wears **Louis Vuitton** shirt, t-shirt & pants. Zach wears **Calvin Klein** shirt & pants and **Prada** shoes. Emilli wears **Dion Lee** top, **Romance Was Born** shorts and **Louis Vuitton** shoes.
 
 ![3_doingbird manly.jpg](/uploads/3_doingbird%20manly.jpg)
 

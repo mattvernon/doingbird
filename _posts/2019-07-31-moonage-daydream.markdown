@@ -40,6 +40,7 @@ Adam wears **Calvin Klein** singlet and **Prada** pants. Mili wears **Chanel** d
 Mili wears **Chloe** top, dress & boots (left). Adam wears **Double Rainbouu** top. Mili wears **Michael Lo Sordo** top & skirt and **Chloe** boots. Emilli wears **Emporio Armani** dress and **Louis Vuitton** boots
 
 ![10_doingbird manly.jpg](/uploads/10_doingbird%20manly.jpg)
+Carla wears **Chanel** dress & belt
 
 ![14_doingbird manly.jpg](/uploads/14_doingbird%20manly.jpg)
 

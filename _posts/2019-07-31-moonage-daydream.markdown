@@ -25,6 +25,7 @@ Mili wears **Miu Miu** dress, pants, gloves & shoes. Emilli wears **Louis Vuitto
 Zach wears **Prada** pants and own singlet
 
 ![4_doingbird manly.jpg](/uploads/4_doingbird%20manly.jpg)
+Adam wears **Prada** jumper. Carla wears **Fendi** dress
 
 ![6_doingbird manly.jpg](/uploads/6_doingbird%20manly.jpg)
 

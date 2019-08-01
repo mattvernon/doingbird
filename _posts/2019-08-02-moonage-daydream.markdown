@@ -46,6 +46,7 @@ Carla wears **Chanel** dress & belt
 Carla wears **Chloe** shirt & jacket. Emilli wears **Emporio Armani** jacket & dress
 
 ![11_doingbird manly.jpg](/uploads/11_doingbird%20manly.jpg)
+Adam wears **Prada** jumper. Carla wears **Emporio Armani** dress
 
 ![13_doingbird manly.jpg](/uploads/13_doingbird%20manly.jpg)
 

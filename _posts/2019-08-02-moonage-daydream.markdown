@@ -12,6 +12,7 @@ Credits Text: |-
   styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**
   hair **[Max Pinnell](https://www.instagram.com/maxpinnell/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
   make-up **[Elsa Morgan](https://www.instagram.com/elsamorgan/)** at **[Reload Agency](https://www.instagram.com/reloadagency/)**
+  models **[Zac](https://www.instagram.com/zac_panyar/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**, **[Mili](https://www.instagram.com/milipineirocorna/)** & **[Carla](https://www.instagram.com/carlapereirax/)** at **[IMG](https://www.instagram.com/imgmodels/)**, **[Emilli Cestari](https://www.instagram.com/emicestari/)** & **[Adam Zammit](https://www.instagram.com/itsadamzammit/)** at **[Priscillas](https://www.instagram.com/priscillasmodels/)**
 is featured?: true
 Blurb: Photographs by Max Doyle
 layout: gallery

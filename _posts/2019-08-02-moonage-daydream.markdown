@@ -7,7 +7,10 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/8_doingbird%20manly.jpg"
-Credits Text: photographs
+Credits Text: |-
+  photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
+  styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**
+  hair **[Max Pinnell](https://www.instagram.com/maxpinnell/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
 is featured?: true
 Blurb: Photographs by Max Doyle
 layout: gallery

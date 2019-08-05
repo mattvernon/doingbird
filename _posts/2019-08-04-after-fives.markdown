@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/190721_Doingbird_AfterFives_Series_01.jpg"
 Credits Text: |-
   photographs **[Levon Baird](https://www.instagram.com/levonbaird/)** at **[The Artist Group](https://www.instagram.com/theartistgroup/)**
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

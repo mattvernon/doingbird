@@ -11,6 +11,8 @@ Credits Text: |-
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Joel Forman](https://www.instagram.com/joelforman/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Alan White Anthology](https://www.instagram.com/alanwhiteanthology/)** & **[Davines](https://www.instagram.com/davines_australia/)**
   make-up **[Joel Babicci](https://www.instagram.com/joel_babicci/)** using **[MAC](https://www.instagram.com/maccosmetics/)**
+  set styling **[Bella Saltearn](https://www.instagram.com/rose_romanov/)**
+  photography assistants **Conrad Aleksander** & **Orson Heidrich**
   models **[Bentley](https://www.instagram.com/bentleymescall/)** & **[Zarik](https://www.instagram.com/zarikkhan_/)** at **[IMG](https://www.instagram.com/imgmodels/)** and **[Leo](https://www.instagram.com/leonvrrdo/)** at **[FiveTwenty](https://www.instagram.com/fivetwentyMGT/)**
 is featured?: true
 Blurb: Photographs by Levon Baird

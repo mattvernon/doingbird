@@ -29,5 +29,7 @@ layout: gallery
 ![sarahellen-doingbird7.jpg](/uploads/sarahellen-doingbird7.jpg)
 **All Is A Gentle Spring** top and **Lele Sadoughi** earrings drom **Pierre Winter Fine Jewels**
 
+![sarahellen-doingbird6.jpg](/uploads/sarahellen-doingbird6.jpg)
+**Daisy** dress & pants, **Gucci** shoes and **Mars** earrings
 
 

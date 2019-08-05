@@ -27,6 +27,7 @@ Leo wears **Michael Lo Sordo** coat (left) and **Zegna XXX** coat & hat (right)
 Zarik wears **Zegna XXX** jumper & pants. Bentley wears **Prada** jacket, skirt & shoes. Leo wears **Emporio Armani** jacket, pants & shoes
 
 ![190721_Doingbird_AfterFives_Series_05.jpg](/uploads/190721_Doingbird_AfterFives_Series_05.jpg)
+Zarik wears **Prada** coat & shoes. Bentley wears **Prada** top & skirt and **Zimmermann** shoes
 
 ![190721_Doingbird_AfterFives_Series_04.jpg](/uploads/190721_Doingbird_AfterFives_Series_04.jpg)
 

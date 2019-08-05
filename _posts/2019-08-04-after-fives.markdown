@@ -30,6 +30,7 @@ Zarik wears **Zegna XXX** jumper & pants. Bentley wears **Prada** jacket, skirt 
 Zarik wears **Prada** coat & shoes. Bentley wears **Prada** top & skirt and **Zimmermann** shoes
 
 ![190721_Doingbird_AfterFives_Series_04.jpg](/uploads/190721_Doingbird_AfterFives_Series_04.jpg)
+Zarik wears **Hugo Boss** coat and **Mulberry** scarf. Bentley wears **Hugo Boss** coat and **Sandro** top
 
 ![190721_Doingbird_AfterFives_Series_06.jpg](/uploads/190721_Doingbird_AfterFives_Series_06.jpg)
 

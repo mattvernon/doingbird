@@ -18,12 +18,13 @@ layout: gallery
 ---
 
 ![190721_Doingbird_AfterFives_Series_01.jpg](/uploads/190721_Doingbird_AfterFives_Series_01.jpg)
-Bentley wears **Jacquemus** blazer from **MatchesFashion**. Zarik wears **Prada** jacket & pants. Leo wears **Zegna XXX** blazer.
+Bentley wears **Jacquemus** blazer from **MatchesFashion**. Zarik wears **Prada** jacket & pants. Leo wears **Zegna XXX** blazer
 
 ![190721_Doingbird_AfterFives_Series_02.jpg](/uploads/190721_Doingbird_AfterFives_Series_02.jpg)
 Leo wears **Michael Lo Sordo** coat (left) and **Zegna XXX** coat & hat (right)
 
 ![190721_Doingbird_AfterFives_Series_03.jpg](/uploads/190721_Doingbird_AfterFives_Series_03.jpg)
+Zarik wears **Zegna XXX** jumper & pants. Bentley wears **Prada** jacket, skirt & shoes. Leo wears **Emporio Armani** jacket, pants & shoes
 
 ![190721_Doingbird_AfterFives_Series_05.jpg](/uploads/190721_Doingbird_AfterFives_Series_05.jpg)
 

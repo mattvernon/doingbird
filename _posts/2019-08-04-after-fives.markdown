@@ -33,7 +33,8 @@ Leo wears **Michael Lo Sordo** coat (left) and **Zegna XXX** coat & hat (right)
 
 ![190721_Doingbird_AfterFives_Series_08.jpg](/uploads/190721_Doingbird_AfterFives_Series_08.jpg)
 
+![190721_Doingbird_AfterFives_Series_09.jpg](/uploads/190721_Doingbird_AfterFives_Series_09.jpg)
+
 ![190721_Doingbird_AfterFives_Series_07.jpg](/uploads/190721_Doingbird_AfterFives_Series_07.jpg)
 
-![190721_Doingbird_AfterFives_Series_09.jpg](/uploads/190721_Doingbird_AfterFives_Series_09.jpg)
 

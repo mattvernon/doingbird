@@ -17,3 +17,21 @@ Blurb: Photographs by Levon Baird
 layout: gallery
 ---
 
+![190721_Doingbird_AfterFives_Series_01.jpg](/uploads/190721_Doingbird_AfterFives_Series_01.jpg)
+
+![190721_Doingbird_AfterFives_Series_02.jpg](/uploads/190721_Doingbird_AfterFives_Series_02.jpg)
+
+![190721_Doingbird_AfterFives_Series_03.jpg](/uploads/190721_Doingbird_AfterFives_Series_03.jpg)
+
+![190721_Doingbird_AfterFives_Series_05.jpg](/uploads/190721_Doingbird_AfterFives_Series_05.jpg)
+
+![190721_Doingbird_AfterFives_Series_04.jpg](/uploads/190721_Doingbird_AfterFives_Series_04.jpg)
+
+![190721_Doingbird_AfterFives_Series_06.jpg](/uploads/190721_Doingbird_AfterFives_Series_06.jpg)
+
+![190721_Doingbird_AfterFives_Series_08.jpg](/uploads/190721_Doingbird_AfterFives_Series_08.jpg)
+
+![190721_Doingbird_AfterFives_Series_07.jpg](/uploads/190721_Doingbird_AfterFives_Series_07.jpg)
+
+![190721_Doingbird_AfterFives_Series_09.jpg](/uploads/190721_Doingbird_AfterFives_Series_09.jpg)
+

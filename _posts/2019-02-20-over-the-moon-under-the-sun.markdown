@@ -72,4 +72,4 @@ Glaze, porcelain, raku and stoneware
 
 ![image1 (1).jpeg](/uploads/image1%20(1).jpeg)
 
-Portrait by **[Daniela Vlickovic](https://www.instagram.com/danielavelickovic/)**
+Portrait by **[Daniela Velickovic](https://www.instagram.com/danielavelickovic/)**

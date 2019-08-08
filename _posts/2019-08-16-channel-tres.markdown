@@ -7,6 +7,9 @@ categories:
 tags:
 - Interviews
 - Shoot
+Credits Text: photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
+is featured?: true
+Blurb: Photographs by Levon Baird
 layout: gallery
 ---
 

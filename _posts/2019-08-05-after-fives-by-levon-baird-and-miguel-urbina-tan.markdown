@@ -41,7 +41,7 @@ Zarik wears **Hugo Boss** coat and **Mulberry** scarf. Bentley wears **Hugo Boss
 Leo wears **Salvatore Ferragamo** top. Bentley wears **Emporio Armani** top, shorts, coat & shoes
 
 ![190721_Doingbird_AfterFives_Series_09.jpg](/uploads/190721_Doingbird_AfterFives_Series_09.jpg)
-Zarik wears **Ermenegildo Zegna XXX** jumper, blazer, pants & shoes. Leo wears **Emporio Armani** top, blazer, pants & shoes. Bentley wears **Chanel** jumpsuit (worn underneath), jumpsuit, earrings & shoes
+Zarik wears **Ermenegildo Zegna XXX** jumper, blazer, pants & shoes. Leo wears **Emporio Armani** blazer, pants & shoes. Bentley wears **Chanel** jumpsuit (worn underneath), jumpsuit, earrings & shoes
 
 ![190721_Doingbird_AfterFives_Series_07.jpg](/uploads/190721_Doingbird_AfterFives_Series_07.jpg)
 Zarik wears **Hugo Boss** jacket

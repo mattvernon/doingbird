@@ -7,6 +7,7 @@ categories:
 tags:
 - Interviews
 - Shoot
+Main Image: "/uploads/190723_Doingbird_ChannelTres_Series_04.jpg"
 Credits Text: |-
   photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
   interview & text **[John Buckley](https://www.instagram.com/johnalbertbuckley/)**

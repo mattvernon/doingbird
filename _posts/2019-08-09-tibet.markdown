@@ -1,14 +1,16 @@
 ---
 title: Tibet
-date: 2019-08-08 22:49:00 +10:00
+date: 2019-08-09 08:30:00 +10:00
 published: false
 categories:
 - World
 tags:
 - Shoot
 Main Image: "/uploads/tibet-1500-10.jpg"
+Credits Text: photographys by **[Tim Lo](https://www.instagram.com/t__l_o/)**
 is featured?: true
 Blurb: Photographs by Tim Lo
+layout: gallery
 ---
 
 ![tibet-1500-1.jpg](/uploads/tibet-1500-1.jpg)

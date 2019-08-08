@@ -7,7 +7,9 @@ categories:
 tags:
 - Interviews
 - Shoot
-Credits Text: photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
+Credits Text: |-
+  photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
+  interview & text **[John Buckley](https://www.instagram.com/johnalbertbuckley/)**
 is featured?: true
 Blurb: Photographs by Levon Baird
 layout: gallery

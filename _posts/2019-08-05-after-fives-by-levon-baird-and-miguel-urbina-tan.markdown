@@ -35,7 +35,7 @@ Zarik wears **Prada** coat, pants & shoes. Bentley wears **Prada** top & skirt a
 Zarik wears **Hugo Boss** coat and **Mulberry** scarf. Bentley wears **Hugo Boss** coat and **Sandro** top
 
 ![190721_Doingbird_AfterFives_Series_06.jpg](/uploads/190721_Doingbird_AfterFives_Series_06.jpg)
-(Left) Bentley wears **Dion Lee** coat. Leo wears **Christian Dior Men** coat, pants & shoes. (Right) Leo wears **Ermenegildo Zegna XXX** top, jacket & pants and **Prada** shoes. Zarik wears **Salvatore Ferragamo** top & pants
+(Left) Bentley wears **Dion Lee** coat. Leo wears **Dior Men** coat, pants & shoes. (Right) Leo wears **Ermenegildo Zegna XXX** top, jacket & pants and **Prada** shoes. Zarik wears **Salvatore Ferragamo** top & pants
 
 ![190721_Doingbird_AfterFives_Series_08.jpg](/uploads/190721_Doingbird_AfterFives_Series_08.jpg)
 Leo wears **Salvatore Ferragamo** top. Bentley wears **Emporio Armani** top, shorts, coat & shoes

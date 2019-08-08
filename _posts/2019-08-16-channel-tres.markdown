@@ -13,3 +13,12 @@ Blurb: Photographs by Levon Baird
 layout: gallery
 ---
 
+![190723_Doingbird_ChannelTres_Series_01.jpg](/uploads/190723_Doingbird_ChannelTres_Series_01.jpg)
+
+![190723_Doingbird_ChannelTres_Series_02.jpg](/uploads/190723_Doingbird_ChannelTres_Series_02.jpg)
+
+![190723_Doingbird_ChannelTres_Series_03.jpg](/uploads/190723_Doingbird_ChannelTres_Series_03.jpg)
+
+![190723_Doingbird_ChannelTres_Series_04.jpg](/uploads/190723_Doingbird_ChannelTres_Series_04.jpg)
+
+![190723_Doingbird_ChannelTres_Series_05.jpg](/uploads/190723_Doingbird_ChannelTres_Series_05.jpg)

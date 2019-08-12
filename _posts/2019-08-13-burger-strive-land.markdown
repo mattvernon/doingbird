@@ -4,7 +4,8 @@ date: 2019-08-13 08:30:00 +10:00
 published: false
 categories:
 - Art
-- World
+tags:
+- Feature
 Main Image: "/uploads/IMG_1370.jpeg"
 Credits Text: text & artwork **[Rebecca Davies](https://www.instagram.com/rebeccaloudavies/)**
 is featured?: true

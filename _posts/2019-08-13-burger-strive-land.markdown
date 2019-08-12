@@ -13,6 +13,11 @@ Blurb: Poem by Rebecca Davies
 layout: gallery
 ---
 
+![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)
+
+**BURGER STRIVE LAND**
+
+
 Embroidered bun of parallel complexity
 
 Two sides of magnetic thirst
@@ -24,6 +29,7 @@ A side of delicious desperation seeking
 against the fingering of mindful refusal
 
 Thin thighs score goals
+
 
 
 
@@ -43,6 +49,7 @@ Valiant underneath the glory of the golden arches
 
 
 
+
 A match to be played
 
 on a bed of lonely aspiration
@@ -57,6 +64,5 @@ Fearful ride to venture into distorted depths
 
 Burger strive land
 
-![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)
 
 

@@ -23,7 +23,7 @@ A side of delicious desperation seeking
 
 against the fingering of mindful refusal
 
-Thing thighs score goals
+Thin thighs score goals
 
 
 

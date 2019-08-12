@@ -6,7 +6,7 @@ categories:
 - Art
 - World
 Main Image: "/uploads/IMG_1370.jpeg"
-Credits Text: text **Rebecca Davies**
+Credits Text: text & artwork **[Rebecca Davies](https://www.instagram.com/rebeccaloudavies/)**
 is featured?: true
 Blurb: Poem by Rebecca Davies
 layout: gallery

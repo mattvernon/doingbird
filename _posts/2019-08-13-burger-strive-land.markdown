@@ -23,7 +23,8 @@ A side of delicious desperation seeking
 
 against the fingering of mindful refusal
 
-Thing thighs score goals
+Thin thighs score goals
+
 
 
 Deep funnelled resentment
@@ -39,6 +40,7 @@ and out
 Satisfied King
 
 Valiant underneath the glory of the golden arches
+
 
 
 A match to be played

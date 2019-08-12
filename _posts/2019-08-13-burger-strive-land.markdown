@@ -4,15 +4,14 @@ date: 2019-08-13 08:30:00 +10:00
 published: false
 categories:
 - Art
-- World
+tags:
+- Feature
 Main Image: "/uploads/IMG_1370.jpeg"
-Credits Text: text **Rebecca Davies**
+Credits Text: text & artwork **[Rebecca Davies](https://www.instagram.com/rebeccaloudavies/)**
 is featured?: true
 Blurb: Poem by Rebecca Davies
 layout: gallery
 ---
-
-![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)
 
 Embroidered bun of parallel complexity
 Two sides of magnetic thirst
@@ -36,4 +35,7 @@ yet lost with conflicting conviction
 The Cactus carousel
 Fearful ride to venture into distorted depths
 Burger strive land
+
+![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)
+
 

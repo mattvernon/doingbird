@@ -19,54 +19,26 @@ layout: gallery
 
 
 Embroidered bun of parallel complexity
-
 Two sides of magnetic thirst
-
 to drown the game of paranoia
-
 A side of delicious desperation seeking
-
 against the fingering of mindful refusal
-
 Thin thighs score goals
 
 
-
-
-
-
-Deep funnelled resentment
-
+Deep funneled resentment
 If only the mind could be masked wide shut
-
 Eliminate the impenetrable guilt
-
-to succumb to the full pleasure of in
-
-and out
-
+to succumb to the full pleasure of In
+and Out
 Satisfied King
-
 Valiant underneath the glory of the golden arches
 
 
-
-
-
-
 A match to be played
-
 on a bed of lonely aspiration
-
-Wet with evoked imagination
-
+Wet with evoked imagination 
 yet lost with conflicting conviction
-
-The Cactus carousel
-
+The cactus carousel 
 Fearful ride to venture into distorted depths
-
-Burger strive land
-
-
-
+Burger strive land.

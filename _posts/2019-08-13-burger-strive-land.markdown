@@ -13,8 +13,6 @@ Blurb: Poem by Rebecca Davies
 layout: gallery
 ---
 
-![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)
-
 **BURGER STRIVE LAND**
 
 Embroidered bun of parallel complexity
@@ -56,3 +54,5 @@ The cactus carousel
 Fearful ride to venture into distorted depths
 
 Burger strive land
+
+![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)

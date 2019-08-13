@@ -6,7 +6,7 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/tibet-1500-1.jpg"
-Credits Text: photographys by **[Tim Lo](https://www.instagram.com/t__l_o/)**
+Credits Text: photographs by **[Tim Lo](https://www.instagram.com/t__l_o/)**
 is featured?: true
 Blurb: Photographs by Tim Lo
 layout: gallery

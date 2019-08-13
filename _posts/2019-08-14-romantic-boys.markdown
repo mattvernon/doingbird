@@ -2,7 +2,17 @@
 title: Romantic Boys
 date: 2019-08-14 17:30:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- Shoot
+- Interviews
 Main Image: "/uploads/JoDuck_CowboysAtSunset.jpg"
+Credits Text: |-
+  interview & text **[Steve Duck](https://www.instagram.com/stevejduck/)**
+  photographs **[Jo Duck](https://www.instagram.com/jo_duck/)**
+is featured?: true
+Blurb: Photographs by Jo Duck
 layout: gallery
 ---
 

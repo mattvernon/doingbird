@@ -1,6 +1,6 @@
 ---
 title: Burger Strive Land
-date: 2019-08-13 08:30:00 +10:00
+date: 2019-08-13 20:00:00 +10:00
 published: false
 categories:
 - Art

@@ -13,10 +13,7 @@ Blurb: Poem by Rebecca Davies
 layout: gallery
 ---
 
-![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)
-
 **BURGER STRIVE LAND**
-
 
 Embroidered bun of parallel complexity
 
@@ -30,7 +27,7 @@ against the fingering of mindful refusal
 
 Thin thighs score goals
 
-
+--
 
 Deep funneled resentment
 
@@ -46,7 +43,7 @@ Satisfied King
 
 Valiant underneath the glory of the golden arches
 
-
+--
 
 A match to be played
 
@@ -61,3 +58,5 @@ The cactus carousel
 Fearful ride to venture into distorted depths
 
 Burger strive land
+
+![IMG_1370.jpeg](/uploads/IMG_1370.jpeg)

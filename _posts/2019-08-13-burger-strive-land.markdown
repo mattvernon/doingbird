@@ -27,7 +27,7 @@ against the fingering of mindful refusal
 
 Thin thighs score goals
 
-\*\*--\*\*
+--
 
 Deep funneled resentment
 
@@ -43,7 +43,7 @@ Satisfied King
 
 Valiant underneath the glory of the golden arches
 
-\*\*--\*\*
+--
 
 A match to be played
 

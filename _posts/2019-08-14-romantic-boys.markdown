@@ -1,8 +1,9 @@
 ---
 title: Romantic Boys
-date: 2019-08-13 20:12:00 +10:00
+date: 2019-08-14 17:30:00 +10:00
 published: false
 Main Image: "/uploads/JoDuck_CowboysAtSunset.jpg"
+layout: gallery
 ---
 
 Jo Duck is a Melbourne photographer who has worked across fashion editorial and commercial photography, scoring placements in Harpers Bazaar, Monocle and i-D, among others. She’s also my sister and, truth be told, she’d be nowhere without me. It all started when she took photos of local rappers for my early-00s hip-hop magazine Out4Fame. Now she’s out there travelling the globe with a rep as a photographer with a masterful control of lighting and a strong streak of unique personality across her portfolio. But don’t let her forget it all started with documenting rap battles in a Fitzroy pub.

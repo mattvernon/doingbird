@@ -17,7 +17,6 @@ layout: gallery
 
 **BURGER STRIVE LAND**
 
-
 Embroidered bun of parallel complexity
 
 Two sides of magnetic thirst
@@ -29,8 +28,6 @@ A side of delicious desperation seeking
 against the fingering of mindful refusal
 
 Thin thighs score goals
-
-
 
 Deep funneled resentment
 
@@ -45,8 +42,6 @@ and Out
 Satisfied King
 
 Valiant underneath the glory of the golden arches
-
-
 
 A match to be played
 

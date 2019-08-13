@@ -27,6 +27,8 @@ against the fingering of mindful refusal
 
 Thin thighs score goals
 
+\*\*--\*\*
+
 Deep funneled resentment
 
 If only the mind could be masked wide shut
@@ -40,6 +42,8 @@ and Out
 Satisfied King
 
 Valiant underneath the glory of the golden arches
+
+\*\*--\*\*
 
 A match to be played
 

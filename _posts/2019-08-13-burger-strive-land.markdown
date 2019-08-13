@@ -32,21 +32,19 @@ Thin thighs score goals
 
 
 
-
-Deep funnelled resentment
+Deep funneled resentment
 
 If only the mind could be masked wide shut
 
 Eliminate the impenetrable guilt
 
-to succumb to the full pleasure of in
+to succumb to the full pleasure of In
 
-and out
+and Out
 
 Satisfied King
 
 Valiant underneath the glory of the golden arches
-
 
 
 
@@ -58,11 +56,8 @@ Wet with evoked imagination
 
 yet lost with conflicting conviction
 
-The Cactus carousel
+The cactus carousel
 
 Fearful ride to venture into distorted depths
 
 Burger strive land
-
-
-

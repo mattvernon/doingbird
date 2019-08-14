@@ -10,6 +10,7 @@ Main Image: "/uploads/JoDuck_CowboysAtSunset.jpg"
 Credits Text: |-
   interview & text **[Steve Duck](https://www.instagram.com/stevejduck/)**
   photographs **[Jo Duck](https://www.instagram.com/jo_duck/)**
+  styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
 is featured?: true
 Blurb: Photographs by Jo Duck
 layout: gallery

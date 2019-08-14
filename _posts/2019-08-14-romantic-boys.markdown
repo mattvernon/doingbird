@@ -30,9 +30,10 @@ And you'd be like 'nothing, I'm just buying a hot dog'. And then you'd just watc
 I started thinking about sleaziness, but then I developed it into a more positive series. But I kept elements of gold chains and wet lips and silkiness. The cliches of a sleazy romantic dude.
 
 **Do you think it's a weird time to?**
+
 Yes
 
-Right. In the media, and in our lives in general, we're certainly more aware of not only slimy sexual predators but also the impact of toxic masculinity. It's an interesting concept that you've explored; this weird meeting place of the best and the worst of masculinity.
+**Right. In the media, and in our lives in general, we're certainly more aware of not only slimy sexual predators but also the impact of toxic masculinity. It's an interesting concept that you've explored; this weird meeting place of the best and the worst of masculinity.**
 
 Although this idea has kind of a gross beginning, I wanted to change it into a more positive thing. It’s a celebration of men who love to love. But then the more that I developed the idea, the more I was looking at how people project their masculinity.
 

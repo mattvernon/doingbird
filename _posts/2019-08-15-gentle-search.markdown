@@ -1,6 +1,6 @@
 ---
 title: Gentle Search
-date: 2019-08-07 08:30:00 +10:00
+date: 2019-08-15 17:30:00 +10:00
 published: false
 categories:
 - Fashion
@@ -12,7 +12,7 @@ Credits Text: |-
   styling **[Chloe Hill](https://www.instagram.com/chloechill/)**
   hair **[Kyye](https://www.instagram.com/kyye/)** at **[Work Agency](https://www.instagram.com/workagency/)**
   make-up **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/)** at **[Vivien's Creative](https://www.instagram.com/vivienscreative/)**
-  model **[Beti](https://www.instagram.com/el_chocolatemilk/)**
+  model **[Beti](https://www.instagram.com/el_chocolatemilk/)** at **[Chic Management](https://www.instagram.com/chic_management/)**
 is featured?: true
 Blurb: Photographs by Sarah Ellen
 layout: gallery

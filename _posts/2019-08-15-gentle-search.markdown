@@ -20,7 +20,7 @@ layout: gallery
 ![sarahellen-doingbird1.jpg](/uploads/sarahellen-doingbird1.jpg)
 **Prada** blazer and **Romance Was Born** archive headpiece
 
-![sarahellen-doingbird2.jpg](/uploads/sarahellen-doingbird2.jpg)!
+![sarahellen-doingbird2.jpg](/uploads/sarahellen-doingbird2.jpg)
 **Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves & **Mars** earrings
 
 ![sarahellen-doingbird9.jpg](/uploads/sarahellen-doingbird9.jpg)

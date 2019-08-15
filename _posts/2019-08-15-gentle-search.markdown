@@ -1,7 +1,6 @@
 ---
 title: Gentle Search
 date: 2019-08-15 17:30:00 +10:00
-published: false
 categories:
 - Fashion
 tags:
@@ -18,17 +17,20 @@ Blurb: Photographs by Sarah Ellen
 layout: gallery
 ---
 
-[sarahellen-doingbird1.jpg](/uploads/sarahellen-doingbird1.jpg)
+![sarahellen-doingbird1.jpg](/uploads/sarahellen-doingbird1.jpg)
 **Prada** blazer and **Romance Was Born** archive headpiece
 
 ![sarahellen-doingbird2.jpg](/uploads/sarahellen-doingbird2.jpg)!
 **Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves & **Mars** earrings
 
-![doingbirdoption4.jpg](/uploads/doingbirdoption4.jpg)
-**Daisy** dress
+![sarahellen-doingbird9.jpg](/uploads/sarahellen-doingbird9.jpg)
+**All Is A Gentle Spring** top, **Zimmermann** pants, **Max Mara** tights, **Lele Sadoughi** earrings drom **Pierre Winter Fine Jewels** and **Gucci** shoes
 
 ![sarahellen-doingbird3.jpg](/uploads/sarahellen-doingbird3.jpg)
 **Zimmermann** dress & boots and **Mars** earrings
+
+![doingbirdoption4.jpg](/uploads/doingbirdoption4.jpg)
+**Daisy** dress
 
 ![doingbirdoption6.jpg](/uploads/doingbirdoption6.jpg)
 **Max Mara** vest, **Macgraw** pants and **Mars** earrings

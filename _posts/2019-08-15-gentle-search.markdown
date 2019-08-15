@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/sarahellen-doingbird8.jpg"
+Main Image: "/uploads/doingbirdoption4.jpg"
 Credits Text: |-
   photographs **[Sarah Ellen](https://www.instagram.com/sarahellen/)**
   styling **[Chloe Hill](https://www.instagram.com/chloechill/)**
@@ -20,8 +20,8 @@ layout: gallery
 ![sarahellen-doingbird1.jpg](/uploads/sarahellen-doingbird1.jpg)
 **Prada** blazer and **Romance Was Born** archive headpiece
 
-![sarahellen-doingbird2.jpg](/uploads/sarahellen-doingbird2.jpg)!
-**Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves & **Mars** earrings
+![sarahellen-doingbird2.jpg](/uploads/sarahellen-doingbird2.jpg)
+**Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves and **Mars** earrings
 
 ![sarahellen-doingbird9.jpg](/uploads/sarahellen-doingbird9.jpg)
 **All Is A Gentle Spring** top, **Zimmermann** pants, **Max Mara** tights, **Lele Sadoughi** earrings drom **Pierre Winter Fine Jewels** and **Gucci** shoes

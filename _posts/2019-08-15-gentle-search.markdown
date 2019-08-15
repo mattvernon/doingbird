@@ -21,7 +21,7 @@ layout: gallery
 **Prada** blazer and **Romance Was Born** archive headpiece
 
 ![sarahellen-doingbird2.jpg](/uploads/sarahellen-doingbird2.jpg)
-**Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves & **Mars** earrings
+**Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves and **Mars** earrings
 
 ![sarahellen-doingbird9.jpg](/uploads/sarahellen-doingbird9.jpg)
 **All Is A Gentle Spring** top, **Zimmermann** pants, **Max Mara** tights, **Lele Sadoughi** earrings drom **Pierre Winter Fine Jewels** and **Gucci** shoes

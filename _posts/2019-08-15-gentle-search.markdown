@@ -5,7 +5,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/sarahellen-doingbird8.jpg"
+Main Image: "/uploads/doingbirdoption4.jpg"
 Credits Text: |-
   photographs **[Sarah Ellen](https://www.instagram.com/sarahellen/)**
   styling **[Chloe Hill](https://www.instagram.com/chloechill/)**

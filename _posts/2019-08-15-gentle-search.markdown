@@ -24,7 +24,7 @@ layout: gallery
 **Paris Georgia** top, **Prada** skirt, **Romance Was Born** archive gloves and **Mars** earrings
 
 ![sarahellen-doingbird9.jpg](/uploads/sarahellen-doingbird9.jpg)
-**All Is A Gentle Spring** top, **Zimmermann** pants, **Max Mara** tights, **Lele Sadoughi** earrings drom **Pierre Winter Fine Jewels** and **Gucci** shoes
+**All Is A Gentle Spring** top, **Zimmermann** pants, **Max Mara** tights, **Lele Sadoughi** earrings from **Pierre Winter Fine Jewels** and **Gucci** shoes
 
 ![sarahellen-doingbird3.jpg](/uploads/sarahellen-doingbird3.jpg)
 **Zimmermann** dress & boots and **Mars** earrings

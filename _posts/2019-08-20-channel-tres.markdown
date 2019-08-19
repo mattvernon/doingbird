@@ -71,7 +71,7 @@ Well yeah, sometimes it’s hard. I collaborate with a lot of different songwrit
 
 **How much did you feel the shift when Controller was released?**
  
-Yeah, I come from a tough background — driving around, getting angry and being drunk, and doing dumb shit. So when all that happened, I was like, oh shit, I want to travel the world and shit. I don’t want to get arrested doing dumb shit and fuck it all up. It made me be more accountable for everything I do — the way I treat people, the way I treat myself, and yeah. It made me look at myself with more self-love and more respect for myself. 
+Yeah, I come from a tough background — driving around, getting angry and being drunk, and doing dumb shit. So when all that happened, I was like, oh shit, I want to travel the world and shit. I don’t want to get arrested doing dumb shit and fuck it all up. It made me be more accountable for everything I do — the way I treat people, the way I treat myself, and yeah. It made me look at myself with more self-love and respect. 
 
 **In a recent interview with NPR, you said that you weren’t ready to celebrate yet. Do you feel like you’re ready to celebrate now?**
  

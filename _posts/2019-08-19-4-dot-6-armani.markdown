@@ -1,5 +1,5 @@
 ---
-title: '4.6: Armani'
+title: '4.6: Armani Accessories'
 date: 2019-08-19 19:30:00 +10:00
 published: false
 categories:

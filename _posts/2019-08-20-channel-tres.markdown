@@ -24,7 +24,22 @@ doingbird sat down with Channel Tres while he was in Sydney to talk about his Au
 
 ![190723_Doingbird_ChannelTres_Series_01.jpg](/uploads/190723_Doingbird_ChannelTres_Series_01.jpg)
 
+**You just played Splendour in the Grass. How was it?**
+
+It was amazing. We played at like one-thirty — the way the crowd showed up, it was just crazy, man. As soon as I got on stage, the energy was just crazy. And I always love when there’s kids in the audience. And there were dudes on other dudes’ shoulders. You know, just kids just going crazy. It was just special — it was really special. It was a special moment. It gives me anxiety just thinking about it, because it was just so good. 
+
+**Would you say that it’s one of the bigger shows you’ve played so far?**
+
+Yeah. If not the biggest. Yeah, I think Splendour was the biggest. It may not look big when you’re doing it, but when you look back at the videos, it’s like holy shit. 
+
+**How have you found breaking in to the industry so rapidly?**
+
+It wasn’t rapid. It looks rapid now, because I’ve been working at this for a long time. But really, it wasn’t rapid. 
+
+
 ![190723_Doingbird_ChannelTres_Series_02.jpg](/uploads/190723_Doingbird_ChannelTres_Series_02.jpg)
+
+
 
 ![190723_Doingbird_ChannelTres_Series_03.jpg](/uploads/190723_Doingbird_ChannelTres_Series_03.jpg)
 

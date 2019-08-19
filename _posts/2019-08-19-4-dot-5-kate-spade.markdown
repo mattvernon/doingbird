@@ -1,6 +1,8 @@
 ---
 title: '4.5: Kate Spade'
 date: 2019-08-19 19:30:00 +10:00
+categories:
+- Objects
 tags:
 - Shoot
 Main Image: "/uploads/10_Doingbird_KateSpade.jpg"

@@ -81,6 +81,6 @@ I mean, I celebrate. This shit is fun for me — doing the shows is celebrating.
  
 I’ve just dropped Black Moses featuring JPEGMAFIA. It’s a song, and it’s half-time, but it’s still good — kinda of like Jet Black. Yeah, and then the [Black Moses] EP — I’m working on the next one, and more shows and more merch. I’m just creating a world around it so it can be something. 
 
-*Channel Tre’s Black Moses EP will be available to stream from the 16th of August.* 
+Channel Tre’s *Black Moses* EP is now available to stream.
 
 ![190723_Doingbird_ChannelTres_Series_05.jpg](/uploads/190723_Doingbird_ChannelTres_Series_05.jpg)

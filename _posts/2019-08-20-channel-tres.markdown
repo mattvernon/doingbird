@@ -79,7 +79,7 @@ I mean, I celebrate. This shit is fun for me — doing the shows is celebrating.
 
 **What can we look out for next?**
  
-I’ve just dropped Black Moses featuring JPEGMAFIA. It’s a song, and it’s half-time, but it’s still good — kinda of like Jet Black. Yeah, and then the [Black Moses] EP — I’m working on the next one, and more shows and more merch. I’m just creating a world around it so it can be something. 
+I’ve just dropped *Black Moses* featuring JPEGMAFIA. It’s a song, and it’s half-time, but it’s still good — kinda of like Jet Black. Yeah, and then the [Black Moses] EP — I’m working on the next one, and more shows and more merch. I’m just creating a world around it so it can be something. 
 
 Channel Tre’s *Black Moses* EP is available to stream now.
 

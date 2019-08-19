@@ -11,6 +11,7 @@ Main Image: "/uploads/190723_Doingbird_ChannelTres_Series_04.jpg"
 Credits Text: |-
   photographs by **[Levon Baird](https://www.instagram.com/levonbaird/)**
   interview & text **[John Buckley](https://www.instagram.com/johnalbertbuckley/)**
+  talent **[Channel Tres](https://www.instagram.com/channeltres/)**
 is featured?: true
 Blurb: Photographs by Levon Baird
 layout: gallery
@@ -66,7 +67,20 @@ Yeah, I have to. Because that’s what’s going to be around after I’m gone, 
 Well yeah, sometimes it’s hard. I collaborate with a lot of different songwriters and producers. Because it just makes the songwriting and everything more fun, but it's all coming from me. I have people around me to get the ideas better. So that was hard at first, because you want to take all the credit and be like, “That’s me! I did everything on my own.” But you know, all the legendary records were a collaborative effort. Prince was good, but I’m sure even he got help. Sure, the story’s cooler if you’re like, “Yeah, I did everything by myself.” But, you know…
 
 
-
 ![190723_Doingbird_ChannelTres_Series_04.jpg](/uploads/190723_Doingbird_ChannelTres_Series_04.jpg)
+
+**How much did you feel the shift when Controller was released?**
+ 
+Yeah, I come from a tough background — driving around, getting angry and being drunk, and doing dumb shit. So when all that happened, I was like, oh shit, I want to travel the world and shit. I don’t want to get arrested doing dumb shit and fuck it all up. It made me be more accountable for everything I do — the way I treat people, the way I treat myself, and yeah. It made me look at myself with more self-love and more respect for myself. 
+
+**In a recent interview with NPR, you said that you weren’t ready to celebrate yet. Do you feel like you’re ready to celebrate now?**
+ 
+I mean, I celebrate. This shit is fun for me — doing the shows is celebrating. When you say to people, “Yeah, we’re going to be playing to 20,000 people in an arena — that’ll be us one day.” And everyone’s like “Hell yeah!” — that feels good. That’s celebrating. You know, and my mom being proud, and my uncles being big fans, and people I grew up with becoming fans — it just feels good. 
+
+**What can we look out for next?**
+ 
+I’ve just dropped Black Moses featuring JPEGMAFIA. It’s a song, and it’s half-time, but it’s still good — kinda of like Jet Black. Yeah, and then the [Black Moses] EP — I’m working on the next one, and more shows and more merch. I’m just creating a world around it so it can be something. 
+
+*Channel Tre’s Black Moses EP will be available to stream from the 16th of August.* 
 
 ![190723_Doingbird_ChannelTres_Series_05.jpg](/uploads/190723_Doingbird_ChannelTres_Series_05.jpg)

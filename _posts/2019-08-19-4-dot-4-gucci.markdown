@@ -1,7 +1,6 @@
 ---
 title: '4.4: Gucci'
-date: 2019-08-12 18:18:00 +10:00
-published: false
+date: 2019-08-19 19:30:00 +10:00
 categories:
 - Objects
 tags:

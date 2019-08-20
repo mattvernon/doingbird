@@ -1,7 +1,6 @@
 ---
 title: Channel Tres
 date: 2019-08-20 19:00:00 +10:00
-published: false
 categories:
 - Features
 tags:

@@ -1,7 +1,11 @@
 ---
 title: Allday
-date: 2019-08-29 20:07:00 +10:00
+date: 2019-08-30 08:00:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- Shoot
 Credits Text: |
   photography **[Cathy Marshall](https://www.instagram.com/cathylmarshall/)**
   interview & stylist **[Abby Bennett](https://www.instagram.com/bennett_abby/)**

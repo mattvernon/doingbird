@@ -9,7 +9,7 @@ Main Image: "/uploads/03_Aug19_Zac_Football14393.jpg"
 Credits Text: "photographs **[Lester Jones](www.lesterjonesphotography.com)**\nstyling
   **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**\ntalent **[Zac
   Panyar](https://www.instagram.com/zac_panyar/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**,
-  **[Ben Mitchell](https://www.instagram.com/ben_mitchell1/)** at *[Kult](https://www.instagram.com/kultaustralia/)**,
+  **[Ben Mitchell](https://www.instagram.com/ben_mitchell1/)** at **[Kult](https://www.instagram.com/kultaustralia/)**,
   **[Emman Peters](https://www.instagram.com/emman.peters/)** & **[Tomislav Bazdaric](https://www.instagram.com/tomislav.bazdaric/)** "
 is featured?: true
 Field name: Photographs by Lester Jones

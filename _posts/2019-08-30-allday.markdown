@@ -1,0 +1,18 @@
+---
+title: Allday
+date: 2019-08-30 08:00:00 +10:00
+published: false
+categories:
+- Features
+tags:
+- Shoot
+Credits Text: |
+  photography **[Cathy Marshall](https://www.instagram.com/cathylmarshall/)**
+  interview & stylist **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+  grooming **[Xeneb Allen](https://www.instagram.com/curlysiouxsie/)**
+  fashion assistant **Thea Stirrat**
+is featured?: true
+Blurb: Photographs by Cathy Marshall
+layout: gallery
+---
+

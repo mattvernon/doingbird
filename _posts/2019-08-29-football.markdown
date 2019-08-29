@@ -1,14 +1,18 @@
 ---
 title: Football
 date: 2019-08-29 20:00:00 +10:00
-published: false
 categories:
 - Fashion
 tags:
 - Shoot
 Main Image: "/uploads/03_Aug19_Zac_Football14393.jpg"
-is featured?: false
-Field name: 
+Credits Text: "photographs **[Lester Jones](www.lesterjonesphotography.com)**\nstyling
+  **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**\ntalent **[Zac
+  Panyar](https://www.instagram.com/zac_panyar/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**,
+  **[Ben Mitchell](https://www.instagram.com/ben_mitchell1/)** at **[Kult](https://www.instagram.com/kultaustralia/)**,
+  **[Emman Peters](https://www.instagram.com/emman.peters/)** & **[Tomislav Bazdaric](https://www.instagram.com/tomislav.bazdaric/)** "
+is featured?: true
+Field name: Photographs by Lester Jones
 layout: gallery
 ---
 
@@ -25,9 +29,13 @@ Vintage soccer jersey, **Acne** shorts, **Adidas** shoes & **Nike** socks
 (Left to right) **Palm Angels** cap from **Mr Porter**, **Ermenegildo Zegna XXX** pants & models own soccer jersey. Vintage soccer jersey, **Ermenegildo Zegna XXX** pants & **Underarmour** soccer boots. **Underarmour** shirt & **Ermenegildo Zegna XXX** pants. Vintage soccer jersey & **Underarmour** soccer boots.
 
 ![09_Aug19_Zac_Football15456 1.jpg](/uploads/09_Aug19_Zac_Football15456%201.jpg)
+(Left to right) vintage sports shirt & **ACNE** pants. Vintage soccer jersey, **Ermenegildo Zegna XXX** pants & **Nike** soccer ball.
 
 ![15_Aug19_Zac_Football16009.jpg](/uploads/15_Aug19_Zac_Football16009.jpg)
+**Underarmour** shirt & soccer boots. **Ermenefildo Zegna XXX** pants & **Nike** socks.
 
 ![14_Aug19_Zac_Football14556 1 1.jpg](/uploads/14_Aug19_Zac_Football14556%201%201.jpg)
+(Left to right) Polonia Soccer Club jersey, **Stussy** jeans & **Ksubi** belt. Polonia Soccer Club jersey, vintage long sleeve top (worn underneath) & **Ermenegildo Zegna XXX** pants. Polonia Soccer Club jersey, **Stussy** jeans & **Ksubi** belt.
 
 ![10_Aug19_Zac_Football15438 1.jpg](/uploads/10_Aug19_Zac_Football15438%201.jpg)
+Vintage Adidas shirt.

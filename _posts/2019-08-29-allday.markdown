@@ -7,6 +7,8 @@ Credits Text: |
   interview & stylist **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   grooming **[Xeneb Allen](https://www.instagram.com/curlysiouxsie/)**
   fashion assistant **Thea Stirrat**
+is featured?: true
+Blurb: Photographs by Cathy Marshall
 layout: gallery
 ---
 

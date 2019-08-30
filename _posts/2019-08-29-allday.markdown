@@ -1,6 +1,6 @@
 ---
 title: Allday
-date: 2019-08-30 08:00:00 +10:00
+date: 2019-08-29 18:30:00 +10:00
 published: false
 categories:
 - Features
@@ -9,7 +9,7 @@ tags:
 Main Image: "/uploads/18082019134212-0001%20copy%202.jpg"
 Credits Text: |
   photography **[Cathy Marshall](https://www.instagram.com/cathylmarshall/)**
-  interview & stylist **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+  interview & styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   grooming **[Xeneb Allen](https://www.instagram.com/curlysiouxsie/)**
   fashion assistant **Thea Stirrat**
 is featured?: true
@@ -212,5 +212,8 @@ The fact that a lot of people who have done amazing things with their lives are 
 **Favourite thing about Melbourne?**
 
 Melbourne is my home too, I love Melbourne, I miss Melbourne. I miss the people. The people Melbourne people , the culture of being accepted for how you treat people and how you think over how much money you have or how you look. I think thats crucial to Melbourne culture 
+
+**[Starry Night Over the Phone](https://www.alldaytunes.com/)** is out now 
+
 
 

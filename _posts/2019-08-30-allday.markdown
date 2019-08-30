@@ -1,6 +1,6 @@
 ---
 title: Allday
-date: 2019-08-29 18:30:00 +10:00
+date: 2019-08-30 18:30:00 +10:00
 published: false
 categories:
 - Features

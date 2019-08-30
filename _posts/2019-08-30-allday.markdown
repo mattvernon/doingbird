@@ -6,6 +6,7 @@ categories:
 - Features
 tags:
 - Shoot
+Main Image: "/uploads/18082019134212-0001%20copy%202.jpg"
 Credits Text: |
   photography **[Cathy Marshall](https://www.instagram.com/cathylmarshall/)**
   interview & stylist **[Abby Bennett](https://www.instagram.com/bennett_abby/)**

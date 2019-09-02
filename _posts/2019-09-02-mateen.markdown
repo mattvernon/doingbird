@@ -6,6 +6,8 @@ categories:
 - Fashion
 tags:
 - Shoot
+is featured?: true
+Blurb: Jordan Drysdale
 layout: gallery
 ---
 

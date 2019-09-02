@@ -6,6 +6,12 @@ categories:
 - Fashion
 tags:
 - Shoot
+Credits Text: |-
+  photography **[Jordan Drysdale](https://www.instagram.com/jordandrysdale/)**
+  direction & fashion **[Sarah Pritchard](https://www.instagram.com/sar4hcant/)**
+  grooming **[Georgia Ramman](https://www.instagram.com/georgiaramman/)**
+  shoot assistant **Luxi Zhang**
+  talent **[Mateen](https://www.instagram.com/mateen_ismail/)** at **[Chic Management](https://www.instagram.com/chic_management/)**
 is featured?: true
 Blurb: Jordan Drysdale
 layout: gallery

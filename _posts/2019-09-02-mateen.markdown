@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
+Main Image: "/uploads/Mateen_Shot%2002_0148.jpg"
 Credits Text: |-
   photography **[Jordan Drysdale](https://www.instagram.com/jordandrysdale/)**
   direction & fashion **[Sarah Pritchard](https://www.instagram.com/sar4hcant/)**
@@ -34,3 +35,5 @@ layout: gallery
 
 ![Mateen_Shot 06_0038.jpg](/uploads/Mateen_Shot%2006_0038.jpg)
 **Mulberry** dress, **Ermenegildo Zegna XXX** pants & shoes
+
+

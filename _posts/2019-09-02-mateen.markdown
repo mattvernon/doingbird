@@ -1,0 +1,59 @@
+---
+title: Mateen
+date: 2019-09-02 18:00:00 +10:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/Mateen_Shot%2002_0148.jpg"
+Credits Text: |-
+  photography **[Jordan Drysdale](https://www.instagram.com/jordandrysdale/)**
+  direction & fashion **[Sarah Pritchard](https://www.instagram.com/sar4hcant/)**
+  grooming **[Georgia Ramman](https://www.instagram.com/georgiaramman/)**
+  shoot assistant **Luxi Zhang**
+  talent **[Mateen](https://www.instagram.com/mateen_ismail/)** at **[Chic Management](https://www.instagram.com/chic_management/)**
+is featured?: true
+Blurb: Jordan Drysdale
+layout: gallery
+---
+
+![Mateen_Shot 02_0148.jpg](/uploads/Mateen_Shot%2002_0148.jpg)
+**Yohji Yamamoto** hat from the private collection of Octavius La Rosa, **Eremenegildo Zegna XXX** jacket, **Maison Margiela** necklace
+
+![Mateen_Shot 05_0102.jpg](/uploads/Mateen_Shot%2005_0102.jpg)
+**Acne Studios** jacket & pants, **Base Range** shorts & top, **Junya Watanabe** shirt from the private collection of Octavius La Rosa and **Charles & Keith** shoes
+
+![Mateen_Shot 04_0042.jpg](/uploads/Mateen_Shot%2004_0042.jpg)
+**Acne Studios** suit, **Loewe** dress and stylist's own necklace
+
+![Mateen_Shot 06_0016.jpg](/uploads/Mateen_Shot%2006_0016.jpg)
+**Mulberry** dress, **Ermenegildo Zegna XXX** pants & shoes
+
+![Mateen_Shot 06_0057.jpg](/uploads/Mateen_Shot%2006_0057.jpg)
+**Mulberry** dress, **Ermenegildo Zegna XXX** pants & shoes
+
+![Mateen_Shot 06_0038.jpg](/uploads/Mateen_Shot%2006_0038.jpg)
+**Mulberry** dress, **Ermenegildo Zegna XXX** pants & shoes
+
+![Mateen_Shot 03_0067 Fisheye Final.jpg](/uploads/Mateen_Shot%2003_0067%20Fisheye%20Final.jpg)
+**Acne Studios** jacket, knit, skirt, pants & shoes, **Comme des Garcons** necklace from the private collection of Octavius La Rosa, **Underground Sundae** earring and stylist's own crown
+
+![Mateen_Shot 03_0134.jpg](/uploads/Mateen_Shot%2003_0134.jpg)
+**Acne Studios** jacket, knit, skirt, pants & shoes, **Comme des Garcons** necklace from the private collection of Octavius La Rosa, **Underground Sundae** earring and stylist's own crown
+
+![Mateen_Shot 08_0038.jpg](/uploads/Mateen_Shot%2008_0038.jpg)
+**Ermenegildo Zegna XXX** jacket & top
+
+![Mateen_Shot 1_0069.jpg](/uploads/Mateen_Shot%201_0069.jpg)
+**Acne Studios** jacket, dress & pants, **Adidas** top, **Underground Sundae** necklaces and **Ermenegildo Zegna XXX** shoes
+
+![Mateen_Shot 07_0025.jpg](/uploads/Mateen_Shot%2007_0025.jpg)
+**Maison Margiela** shirt, **Nike** top, **Noir Kei Ninomiya** skirt from the private collection of Octavius La Rose
+
+![Mateen_Shot 05_0067.jpg](/uploads/Mateen_Shot%2005_0067.jpg)
+**Acne Studios** jacket & pants, **Junya Watanabe** shirt from the private collection of Octavius La Rose and **Base Range** top
+
+![Mateen_Shot 02_0073.jpg](/uploads/Mateen_Shot%2002_0073.jpg)
+**Yohji Yamamoto** hat from the private collection of Octavius La Rosa, **Eremenegildo Zegna XXX** jacket, **Acne Studios** skirt, pants & shoes and **Maison Margiela** necklace
+

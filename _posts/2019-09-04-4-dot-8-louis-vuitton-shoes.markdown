@@ -1,6 +1,6 @@
 ---
 title: '4.8: Louis Vuitton Shoes'
-date: 2019-08-19 20:27:00 +10:00
+date: 2019-09-04 18:00:00 +10:00
 published: false
 categories:
 - Objects

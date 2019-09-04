@@ -1,6 +1,8 @@
 ---
 title: '4.7: Sephora'
 date: 2019-09-04 18:00:00 +10:00
+categories:
+- Objects
 tags:
 - Shoot
 Main Image: "/uploads/3_Doingbird_Sephora_Fenty.jpg"

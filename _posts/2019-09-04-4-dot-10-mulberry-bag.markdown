@@ -1,7 +1,6 @@
 ---
 title: '4.10: Mulberry Bag'
 date: 2019-09-04 18:00:00 +10:00
-published: false
 categories:
 - Objects
 tags:

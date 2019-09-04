@@ -1,14 +1,14 @@
 ---
-title: '4.8: Louis Vuitton Shoes'
-date: 2019-08-19 20:27:00 +10:00
+title: '4.9: Miu Miu Accessories'
+date: 2019-09-04 18:00:00 +10:00
 published: false
 categories:
 - Objects
 tags:
 - Shoot
-Main Image: "/uploads/12_Doingbird_LV_Shoes.jpg"
+Main Image: "/uploads/7_Doingbird_MiuMiu.jpg"
 Credits Text: |-
-  **[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage)** **[Madeline Pump](https://au.louisvuitton.com/eng-au/products/madeleine-pump-nvprod1240116v#1A51YM)** in framboise
+  **Miu Miu** backpack & shoe
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
@@ -16,4 +16,4 @@ Credits Text: |-
 layout: gallery
 ---
 
-![12_Doingbird_LV_Shoes.jpg](/uploads/12_Doingbird_LV_Shoes.jpg)
+![7_Doingbird_MiuMiu.jpg](/uploads/7_Doingbird_MiuMiu.jpg)

@@ -8,7 +8,7 @@ tags:
 - Shoot
 Main Image: "/uploads/7_Doingbird_MiuMiu.jpg"
 Credits Text: |-
-  **Miu Miu** backpack & shoe
+  **[Miu Miu](http://www.miumiu.com/en?cc=AU)** backpack & shoe
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

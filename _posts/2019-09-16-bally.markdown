@@ -18,6 +18,7 @@ Credits Text: |-
   photography assistant **David Deas**
 is featured?: true
 Blurb: Photographs by Max Doyle
+layout: gallery
 ---
 
 ![1 doingbird bally print (4).jpg](/uploads/1%20doingbird%20bally%20print%20(4).jpg)

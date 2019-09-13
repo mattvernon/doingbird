@@ -7,11 +7,15 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/5%20doingbird%20bally%20print%20(2).jpg"
-Credits Text: "All clothing & accessories by **[Bally](https://www.bally.com.au/en_AU/home)**\n\nphotographs
-  **[Max Doyle]** \nfashion editor **[Abby Bennett]**\nfashion assistant **[Miguel
-  Urbina Tan]**\nhair & make-up **[Rory Rice]** at **[Lion Artist Management] using
-  **[Oribe]**\nmodels **[Josephine Olton]** at **[Chadwick]** & **[Fergus Bailey]**
-  at **[Kult Australia]**\nphotography assistant **David Deas**"
+Credits Text: |-
+  All clothing & accessories by **[Bally](https://www.bally.com.au/en_AU/home)**
+
+  photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
+  fashion editor **[Abby Bennett]**
+  fashion assistant **[Miguel Urbina Tan]**
+  hair & make-up **[Rory Rice]** at **[Lion Artist Management] using **[Oribe]**
+  models **[Josephine Olton]** at **[Chadwick]** & **[Fergus Bailey]** at **[Kult Australia]**
+  photography assistant **David Deas**
 ---
 
 ![1 doingbird bally print (4).jpg](/uploads/1%20doingbird%20bally%20print%20(4).jpg)

@@ -1,7 +1,11 @@
 ---
 title: Bally
-date: 2019-09-13 09:41:00 +10:00
+date: 2019-09-16 09:00:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- Shoot
 Main Image: "/uploads/5%20doingbird%20bally%20print%20(2).jpg"
 Credits Text: "All clothing & accessories by **[Bally](https://www.bally.com.au/en_AU/home)**\n\nphotographs
   **[Max Doyle]** \nfashion editor **[Abby Bennett]**\nfashion assistant **[Miguel

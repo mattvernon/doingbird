@@ -10,7 +10,7 @@ tags:
 Main Image: "/uploads/IMG_1365.jpeg"
 Credits Text: text & artwork **[Rebecca Davies](https://www.instagram.com/rebeccaloudavies/)**
 is featured?: true
-Blurb: Poem by Rebecca Lou Davies
+Blurb: Poem by Rebecca Davies
 layout: gallery
 ---
 

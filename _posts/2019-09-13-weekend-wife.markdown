@@ -16,7 +16,7 @@ layout: gallery
 
 **Weekend Wife**
 
-![IMG_1360.jpeg](/uploads/IMG_1360.jpeg)
+![IMG_1365.jpeg](/uploads/IMG_1365.jpeg)
 
 My forever come down
 
@@ -44,4 +44,4 @@ enchanting arms once more
 
 Forever entwined.
 
-![IMG_1365.jpeg](/uploads/IMG_1365.jpeg)
+![IMG_1360.jpeg](/uploads/IMG_1360.jpeg)

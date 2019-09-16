@@ -1,0 +1,32 @@
+---
+title: Lauren Brown
+date: 2019-09-23 08:30:00 +10:00
+published: false
+categories:
+- Fashion
+tags:
+- Shoot
+Main Image: "/uploads/04-02.jpg"
+Credits Text: |-
+  photographs **[Michael Brunt](https://www.instagram.com/michaelbrunt/)** at **[Assembly Agency](https://www.instagram.com/assemblyagency/)**
+  fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
+  hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
+  make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
+  model **[Lauren Brown](https://www.instagram.com/lozza.brown/)** at **[IMG](https://www.instagram.com/imgmodels/)**
+  photography assistant **Luca Kiripun**
+is featured?: true
+Blurb: Photographs by Michael Brunt
+layout: gallery
+---
+
+![04-02.jpg](/uploads/04-02.jpg)
+**Loewe** coat & boots, **Prada** shirt and **Miu Miu** tights
+
+![04-04.jpg](/uploads/04-04.jpg)
+
+![02-01.jpg](/uploads/02-01.jpg)
+**Louis Vuitton** vest, top & pants
+
+![03-02.jpg](/uploads/03-02.jpg)
+**Prada** shirt & dress. **Miu Miu** tights & shoes
+

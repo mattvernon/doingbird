@@ -43,6 +43,8 @@ layout: gallery
 ![08-03.jpg](/uploads/08-03.jpg)
 **Christian Dior** romper & coat, **Barrie** jumper, **Miu Miu** tights & shoes
 
+![04-04.jpg](/uploads/04-04.jpg)
+
 ![07-01.jpg](/uploads/07-01.jpg)
 **Louis Vuitton** dress & boots, **Barrie** jumper and **Miu Miu** tights
 

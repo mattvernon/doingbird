@@ -15,6 +15,7 @@ Credits Text: |-
   photography assistant **Luca Kiripun**
 is featured?: true
 Blurb: Photographs by Michael Brunt
+layout: gallery
 ---
 
 ![04-02.jpg](/uploads/04-02.jpg)

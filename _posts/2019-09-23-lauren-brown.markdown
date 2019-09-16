@@ -34,9 +34,6 @@ layout: gallery
 ![02-03.jpg](/uploads/02-03.jpg)
 **Louis Vuitton** top & vest
 
-![01-02.jpg](/uploads/01-02.jpg)
-**Miu Miu** scarf, dress, tights & shoes
-
 ![08-03.jpg](/uploads/08-03.jpg)
 **Christian Dior** romper & coat, **Barrie** jumper, **Miu Miu** tights & shoes
 
@@ -44,6 +41,9 @@ layout: gallery
 
 ![09-02.jpg](/uploads/09-02.jpg)
 **Chanel** jacket & pants
+
+![01-02.jpg](/uploads/01-02.jpg)
+**Miu Miu** scarf, dress, tights & shoes
 
 ![02-01.jpg](/uploads/02-01.jpg)
 **Louis Vuitton** vest, top & pants

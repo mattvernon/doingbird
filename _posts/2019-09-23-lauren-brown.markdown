@@ -34,9 +34,6 @@ layout: gallery
 ![02-01.jpg](/uploads/02-01.jpg)
 **Louis Vuitton** vest, top & pants
 
-![02-03.jpg](/uploads/02-03.jpg)
-**Louis Vuitton** top & vest
-
 ![01-02.jpg](/uploads/01-02.jpg)
 **Miu Miu** scarf, dress, tights & shoes
 
@@ -45,11 +42,15 @@ layout: gallery
 
 ![04-04.jpg](/uploads/04-04.jpg)
 
+![09-02.jpg](/uploads/09-02.jpg)
+**Chanel** jacket & pants
+
+![02-03.jpg](/uploads/02-03.jpg)
+**Louis Vuitton** top & vest
+
 ![07-01.jpg](/uploads/07-01.jpg)
 **Louis Vuitton** dress & boots, **Barrie** jumper and **Miu Miu** tights
 
-![09-02.jpg](/uploads/09-02.jpg)
-**Chanel** jacket & pants
 
 
 

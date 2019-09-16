@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Shoot
-Main Image: "/uploads/05-04.jpg"
+Main Image: "/uploads/04-02.jpg"
 Credits Text: |-
   photographs **[Michael Brunt](https://www.instagram.com/michaelbrunt/)** at **[Assembly Agency](https://www.instagram.com/assemblyagency/)**
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**

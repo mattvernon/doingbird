@@ -13,7 +13,7 @@ Credits Text: |-
   photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
   fashion editor **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   fashion assistant **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/) using **[Oribe](https://www.instagram.com/oribe/)**
+  hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
   models **[Josephine Olton](https://www.instagram.com/josephine_olton/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)** & **[Fergus Bailey](https://www.instagram.com/fergusbailey/)** at **[Kult Australia](https://www.instagram.com/kultaustralia/)**
   photography assistant **David Deas**
 is featured?: true

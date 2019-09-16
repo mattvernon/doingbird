@@ -22,11 +22,35 @@ layout: gallery
 ![04-02.jpg](/uploads/04-02.jpg)
 **Loewe** coat & boots, **Prada** shirt and **Miu Miu** tights
 
+![05-04.jpg](/uploads/05-04.jpg)
+**Gucci** top, jacket & faux-fur muff
+
+![01-01.jpg](/uploads/01-01.jpg)
+**Miu Miu** dress, scarf, tights & shoes
+
+![06-02.jpg](/uploads/06-02.jpg)
+**Prada** dress & shoes
+
+![02-03.jpg](/uploads/02-03.jpg)
+**Louis Vuitton** top & vest
+
+![08-03.jpg](/uploads/08-03.jpg)
+**Christian Dior** romper & coat, **Barrie** jumper, **Miu Miu** tights & shoes
+
 ![04-04.jpg](/uploads/04-04.jpg)
+
+![09-02.jpg](/uploads/09-02.jpg)
+**Chanel** jacket & pants
+
+![01-02.jpg](/uploads/01-02.jpg)
+**Miu Miu** scarf, dress, tights & shoes
 
 ![02-01.jpg](/uploads/02-01.jpg)
 **Louis Vuitton** vest, top & pants
 
-![03-02.jpg](/uploads/03-02.jpg)
-**Prada** shirt & dress. **Miu Miu** tights & shoes
+![07-01.jpg](/uploads/07-01.jpg)
+**Louis Vuitton** dress & boots, **Barrie** jumper and **Miu Miu** tights
+
+
+
 

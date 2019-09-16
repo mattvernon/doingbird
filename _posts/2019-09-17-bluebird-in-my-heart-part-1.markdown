@@ -1,7 +1,6 @@
 ---
 title: Bluebird In My Heart Part 1
-date: 2019-09-16 09:00:00 +10:00
-published: false
+date: 2019-09-17 08:30:00 +10:00
 categories:
 - Fashion
 tags:
@@ -13,7 +12,7 @@ Credits Text: |-
   photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
   fashion editor **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
   fashion assistant **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair & make-up **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/) using **[Oribe](https://www.instagram.com/oribe/)**
+  hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
   models **[Josephine Olton](https://www.instagram.com/josephine_olton/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)** & **[Fergus Bailey](https://www.instagram.com/fergusbailey/)** at **[Kult Australia](https://www.instagram.com/kultaustralia/)**
   photography assistant **David Deas**
 is featured?: true

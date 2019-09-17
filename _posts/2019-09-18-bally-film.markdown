@@ -20,6 +20,7 @@ Credits Text: |-
   music **meow xx** & **paris de vovo**
 is featured?: true
 Blurb: Motion by Joshua Heath & William Roberston
+layout: gallery
 ---
 
 <iframe src="https://player.vimeo.com/video/359669577?title=0&byline=0&portrait=0" width="2048" height="1082" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

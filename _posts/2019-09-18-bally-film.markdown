@@ -11,6 +11,10 @@ Credits Text: |-
   fashion assistant **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
   hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
   models **[Josephine Olton](https://www.instagram.com/josephine_olton/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)** & **[Fergus Bailey](https://www.instagram.com/fergusbailey/)** at **[Kult Australia](https://www.instagram.com/kultaustralia/)**
+  colourist **Yanni Kronenberg**
+  music **meow xx** & **paris de vovo**
+is featured?: true
+Blurb: Motion by Joshua Heath & William Roberston
 ---
 
 <iframe src="https://player.vimeo.com/video/359669577?title=0&byline=0&portrait=0" width="2048" height="1082" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

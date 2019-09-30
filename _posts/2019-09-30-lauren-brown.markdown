@@ -45,11 +45,16 @@ layout: gallery
 ![01-02.jpg](/uploads/01-02.jpg)
 **Miu Miu** scarf, dress, tights & shoes
 
+![03-01 (2).jpg](/uploads/03-01%20(2).jpg)
+**Prada** dress & top. **Miu Miu** tights & shoes
+
 ![02-01.jpg](/uploads/02-01.jpg)
 **Louis Vuitton** vest, top & pants
 
 ![07-01.jpg](/uploads/07-01.jpg)
 **Louis Vuitton** dress & boots, **Barrie** jumper and **Miu Miu** tights
+
+
 
 
 

@@ -10,8 +10,8 @@ Main Image: "/uploads/04-02.jpg"
 Credits Text: |-
   photographs **[Michael Brunt](https://www.instagram.com/michaelbrunt/)** at **[Assembly Agency](https://www.instagram.com/assemblyagency/)**
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
-  make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)**
+  hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)** **[Hair Rituel By Sisley](https://www.instagram.com/hairrituelbysisley/)**
+  make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)** using **[NARS](https://www.instagram.com/narsissist/)**
   model **[Lauren Brown](https://www.instagram.com/lozza.brown/)** at **[IMG](https://www.instagram.com/imgmodels/)**
   photography assistant **Luca Kiripun**
 is featured?: true
@@ -25,7 +25,7 @@ layout: gallery
 ![05-04.jpg](/uploads/05-04.jpg)
 **Gucci** top, jacket & faux-fur muff
 
-![01-01.jpg](/uploads/01-01.jpg)
+![01-03.jpg](/uploads/01-03.jpg)
 **Miu Miu** dress, scarf, tights & shoes
 
 ![06-02.jpg](/uploads/06-02.jpg)
@@ -45,11 +45,16 @@ layout: gallery
 ![01-02.jpg](/uploads/01-02.jpg)
 **Miu Miu** scarf, dress, tights & shoes
 
+![03-01 (2).jpg](/uploads/03-01%20(2).jpg)
+**Prada** dress & top. **Miu Miu** tights & shoes
+
 ![02-01.jpg](/uploads/02-01.jpg)
 **Louis Vuitton** vest, top & pants
 
 ![07-01.jpg](/uploads/07-01.jpg)
 **Louis Vuitton** dress & boots, **Barrie** jumper and **Miu Miu** tights
+
+
 
 
 

@@ -25,7 +25,7 @@ layout: gallery
 ![05-04.jpg](/uploads/05-04.jpg)
 **Gucci** top, jacket & faux-fur muff
 
-![01-01.jpg](/uploads/01-01.jpg)
+![01-03.jpg](/uploads/01-03.jpg)
 **Miu Miu** dress, scarf, tights & shoes
 
 ![06-02.jpg](/uploads/06-02.jpg)

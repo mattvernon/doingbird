@@ -10,7 +10,7 @@ Main Image: "/uploads/04-02.jpg"
 Credits Text: |-
   photographs **[Michael Brunt](https://www.instagram.com/michaelbrunt/)** at **[Assembly Agency](https://www.instagram.com/assemblyagency/)**
   fashion **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)**
+  hair **[Pete Lennon](https://www.instagram.com/petelennon/)** at **[Viviens Creative](https://www.instagram.com/vivienscreative/)** **[Hair Rituel By Sisley](https://www.instagram.com/hairrituelbysisley/)**
   make-up **[Claire Thomson](https://www.instagram.com/clairethomsonmakeup/)** using **[NARS](https://www.instagram.com/narsissist/)**
   model **[Lauren Brown](https://www.instagram.com/lozza.brown/)** at **[IMG](https://www.instagram.com/imgmodels/)**
   photography assistant **Luca Kiripun**

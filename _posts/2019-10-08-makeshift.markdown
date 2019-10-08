@@ -5,7 +5,7 @@ published: false
 ---
 
 ![JoDuck_Makeshift01.jpg](/uploads/JoDuck_Makeshift01.jpg)
-GUCCI shoes &amp; tie
+**[GUCCI](whttps://www.instagram.com/gucci/)** shoes &amp; tie
 
 ![JoDuck_Makeshift02.jpg](/uploads/JoDuck_Makeshift02.jpg)
 

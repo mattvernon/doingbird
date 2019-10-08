@@ -12,6 +12,8 @@ layout: gallery
 **[GUCCI](https://www.instagram.com/gucci/)** jumpsuit &amp; jacket
 
 ![JoDuck_Makeshift03.jpg](/uploads/JoDuck_Makeshift03.jpg)
+**[PRADA](https://www.instagram.com/prada/)** coat, **[LEVIS](https://www.instagram.com/levis_anz/)** shirt, **[MAROSKE PEECH](https://www.instagram.com/maroskepeech/)** freotard, stylists own pants,
+**[MAROSKE PEECH](https://www.instagram.com/maroskepeech/)** x **[ALISON PYRKE](https://www.instagram.com/alisonpyrke/?hl=en)** footwear
 
 ![JoDuck_Makeshift04.jpg](/uploads/JoDuck_Makeshift04.jpg)
 

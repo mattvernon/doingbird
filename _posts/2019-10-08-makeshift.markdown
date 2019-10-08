@@ -2,10 +2,11 @@
 title: MAKESHIFT
 date: 2019-10-08 21:38:00 +11:00
 published: false
+layout: gallery
 ---
 
 ![JoDuck_Makeshift01.jpg](/uploads/JoDuck_Makeshift01.jpg)
-**[GUCCI](whttps://www.instagram.com/gucci/)** shoes &amp; tie
+**[GUCCI](https://www.instagram.com/gucci/)** shoes &amp; tie
 
 ![JoDuck_Makeshift02.jpg](/uploads/JoDuck_Makeshift02.jpg)
 

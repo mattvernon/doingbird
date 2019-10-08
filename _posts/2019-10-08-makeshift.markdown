@@ -9,6 +9,7 @@ layout: gallery
 **[GUCCI](https://www.instagram.com/gucci/)** shoes &amp; tie
 
 ![JoDuck_Makeshift02.jpg](/uploads/JoDuck_Makeshift02.jpg)
+**[GUCCI](https://www.instagram.com/gucci/)** jumpsuit &amp; jacket
 
 ![JoDuck_Makeshift03.jpg](/uploads/JoDuck_Makeshift03.jpg)
 

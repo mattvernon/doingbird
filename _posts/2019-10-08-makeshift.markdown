@@ -51,8 +51,8 @@ stylists own socks
 **[PRADA](https://www.instagram.com/prada/)** shoes
 
 ![JoDuck_Makeshift08.jpg](/uploads/JoDuck_Makeshift08.jpg)
-**[COMME DES GARCONS TRICOT](https://www.instagram.com/reinamelbourne/)** archive jacket worn under dress from **[REINA](https://www.instagram.com/reinamelbourne/)**
+**[COMME DES GARCONS TRICOT](https://www.instagram.com/commedesgarcons/)** archive jacket worn under dress from **[REINA](https://www.instagram.com/reinamelbourne/)**
 **[ARNSDORF](https://www.instagram.com/arnsdorf/)** Dress &amp; trench coat worn around waist
 
 ![JoDuck_Makeshift09.jpg](/uploads/JoDuck_Makeshift09.jpg)
-**[CELINE](https://www.instagram.com/celine/)** archive vest from **[REINA](https://www.instagram.com/reinamelbourne/)**
+**[CELINE](https://www.instagram.com/celine/)** archive singlet from **[REINA](https://www.instagram.com/reinamelbourne/)**

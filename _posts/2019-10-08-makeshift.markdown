@@ -6,9 +6,11 @@ Credits Text: "photography **[JO DUCK](https://www.instagram.com/jo_duck/)** at 
   BOX BLACK](https://www.instagram.com/artboxblack/)** \nfashion editor **[ABBY BENNETT](https://www.instagram.com/bennet_abby/)**\nset
   designer **[NATALIE TURNBULL](https://www.instagram.com/artboxblack/)** at **[ART
   BOX BLACK](https://www.instagram.com/artboxblack/)** \nmodel BELA PALACIO at **[IMG](https://www.instagram.com/imgmodels/)**\nhair
-  **[PETER BECKETT](https://www.instagram.com/artboxblack/)** at **[VIVIENS](https://www.instagram.com/vivienscreative/)**
-  using Morrocanoil\nmake up ROB POVEY at PEOPLE AGENCY using MAC Cosmetics\nphotography
-  assistant ROOS MINTEN \nfashion assistant THEA STIRRAT"
+  **[PETER BECKETT](https://www.instagram.com/peterbecketthair/)** at **[VIVIENS](https://www.instagram.com/vivienscreative/)**
+  using Morrocanoil\nmake up [ROB POVEY](https://www.instagram.com/robpoveymua/)**
+  at [PEOPLE AGENCY](https://www.instagram.com/people.agency/)** using MAC Cosmetics\nphotography
+  assistant [ROOS MINTEN](https://www.instagram.com/roosminten/)** \nfashion assistant
+  [THEA STIRRAT](https://www.instagram.com/thea.freelancestylist/)**"
 layout: gallery
 ---
 

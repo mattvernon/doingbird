@@ -34,7 +34,7 @@ layout: gallery
 **[MAROSKE PEECH](https://www.instagram.com/maroskepeech/)** shorts
 
 ![JoDuck_Makeshift05.jpg](/uploads/JoDuck_Makeshift05.jpg)
-**[JUNYA WATANABE](https://www.instagram.com/reinamelbourne/)** vintage jacket from Reina
+**[JUNYA WATANABE](https://www.instagram.com/junyawatanabeofficial/)** vintage jacket from **[REINA](https://www.instagram.com/reinamelbourne/)**
 
 ![JoDuck_Makeshift06.jpg](/uploads/JoDuck_Makeshift06.jpg)
 **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** blazer &amp; pants
@@ -43,16 +43,16 @@ stylists own socks
 **[GUCCI](https://www.instagram.com/gucci/)** shoes
 
 ![JoDuck_Makeshift07.jpg](/uploads/JoDuck_Makeshift07.jpg)
-**[JEAN PAUL GAULTIER](https://www.instagram.com/reinamelbourne/)** vintage shirt from Reina
-**[COURREGES](https://www.instagram.com/reinamelbourne/)** vintage pants from Reina
+**[JEAN PAUL GAULTIER](https://www.instagram.com/reinamelbourne/)** vintage shirt from **[REINA](https://www.instagram.com/reinamelbourne/)**
+**[COURREGES](https://www.instagram.com/courreges/)** vintage pants from **[REINA](https://www.instagram.com/reinamelbourne/)**
 **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** blazer
 **[STARTEAS CARLUCCI](https://www.instagram.com/strateascarlucci/)** jacket
 stylists own socks
 **[PRADA](https://www.instagram.com/prada/)** shoes
 
 ![JoDuck_Makeshift08.jpg](/uploads/JoDuck_Makeshift08.jpg)
-**[CDG - TRICOT](https://www.instagram.com/reinamelbourne/)** vintage lacket worn under dress from Reina
+**[COMME DES GARCONS TRICOT](https://www.instagram.com/reinamelbourne/)** archive jacket worn under dress from **[REINA](https://www.instagram.com/reinamelbourne/)**
 **[ARNSDORF](https://www.instagram.com/arnsdorf/)** Dress &amp; trench coat worn around waist
 
 ![JoDuck_Makeshift09.jpg](/uploads/JoDuck_Makeshift09.jpg)
-**[CELINE](https://www.instagram.com/reinamelbourne/)** vintage vest from Reina
+**[CELINE](https://www.instagram.com/celine/)** archive vest from **[REINA](https://www.instagram.com/reinamelbourne/)**

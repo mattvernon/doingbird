@@ -15,6 +15,8 @@ Credits Text: "photography **[JO DUCK](https://www.instagram.com/jo_duck/)** at 
   up **[ROB POVEY](https://www.instagram.com/robpoveymua/)** at **[PEOPLE AGENCY](https://www.instagram.com/people.agency/)**
   using MAC Cosmetics\nphotography assistant **[ROOS MINTEN](https://www.instagram.com/roosminten/)**
   \nfashion assistant **[THEA STIRRAT](https://www.instagram.com/thea.freelancestylist/)**"
+is featured?: true
+blurb: Photographs by Jo Duck
 layout: gallery
 ---
 

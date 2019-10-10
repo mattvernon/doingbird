@@ -34,7 +34,7 @@ layout: gallery
 **[MAROSKE PEECH](https://www.instagram.com/maroskepeech/)** shorts
 
 ![JoDuck_Makeshift05.jpg](/uploads/JoDuck_Makeshift05.jpg)
-**[JUNYA WATANABE](https://www.instagram.com/junyawatanabeofficial/)** vintage jacket from **[Reina](https://www.instagram.com/reinamelbourne/)**
+**[JUNYA WATANABE](https://www.instagram.com/junyawatanabeofficial/)** archive jacket from **[Reina](https://www.instagram.com/reinamelbourne/)**
 
 ![JoDuck_Makeshift06.jpg](/uploads/JoDuck_Makeshift06.jpg)
 **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** blazer &amp; pants
@@ -43,10 +43,10 @@ stylists own socks
 **[GUCCI](https://www.instagram.com/gucci/)** shoes
 
 ![JoDuck_Makeshift07.jpg](/uploads/JoDuck_Makeshift07.jpg)
-**[JEAN PAUL GAULTIER](https://www.instagram.com/reinamelbourne/)** vintage shirt from **[Reina](https://www.instagram.com/reinamelbourne/)**
-**[COURREGES](https://www.instagram.com/courreges/)** vintage pants from **[Reina](https://www.instagram.com/reinamelbourne/)**
+**[JEAN PAUL GAULTIER](https://www.instagram.com/reinamelbourne/)** archive shirt from **[Reina](https://www.instagram.com/reinamelbourne/)**
+**[COURREGES](https://www.instagram.com/courreges/)** archive pants from **[Reina](https://www.instagram.com/reinamelbourne/)**
 **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** blazer
-**[STARTEAS CARLUCCI](https://www.instagram.com/strateascarlucci/)** jacket
+**[STRATEAS CARLUCCI](https://www.instagram.com/strateascarlucci/)** jacket
 stylists own socks
 **[PRADA](https://www.instagram.com/prada/)** shoes
 

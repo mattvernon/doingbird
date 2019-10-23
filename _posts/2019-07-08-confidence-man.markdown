@@ -3,6 +3,7 @@ title: Confidence Man
 date: 2019-07-08 18:00:00 +10:00
 categories:
 - Feature
+- Features
 tags:
 - Shoot
 Main Image: "/uploads/Prada3.jpg"

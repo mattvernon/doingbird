@@ -22,11 +22,14 @@ Eva wears **MIU MIU** Skirt & **PRADA** boots
 Eva wears **ACNE STUDIOS** top, **PRADA** Coat, **POMS** sunglasses
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
-: Riley wears STORY MGF pullover & shirt from HAVN Store 
+Riley wears STORY MGF pullover & shirt from HAVN Store 
 
 ![Page_05_Multiple.jpg](/uploads/Page_05_Multiple.jpg)
+Giacomo wears PRADA Coat, ACNE STUDIOS pants, BALLY boots, models own beanie
+Eva wears MIU MIU singlet, skirt & coat, and vintage thermal top 
 
 ![Page_06.jpg](/uploads/Page_06.jpg)
+Riley wears LOEWE coat, STORY MFG Shirt, TEMPLA pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS
 
 ![Page_07_Multiple.jpg](/uploads/Page_07_Multiple.jpg)
-
+Riley wears LOEWE coat, STORY MFG Shirt, TEMPLA pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS

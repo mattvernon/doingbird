@@ -13,10 +13,13 @@ Field name:
 ---
 
 ![Page_01_Multiple.jpg](/uploads/Page_01_Multiple.jpg)
+Riley wears all **RAF SIMONS X TEMPLA**
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
+Eva wears **MIU MIU** Skirt & **PRADA** boots 
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
+Eva wears **ACNE STUDIOS** top, **PRADA** Coat, **POMS** sunglasses
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
 

@@ -2,6 +2,11 @@
 title: LAKE MOUNTAIN
 date: 2019-10-24 14:39:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Fashion
+- Shoot
 Main Image: "/uploads/Cover_Shot.jpg"
 is featured?: true
 Field name: 

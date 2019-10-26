@@ -13,7 +13,7 @@ Field name:
 ---
 
 ![Page_01_Multiple.jpg](/uploads/Page_01_Multiple.jpg)
-LEFT: Riley wears all RAF SIMONS X TEMPLA RIGHT: Eva wears MIU MIU Skirt & PRADA boots 
+LEFT: Riley wears all RAF SIMONS X TEMPLA   RIGHT: Eva wears MIU MIU Skirt & PRADA boots 
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
 Eva wears **MIU MIU** Skirt & **PRADA** boots 

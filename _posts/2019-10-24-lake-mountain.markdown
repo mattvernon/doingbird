@@ -10,6 +10,7 @@ tags:
 Main Image: "/uploads/Cover_Shot.jpg"
 is featured?: true
 Field name: 
+layout: gallery
 ---
 
 ![Page_01_Multiple.jpg](/uploads/Page_01_Multiple.jpg)

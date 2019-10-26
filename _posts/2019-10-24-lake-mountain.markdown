@@ -17,10 +17,12 @@ layout: gallery
 LEFT: Riley wears all RAF SIMONS X TEMPLA                                        RIGHT: Eva wears MIU MIU Skirt & PRADA boots 
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
-Eva wears **MIU MIU** Skirt & **PRADA** boots 
+Eva wears ACNE STUDIOS top, PRADA Coat, POMS sunglasses
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
-Eva wears **ACNE STUDIOS** top, **PRADA** Coat, **POMS** sunglasses
+LEFT:  Riley wears STORY MGF pullover & shirt from HAVN Store 
+RIGHT: Giacomo wears PRADA Coat, ACNE STUDIOS pants, BALLY boots, models own beanie
+Eva wears MIU MIU singlet, skirt & coat, and vintage thermal top 
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
 Riley wears STORY MGF pullover & shirt from HAVN Store 

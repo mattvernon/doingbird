@@ -21,6 +21,7 @@ Eva wears ACNE STUDIOS top, PRADA Coat, POMS sunglasses
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
 LEFT:  Riley wears STORY MGF pullover & shirt from HAVN Store 
+
 RIGHT: Giacomo wears PRADA Coat, ACNE STUDIOS pants, BALLY boots, models own beanie
 Eva wears MIU MIU singlet, skirt & coat, and vintage thermal top 
 

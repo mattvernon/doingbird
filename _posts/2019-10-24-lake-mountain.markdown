@@ -13,26 +13,26 @@ Credits Text: "Photographer **[CATHY MARSHALL](https://www.instagram.com/cathylm
   up **[GEORGIA GAILLARD](https://www.instagram.com/gg.mua/)**\n\nPhoto assistant
   **[ROSA SPRING VOSS](https://www.instagram.com/pop_rocky/)**\n\nFashion assistant
   **[MEG SUMMERS](https://www.instagram.com/yahgirlmeggie/)**\n\nModels: \n**[RILEY](https://www.instagram.com/ri13d/)**
-  at **[PEOPLE](https://people.agency/)**\n\nGIACOMO at DUVAL \nhttps://www.duval.agency/giacomo-dinatale\nhttps://www.instagram.com/modinatale/?hl=en\nEVA
-  at DUVAL\nhttps://www.duval.agency/eva-akhurst\n"
+  at **[PEOPLE](https://people.agency/)**\n\n**[GIACOMO](https://www.instagram.com/modinatale/?hl=en)**
+  at **[DUVAL](https://www.duval.agency/giacomo-dinatale)**\n\nEVA at **[DUVAL](https://www.duval.agency/eva-akhurst)**\n"
 is featured?: true
 Field name: 
 layout: gallery
 ---
 
 ![Page_01_Multiple.jpg](/uploads/Page_01_Multiple.jpg)
-LEFT: Riley wears all RAF SIMONS X TEMPLA
+LEFT: Riley wears all RAF SIMONS X **[TEMPLA](https://www.instagram.com/templa_projects/)**
 
-RIGHT: Eva wears MIU MIU Skirt & PRADA boots
+RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** Skirt & **[PRADA](https://www.instagram.com/prada/)** boots
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
- Eva wears ACNE STUDIOS top, PRADA Coat, POMS sunglasses 
+ Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POM](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
 LEFT:  Riley wears STORY MGF pullover & shirt from HAVN Store 
 
-RIGHT: Giacomo wears PRADA Coat, ACNE STUDIOS pants, BALLY boots, models own beanie
-Eva wears MIU MIU singlet, skirt & coat, and vintage thermal top 
+RIGHT: Giacomo wears **[PRADA](https://www.instagram.com/prada/)** Coat, **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** pants, BALLY boots, models own beanie
+Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
 Riley wears LOEWE coat, STORY MFG Shirt, TEMPLA pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS

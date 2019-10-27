@@ -8,11 +8,11 @@ tags:
 - Fashion
 - Shoot
 Main Image: "/uploads/Cover_Shot.jpg"
-Credits Text: "Photographer **[CATHY MARSHALL](https://www.instagram.com/cathylmarshall/)**\n\nFashion
-  Editor **[ABBY BENNETT](https://www.instagram.com/bennett_abby/)**\n\nHair & Make
-  up **[GEORGIA GAILLARD](https://www.instagram.com/gg.mua/)**\n\nPhoto assistant
-  **[ROSA SPRING VOSS](https://www.instagram.com/pop_rocky/)**\n\nFashion assistant
-  **[MEG SUMMERS](https://www.instagram.com/yahgirlmeggie/)**\n\nModels: \n**[RILEY](https://www.instagram.com/ri13d/)**
+Credits Text: "Photographer **[CATHY MARSHALL](https://www.instagram.com/cathylmarshall/)**\n\n\nFashion
+  Editor **[ABBY BENNETT](https://www.instagram.com/bennett_abby/)**\n\n\nHair & Make
+  up **[GEORGIA GAILLARD](https://www.instagram.com/gg.mua/)**\n\n\nPhoto assistant
+  **[ROSA SPRING VOSS](https://www.instagram.com/pop_rocky/)**\n\n\nFashion assistant
+  **[MEG SUMMERS](https://www.instagram.com/yahgirlmeggie/)**\n\n\nModels: \n**[RILEY](https://www.instagram.com/ri13d/)**
   at **[PEOPLE](https://people.agency/)**\n\n**[GIACOMO](https://www.instagram.com/modinatale/?hl=en)**
   at **[DUVAL](https://www.duval.agency/giacomo-dinatale)**\n\nEVA at **[DUVAL](https://www.duval.agency/eva-akhurst)**\n"
 is featured?: true

@@ -38,16 +38,15 @@ Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat
 Riley wears LOEWE coat, STORY MFG Shirt, TEMPLA pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS
 
 ![Page_05_Multiple.jpg](/uploads/Page_05_Multiple.jpg)
-LEFT: Eva wears ACNE STUDIOS jumper, TEMPLA pants, vintage coat from VINNIES, boots from BUNNINGS
+LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumper, TEMPLA pants, vintage coat from VINNIES, boots from BUNNINGS
 
-RIGHT: Eva wears MIU MIU singlet, skirt & coat, and vintage thermal top 
-
+RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 ![Page_06.jpg](/uploads/Page_06.jpg)
 Giacomo wears THE NORTH FACE Jacket, STORY MGF long sleeve top, motocross jersey from FROTHLYF, NIKE Pants, boots from BUNNINGS, models own jewellery 
 
 ![Page_07_Multiple.jpg](/uploads/Page_07_Multiple.jpg)
-LEFT: Eva wears MIU MIU singlet, skirt & coat, and vintage thermal top 
+LEFT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
-RIGHT: Giacomo wears PRADA Coat, ACNE STUDIOS pants, BALLY boots, vintage thermal top,
+RIGHT: Giacomo wears **[PRADA](https://www.instagram.com/prada/)** Coat, **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** pants, BALLY boots, vintage thermal top,
 Riley wears STORY MGF pullover & shirt from HAVN Store, motocross pants from FROTHLYF
 

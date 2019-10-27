@@ -35,17 +35,17 @@ RIGHT: Giacomo wears **[PRADA](https://www.instagram.com/prada/)** Coat, **[ACNE
 Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
-Riley wears LOEWE coat, **[STORY MGF](https://www.instagram.com/storymfg/)** Shirt, **[TEMPLA](https://www.instagram.com/templa_projects/)** pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS
+Riley wears LOEWE coat, **[STORY MGF](https://www.instagram.com/storymfg/)** Shirt, **[TEMPLA](https://www.instagram.com/templa_projects/)** pants, vintage sunglasses and motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, boots from BUNNINGS
 ![Page_05_Multiple.jpg](/uploads/Page_05_Multiple.jpg)
-LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumper, TEMPLA pants, vintage coat from VINNIES, boots from BUNNINGS
+LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumper, TEMPLA pants, vintage coat from **[VINNIES](https://www.instagram.com/vinniesshops/)**, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**
 
 RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 ![Page_06.jpg](/uploads/Page_06.jpg)
-Giacomo wears THE NORTH FACE Jacket, STORY MGF long sleeve top, motocross jersey from FROTHLYF, NIKE Pants, boots from BUNNINGS, models own jewellery 
+Giacomo wears THE NORTH FACE Jacket, STORY MGF long sleeve top, motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, NIKE Pants, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**, models own jewellery 
 
 ![Page_07_Multiple.jpg](/uploads/Page_07_Multiple.jpg)
 LEFT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 RIGHT: Giacomo wears **[PRADA](https://www.instagram.com/prada/)** Coat, **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** pants, BALLY boots, vintage thermal top,
-Riley wears STORY MGF pullover & shirt from HAVN Store, motocross pants from FROTHLYF
+Riley wears **[STORY MGF](https://www.instagram.com/storymfg/)** pullover & shirt from **[HAVN Store](https://www.instagram.com/havnstore/)**, motocross pants from **[FROTHLYF](https://www.instagram.com/frothlyf/)**
 

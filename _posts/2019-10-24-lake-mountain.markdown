@@ -11,9 +11,9 @@ Main Image: "/uploads/Cover_Shot.jpg"
 Credits Text: "Photographer **[CATHY MARSHALL](https://www.instagram.com/cathylmarshall/)**\n\nFashion
   Editor **[ABBY BENNETT](https://www.instagram.com/bennett_abby/)**\n\nHair & Make
   up **[GEORGIA GAILLARD](https://www.instagram.com/gg.mua/)**\n\nPhoto assistant
-  ROSA SPRING VOSS \nhttps://www.instagram.com/pop_rocky/\n\nFashion assistant MEG
-  SUMMERS\nhttps://www.instagram.com/yahgirlmeggie/\n\nModels: \nRILEY at PEOPLE \nhttps://people.agency/\nhttps://www.instagram.com/ri13d/\nGIACOMO
-  at DUVAL \nhttps://www.duval.agency/giacomo-dinatale\nhttps://www.instagram.com/modinatale/?hl=en\nEVA
+  **[ROSA SPRING VOSS](https://www.instagram.com/pop_rocky/)**\n\nFashion assistant
+  **[MEG SUMMERS](https://www.instagram.com/yahgirlmeggie/)**\n\nModels: \n**[RILEY](https://www.instagram.com/ri13d/)**
+  at **[PEOPLE](https://people.agency/)**\n\nGIACOMO at DUVAL \nhttps://www.duval.agency/giacomo-dinatale\nhttps://www.instagram.com/modinatale/?hl=en\nEVA
   at DUVAL\nhttps://www.duval.agency/eva-akhurst\n"
 is featured?: true
 Field name: 

@@ -26,17 +26,16 @@ LEFT: Riley wears all RAF SIMONS X **[TEMPLA](https://www.instagram.com/templa_p
 RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** Skirt & **[PRADA](https://www.instagram.com/prada/)** boots
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
- Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POMS](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
+ Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POM](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
-LEFT:  Riley wears STORY MGF pullover & shirt from HAVN Store 
+LEFT:  Riley wears **[STORY MGF](https://www.instagram.com/storymfg/)** pullover & shirt from **[HAVN Store](https://www.instagram.com/havnstore/)**
 
 RIGHT: Giacomo wears **[PRADA](https://www.instagram.com/prada/)** Coat, **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** pants, BALLY boots, models own beanie
 Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
-Riley wears LOEWE coat, STORY MFG Shirt, TEMPLA pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS
-
+Riley wears LOEWE coat, **[STORY MGF](https://www.instagram.com/storymfg/)** Shirt, **[TEMPLA](https://www.instagram.com/templa_projects/)** pants, vintage sunglasses and motocross jersey from FROTHLYF, boots from BUNNINGS
 ![Page_05_Multiple.jpg](/uploads/Page_05_Multiple.jpg)
 LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumper, TEMPLA pants, vintage coat from VINNIES, boots from BUNNINGS
 

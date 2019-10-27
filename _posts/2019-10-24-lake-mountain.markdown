@@ -26,7 +26,7 @@ LEFT: Riley wears all RAF SIMONS X **[TEMPLA](https://www.instagram.com/templa_p
 RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** Skirt & **[PRADA](https://www.instagram.com/prada/)** boots
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
- Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POM](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
+ Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POMS](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
 LEFT:  Riley wears STORY MGF pullover & shirt from HAVN Store 

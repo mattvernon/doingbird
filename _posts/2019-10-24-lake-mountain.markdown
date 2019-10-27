@@ -17,6 +17,7 @@ Credits Text: "Photographer **[CATHY MARSHALL](https://www.instagram.com/cathylm
   at DUVAL\nhttps://www.duval.agency/eva-akhurst\n"
 is featured?: true
 Field name: 
+layout: gallery
 ---
 
 ![Page_01_Multiple.jpg](/uploads/Page_01_Multiple.jpg)

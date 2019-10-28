@@ -4,7 +4,6 @@ date: 2019-10-24 14:39:00 +11:00
 categories:
 - Fashion
 tags:
-- Fashion
 - Shoot
 Main Image: "/uploads/Cover_Shot.jpg"
 Credits Text: "Photographer **[CATHY MARSHALL](https://www.instagram.com/cathylmarshall/)**\n\n\nFashion

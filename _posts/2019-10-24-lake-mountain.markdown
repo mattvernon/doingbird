@@ -26,7 +26,7 @@ LEFT: Riley wears all RAF SIMONS X **[TEMPLA](https://www.instagram.com/templa_p
 RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** Skirt & **[PRADA](https://www.instagram.com/prada/)** boots
 
 ![Page_02.jpg](/uploads/Page_02.jpg)
- Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POMS](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
+ Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** top, **[PRADA](https://www.instagram.com/prada/)** Coat, **[POM](Shttps://www.instagram.com/pomseyewear/)** sunglasses 
 
 ![Page_03_Multiple.jpg](/uploads/Page_03_Multiple.jpg)
 LEFT:  Riley wears **[STORY MGF](https://www.instagram.com/storymfg/)** pullover & shirt from **[HAVN Store](https://www.instagram.com/havnstore/)**
@@ -35,15 +35,15 @@ RIGHT: Giacomo wears **[PRADA](https://www.instagram.com/prada/)** Coat, **[ACNE
 Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 ![Page_04.jpg](/uploads/Page_04.jpg)
-Riley wears LOEWE coat, **[STORY MGF](https://www.instagram.com/storymfg/)** Shirt, **[TEMPLA](https://www.instagram.com/templa_projects/)** pants, vintage sunglasses and motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**
+Riley wears LOEWE coat, **[STORY MGF](https://www.instagram.com/storymfg/)** Shirt from **[HAVN Store](https://www.instagram.com/havnstore/)**, **[TEMPLA](https://www.instagram.com/templa_projects/)** pants, vintage sunglasses and motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**
 
 ![Page_05_Multiple.jpg](/uploads/Page_05_Multiple.jpg)
-LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumper, **[TEMPLA](https://www.instagram.com/templa_projects/)**pants, vintage coat from **[VINNIES](https://www.instagram.com/vinniesshops/)**, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**
+LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumper, **[TEMPLA](https://www.instagram.com/templa_projects/)** pants, vintage coat from **[VINNIES](https://www.instagram.com/vinniesshops/)**, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**
 
 RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 ![Page_06.jpg](/uploads/Page_06.jpg)
-Giacomo wears THE NORTH FACE Jacket, **[STORY MGF](https://www.instagram.com/storymfg/)** long sleeve top, motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, NIKE pants, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**, models own jewellery 
+Giacomo wears THE NORTH FACE Jacket, **[STORY MGF](https://www.instagram.com/storymfg/)** long sleeve top, motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, NIKE Pants, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**, models own jewellery 
 
 ![Page_07_Multiple.jpg](/uploads/Page_07_Multiple.jpg)
 LEFT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 

@@ -43,7 +43,7 @@ LEFT: Eva wears **[ACNE STUDIOS](https://www.instagram.com/acnestudios/)** jumpe
 RIGHT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 
 
 ![Page_06.jpg](/uploads/Page_06.jpg)
-Giacomo wears THE NORTH FACE Jacket, **[STORY MGF](https://www.instagram.com/storymfg/)** long sleeve top, motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, NIKE Pants, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**, models own jewellery 
+Giacomo wears THE NORTH FACE Jacket, **[STORY MGF](https://www.instagram.com/storymfg/)** long sleeve top from **[HAVN Store](https://www.instagram.com/havnstore/)**, motocross jersey from **[FROTHLYF](https://www.instagram.com/frothlyf/)**, NIKE Pants, boots from **[BUNNINGS](https://www.instagram.com/bunnings/)**, models own jewellery 
 
 ![Page_07_Multiple.jpg](/uploads/Page_07_Multiple.jpg)
 LEFT: Eva wears **[MIU MIU](https://www.instagram.com/miumiu/)** singlet, skirt & coat, and vintage thermal top 

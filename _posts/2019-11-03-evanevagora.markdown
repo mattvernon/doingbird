@@ -2,6 +2,11 @@
 title: EvanEvagora
 date: 2019-11-03 15:18:00 +11:00
 published: false
+categories:
+- fashion
+tags:
+- Fashion
+layout: gallery
 ---
 
 ![JoDuck_EvanEvagora_01.jpg](/uploads/JoDuck_EvanEvagora_01.jpg)

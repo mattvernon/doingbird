@@ -7,6 +7,7 @@ categories:
 tags:
 - shoot
 Main Image: "/uploads/IMG_0041.jpeg"
+Credits Text: All photos by **[POND](https://www.instagram.com/ponderers/?hl=en)**
 is featured?: true
 ---
 

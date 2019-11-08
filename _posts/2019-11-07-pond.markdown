@@ -1,7 +1,6 @@
 ---
 title: on the road with POND
 date: 2019-11-07 08:42:00 +11:00
-published: false
 categories:
 - Features
 tags:

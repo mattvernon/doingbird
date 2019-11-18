@@ -17,6 +17,7 @@ layout: post
 
 
 TEXT Josh Gardiner
+
 Portrait by **[Jo Duck](https://www.instagram.com/jo_duck/)**
 
 All other images by **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**

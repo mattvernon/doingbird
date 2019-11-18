@@ -1,5 +1,5 @@
 ---
-title: "'About a Day' an exhibition by Photographer Victoria Zschommler"
+title: "'About a Day' \nan exhibition by Photographer Victoria Zschommler"
 date: 2019-11-17 15:22:00 +11:00
 published: false
 Main Image: "/uploads/At%20the%20above_Victoria%20Zschommler_05.jpg"

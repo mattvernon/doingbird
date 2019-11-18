@@ -13,11 +13,9 @@ layout: post
 TEXT Josh Gardiner
 Portrait by **[Jo Duck](https://www.instagram.com/jo_duck/)**
 
-All other images by Victoria Zschommler 
-https://www.instagram.com/victoriazschommler/
+All other images by **[Victoria Zschommler](https://www.instagram.com/victoriazschommler/)**
+**[At The Above](https://www.instagram.com/attheabove/)**
 
-https://www.instagram.com/attheabove/
-+++
 
 ![VZ_Portrait_01.jpg](/uploads/VZ_Portrait_01.jpg)
 

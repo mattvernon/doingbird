@@ -9,6 +9,7 @@ tags:
 Main Image: "/uploads/At%20the%20above_Victoria%20Zschommler_05.jpg"
 Credits Text: "TEXT Josh Gardiner\n\nPortrait by Jo Duck\nhttps://www.instagram.com/jo_duck/\n\nAll
   other images by Victoria Zschommler \nhttps://www.instagram.com/victoriazschommler/\n\nhttps://www.instagram.com/attheabove/\n+++\n"
+is featured?: true
 layout: post
 ---
 
@@ -37,7 +38,7 @@ All other images by **[Victoria Zschommler](https://www.instagram.com/victoriazs
 
 Photographer Victoria Zschommler, whose work has graced the digital pages of Doingbird will be exhibiting a new series of work, About a Day (Diurnal Rhythms), at Melbourne gallery space At The Above, opening November 22 until 29. 
 
-Zschommler’s new series, About a Day (Diurnal Rhythms), is a playful meditation on changing states, aesthetics and emotions. A time-lapsing triptych, with her vivid, visceral works presented as documents tracking the journey of organic matter and moments, the show is created in partnership with florist Lottie Phillips's minimal and hauntingly supernatural arrangements.
+Zschommler’s new series, About a Day (Diurnal Rhythms), is a playful meditation on changing states, aesthetics and emotions. A time-lapsing triptych, with her vivid, visceral works presented as documents tracking the journey of organic matter and moments, the show is created in partnership with florist Lottie Phillips's minimal and hauntingly supernatural arrangements. Phillips will also evolve the subject matter beyond the frame, with glowing floral arrangements throughout the space.
 
 Here Josh Gardiner talks to Victoria about the work: 
 

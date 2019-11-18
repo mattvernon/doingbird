@@ -10,6 +10,7 @@ layout: post
 
 ## an exhibition by Photographer Victoria Zschommler
 
+
 TEXT Josh Gardiner
 Portrait by **[Jo Duck](https://www.instagram.com/jo_duck/)**
 

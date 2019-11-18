@@ -8,6 +8,17 @@ Credits Text: "TEXT Josh Gardiner\n\nPortrait by Jo Duck\nhttps://www.instagram.
 layout: post
 ---
 
+TEXT Josh Gardiner
+
+Portrait by **[Jo Duck]
+(https://www.instagram.com/jo_duck/)**
+
+All other images by Victoria Zschommler 
+https://www.instagram.com/victoriazschommler/
+
+https://www.instagram.com/attheabove/
++++
+
 ![VZ_Portrait_01.jpg](/uploads/VZ_Portrait_01.jpg)
 
 ![At the above_Victoria Zschommler_01.jpg](/uploads/At%20the%20above_Victoria%20Zschommler_01.jpg)

@@ -1,7 +1,6 @@
 ---
 title: About a Day
 date: 2019-11-17 15:22:00 +11:00
-published: false
 categories:
 - Features
 tags:

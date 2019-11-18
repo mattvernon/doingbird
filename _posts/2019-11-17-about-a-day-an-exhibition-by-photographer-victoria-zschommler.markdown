@@ -2,6 +2,11 @@
 title: About a Day
 date: 2019-11-17 15:22:00 +11:00
 published: false
+categories:
+- Features
+tags:
+- Feature
+- Artists
 Main Image: "/uploads/At%20the%20above_Victoria%20Zschommler_05.jpg"
 Credits Text: "TEXT Josh Gardiner\n\nPortrait by Jo Duck\nhttps://www.instagram.com/jo_duck/\n\nAll
   other images by Victoria Zschommler \nhttps://www.instagram.com/victoriazschommler/\n\nhttps://www.instagram.com/attheabove/\n+++\n"

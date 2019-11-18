@@ -1,5 +1,5 @@
 ---
-title: "'About a Day' \nan exhibition by Photographer Victoria Zschommler"
+title: "'About a Day'"
 date: 2019-11-17 15:22:00 +11:00
 published: false
 Main Image: "/uploads/At%20the%20above_Victoria%20Zschommler_05.jpg"
@@ -8,8 +8,9 @@ Credits Text: "TEXT Josh Gardiner\n\nPortrait by Jo Duck\nhttps://www.instagram.
 layout: post
 ---
 
-TEXT Josh Gardiner
+# an exhibition by Photographer Victoria Zschommler
 
+TEXT Josh Gardiner
 Portrait by **[Jo Duck](https://www.instagram.com/jo_duck/)**
 
 All other images by Victoria Zschommler 

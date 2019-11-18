@@ -9,6 +9,7 @@ tags:
 Main Image: "/uploads/At%20the%20above_Victoria%20Zschommler_05.jpg"
 Credits Text: "TEXT Josh Gardiner\n\nPortrait by Jo Duck\nhttps://www.instagram.com/jo_duck/\n\nAll
   other images by Victoria Zschommler \nhttps://www.instagram.com/victoriazschommler/\n\nhttps://www.instagram.com/attheabove/\n+++\n"
+is featured?: true
 layout: post
 ---
 

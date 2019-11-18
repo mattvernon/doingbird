@@ -25,7 +25,6 @@ All other images by **[Victoria Zschommler](https://www.instagram.com/victoriazs
 **[At The Above](https://www.instagram.com/attheabove/)**
 
 
-![VZ_Portrait_01.jpg](/uploads/VZ_Portrait_01.jpg)
 
 ![At the above_Victoria Zschommler_01.jpg](/uploads/At%20the%20above_Victoria%20Zschommler_01.jpg)
 
@@ -34,6 +33,8 @@ All other images by **[Victoria Zschommler](https://www.instagram.com/victoriazs
 ![At the above_Victoria Zschommler_05.jpg](/uploads/At%20the%20above_Victoria%20Zschommler_05.jpg)
 
 ![At the above_Victoria Zschommler_06.jpg](/uploads/At%20the%20above_Victoria%20Zschommler_06.jpg)
+
+![VZ_Portrait_01.jpg](/uploads/VZ_Portrait_01.jpg)
 
 Photographer Victoria Zschommler, whose work has graced the digital pages of Doingbird will be exhibiting a new series of work, About a Day (Diurnal Rhythms), at Melbourne gallery space At The Above, opening November 22 until 29. 
 

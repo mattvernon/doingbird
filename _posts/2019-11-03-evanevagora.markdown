@@ -17,7 +17,9 @@ Credits Text: |
 
   Photo assistant **[Roos Minten](https://www.instagram.com/roosminten/)**
   Fashion Assistant **[Meg Summers](https://www.instagram.com/yahgirlmeggy/)**
+
   Monster Nicholas Arnold
+
   Model **[Evan Evagora](https://www.instagram.com/evan.evagora/)**  at **[Five Twenty Management](https://www.instagram.com/fivetwentymgt/)**
 
 

@@ -29,7 +29,7 @@ I called my mum! She’s a big Star Trek Fan. It was about six in the morning I 
 She must have been so excited! Had she helped you with your audition? 
 No, a friend of mine did — my roommate in Sydney. He helped me with the script and everything — I was a bit freaked out. As soon as I found out it was Star Trek I just really wanted the part. I read the character description and I was like “Oh, okay, I kind of find this character really relatable; I think I could pull this off!" But obviously after leaving the audition room I wasn’t as confident... I started to think maybe it wasn’t the best audition. Then the next day I was like "Oh I know I didn’t get it; this is what I did wrong." But then they called and asked me to re-audition with one of the directors, and I did that, and then all of a sudden it was,  Then I got a call the next day before I boarded the plane being like, "We’re gonna send a contract ad start sorting your American visa to get you here as quickly as possible!"
 ![JoDuck_EvanEvagora_04.jpg](/uploads/JoDuck_EvanEvagora_04.jpg)
-Wow, and how quickly did you move there? 
+WOW, AND HOW QUICKLY DID YOU MOVE THERE?
 After the end of Fantasy Island it was maybe a few weeks, I got back to Sydney, told my roommate, and then started clearing all of my stuff out and sending it back home. I went home for a couple of weeks and just waited for my visa!
 ![JoDuck_EvanEvagora_05.jpg](/uploads/JoDuck_EvanEvagora_05.jpg)
 Is it tough being based in Australia to land a role overseas, since you can't go to castings in person? Or is auditioning over Skype the norm. 

@@ -7,14 +7,21 @@ categories:
 tags:
 - Fashion
 author: "**[  ](  )**"
-Credits Text: "Photographer **[Jo Duck](https://www.instagram.com/jo_duck/)**\nat
-  **[Art Box Black](https://www.instagram.com/artboxblack/)**\n\nFashion Editor **[Abby
-  Bennett](https://www.instagram.com/bennett_abby/)**\n\nHair Peter Beckett at Vivien’s
-  Creative \nhttps://www.instagram.com/peterbecketthair/\nhttps://www.instagram.com/vivienscreative/\nPhoto
-  assistant Roos Minten \nhttps://www.instagram.com/roosminten/\nFashion Assistant
-  Meg Summers\nhttps://www.instagram.com/yahgirlmeggy/\nMonster Nicholas Arnold\nModel
-  Evan Evagora at Five Twenty Management\nhttps://www.instagram.com/evan.evagora/\nhttps://www.instagram.com/fivetwentymgt/\n\n\nText
-  & Interview by Abby Bennett & Meg Summers\n"
+Credits Text: |
+  Photographer **[Jo Duck](https://www.instagram.com/jo_duck/)**
+  at **[Art Box Black](https://www.instagram.com/artboxblack/)**
+
+  Fashion Editor **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+
+  Hair **[Peter Beckett](https://www.instagram.com/peterbecketthair/)** at **[Vivien’s Creative](https://www.instagram.com/vivienscreative/)**
+
+  Photo assistant **[Roos Minten](https://www.instagram.com/roosminten/)**
+  Fashion Assistant **[Meg Summers](https://www.instagram.com/yahgirlmeggy/)**
+  Monster Nicholas Arnold
+  Model **[Evan Evagora](https://www.instagram.com/evan.evagora/)**  at **[Five Twenty Management](https://www.instagram.com/fivetwentymgt/)**
+
+
+  Text & Interview by Abby Bennett & Meg Summers
 layout: gallery
 ---
 

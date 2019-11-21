@@ -6,7 +6,6 @@ categories:
 - fashion
 tags:
 - Fashion
-author: "**[  ](  )**"
 Credits Text: |
   Photographer **[Jo Duck](https://www.instagram.com/jo_duck/)**
   at **[Art Box Black](https://www.instagram.com/artboxblack/)**

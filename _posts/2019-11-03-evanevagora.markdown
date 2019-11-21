@@ -34,7 +34,7 @@ SO, WHAT DID YOU DO WHEN YOU FOUND OUT YOU’D BEEN CAST IN PICARD?
 I called my mum! She’s a big Star Trek Fan. It was about six in the morning I think in Fiji and we had just wrapped filming on Fantasy Island when I got the phone call. 
 
 ![JoDuck_EvanEvagora_03.jpg](/uploads/JoDuck_EvanEvagora_03.jpg)
-She must have been so excited! Had she helped you with your audition? 
+SHE MUST HAVE BEEN SO EXCITED! HAD SHE HELPED YOU WITH YOUR AUDITION?
 No, a friend of mine did — my roommate in Sydney. He helped me with the script and everything — I was a bit freaked out. As soon as I found out it was Star Trek I just really wanted the part. I read the character description and I was like “Oh, okay, I kind of find this character really relatable; I think I could pull this off!" But obviously after leaving the audition room I wasn’t as confident... I started to think maybe it wasn’t the best audition. Then the next day I was like "Oh I know I didn’t get it; this is what I did wrong." But then they called and asked me to re-audition with one of the directors, and I did that, and then all of a sudden it was,  Then I got a call the next day before I boarded the plane being like, "We’re gonna send a contract ad start sorting your American visa to get you here as quickly as possible!"
 ![JoDuck_EvanEvagora_04.jpg](/uploads/JoDuck_EvanEvagora_04.jpg)
 WOW, AND HOW QUICKLY DID YOU MOVE THERE?

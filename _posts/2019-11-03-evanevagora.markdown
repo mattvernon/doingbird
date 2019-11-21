@@ -40,7 +40,7 @@ No, a friend of mine did — my roommate in Sydney. He helped me with the script
 WOW, AND HOW QUICKLY DID YOU MOVE THERE?
 After the end of Fantasy Island it was maybe a few weeks, I got back to Sydney, told my roommate, and then started clearing all of my stuff out and sending it back home. I went home for a couple of weeks and just waited for my visa!
 ![JoDuck_EvanEvagora_05.jpg](/uploads/JoDuck_EvanEvagora_05.jpg)
-Is it tough being based in Australia to land a role overseas, since you can't go to castings in person? Or is auditioning over Skype the norm. 
+IS IT TOUGH BEING BASED IN AUSTRALIA TO LAND A ROLE OVERSEAS, SINCE YOU CAN’T GO TO CASTINGS IN PERSON? OR IS AUDITIONING OVER SKYPE THE NORM?  
 I would say normally but because of the streaming services in movies and the amount of content that’s been created, the companies aren’t just looking in America anymore — they’re going to New Zealand, they’re going to London, they’re coming to Australia, they’re really broadening their scope on who they want and where they’re looking for it so I actually think if I had auditioned for the role in America I actually don’t think I would have had as good a chance because they were so focused on looking in Australia, so it kind of benefitted me. 
 ![JoDuck_EvanEvagora_06.jpg](/uploads/JoDuck_EvanEvagora_06.jpg)
 HOW LONG HAD YOU BEEN PURSUING ACTING BEFORE YOU WERE IN FANTASY ISLAND?

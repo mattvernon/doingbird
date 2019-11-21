@@ -52,7 +52,7 @@ I do like anti-heroes a lot. People who do good things but the way in which they
 WHAT WAS YOUR BIGGEST CHALLENGE GETTING READY FOR the Star Trek role? 
 I’d say the stunt fighting training. It was pretty rigorous. But I have a big boxing background so that came in handy with the auditions, but then they asked “Do you have any sword fighting experience?” I was like, “Um... I have none of that’. “Do you have any stunt fight training?”. Like no, but I was always willing to give it a go. [Laughs]
 
-How was sword fighting? 
+HOW WAS SWORD FIGHTING?
 It definitely wasn’t easy, learning the proper stances and the proper way to swing the sword. And then when you get a camera involved as well, you’ve got to learn how to block it so it looks like someone’s actually been hit, or stabbed or you’re actually being hit, you know? That was probably the biggest challenge. 
 
 DOES THE CAST ALL LEARN STUNT TRAINING TOGETHER?

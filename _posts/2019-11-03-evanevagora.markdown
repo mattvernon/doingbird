@@ -32,9 +32,9 @@ layout: gallery
 Evan Evagora is the young Australian model-turned-actor who co-stars in the eighth series in the Star Trek franchise, Star Trek: Picard, executive-produced by Patrick Stewart no less! Before that, he was in Fiji filming the horror-film adaptation of the popular 70’s hit TV show Fantasy Island. Evan grew up in inner city Melbourne the youngest of seven siblings and was pretty focused on sport, he played AFL and was a boxing champ until he decided to give that all up and study film. With aspirations to become a director he quickly got sidetracked into modelling, and now acting, which is turning out to be a very good life decision.
 
 above: Evan wears PRADA, Monster wears costume from Rose Chong Costumiers throughout 
+below: Evan wears GUCCI
  
 ![JoDuck_EvanEvagora_02.jpg](/uploads/JoDuck_EvanEvagora_02.jpg)
-Evan wears GUCCI
 
 SO, WHAT DID YOU DO WHEN YOU FOUND OUT YOU’D BEEN CAST IN PICARD? 
 I called my mum! She’s a big Star Trek Fan. It was about six in the morning I think in Fiji and we had just wrapped filming on Fantasy Island when I got the phone call. 

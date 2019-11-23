@@ -25,6 +25,7 @@ Credits Text: |
 
 
   Text & Interview by Abby Bennett & Meg Summers
+is featured?: true
 Field name: 
 layout: gallery
 ---

@@ -1,17 +1,18 @@
 ---
-title: Richard "French" Sayer - Mein hangerling ist kaput
+title: French - Mein hangerling ist kaput
 date: 2019-11-25 13:48:00 +11:00
-published: false
 categories:
 - Features
 tags:
 - artist
+Main Image: "/uploads/doorway.jpg"
+is featured?: true
 ---
 
 By Max Olijnyk
 
 ![IMG_3719.jpg](/uploads/IMG_3719.jpg)
-On the eve of travelling from his home in Germany to Australia for the opening of his show Restless at Sydney’s Pass~Port Gallery, I spoke to artist and skateboarder Richard ‘French’ Sayer about the tumultuous past six months that informed the exhibition.
+On the eve of travelling from his home in Germany to Australia for the opening of his show Reckless at Sydney’s Pass~Port Gallery, I spoke to artist and skateboarder Richard ‘French’ Sayer about the tumultuous past six months that informed the exhibition.
 
 ![IMG_3645.jpg](/uploads/IMG_3645.jpg)
 MAX: SO WHERE ARE YOU IN GERMANY, EXACTLY? BERLIN?
@@ -40,6 +41,7 @@ The other thing is I don’t really have any English friends here because I kind
 ![doorway.jpg](/uploads/doorway.jpg)
 
 ![D_gate_paint.jpg](/uploads/D_gate_paint.jpg)
+![French_portrait_maxO.jpg](/uploads/French_portrait_maxO.jpg)
 
 RIGHT, SO YOU CAN SAY, "MY ARM IS FUCKED," OVER AND OVER AGAIN.
 
@@ -135,5 +137,3 @@ YOU ARE TERMINATOR. DID YOU EVER GET A THING TO TAKE WITH YOU IN CASE THE METAL 
 No, but I always worry about it.
 Well, apparently mine is going to set it off. They’ve given me this passport thing, it’s all in German but it has a stamp from the hospital with instructions to call them with any questions. I’m just hoping it doesn’t go off, because I really don’t need that shit.
  
-
-RESTLESS opens today Friday 29th November at PASS-PORT Store & Gallery, 16 Oxford Square, Darlinghurst Sydney Australia

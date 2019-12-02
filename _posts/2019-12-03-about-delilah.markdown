@@ -14,6 +14,7 @@ is featured?: true
 An unheard score and the story behind it from the archives of Melbourne based composer Jeanette Little. 
 
 "I wrote Delilah eight years ago, when I was a music student studying composition, for the Australian cellist Judith Hamann. She’s now one of the world’s foremost contemporary-music cellists. "
+
 [image2.JPG](/uploads/image2.JPG)
 
 "I found Judith unique and inspiring as a performer. As well as classical music, she has a practice in improvisation and experimental music through working with artists like The Necks, Oren Ambarchi, La Monte Young and John Zorn. The way she works is very collaborative and I felt she could teach me things about the cello that were unconventional in classical repertoire."

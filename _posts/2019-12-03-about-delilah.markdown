@@ -27,3 +27,7 @@ Delilah, as the name suggests, is about sweetness, passion and deceit. The piece
 -
 
 Jeanette Little is a Melbourne based composer and musician focusing on contemporary classical and electronic music. Formerly working in music supervision for brands like Stella McCartney, Gucci and Issey Misake she now presents the show Slime on London's NTS Radio and recently completed a residency at the Melbourne Electronic Sound Studio with audio-visual artist Robin Fox.
+
+
+Images, score and story: Jeanette Little
+Editor: Laila Sakini 

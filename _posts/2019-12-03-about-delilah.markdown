@@ -18,7 +18,7 @@ An unheard score and the story behind it from the archives of Melbourne based co
 
 
 "I found Judith unique and inspiring as a performer. As well as classical music, she has a practice in improvisation and experimental music through working with artists like The Necks, Oren Ambarchi, La Monte Young and John Zorn. The way she works is very collaborative and I felt she could teach me things about the cello that were unconventional in classical repertoire."
-[image3.JPG](/uploads/image3.JPG)
+![image3-883725.jpg](/uploads/image3-883725.jpg)
 
 "Also, as a composition student, I was geeking out hard on the graphic scores of Earl Brown and John Cage, which evolved in the 1950s. I felt restricted by the rules of traditional notation (the five line staff). A graphic score seemed to free things up and could leave elements like pitch up to the performer’s interpretation.
 

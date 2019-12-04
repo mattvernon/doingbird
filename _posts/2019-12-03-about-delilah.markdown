@@ -7,6 +7,7 @@ categories:
 tags:
 - artist
 - music
+Main Image: "/uploads/image3b.jpg"
 Credits Text: "Images, score and story: Jeanette Little\nEditor: Laila Sakini "
 is featured?: true
 ---
@@ -21,7 +22,8 @@ An unheard score and the story behind it from the archives of Melbourne based co
 ![image3-883725.jpg](/uploads/image3-883725.jpg)
 
 "Also, as a composition student, I was geeking out hard on the graphic scores of Earl Brown and John Cage, which evolved in the 1950s. I felt restricted by the rules of traditional notation (the five line staff). A graphic score seemed to free things up and could leave elements like pitch up to the performer’s interpretation.
-
+![image1.jpeg](/uploads/image1.jpeg)
+![image3b.jpg](/uploads/image3b.jpg)
 Delilah, as the name suggests, is about sweetness, passion and deceit. The piece is kind of in limbo between pitch and noise. There’s an unpredictable array of noises, overtones and harmonics the cello glides over. A fun exercise exploring the instrument’s timbral richness."- Jeanette Little 
 
 -

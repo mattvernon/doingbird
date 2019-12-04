@@ -3,7 +3,7 @@ title: About Delilah
 date: 2019-12-03 10:35:00 +11:00
 published: false
 categories:
-- Features
+- Art
 tags:
 - artist
 - music

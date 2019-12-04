@@ -7,7 +7,7 @@ categories:
 tags:
 - artist
 - music
-Main Image: "/uploads/image3b.jpg"
+Main Image: "/uploads/image3c.jpg"
 Credits Text: "Images, score and story: Jeanette Little\nEditor: Laila Sakini "
 is featured?: true
 ---

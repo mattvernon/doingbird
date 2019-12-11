@@ -2,9 +2,14 @@
 title: HTRK BODY OIL
 date: 2019-12-03 17:51:00 +11:00
 published: false
+categories:
+- Objects
+tags:
+- Shoot
 Credits Text: "Lyrics by HTRK from The Body You Deserve\nConcept/Editor Laila Sakini\n\nPhotography
   Anna Pogossova \n"
 is featured?: true
+layout: gallery
 ---
 
 ![HTRK_GIF_2.gif](/uploads/HTRK_GIF_2.gif)

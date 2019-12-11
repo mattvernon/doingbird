@@ -6,13 +6,13 @@ categories:
 - Objects
 tags:
 - Shoot
-Main Image: "/uploads/_MG_4345b.jpg"
+Main Image: "/uploads/_MG_4345b-db4589.jpg"
 Credits Text: "You've been lied to for years   \nIt's OK  \nYou can now get the body
   you deserve    \nThe body of your dreams   \nMelt it up like butter   \nMelt it
   up like gasoline   \nIn the body you deserve   \nThe body of your dreams    \nSo
   chic, 'cause we're psychic   \nCan you touch a higher self?   \n\n\nLyrics by HTRK
   from The Body You Deserve   \nConcept/Editor Laila Sakini\n\nPhotography Anna Pogossova
-  \nSculptures by Anna Pogossova"
+  \   \nSculptures by Anna Pogossova"
 is featured?: true
 layout: gallery
 ---

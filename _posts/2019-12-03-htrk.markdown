@@ -6,8 +6,11 @@ categories:
 - Objects
 tags:
 - Shoot
-Credits Text: "Lyrics by HTRK from The Body You Deserve\nConcept/Editor Laila Sakini\n\nPhotography
-  Anna Pogossova \n"
+Credits Text: "You've been lied to for years\nIt's OK\nYou can now get the body you
+  deserve\nThe body of your dreams\nMelt it up like butter\nMelt it up like gasoline\nIn
+  the body you deserve\nThe body of your dreams \nSo chic, 'cause we're psychic\nCan
+  you touch a higher self?\n\n\nLyrics by HTRK from The Body You Deserve\nConcept/Editor
+  Laila Sakini\n\nPhotography Anna Pogossova \n"
 is featured?: true
 layout: gallery
 ---
@@ -16,15 +19,5 @@ layout: gallery
 
 **[HTRK BODY OIL](https://htrk.bigcartel.com/product/htrk-body-oil)**
 
-You've been lied to for years
-It's OK
-You can now get the body you deserve
-The body of your dreams
-Melt it up like butter
-Melt it up like gasoline
-In the body you deserve
-The body of your dreams 
-So chic, 'cause we're psychic
-Can you touch a higher self?
 
 

@@ -1,7 +1,25 @@
 ---
-title: HTRK
+title: HTRK BODY OIL
 date: 2019-12-03 17:51:00 +11:00
 published: false
+categories:
+- Objects
+tags:
+- Shoot
+Main Image: "/uploads/HTRK.jpg"
+Credits Text: "You've been lied to for years   \nIt's OK  \nYou can now get the body
+  you deserve    \nThe body of your dreams   \nMelt it up like butter   \nMelt it
+  up like gasoline   \nIn the body you deserve   \nThe body of your dreams    \nSo
+  chic, 'cause we're psychic   \nCan you touch a higher self?   \n\n\nLyrics by HTRK
+  from The Body You Deserve   \nConcept/Editor Laila Sakini\n\nPhotography Anna Pogossova
+  \   \nSculptures by Anna Pogossova"
+is featured?: true
+layout: gallery
 ---
 
 ![HTRK_GIF_2.gif](/uploads/HTRK_GIF_2.gif)
+
+**[HTRK BODY OIL](https://htrk.bigcartel.com/product/htrk-body-oil)**
+
+
+

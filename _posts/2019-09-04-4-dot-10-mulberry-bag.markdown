@@ -6,12 +6,11 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/11_Doingbird_Mulberry.jpg"
-Credits Text: |-
+Credits Text: |
   **[Mulberry](https://www.mulberry.com/au/shop/women/bags/shoulder-bags/small-leighton-crimson-shiny-calf-with-eyelets)**  Small Leighton bag
 
   photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   styling **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  production **[Still Rep](https://www.instagram.com/stillrep/)**
 layout: gallery
 ---
 

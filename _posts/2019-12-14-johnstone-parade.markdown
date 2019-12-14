@@ -1,6 +1,9 @@
 ---
 title: Johnstone Parade
 date: 2019-12-14 16:04:00 +11:00
+published: false
+is featured?: true
+layout: gallery
 ---
 
 ![191112_DB_JOHNSTONE_PARADE_3.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_3.jpg)

@@ -25,10 +25,8 @@ Dinosaur Design
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
 Dress
 Prada
-
 Earrings
 Zimmermann
-
 Rings
 Zimmermann 
 

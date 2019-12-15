@@ -30,16 +30,30 @@ EarringsZimmermann
 RingsZimmermann   
 
 ![191112_DB_JOHNSTONE_PARADE_10.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_10.jpg)
+Fully Bally Look
 
 ![191112_DB_JOHNSTONE_PARADE_7.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_7.jpg)
+Hat Paris Georgia  
+Dress Gucci  
+Stockings Gucci  
+Shoes Gucci  
 
 ![191112_DB_JOHNSTONE_PARADE_1.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_1.jpg)
+Full Chanel Look. Jacket, top, brooch, bag, skirt and shoes 
 
 ![191112_DB_JOHNSTONE_PARADE_6.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_6.jpg)
+Full Prada Look
 
 ![191112_DB_JOHNSTONE_PARADE_11.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_11.jpg)
+Full Salvatore Ferragamo Look
 
 ![191112_DB_JOHNSTONE_PARADE_4.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_4.jpg)
+Dress
+Dodo Bar dress from The Outnet
 
 ![191112_DB_JOHNSTONE_PARADE_14.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_14.jpg)
+CoatKate Sylvester  
+DressKate Sylvester  
+Skirt Zimmermann  
+Socks Prada  
 

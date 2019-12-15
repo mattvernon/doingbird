@@ -19,8 +19,10 @@ Full Dior Look
 Full Burberry Look
 
 ![191112_DB_JOHNSTONE_PARADE_5.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_5.jpg)
-DressMSGM from The Outnet Underneath dress Zimmermann Sneakers Prada Earring
-Dinosaur Design
+DressMSGM from The Outnet   
+Underneath dress Zimmermann   
+Sneakers Prada   
+EarringDinosaur Design  
 
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
 DressPrada  

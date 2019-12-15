@@ -23,12 +23,9 @@ DressMSGM from The Outnet Underneath dress Zimmermann Sneakers Prada Earring
 Dinosaur Design
 
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
-Dress
-Prada
-Earrings
-Zimmermann
-Rings
-Zimmermann 
+DressPrada  
+EarringsZimmermann  
+RingsZimmermann   
 
 ![191112_DB_JOHNSTONE_PARADE_10.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_10.jpg)
 

@@ -2,6 +2,10 @@
 title: Johnstone Parade
 date: 2019-12-14 16:04:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Fashion
 is featured?: true
 layout: gallery
 ---
@@ -26,8 +30,8 @@ EarringDinosaur Design
 
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
 DressPrada  
-EarringsZimmermann  
-RingsZimmermann   
+Earrings Zimmermann  
+Rings Zimmermann   
 
 ![191112_DB_JOHNSTONE_PARADE_10.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_10.jpg)
 Fully Bally Look

@@ -6,7 +6,7 @@ categories:
 - Fashion
 tags:
 - Fashion
-author: "**[]()**"
+author: "**[  ](  )**"
 Credits Text: "Photographer: Oliver Begg - https://www.instagram.com/oliver.begg/\nStylist:
   Freddie Fredericks - https://www.instagram.com/freddiefredericks/\nHair: Taylor
   James Redman - https://www.instagram.com/taylorjameshair/\nMakeup: Peter Beard -
@@ -23,7 +23,9 @@ Full **[Chanel](https://www.instagram.com/chanelofficial/)**
 LEFT: Full **[Gucci](https://www.instagram.com/gucci/)** Look   
 RIGHT: Dodo Bar dress from The Outnet
 ![191112_DB_JOHNSTONE_PARADE_5.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_5.jpg)
-LEFT: Dress MSGM from The Outnet, Underneath dress Zimmermann,Sneakers Prada,Earring
+LEFT: Dress MSGM from **[The Outnet](https://www.instagram.com/msgm/
+https://www.instagram.com/theoutnet/)**
+, Underneath dress **[Zimmermann](https://www.instagram.com/zimmermann/)**,Sneakers **[PRADA](https://www.instagram.com/prada/)**,Earring
 Dinosaur Design  
 RIGHT: Full **[PRADA](https://www.instagram.com/prada/)** Look
 ![191112_DB_JOHNSTONE_PARADE_7.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_7.jpg)

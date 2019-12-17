@@ -27,8 +27,8 @@ LEFT: Dress MSGM from The Outnet, Underneath dress Zimmermann,Sneakers Prada,Ear
 Dinosaur Design  
 RIGHT: Full **[PRADA](https://www.instagram.com/prada/)** Look
 ![191112_DB_JOHNSTONE_PARADE_7.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_7.jpg)
-LEFT: Hat Paris Georgia, Dress Gucci, Stockings Gucci, Shoes Gucci  
-RIGHT: Full Dior Look
+LEFT: Hat **[Paris Georgia](https://www.instagram.com/paris__georgia/)**, Dress **[Gucci](https://www.instagram.com/gucci/)**, Stockings **[Gucci](https://www.instagram.com/gucci/)**, Shoes **[Gucci](https://www.instagram.com/gucci/)**  
+RIGHT: Full **[Dior](https://www.instagram.com/dior/)** Look
 ![191112_DB_JOHNSTONE_PARADE_9.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_9.jpg)
 LEFT: Full Salvatore Ferragamo Look  
 RIGHT: Fully Bally Look

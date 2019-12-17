@@ -30,7 +30,7 @@ RIGHT: Full **[PRADA](https://www.instagram.com/prada/)** Look
 LEFT: Hat **[Paris Georgia](https://www.instagram.com/paris__georgia/)**, Dress **[Gucci](https://www.instagram.com/gucci/)**, Stockings **[Gucci](https://www.instagram.com/gucci/)**, Shoes **[Gucci](https://www.instagram.com/gucci/)**  
 RIGHT: Full **[Dior](https://www.instagram.com/dior/)** Look
 ![191112_DB_JOHNSTONE_PARADE_9.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_9.jpg)
-LEFT: Full Salvatore Ferragamo Look  
+LEFT: Full **[Salvatore Ferragamo](https://www.instagram.com/ferragamo/)** Look  
 RIGHT: Fully Bally Look
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
 LEFT: Full Salvatore Ferragamo Look  

@@ -25,8 +25,8 @@ https://www.instagram.com/theoutnet/)**
 ![191112_DB_JOHNSTONE_PARADE_5.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_5.jpg)
 LEFT: Dress MSGM from **[The Outnet](https://www.instagram.com/msgm/
 https://www.instagram.com/theoutnet/)**
-, Underneath dress **[Zimmermann](https://www.instagram.com/zimmermann/)**,Sneakers **[PRADA](https://www.instagram.com/prada/)**,Earring
-Dinosaur Design  
+, Underneath dress **[Zimmermann](https://www.instagram.com/zimmermann/)**, Sneakers **[PRADA](https://www.instagram.com/prada/)**, Earring
+**[Dinosaur Design](https://www.instagram.com/dinosaur_designs/)**  
 RIGHT: Full **[PRADA](https://www.instagram.com/prada/)** Look
 ![191112_DB_JOHNSTONE_PARADE_7.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_7.jpg)
 LEFT: Hat **[Paris Georgia](https://www.instagram.com/paris__georgia/)**, Dress **[Gucci](https://www.instagram.com/gucci/)**, Stockings **[Gucci](https://www.instagram.com/gucci/)**, Shoes **[Gucci](https://www.instagram.com/gucci/)**  
@@ -36,7 +36,7 @@ LEFT: Full **[Salvatore Ferragamo](https://www.instagram.com/ferragamo/)** Look
 RIGHT: Full **[Bally](https://www.instagram.com/bally/)** Look
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
 LEFT: Full **[Salvatore Ferragamo](https://www.instagram.com/ferragamo/)** Look  
-RIGHT: Dress **[PRADA](https://www.instagram.com/prada/)**,Earrings **[Zimmermann](https://www.instagram.com/zimmermann/)**,Rings **[Zimmermann](https://www.instagram.com/zimmermann/)**
+RIGHT: Dress **[PRADA](https://www.instagram.com/prada/)**, Earrings **[Zimmermann](https://www.instagram.com/zimmermann/)**, Rings **[Zimmermann](https://www.instagram.com/zimmermann/)**
 ![191112_DB_JOHNSTONE_PARADE_14.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_14.jpg)
 LEFT: Full **[Burberry](https://www.instagram.com/burberry/)** Look  
 RIGHT: Coat **[Kate Sylvester](https://www.instagram.com/kate_sylvester/)**, Dress **[Kate Sylvester](https://www.instagram.com/kate_sylvester/)**, Skirt **[Zimmermann](https://www.instagram.com/zimmermann/)**, Socks **[PRADA](https://www.instagram.com/prada/)**

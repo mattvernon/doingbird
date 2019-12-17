@@ -13,7 +13,8 @@ layout: gallery
 ![191112_DB_JOHNSTONE_PARADE_1.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_1.jpg)
 Full Chanel Look
 ![191112_DB_JOHNSTONE_PARADE_3.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_3.jpg)
-LEFT:Full Gucci Look RIGHT: Dodo Bar dress from The Outnet
+LEFT:Full Gucci Look   
+RIGHT: Dodo Bar dress from The Outnet
 ![191112_DB_JOHNSTONE_PARADE_5.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_5.jpg)
 
 ![191112_DB_JOHNSTONE_PARADE_7.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_7.jpg)

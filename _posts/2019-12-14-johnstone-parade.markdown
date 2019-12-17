@@ -21,7 +21,8 @@ Full **[Chanel](https://www.instagram.com/chanelofficial/)**
  Look
 ![191112_DB_JOHNSTONE_PARADE_3.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_3.jpg)
 LEFT: Full **[Gucci](https://www.instagram.com/gucci/)** Look   
-RIGHT: Dodo Bar dress from The Outnet
+RIGHT: **[Dodo Bar](https://www.instagram.com/dodobaror/)** dress from **[The Outnet](https://www.instagram.com/msgm/
+https://www.instagram.com/theoutnet/)**
 ![191112_DB_JOHNSTONE_PARADE_5.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_5.jpg)
 LEFT: Dress MSGM from **[The Outnet](https://www.instagram.com/msgm/
 https://www.instagram.com/theoutnet/)**

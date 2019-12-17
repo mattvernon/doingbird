@@ -5,6 +5,7 @@ published: false
 categories:
 - Objects
 author: "**[  ](  )**"
+layout: gallery
 ---
 
 ![WoodenSculpture.jpg](/uploads/WoodenSculpture.jpg)

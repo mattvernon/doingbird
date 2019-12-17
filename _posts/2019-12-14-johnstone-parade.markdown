@@ -16,20 +16,20 @@ Full Chanel Look
 LEFT:Full Gucci Look   
 RIGHT: Dodo Bar dress from The Outnet
 ![191112_DB_JOHNSTONE_PARADE_5.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_5.jpg)
-LEFT:Dress MSGM from The Outnet, Underneath dress Zimmermann,Sneakers Prada,Earring
-Dinosaur Design
-RIGHT:Full Prada Look
+LEFT: Dress MSGM from The Outnet, Underneath dress Zimmermann,Sneakers Prada,Earring
+Dinosaur Design  
+RIGHT: Full Prada Look
 ![191112_DB_JOHNSTONE_PARADE_7.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_7.jpg)
-LEFT:Hat Paris Georgia, Dress Gucci, Stockings Gucci, Shoes Gucci
-RIGHT:Full Dior Look
+LEFT: Hat Paris Georgia, Dress Gucci, Stockings Gucci, Shoes Gucci  
+RIGHT: Full Dior Look
 ![191112_DB_JOHNSTONE_PARADE_9.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_9.jpg)
-LEFT: Full Salvatore Ferragamo Look
+LEFT: Full Salvatore Ferragamo Look  
 RIGHT: Fully Bally Look
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
-LEFT: Full Salvatore Ferragamo Look
-RIGHT:Dress Prada,Earrings Zimmermann,Rings Zimmermann 
+LEFT: Full Salvatore Ferragamo Look  
+RIGHT: Dress Prada,Earrings Zimmermann,Rings Zimmermann 
 ![191112_DB_JOHNSTONE_PARADE_14.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_14.jpg)
-LEFT: Full Burberry Look
-RIGHT:Coat Kate Sylvester, Dress Kate Sylvester, Skirt Zimmermann, Socks Prada
+LEFT: Full Burberry Look  
+RIGHT: Coat Kate Sylvester, Dress Kate Sylvester, Skirt Zimmermann, Socks Prada
 ![191112_DB_JOHNSTONE_PARADE_15.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_15.jpg)
 Full Gucci Look

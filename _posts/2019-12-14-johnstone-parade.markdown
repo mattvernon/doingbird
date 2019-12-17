@@ -7,11 +7,10 @@ categories:
 tags:
 - Fashion
 author: "**[  ](  )**"
-Credits Text: "Photographer: Oliver Begg - https://www.instagram.com/oliver.begg/\nStylist:
-  Freddie Fredericks - https://www.instagram.com/freddiefredericks/\nHair: Taylor
-  James Redman - https://www.instagram.com/taylorjameshair/\nMakeup: Peter Beard -
-  https://www.instagram.com/peterbeard/\nAssistant: Chris Proud \nDigital Operator:
-  Jon Calvert \n"
+Credits Text: "Photographer: **[Oliver Begg](https://www.instagram.com/oliver.begg/)**\nStylist:
+  **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**\nHair: **[Taylor
+  James Redman](https://www.instagram.com/taylorjameshair/)**\nMakeup: **[Peter Beard](https://www.instagram.com/peterbeard/)**\nAssistant:
+  Chris Proud \nDigital Operator: Jon Calvert \n"
 is featured?: true
 layout: gallery
 ---

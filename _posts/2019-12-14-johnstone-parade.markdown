@@ -34,7 +34,7 @@ LEFT: Full **[Salvatore Ferragamo](https://www.instagram.com/ferragamo/)** Look
 RIGHT: Full **[Bally](https://www.instagram.com/bally/)** Look
 ![191112_DB_JOHNSTONE_PARADE_12.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_12.jpg)
 LEFT: Full **[Salvatore Ferragamo](https://www.instagram.com/ferragamo/)** Look  
-RIGHT: Dress **[PRADA](https://www.instagram.com/prada/)**,Earrings Zimmermann,Rings Zimmermann 
+RIGHT: Dress **[PRADA](https://www.instagram.com/prada/)**,Earrings **[Zimmermann](https://www.instagram.com/zimmermann/)**,Rings **[Zimmermann](https://www.instagram.com/zimmermann/)**
 ![191112_DB_JOHNSTONE_PARADE_14.jpg](/uploads/191112_DB_JOHNSTONE_PARADE_14.jpg)
 LEFT: Full Burberry Look  
 RIGHT: Coat Kate Sylvester, Dress Kate Sylvester, Skirt Zimmermann, Socks Prada

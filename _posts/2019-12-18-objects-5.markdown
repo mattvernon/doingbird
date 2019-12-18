@@ -4,24 +4,17 @@ date: 2019-12-18 07:42:00 +11:00
 published: false
 categories:
 - Objects
+tags:
+- objects
+- shoot
 author: "**[  ](  )**"
+Credits Text: |
+  Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
+  Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+is featured?: true
 layout: gallery
 ---
 
 ![WoodenSculpture.jpg](/uploads/WoodenSculpture.jpg)
 **[Blakebrough & King Wooden Dolls](https://shifting-worlds.com/collections/objects/products/blakebroughkingsamuraiwoodendoll)** from **[Shifting Worlds](https://www.instagram.com/shiftingworlds/)** 
 
-
-![JilSander.jpg](/uploads/JilSander.jpg)
-**[Jill Sander](https://www.instagram.com/jilsander/)** shoes from **[Shifting Worlds](https://shifting-worlds.com/collections/shoes-1/products/js33056a)**
-
- 
-![MNZ.jpg](/uploads/MNZ.jpg)
-**[MARYAM NASSIR ZADEH](https://www.instagram.com/maryam_nassir_zadeh/)**  Pump from **[Shifting Worlds](https://shifting-worlds.com/collections/shoes-1/products/maryamnassirzadehcecilpump-toffee)**
-
-
-![Doingbird Objects 53060 1.jpg](/uploads/Doingbird%20Objects%2053060%201.jpg)
-**[Comfy](https://www.instagram.com/komfy/)** **[Shroom Incense Chambers](https://comfy.biz/incense-chambers)**
- 
-![RagandBone.jpg](/uploads/RagandBone.jpg)
-**[Rag & Bone](https://www.instagram.com/ragandbone/)** **[Fine Fragrances](https://www.rag-bone.com/womens/accessories/fine-fragrances/)** 

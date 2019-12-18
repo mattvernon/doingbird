@@ -2,6 +2,15 @@
 title: Objects 5.2
 date: 2019-12-18 16:16:00 +11:00
 published: false
+categories:
+- Objects
+tags:
+- Shoot
+- objects
+Credits Text: |-
+  Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
+  Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+layout: gallery
 ---
 
 ![JilSander.jpg](/uploads/JilSander.jpg)

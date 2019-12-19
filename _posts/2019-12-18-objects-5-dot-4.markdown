@@ -1,7 +1,6 @@
 ---
 title: Objects 5.4
 date: 2019-12-18 16:20:00 +11:00
-published: false
 categories:
 - Objects
 tags:

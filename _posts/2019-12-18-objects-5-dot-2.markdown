@@ -1,5 +1,5 @@
 ---
-title: Objects 5.2
+title: '5.2: Jil Sander shoes'
 date: 2019-12-18 16:16:00 +11:00
 categories:
 - Objects
@@ -8,7 +8,7 @@ tags:
 - objects
 Main Image: "/uploads/JilSander.jpg"
 Credits Text: |-
-  **[Jill Sander](https://www.instagram.com/jilsander/)** shoes from **[Shifting Worlds](https://shifting-worlds.com/collections/shoes-1/products/js33056a)**
+  **[Jil Sander](https://www.instagram.com/jilsander/)** shoes from **[Shifting Worlds](https://shifting-worlds.com/collections/shoes-1/products/js33056a)**
 
 
 

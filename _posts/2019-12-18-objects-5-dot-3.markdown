@@ -1,5 +1,5 @@
 ---
-title: Objects 5.3
+title: '5.3: Maryam Nasir Zadeh Shoes'
 date: 2019-12-18 16:18:00 +11:00
 categories:
 - Objects

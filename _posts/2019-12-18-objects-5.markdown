@@ -1,7 +1,6 @@
 ---
 title: Objects 5.1
 date: 2019-12-18 07:42:00 +11:00
-published: false
 categories:
 - Objects
 tags:

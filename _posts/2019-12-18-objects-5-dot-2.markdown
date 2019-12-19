@@ -8,7 +8,7 @@ tags:
 - objects
 Main Image: "/uploads/JilSander.jpg"
 Credits Text: |-
-  **[Jill Sander](https://www.instagram.com/jilsander/)** shoes from **[Shifting Worlds](https://shifting-worlds.com/collections/shoes-1/products/js33056a)**
+  **[Jil Sander](https://www.instagram.com/jilsander/)** shoes from **[Shifting Worlds](https://shifting-worlds.com/collections/shoes-1/products/js33056a)**
 
 
 

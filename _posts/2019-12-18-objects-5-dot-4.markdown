@@ -6,7 +6,7 @@ categories:
 tags:
 - objects
 - Shoot
-Main Image: "/uploads/WoodenSculpture.jpg"
+Main Image: "/uploads/Doingbird%20Objects%2053060%201.jpg"
 Credits Text: |-
   **[Comfy](https://www.instagram.com/komfy/)** **[Shroom Incense Chambers](https://comfy.biz/incense-chambers)**
 

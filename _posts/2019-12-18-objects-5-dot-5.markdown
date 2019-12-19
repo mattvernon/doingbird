@@ -6,8 +6,9 @@ categories:
 tags:
 - objects
 - Shoot
+Main Image: "/uploads/RagandBone.jpg"
 Credits Text: "**[Rag & Bone](https://www.instagram.com/ragandbone/)** **[Fine Fragrances](https://www.rag-bone.com/womens/accessories/fine-fragrances/)**
-  \n\n\nPhotographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)**
+  \n\n\n\n\nPhotographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)**
   at **[B&A](https://www.instagram.com/barepsau/)**\nStyling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**"
 layout: gallery
 ---

@@ -7,11 +7,10 @@ categories:
 tags:
 - objects
 - Shoot
-Credits Text: |-
-  Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
-  Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+Credits Text: "**[Rag & Bone](https://www.instagram.com/ragandbone/)** **[Fine Fragrances](https://www.rag-bone.com/womens/accessories/fine-fragrances/)**
+  \n\n\nPhotographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)**
+  at **[B&A](https://www.instagram.com/barepsau/)**\nStyling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**"
 layout: gallery
 ---
 
 ![RagandBone.jpg](/uploads/RagandBone.jpg)
-**[Rag & Bone](https://www.instagram.com/ragandbone/)** **[Fine Fragrances](https://www.rag-bone.com/womens/accessories/fine-fragrances/)** 

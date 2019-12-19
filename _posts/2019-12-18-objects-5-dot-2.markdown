@@ -1,7 +1,6 @@
 ---
 title: Objects 5.2
 date: 2019-12-18 16:16:00 +11:00
-published: false
 categories:
 - Objects
 tags:

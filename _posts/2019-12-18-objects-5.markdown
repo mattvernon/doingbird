@@ -8,7 +8,7 @@ tags:
 - shoot
 Main Image: "/uploads/WoodenSculpture.jpg"
 Credits Text: "**[Blakebrough & King Wooden Dolls](https://shifting-worlds.com/collections/objects/products/blakebroughkingsamuraiwoodendoll)**
-  from **[Shifting Worlds](https://www.instagram.com/shiftingworlds/)** \n\n\nPhotographs
+  from **[Shifting Worlds](https://www.instagram.com/shiftingworlds/)** \n\n\n\n\nPhotographs
   **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**\nStyling
   **[Abby Bennett](https://www.instagram.com/bennett_abby/)**\n"
 is featured?: true

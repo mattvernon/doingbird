@@ -5,10 +5,11 @@ categories:
 - Fashion
 tags:
 - Fashion
-Main Image: "/uploads/191112_DB_JOHNSTONE_PARADE_2.jpg"
+Main Image: "/uploads/191112_DB_JOHNSTONE_PARADE_2-c5574e.jpg"
 Credits Text: "Photographer: **[Oliver Begg](https://www.instagram.com/oliver.begg/)**\nStylist:
-  **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**\nHair: **[Taylor
-  James Redman](https://www.instagram.com/taylorjameshair/)**\nMakeup: **[Peter Beard](https://www.instagram.com/peterbeard/)**\nAssistant:
+  **[Freddie Fredericks](https://www.instagram.com/freddiefredericks/)**\nModel: Allison
+  Hampton at **[Chadwicks](http://www.chadwickmodels.com)**\nHair: **[Taylor James
+  Redman](https://www.instagram.com/taylorjameshair/)**\nMakeup: **[Peter Beard](https://www.instagram.com/peterbeard/)**\nAssistant:
   Chris Proud \nDigital Operator: Jon Calvert \n"
 is featured?: true
 layout: gallery

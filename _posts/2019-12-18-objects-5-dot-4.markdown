@@ -1,0 +1,20 @@
+---
+title: Objects 5.4
+date: 2019-12-18 16:20:00 +11:00
+published: false
+categories:
+- Objects
+tags:
+- objects
+- Shoot
+Credits Text: |-
+  **[Comfy](https://www.instagram.com/komfy/)** **[Shroom Incense Chambers](https://comfy.biz/incense-chambers)**
+
+
+  Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
+  Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+layout: gallery
+---
+
+
+![Doingbird Objects 53060 1.jpg](/uploads/Doingbird%20Objects%2053060%201.jpg)

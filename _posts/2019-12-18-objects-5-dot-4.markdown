@@ -1,5 +1,5 @@
 ---
-title: '5.4: Incense chambers'
+title: '5.4: Shroom Incense chambers'
 date: 2019-12-18 16:20:00 +11:00
 categories:
 - Objects

@@ -1,5 +1,5 @@
 ---
-title: Objects 5.4
+title: '5.4: Incense chambers'
 date: 2019-12-18 16:20:00 +11:00
 categories:
 - Objects

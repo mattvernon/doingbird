@@ -2,10 +2,20 @@
 title: Second Skin
 date: 2019-12-11 18:19:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Shoot
+- Fashion
+Credits Text: "Photographer: Jedd Cooney @ Lizard Management \nStylist: Rosemary Pantling
+  @ Lizard Management \nProduction: Therese Rawsthorne \nMake up: Peter Beard @ The
+  Artist Group \nHair: Anthony Nader @ DLM \nModels: Varsha @ Chadwick, Tess Angel
+  @ Priscillas \n"
 layout: gallery
 ---
 
 ![281119_DB_01.jpg](/uploads/281119_DB_01.jpg)
+Hat Avenue, Top Christopher Esber 
 
 ![281119_DB_02.jpg](/uploads/281119_DB_02.jpg)
 

@@ -9,8 +9,8 @@ tags:
 - Fashion
 Credits Text: "Photographer: Jedd Cooney @ Lizard Management \nStylist: Rosemary Pantling
   @ Lizard Management \nProduction: Therese Rawsthorne \nMake up: Peter Beard @ The
-  Artist Group \nHair: Anthony Nader @ DLM \nModels: Varsha @ Chadwick, Tess Angel
-  @ Priscillas \n"
+  Artist Group \nHair: Anthony Nader @ DLM using Sisley Hair Ritual\nModels: Varsha
+  @ Chadwick, Tess Angel @ Priscillas \nShot at Loffte studio\n\n"
 layout: gallery
 ---
 

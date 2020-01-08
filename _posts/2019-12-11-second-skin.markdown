@@ -8,12 +8,13 @@ tags:
 - Shoot
 - Fashion
 Credits Text: "Photographer: **[Jedd Cooney](https://www.instagram.com/jeddcooney/)**
-  @ Lizard Management \nStylist: **[Rosemary Pantlingh](ttps://www.instagram.com/rosemarypantlingstylist/)**
-  @ Lizard Management \nProduction: **[Therese Rawsthorne](https://www.instagram.com/thereserawsthorne/)**
-  \nMake up: **[Peter Beard](https://www.instagram.com/peterbeard/)** @ The Artist
-  Group \nHair: **[Anthony Nader](https://www.instagram.com/anthony_nader/)** @ DLM
-  using Sisley Hair Ritual\nModels: Varsha @ Chadwick, Tess Angel @ Priscillas \nShot
-  at **[Loffte studio](https://www.instagram.com/lofftestudio/)**\n\n"
+  @ **[Lizard Management**[https://www.lizardmanagement.com)** \nStylist: **[Rosemary
+  Pantlingh](ttps://www.instagram.com/rosemarypantlingstylist/)** @ **[Lizard Management**[https://www.lizardmanagement.com)**
+  \nProduction: **[Therese Rawsthorne](https://www.instagram.com/thereserawsthorne/)**
+  \nMake up: **[Peter Beard](https://www.instagram.com/peterbeard/)** @ **[The Artist
+  Group](https://artist-group.net)** \nHair: **[Anthony Nader](https://www.instagram.com/anthony_nader/)**
+  @ **[DLM](https://www.dlmau.com)**  using Sisley Hair Ritual\nModels: Varsha @ Chadwick,
+  Tess Angel @ Priscillas \nShot at **[Loffte studio](https://www.instagram.com/lofftestudio/)**\n\n"
 layout: gallery
 ---
 

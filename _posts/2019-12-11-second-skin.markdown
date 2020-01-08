@@ -26,15 +26,15 @@ Top and trousers, **[Nanushka](https://www.instagram.com/nanushka/)**
 Shoes, Stylists Own 
 
 ![281119_DB_04.jpg](/uploads/281119_DB_04.jpg)
-LEFT: Coat, Maticevski Pants, Bally Shoes, Stylists Own  
-RIGHT: Dress, Maticevski
+LEFT: Coat, **[Maticevski](https://www.instagram.com/toni_maticevski/)** Pants, **[Bally](https://www.instagram.com/bally/)** Shoes, Stylists Own  
+RIGHT: Dress, **[Maticevski](https://www.instagram.com/toni_maticevski/)**
  
 ![281119_DB_05.jpg](/uploads/281119_DB_05.jpg)
-Coat, Bally Dress, **[Christopher Esber](https://www.instagram.com/christopher_esber/)** 
+Coat, **[Bally](https://www.instagram.com/bally/)** Dress, **[Christopher Esber](https://www.instagram.com/christopher_esber/)** 
 
 ![281119_DB_06.jpg](/uploads/281119_DB_06.jpg)
-LEFT: Coat, Maticevski Top, Nanushka  
-RIGHT: Top and trousers, Bally 
+LEFT: Coat, **[Maticevski](https://www.instagram.com/toni_maticevski/)** Top, Nanushka  
+RIGHT: Top and trousers, **[Bally](https://www.instagram.com/bally/)** 
  
 ![281119_DB_07.jpg](/uploads/281119_DB_07.jpg)
-Dress, Maticevski
+Dress, **[Maticevski](https://www.instagram.com/toni_maticevski/)**

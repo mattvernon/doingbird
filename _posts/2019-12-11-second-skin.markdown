@@ -15,14 +15,14 @@ layout: gallery
 ---
 
 ![281119_DB_01.jpg](/uploads/281119_DB_01.jpg)
-Hat Avenue, Top Christopher Esber 
+Hat **[Avenue](https://www.instagram.com/avenuethelabel/)**, Top **[Christopher Esber](https://www.instagram.com/christopher_esber/)** 
 
 ![281119_DB_02.jpg](/uploads/281119_DB_02.jpg)
-LEFT: Jacket Nanushka, Skirt RIKA Studios   
-RIGHT: Jacket Nanushka 
+LEFT: Jacket **[Nanushka](https://www.instagram.com/nanushka/)**, Skirt **[RIKA Studios](https://www.instagram.com/rikastudios_/)**    
+RIGHT: Jacket **[Nanushka](https://www.instagram.com/nanushka/)**
 
 ![281119_DB_03.jpg](/uploads/281119_DB_03.jpg)
-Top and trousers, Nanushka 
+Top and trousers, **[Nanushka](https://www.instagram.com/nanushka/)**
 Shoes, Stylists Own 
 
 ![281119_DB_04.jpg](/uploads/281119_DB_04.jpg)
@@ -30,7 +30,7 @@ LEFT: Coat, Maticevski Pants, Bally Shoes, Stylists Own
 RIGHT: Dress, Maticevski
  
 ![281119_DB_05.jpg](/uploads/281119_DB_05.jpg)
-Coat, Bally Dress, Christopher Esber 
+Coat, Bally Dress, **[Christopher Esber](https://www.instagram.com/christopher_esber/)** 
 
 ![281119_DB_06.jpg](/uploads/281119_DB_06.jpg)
 LEFT: Coat, Maticevski Top, Nanushka  

@@ -26,15 +26,15 @@ Top and trousers, Nanushka
 Shoes, Stylists Own 
 
 ![281119_DB_04.jpg](/uploads/281119_DB_04.jpg)
-LEFT:Coat, Maticevski Pants, Bally Shoes, Stylists Own  
-Right:Dress, Maticevski
+LEFT: Coat, Maticevski Pants, Bally Shoes, Stylists Own  
+RIGHT: Dress, Maticevski
  
 ![281119_DB_05.jpg](/uploads/281119_DB_05.jpg)
 Coat, Bally Dress, Christopher Esber 
 
 ![281119_DB_06.jpg](/uploads/281119_DB_06.jpg)
 LEFT: Coat, Maticevski Top, Nanushka  
-RIGHT:Top and trousers, Bally 
+RIGHT: Top and trousers, Bally 
  
 ![281119_DB_07.jpg](/uploads/281119_DB_07.jpg)
 Dress, Maticevski

@@ -38,7 +38,7 @@ RIGHT: Dress, **[Maticevski](https://www.instagram.com/toni_maticevski/)**
 Coat, **[Bally](https://www.instagram.com/bally/)** Dress, **[Christopher Esber](https://www.instagram.com/christopher_esber/)** 
 
 ![281119_DB_06.jpg](/uploads/281119_DB_06.jpg)
-LEFT: Coat, **[Maticevski](https://www.instagram.com/toni_maticevski/)** Top, Nanushka  
+LEFT: Coat, **[Maticevski](https://www.instagram.com/toni_maticevski/)** Top, **[Nanushka](https://www.instagram.com/nanushka/)**  
 RIGHT: Top and trousers, **[Bally](https://www.instagram.com/bally/)** 
  
 ![281119_DB_07.jpg](/uploads/281119_DB_07.jpg)

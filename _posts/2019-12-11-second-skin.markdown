@@ -13,9 +13,9 @@ Credits Text: "Photographer: **[Jedd Cooney](https://www.instagram.com/jeddcoone
   \nProduction: **[Therese Rawsthorne](https://www.instagram.com/thereserawsthorne/)**
   \nMake up: **[Peter Beard](https://www.instagram.com/peterbeard/)** @ **[The Artist
   Group](https://artist-group.net)** \nHair: **[Anthony Nader](https://www.instagram.com/anthony_nader/)**
-  @ **[DLM](https://www.dlmau.com)**  using Sisley Hair Ritual\nModels: Varsha @ **[Chadwick](https://www.instagram.com/chadwickmodels/)**,
-  Tess Angel @ **[Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)**
-  \nShot at **[Loffte studio](https://www.instagram.com/lofftestudio/)**\n\n"
+  @ **[DLM](https://www.dlmau.com)**  using Sisley Hair Ritual  \nModels: Varsha @
+  **[Chadwick](https://www.instagram.com/chadwickmodels/)**, Tess Angel @ **[Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)**
+  \  \nShot at **[Loffte studio](https://www.instagram.com/lofftestudio/)**\n\n"
 layout: gallery
 ---
 

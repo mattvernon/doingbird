@@ -8,8 +8,8 @@ tags:
 - Shoot
 - Fashion
 Credits Text: "Photographer: **[Jedd Cooney](https://www.instagram.com/jeddcooney/)**
-  @ **[Lizard Management**[https://www.lizardmanagement.com)** \nStylist: **[Rosemary
-  Pantlingh](ttps://www.instagram.com/rosemarypantlingstylist/)** @ **[Lizard Management**[https://www.lizardmanagement.com)**
+  @ **[Lizard Management](https://www.lizardmanagement.com)** \nStylist: **[Rosemary
+  Pantlingh](ttps://www.instagram.com/rosemarypantlingstylist/)** @ **[Lizard Management](https://www.lizardmanagement.com)**
   \nProduction: **[Therese Rawsthorne](https://www.instagram.com/thereserawsthorne/)**
   \nMake up: **[Peter Beard](https://www.instagram.com/peterbeard/)** @ **[The Artist
   Group](https://artist-group.net)** \nHair: **[Anthony Nader](https://www.instagram.com/anthony_nader/)**

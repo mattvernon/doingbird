@@ -7,10 +7,13 @@ categories:
 tags:
 - Shoot
 - Fashion
-Credits Text: "Photographer: Jedd Cooney @ Lizard Management \nStylist: Rosemary Pantling
-  @ Lizard Management \nProduction: Therese Rawsthorne \nMake up: Peter Beard @ The
-  Artist Group \nHair: Anthony Nader @ DLM using Sisley Hair Ritual\nModels: Varsha
-  @ Chadwick, Tess Angel @ Priscillas \nShot at Loffte studio\n\n"
+Credits Text: "Photographer: **[Jedd Cooney](https://www.instagram.com/jeddcooney/)**
+  @ Lizard Management \nStylist: **[Rosemary Pantlingh](ttps://www.instagram.com/rosemarypantlingstylist/)**
+  @ Lizard Management \nProduction: **[Therese Rawsthorne](https://www.instagram.com/thereserawsthorne/)**
+  \nMake up: **[Peter Beard](https://www.instagram.com/peterbeard/)** @ The Artist
+  Group \nHair: **[Anthony Nader](https://www.instagram.com/anthony_nader/)** @ DLM
+  using Sisley Hair Ritual\nModels: Varsha @ Chadwick, Tess Angel @ Priscillas \nShot
+  at **[Loffte studio](https://www.instagram.com/lofftestudio/)**\n\n"
 layout: gallery
 ---
 

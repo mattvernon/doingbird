@@ -17,6 +17,7 @@ Credits Text: "Photographer: **[Jedd Cooney](https://www.instagram.com/jeddcoone
   @ **[DLM](https://www.dlmau.com)**  using Sisley Hair Ritual  \nModels: Varsha @
   **[Chadwick](https://www.instagram.com/chadwickmodels/)**, Tess Angel @ **[Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)**
   \  \nShot at **[Loffte studio](https://www.instagram.com/lofftestudio/)**\n\n"
+is featured?: true
 layout: gallery
 ---
 

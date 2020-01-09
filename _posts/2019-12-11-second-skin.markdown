@@ -7,6 +7,7 @@ categories:
 tags:
 - Shoot
 - Fashion
+Main Image: "/uploads/281119_DB_02.jpg"
 Credits Text: "Photographer: **[Jedd Cooney](https://www.instagram.com/jeddcooney/)**
   @ **[Lizard Management](https://www.lizardmanagement.com)** \nStylist: **[Rosemary
   Pantlingh](ttps://www.instagram.com/rosemarypantlingstylist/)** @ **[Lizard Management](https://www.lizardmanagement.com)**

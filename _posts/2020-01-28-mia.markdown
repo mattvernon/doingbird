@@ -2,20 +2,21 @@
 title: mia
 date: 2020-01-28 14:04:00 +11:00
 published: false
+author: "**[Avenue](https://www.instagram.com/avenuethelabel/)**"
 Credits Text: "Photography - **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
   - **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
   - **[Joel Babicci](https://www.instagram.com/joel_babicci/)**\nModel - Gemma Cowling
-  \ "
+  \ \n\n\n\n"
 layout: gallery
 ---
 
 ![Doing Bird_Gemma_Mia Rankin034.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin034.jpg)
-
-![Doing Bird_Gemma_Mia Rankin038.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin038.jpg)
-
+Dress **[Alix Higgins](https://www.alixhiggins.com)** Headpiece **[Moncler Genius X Simone Rocha](Moncler Genius X SimoneRocha)**
 ![Doing Bird_Gemma_Mia Rankin049.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin049.jpg)
 
 ![Doing Bird_Gemma_Mia Rankin017.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin017.jpg)
+
+![Doing Bird_Gemma_Mia Rankin038.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin038.jpg)
 
 ![Doing Bird_Gemma_Mia Rankin050.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin050.jpg)
 

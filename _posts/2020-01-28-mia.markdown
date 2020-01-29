@@ -2,8 +2,10 @@
 title: mia
 date: 2020-01-28 14:04:00 +11:00
 published: false
-Credits Text: "Photography - Mia Rankin  \nStyling - Kurt Johnson  \nHair and Makeup
-  - Joel Babicci  \nModel - Gemma Cowling  "
+Credits Text: "Photography - **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
+  - **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
+  - **[Joel Babicci](https://www.instagram.com/joel_babicci/)**\nModel - Gemma Cowling
+  \ "
 layout: gallery
 ---
 

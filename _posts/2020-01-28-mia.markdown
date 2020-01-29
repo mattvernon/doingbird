@@ -2,6 +2,7 @@
 title: mia
 date: 2020-01-28 14:04:00 +11:00
 published: false
+layout: gallery
 ---
 
 ![Doing Bird_Gemma_Mia Rankin034.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin034.jpg)
@@ -15,8 +16,6 @@ published: false
 ![Doing Bird_Gemma_Mia Rankin017.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin017.jpg)
 
 ![Doing Bird_Gemma_Mia Rankin016.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin016.jpg)
-
-![Doing Bird_Gemma_Mia Rankin027.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin027.jpg)
 
 ![Doing Bird_Gemma_Mia Rankin025.jpg](/uploads/Doing%20Bird_Gemma_Mia%20Rankin025.jpg)
 

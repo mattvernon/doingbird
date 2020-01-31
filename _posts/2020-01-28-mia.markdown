@@ -2,10 +2,10 @@
 title: Gemma
 date: 2020-01-28 14:04:00 +11:00
 published: false
-Credits Text: "Photography - **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
-  - **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
-  - **[Joel Babicci](https://www.instagram.com/joel_babicci/)**\nModel - Gemma Cowling
-  \ \n\n\n\n"
+Credits Text: "Photography **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
+  **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
+  **[Joel Babicci](https://www.instagram.com/joel_babicci/)**\nModel **[Gemma Cowling](https://instagram.com/gemma.cowling_?igshid=52a9859yyf5l)**
+  \n\n\n\n"
 layout: gallery
 ---
 

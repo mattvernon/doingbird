@@ -2,7 +2,6 @@
 title: mia
 date: 2020-01-28 14:04:00 +11:00
 published: false
-author: "**[Avenue](https://www.instagram.com/avenuethelabel/)**"
 Credits Text: "Photography - **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
   - **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
   - **[Joel Babicci](https://www.instagram.com/joel_babicci/)**\nModel - Gemma Cowling

@@ -2,9 +2,15 @@
 title: '5.6: Marimekko glass vases'
 date: 2020-02-02 21:03:00 +11:00
 published: false
+categories:
+- Objects
+tags:
+- objects
+- Shoot
 Credits Text: |-
   Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+layout: gallery
 ---
 
 ![5.6 Doingbird Objects 53139.jpg](/uploads/5.6%20Doingbird%20Objects%2053139.jpg)

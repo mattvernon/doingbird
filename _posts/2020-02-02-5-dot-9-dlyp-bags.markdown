@@ -2,8 +2,16 @@
 title: '5.9: DLYP Bags'
 date: 2020-02-02 21:06:00 +11:00
 published: false
+categories:
+- Objects
+tags:
+- objects
+- Shoot
+Main Image: "/uploads/5.9%20DLYP_Pair.jpg"
 Credits Text: |-
   Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+layout: gallery
 ---
 
+![5.9 DLYP_Pair.jpg](/uploads/5.9%20DLYP_Pair.jpg)

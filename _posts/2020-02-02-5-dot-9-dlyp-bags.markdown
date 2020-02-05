@@ -8,9 +8,10 @@ tags:
 - objects
 - Shoot
 Main Image: "/uploads/5.9%20DLYP_Pair.jpg"
-Credits Text: |-
-  Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
-  Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+Credits Text: "**[D LY P Bags](https://www.instagram.com/dlypstudios/)**\n\n\nPhotographs
+  **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
+  \ \nStyling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**"
+is featured?: true
 layout: gallery
 ---
 

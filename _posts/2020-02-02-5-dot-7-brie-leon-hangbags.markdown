@@ -8,8 +8,11 @@ tags:
 - objects
 Main Image: "/uploads/5.7%20BrieLeon.jpg"
 Credits Text: |-
+  **[Brie Leon Bags](https://brieleon.com/)**
+
   Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   Styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
+is featured?: true
 layout: gallery
 ---
 

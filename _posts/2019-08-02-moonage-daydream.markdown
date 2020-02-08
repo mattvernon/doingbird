@@ -7,7 +7,7 @@ tags:
 - Shoot
 Main Image: "/uploads/8_doingbird%20manly.jpg"
 Credits Text: |-
-  photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
+  photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
   styling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**
   hair **[Max Pinnell](https://www.instagram.com/maxpinnell/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
   make-up **[Elsa Morgan](https://www.instagram.com/elsamorgan/)** at **[Reload Agency](https://www.instagram.com/reloadagency/)**

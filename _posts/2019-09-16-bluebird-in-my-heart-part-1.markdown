@@ -6,15 +6,15 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/15%20doingbirdbally.jpg"
-Credits Text: |-
-  All clothing & accessories by **[Bally](https://www.bally.com.au/en_AU/home)**
-
-  photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
-  fashion editor **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
-  fashion assistant **[Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/)**
-  hair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)** using **[Oribe](https://www.instagram.com/oribe/)**
-  models **[Josephine Olton](https://www.instagram.com/josephine_olton/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)** & **[Fergus Bailey](https://www.instagram.com/fergusbailey/)** at **[Kult Australia](https://www.instagram.com/kultaustralia/)**
-  photography assistant **David Deas**
+Credits Text: "All clothing & accessories by **[Bally](https://www.bally.com.au/en_AU/home)**\n\nphotographs
+  **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at \nfashion editor **[Abby
+  Bennett](https://www.instagram.com/bennett_abby/)**\nfashion assistant **[Miguel
+  Urbina Tan](https://www.instagram.com/miguelurbinatan/)**\nhair **[Rory Rice](https://www.instagram.com/_roryrice_/)**
+  at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**
+  using **[Oribe](https://www.instagram.com/oribe/)**\nmodels **[Josephine Olton](https://www.instagram.com/josephine_olton/)**
+  at **[Chadwick](https://www.instagram.com/chadwickmodels/)** & **[Fergus Bailey](https://www.instagram.com/fergusbailey/)**
+  at **[Kult Australia](https://www.instagram.com/kultaustralia/)**\nphotography assistant
+  **David Deas**"
 is featured?: true
 blurb: Photographs by Max Doyle
 layout: gallery

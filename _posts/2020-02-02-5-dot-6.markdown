@@ -11,7 +11,7 @@ Main Image: "/uploads/5.6%20Doingbird%20Objects%2053139.jpg"
 Credits Text: "**[Marimekko Vases](https://www.instagram.com/marimekkoaustralia/)**\n\n\nPhotographs
   **[Anna Pogossova](https://www.instagram.com/annapogossova/)** at **[B&A](https://www.instagram.com/barepsau/)**
   \ \nStyling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**"
-is featured?: true
+is featured?: false
 layout: gallery
 ---
 

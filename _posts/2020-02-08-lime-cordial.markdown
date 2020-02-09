@@ -42,8 +42,6 @@ Have you ever been robbed?
 Yeah, we were living in Sydney city and our roommate left the living room open. I think a crack addict broke in because our house was trashed but all they took was cash. Didn’t even bother with laptops. The funny thing is that our roommate’s sex toys were all taken out of a box and lined up neatly on his bed. Someone was definitely having a laugh.
 
 ![lime Cordiale6.jpg](/uploads/lime%20Cordiale6.jpg)
-What made you pick The Divinyls’ ‘I Touch Myself’ for your Like A Version cover? Has it always been a favourite track? What were the other options on the table? 
-We went through a few options. We wanted to do ‘Rich Girl’ by Hall and Oats but we’d already been playing it live and triple j like it to be exclusive. We were keen on ‘Every Morning’ by Sugar Ray but got sick of it after playing it over and over. The Divinyls was on the cards for a while but then we re-watched Austin Powers, that sealed the deal for us.
 
 ![lime Cordiale5.jpg](/uploads/lime%20Cordiale5.jpg)
 You recently signed with Post Malone’s management company London Cowboys— how did that happen and what does it mean for you? Are you like, best friends with Post Malone? 

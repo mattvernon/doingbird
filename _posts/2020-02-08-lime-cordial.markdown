@@ -5,6 +5,10 @@ published: false
 categories:
 - features
 Main Image: "/uploads/lime%20Cordiale5-b0605e.jpg"
+Credits Text: "Photographer: Gavriel Maynard \nhttps://www.instagram.com/gavrielmaynard/\nStylist:
+  Elsie Matilda \nhttps://www.instagram.com/elsiematilda/\nProduction: Lucy Perrett
+  for Positive Feedback\nhttps://www.instagram.com/lucystars/\nhttps://www.instagram.com/positivefdbk/\nText:
+  Tina Summers"
 is featured?: true
 ---
 

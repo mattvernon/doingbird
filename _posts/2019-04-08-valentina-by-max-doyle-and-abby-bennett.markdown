@@ -6,12 +6,11 @@ categories:
 tags:
 - Shoot
 Main Image: "/uploads/DB_1b.jpg"
-Credits Text: |-
-  photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)** at **[Lizard Management](https://www.instagram.com/lizardmanagement/)**
-  styling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**
-  hair & make-up **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**
-  model **[Valentina](https://www.instagram.com/shemelinaaa/)** at **[Chadwick](https://www.instagram.com/chadwickmodels/)**
-  photography assistant **Jess Blunden**
+Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
+  \nstyling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**\nhair & make-up
+  **[Rosie Neyle](https://www.instagram.com/rosieneylemakeup/)**\nmodel **[Valentina](https://www.instagram.com/shemelinaaa/)**
+  at **[Chadwick](https://www.instagram.com/chadwickmodels/)**\nphotography assistant
+  **Jess Blunden**"
 is featured?: true
 Blurb: Photographs by Max Doyle
 layout: gallery

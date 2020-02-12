@@ -19,7 +19,7 @@ And it’s not just in Australia that they’re making waves. In 2018, they perf
 In addition to making music, touring, surfing, and running their own festival, Oli and Louis keep busy with other creative passions. They make super LOL music videos with their friends, which are usually dreamed up by Oli — see their latest video for ‘Robbery’ as a good example — while Louis makes original psychedelic linocut artworks for the band’s posters, album covers and promotional material. Given that they’re brothers, we wondered how they do it all without killing each other. 
 
 ![lime Cordiale11.jpg](/uploads/lime%20Cordiale11.jpg)
-Be honest: do you drive each other insane? Does being brothers make band life easier or harder?
+**Be honest: do you drive each other insane? Does being brothers make band life easier or harder?**
 Well, we’ve always been pretty insane, and we don’t know any different. We probably should chill out and have some time apart, but it feels easier this way. We share studio equipment, furniture and clothes, so it’s better not having to buy double everything
 
 ![lime Cordiale10.jpg](/uploads/lime%20Cordiale10.jpg)

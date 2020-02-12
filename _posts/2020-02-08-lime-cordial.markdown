@@ -10,6 +10,7 @@ Credits Text: "Photographer: Gavriel Maynard \nhttps://www.instagram.com/gavriel
   for Positive Feedback\nhttps://www.instagram.com/lucystars/\nhttps://www.instagram.com/positivefdbk/\nText:
   Tina Summers"
 is featured?: true
+layout: gallery
 ---
 
 Oli and Louis Leimbach — the brothers behind rising Australian band Lime Cordiale — lead a pretty enviable lifestyle. When they’re home, they surf and write music and make art, living with a heap of friends in a run-down mansion in Sydney’s Northern Beaches. And when they’re not, they’re touring Australia and around the world, playing their infectious alt pop-rock tunes to an ever-growing base of dedicated fans. 

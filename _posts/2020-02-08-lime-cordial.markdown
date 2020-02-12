@@ -34,11 +34,11 @@ That just sounds like we’re loaded. There’s eight of us living in a big old 
 **I know you love the surf — was it ever an option to do that professionally, or was it always music first?**  
 Nah, Louis surfed in some local competitions but doing that professionally is even stupider than playing music. Surfing is where we can forget about everything else, and it’s a great excuse to not answer the phone.
 
-
+![lime Cordiale7.jpg](/uploads/lime%20Cordiale7.jpg)
 **Is your latest single ‘Robbery’ based on a real person?** 
 It’s based on a few people. When you play a lot of shows, you meet a lot of people and a lot of them you never see again. Robbery is about some of those gems.
 
-![lime Cordiale7.jpg](/uploads/lime%20Cordiale7.jpg)
+![lime Cordiale12.jpg](/uploads/lime%20Cordiale12.jpg)
 **Have you ever been robbed?**
 Yeah, we were living in Sydney city and our roommate left the living room open. I think a crack addict broke in because our house was trashed but all they took was cash. Didn’t even bother with laptops. The funny thing is that our roommate’s sex toys were all taken out of a box and lined up neatly on his bed. Someone was definitely having a laugh.
 

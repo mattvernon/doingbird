@@ -44,10 +44,10 @@ Yeah, we were living in Sydney city and our roommate left the living room open. 
 
 ![lime Cordiale6.jpg](/uploads/lime%20Cordiale6.jpg)
 
-![lime Cordiale5.jpg](/uploads/lime%20Cordiale5.jpg)
 **You recently signed with Post Malone’s management company London Cowboys— how did that happen and what does it mean for you? Are you like, best friends with Post Malone?** 
 A girl up in Brisbane showed Posty’s manager one of our songs at their afterparty in Brisbane. It just went from there… now they’re co-managing us. We’ve hung out a few times with Posty and done a few shows in the US. Pretty insane stuff.
 
+![lime Cordiale5.jpg](/uploads/lime%20Cordiale5.jpg)
 **You seem to tour pretty much constantly — do you like living on the road? What are the best and worst parts?** 
 We all love travelling, hanging out and playing music. There’s really nothing better. It definitely burns you out but as soon as you have a day off, you just wanna do it all again. 
 

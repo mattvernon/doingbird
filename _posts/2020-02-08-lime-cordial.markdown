@@ -27,6 +27,9 @@ Well, we’ve always been pretty insane, and we don’t know any different. We p
 We always hung out a lot as kids, but we had different friends. Since starting a band together, everything sort of morphed together. We started doing the same things and hanging with the same people. It’s interesting to wonder what we’d be doing if we weren’t playing music. Louis would probably be a reclusive artist. I’d probably walk around saying ‘I’ve got a lot going on’ when there’s nothing happening at all.
 
 ![lime Cordiale9.jpg](/uploads/lime%20Cordiale9.jpg)
+Louis wears  **[Rokit](https://www.instagram.com/rokitvintage/)** tweed vintage blazer, Adam Jones jumper and **[Shun Yip](https://www.instagram.com/shun_yip/)** shorts.
+Oli wears -  Stylists Own vintage shirt, Rokit red vintage tshirt and Roki Jeans.  
+
 **I read that you live in a mansion with a helipad — true? Ever caught a helicopter there? What is life like in Casa de Cordiale?** 
 That just sounds like we’re loaded. There’s eight of us living in a big old place on the northern beaches. It’s huge but definitely one of the oldest places in the area. We’re trying to find someone to land on the helipad but we just don’t have many friends with helicopters funnily enough. We keep finding snake skins in the rafters. Definitely pretty Casa de Cordiale.
 

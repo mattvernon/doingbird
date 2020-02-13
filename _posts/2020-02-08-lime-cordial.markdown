@@ -59,7 +59,7 @@ A girl up in Brisbane showed Posty’s manager one of our songs at their afterpa
 **You seem to tour pretty much constantly — do you like living on the road? What are the best and worst parts?** 
 We all love travelling, hanging out and playing music. There’s really nothing better. It definitely burns you out but as soon as you have a day off, you just wanna do it all again. 
 
-![lime Cordiale2.jpg](/uploads/lime%20Cordiale2.jpg) 
+
 **Why did you start your festival The Squeeze?** 
 At the time we weren’t getting on the line-up for any festivals and it was so frustrating that we decided to start our own. We want it to be about good music before any sort of industry hype. We want the audience to be able to discover new music and we want it to be inclusive. It’s pretty stressful just choosing the line-up, let alone getting everything organised… and we’re just doing it on a small scale. The dream is to keep growing it so we plan to keep bringing it back each year.
 

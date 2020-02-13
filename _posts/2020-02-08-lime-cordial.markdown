@@ -38,6 +38,9 @@ That just sounds like we’re loaded. There’s eight of us living in a big old 
 Nah, Louis surfed in some local competitions but doing that professionally is even stupider than playing music. Surfing is where we can forget about everything else, and it’s a great excuse to not answer the phone.
 
 ![lime Cordiale7.jpg](/uploads/lime%20Cordiale7.jpg)
+Oli wears **[Rokit](https://www.instagram.com/rokitvintage/)** Vintage Corduroy blazer, Stylist own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** 70s dickies trousers.
+Louis wears - **[Rokit](https://www.instagram.com/rokitvintage/)** vintage 70s blue shirt and **[Rokit](https://www.instagram.com/rokitvintage/)** vintage trousers 
+
 **Is your latest single ‘Robbery’ based on a real person?** 
 It’s based on a few people. When you play a lot of shows, you meet a lot of people and a lot of them you never see again. Robbery is about some of those gems.
 

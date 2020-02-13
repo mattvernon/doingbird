@@ -28,7 +28,7 @@ We always hung out a lot as kids, but we had different friends. Since starting a
 
 ![lime Cordiale9.jpg](/uploads/lime%20Cordiale9.jpg)
 Louis wears  **[Rokit](https://www.instagram.com/rokitvintage/)** tweed vintage blazer, Adam Jones jumper and **[Shun Yip](https://www.instagram.com/shun_yip/)** shorts.
-Oli wears -  Stylists Own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** red vintage tshirt and Roki Jeans.  
+Oli wears Stylists Own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** red vintage tshirt and Roki Jeans.  
 
 **I read that you live in a mansion with a helipad — true? Ever caught a helicopter there? What is life like in Casa de Cordiale?** 
 That just sounds like we’re loaded. There’s eight of us living in a big old place on the northern beaches. It’s huge but definitely one of the oldest places in the area. We’re trying to find someone to land on the helipad but we just don’t have many friends with helicopters funnily enough. We keep finding snake skins in the rafters. Definitely pretty Casa de Cordiale.
@@ -38,7 +38,7 @@ That just sounds like we’re loaded. There’s eight of us living in a big old 
 Nah, Louis surfed in some local competitions but doing that professionally is even stupider than playing music. Surfing is where we can forget about everything else, and it’s a great excuse to not answer the phone.
 
 ![lime Cordiale7.jpg](/uploads/lime%20Cordiale7.jpg)
-Oli wears **[Rokit](https://www.instagram.com/rokitvintage/)** Vintage Corduroy blazer, Stylist own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** 70s dickies trousers.
+Oli wears **[Rokit](https://www.instagram.com/rokitvintage/)** Vintage Corduroy blazer, Stylists own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** 70s dickies trousers.
 Louis wears **[Rokit](https://www.instagram.com/rokitvintage/)** vintage 70s blue shirt and **[Rokit](https://www.instagram.com/rokitvintage/)** vintage trousers 
 
 **Is your latest single ‘Robbery’ based on a real person?** 
@@ -61,7 +61,7 @@ We all love travelling, hanging out and playing music. There’s really nothing 
 
 ![lime Cordiale13.jpg](/uploads/lime%20Cordiale13.jpg)
 Louis wears **[Rokit](https://www.instagram.com/rokitvintage/)** vintage brown shirt and Adam Jones cream trousers
-Oli wears Stylists own vinatge shirt and **[Suzie Bostock](https://www.instagram.com/suziebostock/)** green shorts.  
+Oli wears Stylists own vintage shirt and **[Suzie Bostock](https://www.instagram.com/suziebostock/)** green shorts.  
 
 **Why did you start your festival The Squeeze?** 
 At the time we weren’t getting on the line-up for any festivals and it was so frustrating that we decided to start our own. We want it to be about good music before any sort of industry hype. We want the audience to be able to discover new music and we want it to be inclusive. It’s pretty stressful just choosing the line-up, let alone getting everything organised… and we’re just doing it on a small scale. The dream is to keep growing it so we plan to keep bringing it back each year.

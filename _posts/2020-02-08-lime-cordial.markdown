@@ -28,7 +28,7 @@ We always hung out a lot as kids, but we had different friends. Since starting a
 
 ![lime Cordiale9.jpg](/uploads/lime%20Cordiale9.jpg)
 Louis wears  **[Rokit](https://www.instagram.com/rokitvintage/)** tweed vintage blazer, Adam Jones jumper and **[Shun Yip](https://www.instagram.com/shun_yip/)** shorts.
-Oli wears -  Stylists Own vintage shirt, Rokit red vintage tshirt and Roki Jeans.  
+Oli wears -  Stylists Own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** red vintage tshirt and Roki Jeans.  
 
 **I read that you live in a mansion with a helipad — true? Ever caught a helicopter there? What is life like in Casa de Cordiale?** 
 That just sounds like we’re loaded. There’s eight of us living in a big old place on the northern beaches. It’s huge but definitely one of the oldest places in the area. We’re trying to find someone to land on the helipad but we just don’t have many friends with helicopters funnily enough. We keep finding snake skins in the rafters. Definitely pretty Casa de Cordiale.

@@ -45,6 +45,8 @@ Louis wears - **[Rokit](https://www.instagram.com/rokitvintage/)** vintage 70s b
 It’s based on a few people. When you play a lot of shows, you meet a lot of people and a lot of them you never see again. Robbery is about some of those gems.
 
 ![lime Cordiale12.jpg](/uploads/lime%20Cordiale12.jpg)
+Louis wears Adam Jones animal print coat and trousers
+Oli Wears **[Bond](https://www.instagram.com/bondsaus/)** vest and **[Suzie Bostock](https://www.instagram.com/suziebostock/)** red trousers.  
 **Have you ever been robbed?**
 Yeah, we were living in Sydney city and our roommate left the living room open. I think a crack addict broke in because our house was trashed but all they took was cash. Didn’t even bother with laptops. The funny thing is that our roommate’s sex toys were all taken out of a box and lined up neatly on his bed. Someone was definitely having a laugh.
 

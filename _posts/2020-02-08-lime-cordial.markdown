@@ -39,7 +39,7 @@ Nah, Louis surfed in some local competitions but doing that professionally is ev
 
 ![lime Cordiale7.jpg](/uploads/lime%20Cordiale7.jpg)
 Oli wears **[Rokit](https://www.instagram.com/rokitvintage/)** Vintage Corduroy blazer, Stylist own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** 70s dickies trousers.
-Louis wears - **[Rokit](https://www.instagram.com/rokitvintage/)** vintage 70s blue shirt and **[Rokit](https://www.instagram.com/rokitvintage/)** vintage trousers 
+Louis wears **[Rokit](https://www.instagram.com/rokitvintage/)** vintage 70s blue shirt and **[Rokit](https://www.instagram.com/rokitvintage/)** vintage trousers 
 
 **Is your latest single ‘Robbery’ based on a real person?** 
 It’s based on a few people. When you play a lot of shows, you meet a lot of people and a lot of them you never see again. Robbery is about some of those gems.
@@ -59,6 +59,9 @@ A girl up in Brisbane showed Posty’s manager one of our songs at their afterpa
 **You seem to tour pretty much constantly — do you like living on the road? What are the best and worst parts?** 
 We all love travelling, hanging out and playing music. There’s really nothing better. It definitely burns you out but as soon as you have a day off, you just wanna do it all again. 
 
+![lime Cordiale13.jpg](/uploads/lime%20Cordiale13.jpg)
+Louis wears **[Rokit](https://www.instagram.com/rokitvintage/)** vintage brown shirt and Adam Jones cream trousers
+Oli wears Stylists own vinatge shirt and **[Suzie Bostock](https://www.instagram.com/suziebostock/)** green shorts.  
 
 **Why did you start your festival The Squeeze?** 
 At the time we weren’t getting on the line-up for any festivals and it was so frustrating that we decided to start our own. We want it to be about good music before any sort of industry hype. We want the audience to be able to discover new music and we want it to be inclusive. It’s pretty stressful just choosing the line-up, let alone getting everything organised… and we’re just doing it on a small scale. The dream is to keep growing it so we plan to keep bringing it back each year.

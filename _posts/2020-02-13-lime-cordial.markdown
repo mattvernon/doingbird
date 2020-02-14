@@ -40,7 +40,7 @@ Nah, Louis surfed in some local competitions but doing that professionally is ev
 Oli wears **[Rokit](https://www.instagram.com/rokitvintage/)** Vintage Corduroy blazer, Stylists own vintage shirt, **[Rokit](https://www.instagram.com/rokitvintage/)** 70s dickies trousers.
 Louis wears **[Rokit](https://www.instagram.com/rokitvintage/)** vintage 70s blue shirt and **[Rokit](https://www.instagram.com/rokitvintage/)** vintage trousers 
 
-**Is your latest single ‘Robbery’ based on a real person?** 
+**Is your recent single ‘Robbery’ based on a real person?** 
 It’s based on a few people. When you play a lot of shows, you meet a lot of people and a lot of them you never see again. Robbery is about some of those gems.
 
 ![lime Cordiale12.jpg](/uploads/lime%20Cordiale12.jpg)

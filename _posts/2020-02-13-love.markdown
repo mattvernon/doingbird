@@ -6,8 +6,7 @@ categories:
 - Fashion
 tags:
 - Motion
-Main Image: '<iframe src="https://player.vimeo.com/video/391360387" width="640" height="360"
-  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> '
+Main Image: "/uploads/MIHAD%20WHAT%20IS%20LOVE%20DB.png"
 Credits Text: |+
   Directed and shot by [Jo Duck](https://www.instagram.com/jo_duck/) at [Art Box Black](https://www.instagram.com/artboxblack/)
 

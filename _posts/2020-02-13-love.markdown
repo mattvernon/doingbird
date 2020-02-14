@@ -13,4 +13,4 @@ is featured?: true
 layout: gallery
 ---
 
-[MiuMiuMihad_v4.mp4](/uploads/MiuMiuMihad_v4.mp4)
+<iframe src="https://player.vimeo.com/video/391360387" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

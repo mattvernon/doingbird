@@ -8,9 +8,9 @@ tags:
 - Motion
 Main Image: "/uploads/MIHAD%20WHAT%20IS%20LOVE%20DB.png"
 Credits Text: |+
-  Directed and shot by [Jo Duck (https://www.instagram.com/jo_duck/)at [Art Box Black](https://www.instagram.com/artboxblack/) Fashion Editor [Abby Bennett](https://www.instagram.com/bennett_abby/) Sound by Chris Murray at [3am productions (https://www.instagram.com/_3amproductions/) Hair by [Bradwyn Jones](https://www.instagram.com/bradwynjones/) at [Union Management](https://www.instagram.com/union_management/) using [TIGI Professional ](https://www.instagram.com/tigi_anz/) Make up by [Megan Harrison](https://www.instagram.com/meganharrisonmakeup/) using [MAC Cosmetics](https://www.instagram.com/maccosmetics/) Photo Assistant Sophie Gabrielle Stylist Assistant Matisse Tugendhaft
+  directed and shot by [Jo Duck (https://www.instagram.com/jo_duck/)at [Art Box Black](https://www.instagram.com/artboxblack/) fashion editor [Abby Bennett](https://www.instagram.com/bennett_abby/) sound by Chris Murray at [3am productions (https://www.instagram.com/_3amproductions/) hair by [Bradwyn Jones](https://www.instagram.com/bradwynjones/) at [Union Management](https://www.instagram.com/union_management/) using [TIGI Professional ](https://www.instagram.com/tigi_anz/) make up by [Megan Harrison](https://www.instagram.com/meganharrisonmakeup/) using [MAC Cosmetics](https://www.instagram.com/maccosmetics/) photo assistant Sophie Gabrielle stylist assistant Matisse Tugendhaft
 
-  Models:
+  models:
   [Mihad](https://www.instagram.com/mihadkd/) at [Priscillas Models](https://www.instagram.com/priscillasmodels/)
   [Joao](https://www.instagram.com/joaoqm/) at [People Agency ](https://www.instagram.com/people.agency/)
   [Juliette](https://www.instagram.com/juliettedudekemdacoz/) at [Duval Agency ](https://www.instagram.com/duval.agency/)

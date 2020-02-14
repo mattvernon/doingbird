@@ -1,5 +1,5 @@
 ---
-title: What is love - Part 1
+title: What is love - part 1
 date: 2020-02-13 23:35:00 +11:00
 published: false
 categories:
@@ -21,9 +21,7 @@ is featured?: true
 layout: gallery
 ---
 
-Its Valentine’s day in 2020, so we asked some new friends about who and what they love, their first kisses, favourite screen kisses and what love means to them.  
-
-Here’s a little teaser with the full video to come in What is Love - PART 2
+Its Valentine’s day in 2020, so we asked some new friends about who and what they love, their first kisses, favourite screen kisses and what love means to them. Here’s a tease for you, full video to come in part 2.
 
 <iframe src="https://player.vimeo.com/video/391360387" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
 

@@ -14,10 +14,16 @@ Credits Text: "Directed and shot by Jo Duck at Art Box Black\nhttps://www.instag
   Assistant Sophie Gabrielle\nStylist Assistant Matisse Tugendhaft\n\nModels\n\nMihad
   at Priscillas Models\nhttps://www.instagram.com/mihadkd/\nhttps://www.instagram.com/priscillasmodels/\n\nJoao
   at People Agency \nhttps://www.instagram.com/joaoqm/\nhttps://www.instagram.com/people.agency/\n\nJuliette
-  at Duval Agency \nhttps://www.instagram.com/juliettedudekemdacoz/\nhttps://www.instagram.com/duval.agency/\n\n\n\n\n\n"
+  at Duval Agency \nhttps://www.instagram.com/juliettedudekemdacoz/\nhttps://www.instagram.com/duval.agency/\n\nModels
+  all wear Miu Miu Kisses T-shirts - a capsule collection of T-shirts printed with
+  film stills of some of cinema history’s most celebrated embraces\n\n\n\n\n"
 is featured?: true
 layout: gallery
 ---
+
+Its Valentine’s day in 2020, so we asked some new friends about who and what they love, their first kisses, favourite screen kisses and what love means to them.  
+
+Here’s a little teaser with the full video to come in What is Love - PART 2
 
 <iframe src="https://player.vimeo.com/video/391360387" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
 

@@ -1,16 +1,16 @@
 ---
-title: What is love? Part 1
+title: LOVE
 date: 2020-02-13 23:35:00 +11:00
 published: false
-Credits Text: "Its Valentine’s day in 2020 so we asked these three young models about
-  who and what they love and what it means to them. \nHere’s a little teaser, full
-  video to come in PART 2\n\nModels wear \n\nDirected and shot by Jo Duck\n@jo_duck\n@artboxblack\nFashion
-  Editor Abby Bennett\nhttps://www.instagram.com/bennett_abby/\n\nAssistant Sophie
-  Gabrielle @sophie_gabrielle\nSound by Chris Murray at 3am productions\n@_3amproductions\n\nHair
-  by Bradwyn Jones at Union Management / using TIGI Professional \nhttps://www.instagram.com/bradwynjones/\nMake
-  up by Megan Harrison http://instagram.com/meganharrisonmakeup\n\nModels \nJuliette
-  from Duval \nhttps://www.instagram.com/duval.agency/\nhttps://www.instagram.com/juliettedudekemdacoz/\n\nJoao
-  from People Agency \nhttps://people.agency/casting/joao\n\nMihad from Priscillas
-  https://www.instagram.com/priscillasmodels/?hl=en\nhttps://www.instagram.com/mihadkd/\n"
+categories:
+- Fashion
+tags:
+- Motion
+Credits Text: "Directed and shot by Jo Duck\n@jo_duck\n@artboxblack\n\nAssistant Sophie
+  Gabrielle @sophie_gabrielle\nSound by Chris Murray at 3am productions\n@_3amproductions\n\nBradwyn
+  Jones at Union Management / using TIGI Professional \n"
+is featured?: true
+layout: gallery
 ---
 
+<iframe src="https://player.vimeo.com/video/391362695" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

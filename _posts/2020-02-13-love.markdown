@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Motion
+Main Image: "/uploads/MiuMiuMihad_v4.mp4"
 Credits Text: |+
   Directed and shot by [Jo Duck](https://www.instagram.com/jo_duck/) at [Art Box Black](https://www.instagram.com/artboxblack/)
 

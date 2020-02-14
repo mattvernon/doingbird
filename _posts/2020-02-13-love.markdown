@@ -6,18 +6,34 @@ categories:
 - Fashion
 tags:
 - Motion
-Credits Text: "Directed and shot by [Jo Duck](https://www.instagram.com/jo_duck/)
-  at [Art Box Black](https://www.instagram.com/artboxblack/)\n\nFashion Editor [Abby
-  Bennett](https://www.instagram.com/bennett_abby/)\n\n\nSound by Chris Murray at
-  3am productions\nhttps://www.instagram.com/_3amproductions/\n\nHair by Bradwyn Jones
-  at Union Management using TIGI Professional \nhttps://www.instagram.com/bradwynjones/\nhttps://www.instagram.com/tigi_anz/\n\nMake
-  up by Megan Harrison using MAC Cosmetics\nhttps://www.instagram.com/meganharrisonmakeup/\nhttps://www.instagram.com/maccosmetics/\n\nPhoto
-  Assistant Sophie Gabrielle\nStylist Assistant Matisse Tugendhaft\n\nModels\n\nMihad
-  at Priscillas Models\nhttps://www.instagram.com/mihadkd/\nhttps://www.instagram.com/priscillasmodels/\n\nJoao
-  at People Agency \nhttps://www.instagram.com/joaoqm/\nhttps://www.instagram.com/people.agency/\n\nJuliette
-  at Duval Agency \nhttps://www.instagram.com/juliettedudekemdacoz/\nhttps://www.instagram.com/duval.agency/\n\nModels
-  all wear Miu Miu Kisses T-shirts - a capsule collection of T-shirts printed with
-  film stills of some of cinema history’s most celebrated embraces\n\n\n\n\n"
+Credits Text: |+
+  Directed and shot by [Jo Duck](https://www.instagram.com/jo_duck/) at [Art Box Black](https://www.instagram.com/artboxblack/)
+
+  Fashion Editor [Abby Bennett](https://www.instagram.com/bennett_abby/)
+
+  Sound by Chris Murray at [3am productions](https://www.instagram.com/_3amproductions/)
+
+  Hair by [Bradwyn Jones](https://www.instagram.com/bradwynjones/) at [Union Management](https://www.instagram.com/union_management/) using [TIGI Professional ](https://www.instagram.com/tigi_anz/)
+
+  Make up by [Megan Harrison](https://www.instagram.com/meganharrisonmakeup/) using [MAC Cosmetics](https://www.instagram.com/maccosmetics/)
+
+  Photo Assistant Sophie Gabrielle
+  Stylist Assistant Matisse Tugendhaft
+
+  Models
+
+  [Mihad](https://www.instagram.com/mihadkd/) at [Priscillas Models](https://www.instagram.com/priscillasmodels/)
+
+  [Joao](https://www.instagram.com/joaoqm/) at [People Agency ](https://www.instagram.com/people.agency/)
+
+  [Juliette](https://www.instagram.com/juliettedudekemdacoz/) at [Duval Agency ](https://www.instagram.com/duval.agency/)
+
+
+  Models all wear [Miu Miu ](https://www.instagram.com/miumiu/) Kisses T-shirts - a capsule collection of T-shirts printed with film stills of some of cinema history’s most celebrated embraces, on sale now
+
+
+
+
 is featured?: true
 layout: gallery
 ---
@@ -33,6 +49,8 @@ Mihad wears Miu Miu Kisses t-shirts, Miu Miu pants, Miu Miu Bag stylists own ski
 Joao wears Miu Miu Kisses t-shirt and with stylists own pants
 
 <iframe src="https://player.vimeo.com/video/391361471" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>  
+
+
 
 Juliette wears Miu Miu Kisses t-shirts, Miu Miu shoes with stylists own pants and skirt
 

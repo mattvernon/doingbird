@@ -4,6 +4,10 @@ date: 2020-02-19 15:35:00 +11:00
 published: false
 categories:
 - Features
+Credits Text: "Photography **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
+  **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
+  **[Joel Babicci](https://www.instagram.com/joel_babicci/)**"
+is featured?: true
 layout: gallery
 ---
 
@@ -14,18 +18,25 @@ Tim wears  Gucci Gloves Prada Necktie Dior Fan courtesy of Kiko Vintage
 Sam wears Prada Hat Dior Underwear courtesy of Kiko Vintage Wings stylists own
  
 ![cub sport max doyle 3.jpg](/uploads/cub%20sport%20max%20doyle%203.jpg)
-
+Tim wears all Gucci Sam wears Gucci Knit and shoes Gucci Suit courtesy of Kiko Vintage
+ 
 ![cub sport max doyle 4.jpg](/uploads/cub%20sport%20max%20doyle%204.jpg)
+Tim and Sam wear - all Paris Moschis
 
 ![cub sport max doyle 5.jpg](/uploads/cub%20sport%20max%20doyle%205.jpg)
+Tim and Sam wear Gucci Gloves
 
 ![cub sport max doyle 6.jpg](/uploads/cub%20sport%20max%20doyle%206.jpg)
+Tim and Sam wear - all Prada 
 
 ![cub sport max doyle 7.jpg](/uploads/cub%20sport%20max%20doyle%207.jpg)
+Tim and Sam wear - all Gucci 
 
 ![cub sport max doyle 8.jpg](/uploads/cub%20sport%20max%20doyle%208.jpg)
+Tim wears Gucci Hat Dior Choker and Jean Paul Gaultier Top courtesy of Kiko Vintage
 
 ![cub sport max doyle 9.jpg](/uploads/cub%20sport%20max%20doyle%209.jpg)
+Tim wears Gucci Jacket Sam wears Dior Singlet courtesy of Kiko Vintage 
 
 ![cub sport max doyle 10.jpg](/uploads/cub%20sport%20max%20doyle%2010.jpg)
-
+Tim and Sam wear  all Prada 

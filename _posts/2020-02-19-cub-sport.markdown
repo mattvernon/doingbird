@@ -4,9 +4,9 @@ date: 2020-02-19 15:35:00 +11:00
 published: false
 categories:
 - Features
-Credits Text: "Photography **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**\nStyling
-  **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and Makeup
-  **[Joel Babicci](https://www.instagram.com/joel_babicci/)**"
+Credits Text: "Photography **[Max Doyle](https://www.instagram.com/scrap_doyle/?hl=en)**
+  \nStyling **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and
+  Makeup **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/?hl=en)**"
 is featured?: true
 layout: gallery
 ---

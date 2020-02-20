@@ -4,9 +4,10 @@ date: 2020-02-19 15:35:00 +11:00
 published: false
 categories:
 - Features
+Main Image: "/uploads/cub%20sport%20max%20doyle%205.jpg"
 Credits Text: "Photography **[Max Doyle](https://www.instagram.com/scrap_doyle/?hl=en)**
-  \nStyling **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**  \nHair and
-  Makeup **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/?hl=en)**"
+  \  \nStyling **[Kurt Johnson](https://www.instagram.com/kurt__johnson/)**    \nHair
+  and Makeup **[Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/?hl=en)**"
 is featured?: true
 layout: gallery
 ---

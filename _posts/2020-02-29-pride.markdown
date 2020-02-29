@@ -7,6 +7,7 @@ categories:
 tags:
 - Fashion
 - pride
+Main Image: "/uploads/image7.jpg"
 Credits Text: "Photography [Buster Parks](https://www.instagram.com/busterparks/)
   \ \nCreative Direction, Styling and Opening Statement [Kurt Johnson](https://www.instagram.com/kurt__johnson/?hl=en)
   \ \nPhotography Assistant [Luca Kiripun](https://www.instagram.com/lucakiripun/?hl=en)

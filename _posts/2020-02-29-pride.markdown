@@ -18,6 +18,7 @@ Credits Text: "Photography [Buster Parks](https://www.instagram.com/busterparks/
   \   \n[Joseph Althouse](https://www.instagram.com/joseph_althouse/)  \n[Sam Young](https://www.instagram.com/milkmakesmeshit/)
   \ \n[Morgan Davies](https://www.instagram.com/morganlogoff/)\n[Alix Higgins](https://www.instagram.com/alixhiggins/)
   \ \n[Lalita Conquest](https://www.instagram.com/lalitaconquest/)  \n"
+is featured?: true
 layout: gallery
 ---
 

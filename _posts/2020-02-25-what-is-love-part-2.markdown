@@ -6,6 +6,7 @@ categories:
 - fashion
 tags:
 - fashion
+Main Image: "/uploads/what%20is%20love%20part%202%20home%20page%20image.png"
 Credits Text: "Directed and Shot by [Jo Duck](https://www.instagram.com/jo_duck/)
   at [Art Box Black](https://www.instagram.com/artboxblack/) \nFashion Editor [Abby
   Bennett](https://www.instagram.com/bennett_abby/) \nSound by Chris Murray at [3am

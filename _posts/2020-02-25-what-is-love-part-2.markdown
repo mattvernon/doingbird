@@ -2,6 +2,10 @@
 title: What is love - part 2
 date: 2020-02-25 12:02:00 +11:00
 published: false
+categories:
+- fashion
+tags:
+- fashion
 Credits Text: "Directed and Shot by [Jo Duck](https://www.instagram.com/jo_duck/)
   at [Art Box Black](https://www.instagram.com/artboxblack/) \nFashion Editor [Abby
   Bennett](https://www.instagram.com/bennett_abby/) \nSound by Chris Murray at [3am

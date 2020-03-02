@@ -16,6 +16,7 @@ Credits Text: "Directed and Shot by [Jo Duck](https://www.instagram.com/jo_duck/
   [Miu Miu ](https://www.instagram.com/miumiu/) Kisses T-shirts - a capsule collection
   of T-shirts printed with film stills of some of cinema history’s most celebrated
   embraces, on sale now*\n"
+layout: gallery
 ---
 
 What is Love??? 

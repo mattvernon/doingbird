@@ -20,7 +20,7 @@ Credits Text: "Directed and Shot by [Jo Duck](https://www.instagram.com/jo_duck/
 
 What is Love??? 
 
-*******insert video link here please 
+<iframe src="https://player.vimeo.com/video/394880888" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 Mihad wears Miu Miu 'Kisses' t-shirts, Miu Miu pants, Miu Miu bag, stylists own vintage dress, skirt and shoes

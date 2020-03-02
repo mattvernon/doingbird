@@ -1,7 +1,11 @@
 ---
 title: What is love - part 2
-date: 2020-02-25 12:02:00 +11:00
-published: false
+date: 2020-02-27 12:02:00 +11:00
+categories:
+- fashion
+tags:
+- fashion
+Main Image: "/uploads/what%20is%20love%20part%202%20home%20page%20image.png"
 Credits Text: "Directed and Shot by [Jo Duck](https://www.instagram.com/jo_duck/)
   at [Art Box Black](https://www.instagram.com/artboxblack/) \nFashion Editor [Abby
   Bennett](https://www.instagram.com/bennett_abby/) \nSound by Chris Murray at [3am
@@ -16,11 +20,12 @@ Credits Text: "Directed and Shot by [Jo Duck](https://www.instagram.com/jo_duck/
   [Miu Miu ](https://www.instagram.com/miumiu/) Kisses T-shirts - a capsule collection
   of T-shirts printed with film stills of some of cinema history’s most celebrated
   embraces, on sale now*\n"
+layout: gallery
 ---
 
 What is Love??? 
 
-*******insert video link here please 
+<iframe src="https://player.vimeo.com/video/394880888" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 Mihad wears Miu Miu 'Kisses' t-shirts, Miu Miu pants, Miu Miu bag, stylists own vintage dress, skirt and shoes

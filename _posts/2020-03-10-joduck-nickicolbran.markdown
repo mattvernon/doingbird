@@ -39,56 +39,31 @@ Monica wears: [Chanel](https://www.instagram.com/chanelofficial/) coat and earri
 
 ![JD_NC_06.jpg](/uploads/JD_NC_06.jpg)
 
-Max (left) wears: Bottega Veneta https://www.instagram.com/
-bottegaveneta/
-Varsha (right) wears: Bottega Veneta https://
-www.instagram.com/bottegaveneta/
-Extra (far left) wears: Hugo Boss suit https://
-www.instagram.com/boss/ , Bottega Veneta shoes https://
-www.instagram.com/bottegaveneta/
+Max (left) wears: [Bottega Veneta ](https://www.instagram.com/bottegaveneta/)
+Varsha (right) wears: [Bottega Veneta](https://www.instagram.com/bottegaveneta/) 
+Extra (far left) wears: [Hugo Boss](https://www.instagram.com/boss/) suit, [Bottega Veneta](https://www.instagram.com/bottegaveneta/) shoes
 
 ![JD_NC_07.jpg](/uploads/JD_NC_07.jpg)
 
-Jade wears: MM6 dress from KOT-J https://www.instagram.com/shop.kot_j/ ,
-Burberry coat https://www.instagram.com/burberry/
+Jade wears: MM6 dress from [KOT-J](https://www.instagram.com/shop.kot_j/),
+[Burberry](https://www.instagram.com/burberry/) coat 
 
 ![JD_NC_08.jpg](/uploads/JD_NC_08.jpg)
 
-Emily wears: Prada blouse (worn underneath) https://
-www.instagram.com/prada/ , Rika Studios leather shirt https://
-www.instagram.com/rikastudios_/ , Simone Rocha necklace from Bruce
-https://www.instagram.com/shopbruce/
-Yang wears: Miu Miu shirt from Reina https://www.instagram.com/
-reinamelbourne/ , Christopher Esber jacket, Christopher Esber pants
-https://www.instagram.com/christopher_esber/ , Boots from Route 66
-https://www.instagram.com/route66store/
-Extra (right):Prada shirt from Reina https://www.instagram.com/
-reinamelbourne/ , stylists own rings
+Emily wears: [Prada](https://www.instagram.com/prada/) blouse (worn underneath), [Rika Studios](https://www.instagram.com/rikastudios_/) leather shirt, Simone Rocha necklace from [Bruce](https://www.instagram.com/shopbruce/). Yang wears: Miu Miu shirt from [Reina](https://www.instagram.com/reinamelbourne/), [Christopher Esber ](https://www.instagram.com/christopher_esber/) jacket and pants, Boots from [Route 66](https://www.instagram.com/route66store/). Extra (right): Prada shirt from [Reina](https://www.instagram.com/reinamelbourne/), stylists own rings
 
 ![JD_NC_09.jpg](/uploads/JD_NC_09.jpg)
 
-Joseph wears: Jean Paul Gaultier turtleneck from Reina https://
-www.instagram.com/reinamelbourne/ , Prada shorts, socks and boots
-https://www.instagram.com/prada/ , Song for the Mute shirt https://
-www.instagram.com/songforthemute/
-Extra (right):Song for the Mute shirt https://www.instagram.com/
-songforthemute/
+Joseph wears: Jean Paul Gaultier turtleneck from [Reina](https://www.instagram.com/reinamelbourne/), [Prada](https://www.instagram.com/prada/) shorts, socks and boots, [Song for the Mute](https://www.instagram.com/songforthemute/) shirt. Extra (right): [Song for the Mute](https://www.instagram.com/songforthemute/) shirt 
 
 ![JD_NC_10.jpg](/uploads/JD_NC_10.jpg)
 
-Max (left) wears: Coach pants https://www.instagram.com/coach/ ,
-Ermenegildo Zegna Couture jacket https://www.instagram.com/
-zegnaofficial/
-Varsha (right) wears: Raey shirt https://www.instagram.com/
-raeyofficial/ , Rika Studios pants https://www.instagram.com/
-rikastudios_/
+Max (left) wears: [Coach](https://www.instagram.com/coach/) pants, [Ermenegildo Zegna](https://www.instagram.com/zegnaofficial/) Couture jacket 
+Varsha (right) wears: [Raey](https://www.instagram.com/raeyofficial/) shirt, [Rika Studios](https://www.instagram.com/rikastudios_/) pants
 
 ![JD_NC_11.jpg](/uploads/JD_NC_11.jpg)
 
-Max wears: Chin Mens jacket from KOT-J
-https://www.instagram.com/shop.kot_j/ , Coach pants https://
-www.instagram.com/coach/
-Jade wears: Chloe Mottau https://www.instagram.com/chloe.mottau/
+Max wears: Chin Mens jacket from [KOT-J](https://www.instagram.com/shop.kot_j/), [Coach](https://www.instagram.com/coach/) pants. Jade wears: [Chloe Mottau ](https://www.instagram.com/chloe.mottau/)
 
 ![JD_NC_12.jpg](/uploads/JD_NC_12.jpg)
 

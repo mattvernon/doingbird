@@ -5,12 +5,20 @@ published: false
 categories:
 - Fashion
 Main Image: "/uploads/JD_NC_03.jpg"
-Credits Text: |
-  Photographer & Creative Direction by [Jo Duck](https://www.instagram.com/jo_duck/) at [Art Box Black](https://www.instagram.com/artboxblack/)
-  Fashion & Creative Direction by [Nicki Colbran](https://www.instagram.com/nickicolbran/) at [Union Management](http://www.unionmanagement.com.au/talent/nicki-colbran) Melbourne Hair Stylist Cain Ireland at Biba Queens Parade, Melboune Makeup Artist [Rob Povey](https://www.instagram.com/robpoveymua/) at [People Agency](https://people.agency/creative/rob)
-  Sydney Hair Stylist [Chris Coonrod](https://www.instagram.com/coonsstyle/) at [Union Management](http://www.unionmanagement.com.au/talent/chris-coonrod) Sydney Makeup Artist [Mikele Simone](https://www.instagram.com/mikelesimonebeauty/) at [DLM](https://www.dlmau.com/artist/hair-and-make-up/mikele-simone)
-
-  Models: Isaac, Emily + Francis at [Duval](https://www.instagram.com/duval.agency/?hl=en), Joseph, Varsha + Yang at [Chadwick](https://www.instagram.com/chadwickmodels/?hl=en), Max + Jade at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en), Doug at [IMG](https://www.instagram.com/imgmodels/?hl=en), Monica at [Silverfox](https://www.instagram.com/silverfoxmgmt/?hl=en),  Peter Dietze,  Lesley Crawford
+Credits Text: "Photographer & Creative Direction by [Jo Duck](https://www.instagram.com/jo_duck/)
+  at [Art Box Black](https://www.instagram.com/artboxblack/)  \nFashion & Creative
+  Direction by [Nicki Colbran](https://www.instagram.com/nickicolbran/) at [Union
+  Management](http://www.unionmanagement.com.au/talent/nicki-colbran)   Melbourne
+  Hair Stylist Cain Ireland at Biba Queens Parade, Melboune Makeup Artist [Rob Povey](https://www.instagram.com/robpoveymua/)
+  at [People Agency](https://people.agency/creative/rob)\nSydney Hair Stylist [Chris
+  Coonrod](https://www.instagram.com/coonsstyle/) at [Union Management](http://www.unionmanagement.com.au/talent/chris-coonrod)
+  Sydney Makeup Artist [Mikele Simone](https://www.instagram.com/mikelesimonebeauty/)
+  at [DLM](https://www.dlmau.com/artist/hair-and-make-up/mikele-simone)\n\nModels:
+  Isaac, Emily + Francis at [Duval](https://www.instagram.com/duval.agency/?hl=en),
+  Joseph, Varsha + Yang at [Chadwick](https://www.instagram.com/chadwickmodels/?hl=en),
+  Max + Jade at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en), Doug
+  at [IMG](https://www.instagram.com/imgmodels/?hl=en), Monica at [Silverfox](https://www.instagram.com/silverfoxmgmt/?hl=en),
+  \ Peter Dietze,  Lesley Crawford\n"
 layout: gallery
 ---
 

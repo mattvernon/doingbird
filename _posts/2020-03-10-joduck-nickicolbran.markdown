@@ -20,35 +20,30 @@ from Route 66 https://www.instagram.com/route66store/
 ![JD_NC_02.jpg](/uploads/JD_NC_02.jpg)
 Joseph wears: Jean Paul Gaultier turtle neck from Reina https://
 www.instagram.com/reinamelbourne/
-
-![JD_NC_03.jpg](/uploads/JD_NC_03.jpg)
 Max (left) wears: Bottega Veneta https://
 www.instagram.com/bottegaveneta/
 Varsha (right) wears: Bottega Veneta https://
 www.instagram.com/bottegaveneta/
 
-![JD_NC_04.jpg](/uploads/JD_NC_04.jpg)
-
+![JD_NC_03.jpg](/uploads/JD_NC_03.jpg)
 Lesley (left) wears: Raey coat https://www.instagram.com/raeyofficial/ , Fendi
 shoes https://www.instagram.com/fendi/
 Doug (right) wears: Acne Studios shirt https://www.instagram.com/
 acnestudios/ , Z Zegna pants https://www.instagram.com/zegnaofficial/
 
 
-![JD_NC_05.jpg](/uploads/JD_NC_05.jpg)
-
+![JD_NC_04.jpg](/uploads/JD_NC_04.jpg)
 Isaac wears: Song for the Mute pants https://www.instagram.com/
 songforthemute/ , Nanushka shirt https://www.instagram.com/nanushka/ ,
 Hat from Route 66 https://www.instagram.com/route66store/
 
-![JD_NC_06.jpg](/uploads/JD_NC_06.jpg)
+
+![JD_NC_05.jpg](/uploads/JD_NC_05.jpg)
 
 Monica wears: Chanel coat, Chanel earrings https://www.instagram.com/
 chanelofficial/
 
-![JD_NC_07.jpg](/uploads/JD_NC_07.jpg)
-
-![JD_NC_08.jpg](/uploads/JD_NC_08.jpg)
+![JD_NC_06.jpg](/uploads/JD_NC_06.jpg)
 Max (left) wears: Bottega Veneta https://www.instagram.com/
 bottegaveneta/
 Varsha (right) wears: Bottega Veneta https://
@@ -56,6 +51,19 @@ www.instagram.com/bottegaveneta/
 Extra (far left) wears: Hugo Boss suit https://
 www.instagram.com/boss/ , Bottega Veneta shoes https://
 www.instagram.com/bottegaveneta/
+
+![JD_NC_07.jpg](/uploads/JD_NC_07.jpg)
+
+Max wears: Chin Mens jacket from KOT-J
+https://www.instagram.com/shop.kot_j/ , Coach pants https://
+www.instagram.com/coach/
+Isaac wears: Song for the Mute pants https://www.instagram.com/
+songforthemute/ , Nanushka shirt https://www.instagram.com/nanushka/ ,
+Hat from Route 66 https://www.instagram.com/route66store/
+
+
+![JD_NC_08.jpg](/uploads/JD_NC_08.jpg)
+
 Max wears: Chin Mens jacket from KOT-J
 https://www.instagram.com/shop.kot_j/ , Coach pants https://
 www.instagram.com/coach/

@@ -4,6 +4,7 @@ date: 2020-03-10 16:00:00 +11:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/JD_NC_03.jpg"
 Credits Text: "Photographer & Creative Direction by [Jo Duck](https://www.instagram.com/jo_duck/)
   at [Art Box Black](https://www.instagram.com/artboxblack/)\nFashion & Creative Direction
   by [Nicki Colbran](https://www.instagram.com/nickicolbran/) at [Union Management](http://www.unionmanagement.com.au/talent/nicki-colbran)

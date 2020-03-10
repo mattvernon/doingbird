@@ -22,13 +22,12 @@ Varsha (right) wears: [Bottega Veneta](https://www.instagram.com/bottegaveneta/)
 
 ![JD_NC_03.jpg](/uploads/JD_NC_03.jpg)
 
-Lesley (left) wears: Raey coat https://www.instagram.com/raeyofficial/ , Fendi
-shoes https://www.instagram.com/fendi/
-Doug (right) wears: Acne Studios shirt https://www.instagram.com/
-acnestudios/ , Z Zegna pants https://www.instagram.com/zegnaofficial/
+Lesley (left) wears: [Raey](https://www.instagram.com/raeyofficial/) coat, [Fendi](https://www.instagram.com/fendi/) shoes 
+Doug (right) wears: [Acne Studios](https://www.instagram.com/acnestudios/) shirt, [Z Zegna](https://www.instagram.com/zegnaofficial/) pants 
 
 
 ![JD_NC_04.jpg](/uploads/JD_NC_04.jpg)
+
 Isaac wears: Song for the Mute pants https://www.instagram.com/
 songforthemute/ , Nanushka shirt https://www.instagram.com/nanushka/ ,
 Hat from Route 66 https://www.instagram.com/route66store/

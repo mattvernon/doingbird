@@ -1,9 +1,11 @@
 ---
-title: Revelations
+title: JoDuck_NickiColbran
 date: 2020-03-10 16:00:00 +11:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/JD_NC_03.jpg"
+is featured?: true
 layout: gallery
 ---
 

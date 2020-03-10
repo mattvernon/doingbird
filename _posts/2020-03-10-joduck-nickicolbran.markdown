@@ -10,23 +10,18 @@ layout: gallery
 
 ![JD_NC_01.jpg](/uploads/JD_NC_01.jpg)
 
-Francis (left) wears: Acne Studios pants https://www.instagram.com/
-acnestudios/ , Ugg gloves https://www.instagram.com/ugg/
-Peter (right) wears: Yohji Yamamoto jacket from Reina https://
-www.instagram.com/reinamelbourne/ , Alexander McQueen shirt from Bruce
-https://www.instagram.com/shopbruce/ , Prada neck tie https://
-www.instagram.com/prada/ , Dior pants https://www.instagram.com/dior/ , Hat
-from Route 66 https://www.instagram.com/route66store/
+Francis (left) wears: [Acne Studios](https://www.instagram.com/acnestudios/) pants, [Ugg](https://www.instagram.com/ugg/) gloves.
+Peter (right) wears: Yohji Yamamoto jacket from [Reina](https://www.instagram.com/reinamelbourne/), Alexander McQueen shirt from [Bruce](https://www.instagram.com/shopbruce/), [Prada](https://www.instagram.com/prada/) neck tie, [Dior](https://www.instagram.com/dior/) pants, Hat
+from [Route 66](https://www.instagram.com/route66store/)
 
 ![JD_NC_02.jpg](/uploads/JD_NC_02.jpg)
-Joseph wears: Jean Paul Gaultier turtle neck from Reina https://
-www.instagram.com/reinamelbourne/
-Max (left) wears: Bottega Veneta https://
-www.instagram.com/bottegaveneta/
-Varsha (right) wears: Bottega Veneta https://
-www.instagram.com/bottegaveneta/
+
+Joseph wears: Jean Paul Gaultier turtle neck from [Reina ](https://www.instagram.com/reinamelbourne/)
+Max (left) wears: [Bottega Veneta ](https://www.instagram.com/bottegaveneta/)
+Varsha (right) wears: [Bottega Veneta](https://www.instagram.com/bottegaveneta/) 
 
 ![JD_NC_03.jpg](/uploads/JD_NC_03.jpg)
+
 Lesley (left) wears: Raey coat https://www.instagram.com/raeyofficial/ , Fendi
 shoes https://www.instagram.com/fendi/
 Doug (right) wears: Acne Studios shirt https://www.instagram.com/

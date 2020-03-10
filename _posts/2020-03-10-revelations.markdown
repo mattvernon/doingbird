@@ -22,20 +22,20 @@ from [Route 66](https://www.instagram.com/route66store/)
 
 ![JD_NC_02.jpg](/uploads/JD_NC_02.jpg)
 
-Joseph wears: Jean Paul Gaultier turtle neck from [Reina ](https://www.instagram.com/reinamelbourne/)
-Max (left) wears: [Bottega Veneta ](https://www.instagram.com/bottegaveneta/)
+Joseph wears: Jean Paul Gaultier turtle neck from [Reina ](https://www.instagram.com/reinamelbourne/).
+Max (left) wears: [Bottega Veneta ](https://www.instagram.com/bottegaveneta/).
 Varsha (right) wears: [Bottega Veneta](https://www.instagram.com/bottegaveneta/) 
 
 ![JD_NC_03.jpg](/uploads/JD_NC_03.jpg)
 
-Lesley (left) wears: [Raey](https://www.instagram.com/raeyofficial/) coat, [Fendi](https://www.instagram.com/fendi/) shoes 
+Lesley (left) wears: [Raey](https://www.instagram.com/raeyofficial/) coat, [Fendi](https://www.instagram.com/fendi/) shoes.
 Doug (right) wears: [Acne Studios](https://www.instagram.com/acnestudios/) shirt, [Z Zegna](https://www.instagram.com/zegnaofficial/) pants 
 
 
 ![JD_NC_04.jpg](/uploads/JD_NC_04.jpg)
 
 Isaac wears: Song for the Mute pants https://www.instagram.com/
-songforthemute/ , Nanushka shirt https://www.instagram.com/nanushka/ ,
+songforthemute/, Nanushka shirt https://www.instagram.com/nanushka/,
 Hat from Route 66 https://www.instagram.com/route66store/
 
 
@@ -45,8 +45,8 @@ Monica wears: [Chanel](https://www.instagram.com/chanelofficial/) coat and earri
 
 ![JD_NC_06.jpg](/uploads/JD_NC_06.jpg)
 
-Max (left) wears: [Bottega Veneta ](https://www.instagram.com/bottegaveneta/)
-Varsha (right) wears: [Bottega Veneta](https://www.instagram.com/bottegaveneta/) 
+Max (left) wears: [Bottega Veneta ](https://www.instagram.com/bottegaveneta/).
+Varsha (right) wears: [Bottega Veneta](https://www.instagram.com/bottegaveneta/). 
 Extra (far left) wears: [Hugo Boss](https://www.instagram.com/boss/) suit, [Bottega Veneta](https://www.instagram.com/bottegaveneta/) shoes
 
 ![JD_NC_07.jpg](/uploads/JD_NC_07.jpg)
@@ -64,7 +64,7 @@ Joseph wears: Jean Paul Gaultier turtleneck from [Reina](https://www.instagram.c
 
 ![JD_NC_10.jpg](/uploads/JD_NC_10.jpg)
 
-Max (left) wears: [Coach](https://www.instagram.com/coach/) pants, [Ermenegildo Zegna](https://www.instagram.com/zegnaofficial/) Couture jacket 
+Max (left) wears: [Coach](https://www.instagram.com/coach/) pants, [Ermenegildo Zegna](https://www.instagram.com/zegnaofficial/) Couture jacket. 
 Varsha (right) wears: [Raey](https://www.instagram.com/raeyofficial/) shirt, [Rika Studios](https://www.instagram.com/rikastudios_/) pants
 
 ![JD_NC_11.jpg](/uploads/JD_NC_11.jpg)

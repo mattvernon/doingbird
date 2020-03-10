@@ -35,10 +35,10 @@ Hat from Route 66 https://www.instagram.com/route66store/
 
 ![JD_NC_05.jpg](/uploads/JD_NC_05.jpg)
 
-Monica wears: Chanel coat, Chanel earrings https://www.instagram.com/
-chanelofficial/
+Monica wears: [Chanel](https://www.instagram.com/chanelofficial/) coat and earrings 
 
 ![JD_NC_06.jpg](/uploads/JD_NC_06.jpg)
+
 Max (left) wears: Bottega Veneta https://www.instagram.com/
 bottegaveneta/
 Varsha (right) wears: Bottega Veneta https://

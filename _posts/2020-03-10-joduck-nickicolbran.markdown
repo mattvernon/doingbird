@@ -67,7 +67,4 @@ Max wears: Chin Mens jacket from [KOT-J](https://www.instagram.com/shop.kot_j/),
 
 ![JD_NC_12.jpg](/uploads/JD_NC_12.jpg)
 
-Isaac wears: Song for the Mute pants and shoes https://
-www.instagram.com/songforthemute/ , Nanushka shirt https://
-www.instagram.com/nanushka/ , Hat from Route 66 https://
-www.instagram.com/route66store/
+Isaac wears: [Song for the Mute](https://www.instagram.com/songforthemute/) pants and shoes, [Nanushka](https://www.instagram.com/nanushka/) shirt, Hat from [Route 66](https://www.instagram.com/route66store/)

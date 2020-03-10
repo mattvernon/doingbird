@@ -1,7 +1,8 @@
 ---
-title: Please Keep This Music a Secret
+title: Please Keep This Music A Secret
 date: 2020-03-10 11:24:00 +11:00
 published: false
+Main Image: "/uploads/image1-2e4fdc.jpeg"
 Credits Text: "Images by Sarah White shot on the Canary Islands\nhttps://www.instagram.com/sarah._._.white/\n\nEditor
   Laila Sakini \nhttps://www.instagram.com/lailasakini/\n"
 ---

@@ -54,34 +54,12 @@ www.instagram.com/bottegaveneta/
 
 ![JD_NC_07.jpg](/uploads/JD_NC_07.jpg)
 
-Max wears: Chin Mens jacket from KOT-J
-https://www.instagram.com/shop.kot_j/ , Coach pants https://
-www.instagram.com/coach/
-Isaac wears: Song for the Mute pants https://www.instagram.com/
-songforthemute/ , Nanushka shirt https://www.instagram.com/nanushka/ ,
-Hat from Route 66 https://www.instagram.com/route66store/
-
+Jade wears: MM6 dress from KOT-J https://www.instagram.com/shop.kot_j/ ,
+Burberry coat https://www.instagram.com/burberry/
 
 ![JD_NC_08.jpg](/uploads/JD_NC_08.jpg)
 
-Max wears: Chin Mens jacket from KOT-J
-https://www.instagram.com/shop.kot_j/ , Coach pants https://
-www.instagram.com/coach/
-Isaac wears: Song for the Mute pants https://www.instagram.com/
-songforthemute/ , Nanushka shirt https://www.instagram.com/nanushka/ ,
-Hat from Route 66 https://www.instagram.com/route66store/
-Monica wears: Chanel coat, Chanel earrings https://www.instagram.com/
-chanelofficial/
-Emily wears: Prada blouse (worn underneath) https://
-www.instagram.com/prada/ , Rika Studios leather shirt https://
-www.instagram.com/rikastudios_/ , Simone Rocha necklace from Bruce
-https://www.instagram.com/shopbruce/
-Joseph wears: Jean Paul Gaultier turtleneck from Reina https://
-www.instagram.com/reinamelbourne/ , Prada shorts, socks and boots
-https://www.instagram.com/prada/ , Song for the Mute shirt https://
-www.instagram.com/songforthemute/
-Extra (right):Song for the Mute shirt https://www.instagram.com/
-songforthemute/
+
 
 ![JD_NC_09.jpg](/uploads/JD_NC_09.jpg)
 

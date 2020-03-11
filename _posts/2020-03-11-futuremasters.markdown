@@ -55,12 +55,19 @@ Credits Text: "RMIT Master of Fashion (Design)\Lhttps://www.instagram.com/rmitmo
 ![Jake Liuimg169.jpg](/uploads/Jake%20Liuimg169.jpg)
 ![Jake Liu_img162.jpg](/uploads/Jake%20Liu_img162.jpg)
 
-JULIA BRIDLE
+[JULIA BRIDLE](https://www.instagram.com/bridle.j/)
+
 ![Julia_Bridle_img216.jpg](/uploads/Julia_Bridle_img216.jpg)
+
+[RUOYU WANG](https://www.instagram.com/yumiii.wang/)
 
 ![Ruoyu_Wang_img145.jpg](/uploads/Ruoyu_Wang_img145.jpg)
 
+[SRINVANTI ROY](https://www.instagram.com/shrin_1993roy/)
+
 ![Srinvanti_Roy_img423.jpg](/uploads/Srinvanti_Roy_img423.jpg)
+
+[QING WEI](https://www.instagram.com/kin_wq/)
 
 ![Qing Wei_img200.jpg](/uploads/Qing%20Wei_img200.jpg)
 ![Qing Wei_img202.jpg](/uploads/Qing%20Wei_img202.jpg)

@@ -4,9 +4,11 @@ date: 2020-03-11 15:32:00 +11:00
 published: false
 categories:
 - Fashion
-Credits Text: "RMIT Master of Fashion (Design)\Lhttps://www.instagram.com/rmitmofd/?hl=en\Lhttps://afs.rmit.fashion/\n\nPhotographer
-  Agnieszka Chabros  \Lhttps://www.instagram.com/achabros/\L\nStylist Stuart Walford
-  @stuart_walford  \LHair & Make Up Xeneb Allen and team @curlysiouxsie     \n\n\n"
+Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabros/) 
+  \L\nStylist [Stuart Walford ](https://www.instagram.com/stuart_walford/) \n\LHair
+  & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team  \n\nAll
+  designers graduated from [RMIT Master of Fashion (Design)\L ](https://www.instagram.com/rmitmofd/?hl=en)
+  in 2019 \n\nhttps://afs.rmit.fashion/\n"
 ---
 
 [Syna Chen](https://www.instagram.com/synachen/)

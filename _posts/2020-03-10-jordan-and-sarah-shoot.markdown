@@ -7,6 +7,7 @@ Credits Text: "Photography Jordan Drysdale \nDirection & Styling Sarah Pritchard
   Stevens \nAssistant HMU Gemma Victoria & Kahlii Morrison\nModels Adam @ People Agency,
   Sang @ Chadwicks, Ayuol @ Chadwicks, Lim @ Chadwicks, \nBoni @ Chadwicks, Bisahr
   @ Duval \n"
+layout: gallery
 ---
 
 

@@ -4,10 +4,11 @@ date: 2020-03-10 15:42:00 +11:00
 published: false
 Credits Text: "Photography [Jordan Drysdale](https://www.instagram.com/jordandrysdale/)
   \nDirection & Styling [Sarah Pritchard ](https://www.instagram.com/sar4hcant/)\nHair
-  & Makeup [Xeneb Allen](https://www.instagram.com/curlysiouxsie/), using Kevin Murphy
-  & Fenty beauty\nAssistant stylist Will Stevens \nAssistant HMU Gemma Victoria &
-  Kahlii Morrison\nModels Adam @ People Agency, Sang @ Chadwicks, Ayuol @ Chadwicks,
-  Lim @ Chadwicks, \nBoni @ Chadwicks, Bisahr @ Duval \n"
+  & Makeup [Xeneb Allen](https://www.instagram.com/curlysiouxsie/), using [Kevin Murphy](https://www.instagram.com/kevin.murphy/)
+  & [Fenty beauty](https://www.instagram.com/fentybeauty/)\nAssistant stylist Will
+  Stevens \nAssistant HMU Gemma Victoria & Kahlii Morrison\nModels Adam @ People Agency,
+  Sang @ Chadwicks, Ayuol @ Chadwicks, Lim @ Chadwicks, \nBoni @ Chadwicks, Bisahr
+  @ Duval \n"
 layout: gallery
 ---
 

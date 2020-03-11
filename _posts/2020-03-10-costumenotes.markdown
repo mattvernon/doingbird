@@ -1,5 +1,5 @@
 ---
-title: Jordan & sarah shoot
+title: Costume Notes
 date: 2020-03-10 15:42:00 +11:00
 published: false
 Credits Text: "Photography Jordan Drysdale \nDirection & Styling Sarah Pritchard \nHair

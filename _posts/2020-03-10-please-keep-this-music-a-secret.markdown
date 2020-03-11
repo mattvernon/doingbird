@@ -3,8 +3,12 @@ title: Please Keep This Music A Secret
 date: 2020-03-10 11:24:00 +11:00
 published: false
 Main Image: "/uploads/image1-2e4fdc.jpeg"
-Credits Text: "Images by Sarah White shot on the Canary Islands\nhttps://www.instagram.com/sarah._._.white/\n\nEditor
-  Laila Sakini \nhttps://www.instagram.com/lailasakini/\n"
+Credits Text: |+
+  Editor [Laila Sakini ](https://www.instagram.com/lailasakini/)
+
+  Images by [Sarah White](https://www.instagram.com/sarah._._.white/) shot on the Canary Islands
+
+
 ---
 
 Founder of London's Purely Physical Teeny Tapes label George Beleznay gives photographer Sarah White access to his vast collection as he shares the stories of how they came to be such special items in his world.  

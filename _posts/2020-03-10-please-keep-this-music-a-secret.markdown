@@ -39,6 +39,6 @@ Killer fuzzy analogue techno from Wilted Woman. This was the first tape of hers 
 TOOTHY SWEDE “ROOTS EXTRACTION” – GOOD MORNING TAPES, 2018
 
 
-Bo Staffan Stahlman AKA Toothy Swede is actually an old friend of mine from Brisbane circa 2004–05. I remember buying weed from him at the time and he’d always give it to me in these brown sandwich bags that he’d decorated with cool child-like pictures using sharpies and highlighter pens. I still have these! Now he has one of the best collections of reggae and dub 45s in all of Australia I hear, from which he’s compiled this mixtape. On the Good Morning Tapes label that a guy known as Biscuit runs—he releases great music and silly expensive T-shirts always with cool trippy artwork. 
+Bo AKA Toothy Swede is actually an old friend of mine from Brisbane circa 2004–05. I remember buying weed from him at the time and he’d always give it to me in these brown sandwich bags that he’d decorated with cool child-like pictures using sharpies and highlighter pens. I still have these! Now he has one of the best collections of reggae and dub 45s in all of Australia I hear, from which he’s compiled this mixtape. On the Good Morning Tapes label that a guy known as Biscuit runs—he releases great music and silly expensive T-shirts always with cool trippy artwork. 
 
 

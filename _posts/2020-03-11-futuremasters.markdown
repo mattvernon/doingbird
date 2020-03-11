@@ -33,7 +33,6 @@ Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabr
 [KIM CLARK ](https://www.instagram.com/kimoclark/)
 
 ![KIM_CLARK_img065.jpg](/uploads/KIM_CLARK_img065.jpg)
-![KIM_CLARK_img080.jpg](/uploads/KIM_CLARK_img080.jpg)
 ![KIM_CLARK_img075.jpg](/uploads/KIM_CLARK_img075.jpg)
 
 [MINJIA LI](https://www.instagram.com/minlee616/)

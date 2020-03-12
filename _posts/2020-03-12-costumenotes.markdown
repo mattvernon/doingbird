@@ -1,6 +1,6 @@
 ---
 title: Costume Notes
-date: 2020-03-10 15:42:00 +11:00
+date: 2020-03-12 17:30:00 +11:00
 categories:
 - Fashion
 Main Image: "/uploads/3%20Costume_Shot%2006_Set.jpg"

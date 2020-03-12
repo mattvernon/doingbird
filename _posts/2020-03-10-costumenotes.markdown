@@ -30,16 +30,16 @@ Right - Ayuol wears [PRADA](https://www.instagram.com/prada/) jacket, blouse & s
 
 ![5 Costume_Shot 04_0114.jpg](/uploads/5%20Costume_Shot%2004_0114.jpg)
 Left - Lim wears dress (over) & shoes [JENNY FAX](https://www.instagram.com/jennyfax.official/), dress (under) [ROMANCE WAS BORN](https://www.instagram.com/romancewasborn/), socks [PERKS & MINI](https://www.instagram.com/perksandmini/), scarf (worn as bag strap) [PRADA](https://www.instagram.com/prada/), hat stylist’s own.
-Right - Sang wears tank [Jimmy D](https://www.instagram.com/jimmyd_was_here/), blouse [Jordan Dalah](https://www.instagram.com/jordandalahstudio/) 
+Right - Sang wears tank [JIMMY D](https://www.instagram.com/jimmyd_was_here/), blouse [JORDAN DALAH](https://www.instagram.com/jordandalahstudio/) 
 
 ![6 Costume_Shot 05_0143.jpg](/uploads/6%20Costume_Shot%2005_0143.jpg)
 
-Left - Boni wears jacket [Moncler](https://www.instagram.com/moncler/) Genius [Simone Rocha](https://www.instagram.com/simonerocha_/), skirt [Jordan Dalah](https://www.instagram.com/jordandalahstudio/), shoes [GARBAGE TV](https://www.instagram.com/garbagetv_/), hat [Bernard Willhelm](https://www.instagram.com/bernhardwillhelm/).
-Right - Adam wears jacket [Perks & Mini](https://www.instagram.com/perksandmini/), blouse [PRADA](https://www.instagram.com/prada/)
+Left - Boni wears jacket [MONCLER](https://www.instagram.com/moncler/) Genius [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), skirt [JORDAN DALAH](https://www.instagram.com/jordandalahstudio/), shoes [GARBAGE TV](https://www.instagram.com/garbagetv_/), hat [BERNARD WILLHELM](https://www.instagram.com/bernhardwillhelm/).
+Right - Adam wears jacket [PERKS & MINI](https://www.instagram.com/perksandmini/), blouse [PRADA](https://www.instagram.com/prada/)
 
 ![7 Costume_Shot 04_0082.jpg](/uploads/7%20Costume_Shot%2004_0082.jpg)
 
-Left - Lim wears dress (over) & shoes [Jenny Fax](https://www.instagram.com/jennyfax.official/), dress (under) [Romance Was Born](https://www.instagram.com/romancewasborn/), socks [Perks & Mini](https://www.instagram.com/perksandmini/), scarf (worn as bag strap) [PRADA](https://www.instagram.com/prada/), hat stylist’s own.
+Left - Lim wears dress (over) & shoes [JENNY FAX](https://www.instagram.com/jennyfax.official/), dress (under) [ROMANCE WAS BORN](https://www.instagram.com/romancewasborn/), socks [Perks & Mini](https://www.instagram.com/perksandmini/), scarf (worn as bag strap) [PRADA](https://www.instagram.com/prada/), hat stylist’s own.
 Right - Sang wears tank [Jimmy D](https://www.instagram.com/jimmyd_was_here/), blouse [Jordan Dalah ](https://www.instagram.com/jordandalahstudio/)
 
 ![8 Costume_Shot 09_0070.jpg](/uploads/8%20Costume_Shot%2009_0070.jpg)

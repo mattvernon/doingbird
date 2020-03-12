@@ -22,15 +22,15 @@ layout: gallery
 As the university year starts again here in Australia we look back at some very impressive graduate work from students of the Master of Fashion (Design) degree at RMIT in Melbourne. 
 
 [Syna Chen](https://www.instagram.com/synachen/)
-
 ![Syna Chen_img288.jpg](/uploads/Syna%20Chen_img288.jpg)
 ![Syna Chen_img300.jpg](/uploads/Syna%20Chen_img300.jpg)
-![Syna Chen_img255.jpg](/uploads/Syna%20Chen_img255.jpg)
-![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
-![Syna Chen_iimg309.jpg](/uploads/Syna%20Chen_iimg309.jpg)
+![Syna Chen_img255-d47620.jpg](/uploads/Syna%20Chen_img255-d47620.jpg)
+![Syna Chen_img266-e30d36.jpg](/uploads/Syna%20Chen_img266-e30d36.jpg)
+![Syna Chen_iimg309-6efc7d.jpg](/uploads/Syna%20Chen_iimg309-6efc7d.jpg)
 ![Syna Chen_img282.jpg](/uploads/Syna%20Chen_img282.jpg)
-![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
-![Syna Chen_img280.jpg](/uploads/Syna%20Chen_img280.jpg)
+![Syna Chen_img271-fafbf7.jpg](/uploads/Syna%20Chen_img271-fafbf7.jpg)
+![Syna Chen_img280-2afebf.jpg](/uploads/Syna%20Chen_img280-2afebf.jpg)
+
 
 
 [ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 

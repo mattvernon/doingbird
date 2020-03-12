@@ -47,5 +47,5 @@ Left - Lim wears dress (over) & shoes [JENNY FAX](https://www.instagram.com/jenn
 Right - Sang wears tank [JIMMY D](https://www.instagram.com/jimmyd_was_here/), blouse [Jordan Dalah ](https://www.instagram.com/jordandalahstudio/)
 
 ![8 Costume_Shot 09_0070.jpg](/uploads/8%20Costume_Shot%2009_0070.jpg)
-Left - Ayuol wears full look [PRADA](https://www.instagram.com/prada/), shoes [Miu Miu](https://www.instagram.com/miumiu/).
+Left - Ayuol wears full look [PRADA](https://www.instagram.com/prada/), shoes [MIU MIU](https://www.instagram.com/miumiu/).
 Right - Bisahr wears top [Jordan Dalah](https://www.instagram.com/jordandalahstudio/), hat [PRADA](https://www.instagram.com/prada/)

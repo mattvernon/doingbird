@@ -16,6 +16,7 @@ Credits Text: |-
   ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
 
   https://afs.rmit.fashion/
+layout: gallery
 ---
 
 As the university year starts again here in Australia we look back at some very impressive graduate work from students of the Master of Fashion (Design) degree at RMIT in Melbourne. 

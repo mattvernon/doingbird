@@ -47,7 +47,6 @@ As the university year starts again here in Australia we look back at some very 
 [MINJIA LI](https://www.instagram.com/minlee616/)
 
 ![Minjia Li_img232.jpg](/uploads/Minjia%20Li_img232.jpg)
-![Minjia Li_img231.jpg](/uploads/Minjia%20Li_img231.jpg)
 ![Minjia Li_img238.jpg](/uploads/Minjia%20Li_img238.jpg)
 
 [KURT VAN VELZEN](https://www.instagram.com/___kurtvanvelzen/)
@@ -63,7 +62,6 @@ As the university year starts again here in Australia we look back at some very 
 
 ![Jake Liu_img170.jpg](/uploads/Jake%20Liu_img170.jpg)
 ![Jake Liuimg169.jpg](/uploads/Jake%20Liuimg169.jpg)
-![Jake Liu_img162.jpg](/uploads/Jake%20Liu_img162.jpg)
 
 [JULIA BRIDLE](https://www.instagram.com/bridle.j/)
 
@@ -80,4 +78,3 @@ As the university year starts again here in Australia we look back at some very 
 [QING WEI](https://www.instagram.com/kin_wq/)
 
 ![Qing Wei_img200.jpg](/uploads/Qing%20Wei_img200.jpg)
-![Qing Wei_img202.jpg](/uploads/Qing%20Wei_img202.jpg)

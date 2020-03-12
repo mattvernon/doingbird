@@ -1,7 +1,6 @@
 ---
 title: Costume Notes
 date: 2020-03-10 15:42:00 +11:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/3%20Costume_Shot%2006_Set.jpg"
@@ -14,6 +13,7 @@ Credits Text: "Photography [Jordan Drysdale](https://www.instagram.com/jordandry
   [Ayuol](https://www.instagram.com/majesticflamingo/), [Lim](https://www.instagram.com/lim_g_le2/)
   & \nBoni at [Chadwicks](https://www.instagram.com/chadwickmodels/), [Bisahr](https://www.instagram.com/bisaahr/)
   at [Duval](https://www.instagram.com/duval.agency/) \n"
+is featured?: true
 layout: gallery
 ---
 

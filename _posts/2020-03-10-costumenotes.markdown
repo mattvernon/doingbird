@@ -24,6 +24,8 @@ Left - Sang wears [MIU MIU](https://www.instagram.com/miumiu/) shirt & jacket, h
 Right - Lim wears jacket [Moncler](https://www.instagram.com/moncler/) Genius Grenoble, hat Final Home
 
 ![4 Costume_Shot 07_0129.jpg](/uploads/4%20Costume_Shot%2007_0129.jpg)
+
+
 Left - Boni wears jacket [Moncler ](https://www.instagram.com/moncler/)Genius [Simone Rocha](https://www.instagram.com/simonerocha_/), skirt [Jordan Dalah](https://www.instagram.com/jordandalahstudio/), shoes [GARBAGE TV](https://www.instagram.com/garbagetv_/), hat [Bernard Willhelm](https://www.instagram.com/bernhardwillhelm/).
 Right - Ayuol wears [PRADA](https://www.instagram.com/prada/) Jacket, blouse & scarf as headpiece 
 
@@ -36,6 +38,7 @@ Left - Boni wears jacket [Moncler](https://www.instagram.com/moncler/) Genius [S
 Right - Adam wears jacket [Perks & Mini](https://www.instagram.com/perksandmini/), blouse [PRADA](https://www.instagram.com/prada/)
 
 ![7 Costume_Shot 04_0082.jpg](/uploads/7%20Costume_Shot%2004_0082.jpg)
+
 Left - Lim wears dress (over) & shoes [Jenny Fax](https://www.instagram.com/jennyfax.official/), dress (under) [Romance Was Born](https://www.instagram.com/romancewasborn/), socks [Perks & Mini](https://www.instagram.com/perksandmini/), scarf (worn as bag strap) [PRADA](https://www.instagram.com/prada/), hat stylist’s own.
 Right - Sang wears tank [Jimmy D](https://www.instagram.com/jimmyd_was_here/), blouse [Jordan Dalah ](https://www.instagram.com/jordandalahstudio/)
 

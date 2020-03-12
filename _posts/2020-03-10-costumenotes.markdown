@@ -1,7 +1,6 @@
 ---
 title: Costume Notes
 date: 2020-03-10 15:42:00 +11:00
-published: false
 categories:
 - Fashion
 Credits Text: "Photography [Jordan Drysdale](https://www.instagram.com/jordandrysdale/)

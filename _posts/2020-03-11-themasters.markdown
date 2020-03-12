@@ -4,12 +4,22 @@ date: 2020-03-11 15:32:00 +11:00
 published: false
 categories:
 - Fashion
-Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabros/) 
-  \L\nStylist [Stuart Walford ](https://www.instagram.com/stuart_walford/) \n\LHair
-  & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team  \n\nAll
-  designers graduated from [RMIT Master of Fashion (Design)\L ](https://www.instagram.com/rmitmofd/?hl=en)
-  in 2019 \n\nhttps://afs.rmit.fashion/\n"
+Main Image: "/uploads/Syna%20Chen_img255.jpg"
+Credits Text: |-
+  Photographer [Agnieszka Chabros](https://www.instagram.com/achabros/)
+
+  Stylist [Stuart Walford ](https://www.instagram.com/stuart_walford/)
+
+  Hair & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team
+
+  All designers graduated from [RMIT Master of Fashion (Design)
+  ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
+
+  https://afs.rmit.fashion/
+layout: gallery
 ---
+
+As the university year starts again here in Australia we look back at some very impressive graduate work from students of the Master of Fashion (Design) degree at RMIT in Melbourne. 
 
 [Syna Chen](https://www.instagram.com/synachen/)
 
@@ -38,7 +48,6 @@ Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabr
 [MINJIA LI](https://www.instagram.com/minlee616/)
 
 ![Minjia Li_img232.jpg](/uploads/Minjia%20Li_img232.jpg)
-![Minjia Li_img231.jpg](/uploads/Minjia%20Li_img231.jpg)
 ![Minjia Li_img238.jpg](/uploads/Minjia%20Li_img238.jpg)
 
 [KURT VAN VELZEN](https://www.instagram.com/___kurtvanvelzen/)
@@ -54,7 +63,6 @@ Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabr
 
 ![Jake Liu_img170.jpg](/uploads/Jake%20Liu_img170.jpg)
 ![Jake Liuimg169.jpg](/uploads/Jake%20Liuimg169.jpg)
-![Jake Liu_img162.jpg](/uploads/Jake%20Liu_img162.jpg)
 
 [JULIA BRIDLE](https://www.instagram.com/bridle.j/)
 
@@ -71,4 +79,3 @@ Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabr
 [QING WEI](https://www.instagram.com/kin_wq/)
 
 ![Qing Wei_img200.jpg](/uploads/Qing%20Wei_img200.jpg)
-![Qing Wei_img202.jpg](/uploads/Qing%20Wei_img202.jpg)

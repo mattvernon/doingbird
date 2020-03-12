@@ -1,8 +1,10 @@
 ---
 title: Costume Notes
 date: 2020-03-10 15:42:00 +11:00
+published: false
 categories:
 - Fashion
+Main Image: "/uploads/3%20Costume_Shot%2006_Set.jpg"
 Credits Text: "Photography [Jordan Drysdale](https://www.instagram.com/jordandrysdale/)
   \nDirection & Styling [Sarah Pritchard ](https://www.instagram.com/sar4hcant/)\nHair
   & Makeup [Xeneb Allen](https://www.instagram.com/curlysiouxsie/), using [Kevin Murphy](https://www.instagram.com/kevin.murphy/)

@@ -39,8 +39,8 @@ Right - Adam wears jacket [PERKS & MINI](https://www.instagram.com/perksandmini/
 
 ![7 Costume_Shot 04_0082.jpg](/uploads/7%20Costume_Shot%2004_0082.jpg)
 
-Left - Lim wears dress (over) & shoes [JENNY FAX](https://www.instagram.com/jennyfax.official/), dress (under) [ROMANCE WAS BORN](https://www.instagram.com/romancewasborn/), socks [Perks & Mini](https://www.instagram.com/perksandmini/), scarf (worn as bag strap) [PRADA](https://www.instagram.com/prada/), hat stylist’s own.
-Right - Sang wears tank [Jimmy D](https://www.instagram.com/jimmyd_was_here/), blouse [Jordan Dalah ](https://www.instagram.com/jordandalahstudio/)
+Left - Lim wears dress (over) & shoes [JENNY FAX](https://www.instagram.com/jennyfax.official/), dress (under) [ROMANCE WAS BORN](https://www.instagram.com/romancewasborn/), socks [PERKS & MINI](https://www.instagram.com/perksandmini/), scarf (worn as bag strap) [PRADA](https://www.instagram.com/prada/), hat stylist’s own.
+Right - Sang wears tank [JIMMY D](https://www.instagram.com/jimmyd_was_here/), blouse [Jordan Dalah ](https://www.instagram.com/jordandalahstudio/)
 
 ![8 Costume_Shot 09_0070.jpg](/uploads/8%20Costume_Shot%2009_0070.jpg)
 Left - Ayuol wears full look [PRADA](https://www.instagram.com/prada/), shoes [Miu Miu](https://www.instagram.com/miumiu/).

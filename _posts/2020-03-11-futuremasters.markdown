@@ -11,6 +11,8 @@ Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabr
   in 2019 \n\nhttps://afs.rmit.fashion/\n"
 ---
 
+As the university year starts again here in Australia we look back at some very impressive graduate work from students of the Master of Fashion (Design) degree at RMIT in Melbourne. 
+
 [Syna Chen](https://www.instagram.com/synachen/)
 
 ![Syna Chen_img288.jpg](/uploads/Syna%20Chen_img288.jpg)

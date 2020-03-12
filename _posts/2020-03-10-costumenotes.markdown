@@ -25,7 +25,6 @@ Right - Lim wears jacket [Moncler](https://www.instagram.com/moncler/) Genius Gr
 
 ![4 Costume_Shot 07_0129.jpg](/uploads/4%20Costume_Shot%2007_0129.jpg)
 
-
 Left - Boni wears jacket [Moncler ](https://www.instagram.com/moncler/)Genius [Simone Rocha](https://www.instagram.com/simonerocha_/), skirt [Jordan Dalah](https://www.instagram.com/jordandalahstudio/), shoes [GARBAGE TV](https://www.instagram.com/garbagetv_/), hat [Bernard Willhelm](https://www.instagram.com/bernhardwillhelm/).
 Right - Ayuol wears [PRADA](https://www.instagram.com/prada/) Jacket, blouse & scarf as headpiece 
 

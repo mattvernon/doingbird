@@ -16,16 +16,16 @@ layout: gallery
 
 
 ![1 Costume_Shot 08_0043.jpg](/uploads/1%20Costume_Shot%2008_0043.jpg)
-Left - Adam wears jacket [Perks & Mini](https://www.instagram.com/perksandmini/), blouse [PRADA](https://www.instagram.com/prada/).
-Right - Bisahr wears jumpsuit [Moncler](https://www.instagram.com/moncler/) Genius Grenoble, shoes stylist’s own
+Left - Adam wears jacket [PERKS & MINI](https://www.instagram.com/perksandmini/), blouse [PRADA](https://www.instagram.com/prada/).
+Right - Bisahr wears jumpsuit [MONCLER](https://www.instagram.com/moncler/) Genius Grenoble, shoes stylist’s own
 
 ![2 Costume_Shot 01_0189.jpg](/uploads/2%20Costume_Shot%2001_0189.jpg)
 Left - Sang wears [MIU MIU](https://www.instagram.com/miumiu/) shirt & jacket, hat stylist’s own.
-Right - Lim wears jacket [Moncler](https://www.instagram.com/moncler/) Genius Grenoble, hat Final Home
+Right - Lim wears jacket [MONCLER](https://www.instagram.com/moncler/) Genius Grenoble, hat Final Home
 
 ![4 Costume_Shot 07_0129.jpg](/uploads/4%20Costume_Shot%2007_0129.jpg)
 
-Left - Boni wears jacket [Moncler ](https://www.instagram.com/moncler/)Genius [Simone Rocha](https://www.instagram.com/simonerocha_/), skirt [Jordan Dalah](https://www.instagram.com/jordandalahstudio/), shoes [GARBAGE TV](https://www.instagram.com/garbagetv_/), hat [Bernard Willhelm](https://www.instagram.com/bernhardwillhelm/).
+Left - Boni wears jacket [MONCLER](https://www.instagram.com/moncler/)Genius [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), skirt [JORDAN DALAH](https://www.instagram.com/jordandalahstudio/), shoes [GARBAGE TV](https://www.instagram.com/garbagetv_/), hat [Bernard Willhelm](https://www.instagram.com/bernhardwillhelm/).
 Right - Ayuol wears [PRADA](https://www.instagram.com/prada/) Jacket, blouse & scarf as headpiece 
 
 ![5 Costume_Shot 04_0114.jpg](/uploads/5%20Costume_Shot%2004_0114.jpg)

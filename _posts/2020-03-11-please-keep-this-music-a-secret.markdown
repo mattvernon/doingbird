@@ -14,7 +14,7 @@ Credits Text: |+
   Images by [Sarah White](https://www.instagram.com/sarah._._.white/) shot on the Canary Islands
 
 
-is featured?: true
+is featured?: false
 layout: gallery
 ---
 

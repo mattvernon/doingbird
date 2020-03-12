@@ -4,6 +4,9 @@ date: 2020-03-11 17:00:00 +11:00
 published: false
 categories:
 - Features
+tags:
+- music
+- art
 Main Image: "/uploads/image1-2e4fdc.jpeg"
 Credits Text: |+
   Editor [Laila Sakini ](https://www.instagram.com/lailasakini/)
@@ -12,6 +15,7 @@ Credits Text: |+
 
 
 is featured?: true
+layout: gallery
 ---
 
 Founder of London's Purely Physical Teeny Tapes label George Beleznay gives photographer Sarah White access to his vast collection as he shares the stories of how they came to be such special items in his world.  

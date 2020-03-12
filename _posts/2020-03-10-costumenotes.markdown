@@ -18,6 +18,7 @@ layout: gallery
 
 
 ![1 Costume_Shot 08_0043.jpg](/uploads/1%20Costume_Shot%2008_0043.jpg)
+
 Left - Adam wears jacket [PERKS & MINI](https://www.instagram.com/perksandmini/), blouse [PRADA](https://www.instagram.com/prada/).
 Right - Bisahr wears jumpsuit [MONCLER](https://www.instagram.com/moncler/) Genius Grenoble, shoes stylist’s own
 

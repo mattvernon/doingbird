@@ -8,9 +8,11 @@ Credits Text: "Photography [Jordan Drysdale](https://www.instagram.com/jordandry
   \nDirection & Styling [Sarah Pritchard ](https://www.instagram.com/sar4hcant/)\nHair
   & Makeup [Xeneb Allen](https://www.instagram.com/curlysiouxsie/), using [Kevin Murphy](https://www.instagram.com/kevin.murphy/)
   & [Fenty beauty](https://www.instagram.com/fentybeauty/)\nAssistant stylist Will
-  Stevens \nAssistant HMU Gemma Victoria & Kahlii Morrison\nModels Adam @ People Agency,
-  Sang @ Chadwicks, Ayuol @ Chadwicks, Lim @ Chadwicks, \nBoni @ Chadwicks, Bisahr
-  @ Duval \n"
+  Stevens \nAssistant HMU Gemma Victoria & Kahlii Morrison\nModels [Adam](https://www.instagram.com/eat.slug/)
+  at [People Agency](https://www.instagram.com/people.agency/), [Sang](https://www.instagram.com/dohermann_/),
+  [Ayuol](https://www.instagram.com/majesticflamingo/), [Lim](https://www.instagram.com/lim_g_le2/)
+  & \nBoni at [Chadwicks](https://www.instagram.com/chadwickmodels/), [Bisahr](https://www.instagram.com/bisaahr/)
+  at [Duval](https://www.instagram.com/duval.agency/) \n"
 layout: gallery
 ---
 

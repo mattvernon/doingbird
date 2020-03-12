@@ -4,11 +4,18 @@ date: 2020-03-11 15:32:00 +11:00
 published: false
 categories:
 - Fashion
-Credits Text: "Photographer [Agnieszka Chabros](https://www.instagram.com/achabros/) 
-  \L\nStylist [Stuart Walford ](https://www.instagram.com/stuart_walford/) \n\LHair
-  & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team  \n\nAll
-  designers graduated from [RMIT Master of Fashion (Design)\L ](https://www.instagram.com/rmitmofd/?hl=en)
-  in 2019 \n\nhttps://afs.rmit.fashion/\n"
+Main Image: "/uploads/Syna%20Chen_img255.jpg"
+Credits Text: |-
+  Photographer [Agnieszka Chabros](https://www.instagram.com/achabros/)
+
+  Stylist [Stuart Walford ](https://www.instagram.com/stuart_walford/)
+
+  Hair & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team
+
+  All designers graduated from [RMIT Master of Fashion (Design)
+  ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
+
+  https://afs.rmit.fashion/
 ---
 
 As the university year starts again here in Australia we look back at some very impressive graduate work from students of the Master of Fashion (Design) degree at RMIT in Melbourne. 

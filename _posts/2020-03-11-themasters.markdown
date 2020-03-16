@@ -21,31 +21,27 @@ layout: gallery
 
 It's weird times right now so here's some very impressive work from last years graduates of the Master of Fashion (Design) degree at RMIT in Melbourne. 
 
-[SYNA CHEN](https://www.instagram.com/synachen/)
-
 ![Syna Chen_img255.jpg](/uploads/Syna%20Chen_img255.jpg)
 ![Syna Chen_img300.jpg](/uploads/Syna%20Chen_img300.jpg)
 ![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
 ![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
+[SYNA CHEN](https://www.instagram.com/synachen/)
 
-[KURT VAN VELZEN](https://www.instagram.com/___kurtvanvelzen/)
 ![Kurt van Velzen_img118.jpg](/uploads/Kurt%20van%20Velzen_img118.jpg)
 ![Kurt van Velzen_img113.jpg](/uploads/Kurt%20van%20Velzen_img113.jpg)
-
-[ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 
+[KURT VAN VELZEN](https://www.instagram.com/___kurtvanvelzen/)
 
 ![ALEX_MCQUIRE_img102.jpg](/uploads/ALEX_MCQUIRE_img102.jpg)
 ![ALEX_MCQUIRE_img091.jpg](/uploads/ALEX_MCQUIRE_img091.jpg)
-
-[KIM CLARK ](https://www.instagram.com/kimoclark/)
+[ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 
 
 ![KIM_CLARK_img065.jpg](/uploads/KIM_CLARK_img065.jpg)
 ![KIM_CLARK_img075.jpg](/uploads/KIM_CLARK_img075.jpg)
-
-[MINJIA LI](https://www.instagram.com/minlee616/)
+[KIM CLARK ](https://www.instagram.com/kimoclark/)
 
 ![Minjia Li_img232.jpg](/uploads/Minjia%20Li_img232.jpg)
 ![Minjia Li_img238.jpg](/uploads/Minjia%20Li_img238.jpg)
+[MINJIA LI](https://www.instagram.com/minlee616/)
 
 
 [YUEGI MENG](https://www.instagram.com/yuki_meng7/)

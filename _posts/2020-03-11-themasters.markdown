@@ -27,7 +27,6 @@ It's weird times right now so here's some very impressive work from last years g
 ![Syna Chen_img288.jpg](/uploads/Syna%20Chen_img288.jpg)
 ![Syna Chen_img300.jpg](/uploads/Syna%20Chen_img300.jpg)
 ![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
-![Syna Chen_img282.jpg](/uploads/Syna%20Chen_img282.jpg)
 ![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
 
 

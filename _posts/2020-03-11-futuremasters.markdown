@@ -18,10 +18,12 @@ layout: gallery
 
 It's weird times right now so here's some very impressive work from last years graduates of the Master of Fashion (Design) degree at RMIT in Melbourne. 
 
+
 ![Syna Chen_img255.jpg](/uploads/Syna%20Chen_img255.jpg)
 ![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
 ![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
 [SYNA CHEN](https://www.instagram.com/synachen/)
+
 
 
 
@@ -33,9 +35,11 @@ It's weird times right now so here's some very impressive work from last years g
 
 
 
+
 ![ALEX_MCQUIRE_img102.jpg](/uploads/ALEX_MCQUIRE_img102.jpg)
 ![ALEX_MCQUIRE_img091.jpg](/uploads/ALEX_MCQUIRE_img091.jpg)
 [ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 
+
 
 
 
@@ -47,9 +51,11 @@ It's weird times right now so here's some very impressive work from last years g
 
 
 
+
 ![Minjia Li_img232.jpg](/uploads/Minjia%20Li_img232.jpg)
 ![Minjia Li_img238.jpg](/uploads/Minjia%20Li_img238.jpg)
 [MINJIA LI](https://www.instagram.com/minlee616/)
+
 
 
 
@@ -61,9 +67,11 @@ It's weird times right now so here's some very impressive work from last years g
 
 
 
+
 ![Jake Liu_img170.jpg](/uploads/Jake%20Liu_img170.jpg)
 ![Jake Liuimg169.jpg](/uploads/Jake%20Liuimg169.jpg)
 [JAKE LIU](https://www.instagram.com/jakeliuxx/)
+
 
 
 
@@ -74,14 +82,17 @@ It's weird times right now so here's some very impressive work from last years g
 
 
 
+
 ![Ruoyu_Wang_img145-8e93e1.jpg](/uploads/Ruoyu_Wang_img145-8e93e1.jpg)
 [RUOYU WANG](https://www.instagram.com/yumiii.wang/)
 
 
 
 
+
 ![Srinvanti_Roy_img423.jpg](/uploads/Srinvanti_Roy_img423.jpg)
 [SRINVANTI ROY](https://www.instagram.com/shrin_1993roy/)
+
 
 
 

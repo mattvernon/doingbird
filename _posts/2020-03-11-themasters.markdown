@@ -43,33 +43,23 @@ It's weird times right now so here's some very impressive work from last years g
 ![Minjia Li_img238.jpg](/uploads/Minjia%20Li_img238.jpg)
 [MINJIA LI](https://www.instagram.com/minlee616/)
 
-
-[YUEGI MENG](https://www.instagram.com/yuki_meng7/)
-
 ![Yueqi Meng_img195.jpg](/uploads/Yueqi%20Meng_img195.jpg)
 ![Yueqi Meng_img196.jpg](/uploads/Yueqi%20Meng_img196.jpg)
-
-
-[JAKE LIU](https://www.instagram.com/jakeliuxx/)
+[YUEGI MENG](https://www.instagram.com/yuki_meng7/)
 
 ![Jake Liu_img170.jpg](/uploads/Jake%20Liu_img170.jpg)
 ![Jake Liuimg169.jpg](/uploads/Jake%20Liuimg169.jpg)
-
-
-[JULIA BRIDLE](https://www.instagram.com/bridle.j/)
+[JAKE LIU](https://www.instagram.com/jakeliuxx/)
 
 ![Julia_Bridle_img216.jpg](/uploads/Julia_Bridle_img216.jpg)
-
-
-[RUOYU WANG](https://www.instagram.com/yumiii.wang/)
+[JULIA BRIDLE](https://www.instagram.com/bridle.j/)
 
 ![Ruoyu_Wang_img145-8e93e1.jpg](/uploads/Ruoyu_Wang_img145-8e93e1.jpg)
-
-[SRINVANTI ROY](https://www.instagram.com/shrin_1993roy/)
+[RUOYU WANG](https://www.instagram.com/yumiii.wang/)
 
 ![Srinvanti_Roy_img423.jpg](/uploads/Srinvanti_Roy_img423.jpg)
-
-[QING WEI](https://www.instagram.com/kin_wq/)
+[SRINVANTI ROY](https://www.instagram.com/shrin_1993roy/)
 
 ![Qing Wei_img200-c40e76.jpg](/uploads/Qing%20Wei_img200-c40e76.jpg)
+[QING WEI](https://www.instagram.com/kin_wq/)
 

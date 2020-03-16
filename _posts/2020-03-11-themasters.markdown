@@ -19,7 +19,7 @@ Credits Text: |-
 layout: gallery
 ---
 
-As the university year starts again here in Australia we look back at some very impressive graduate work from students of the Master of Fashion (Design) degree at RMIT in Melbourne. 
+It's weird times right now so here's some very impressive work from last years graduates of the Master of Fashion (Design) degree at RMIT in Melbourne. 
 
 [Syna Chen](https://www.instagram.com/synachen/)
 

@@ -7,11 +7,8 @@ categories:
 Main Image: "/uploads/Syna%20Chen_iimg309-6efc7d.jpg"
 Credits Text: |
   Photography [Agnieszka Chabros](https://www.instagram.com/achabros/)
-
   Styling [Stuart Walford ](https://www.instagram.com/stuart_walford/)
-
   Hair & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team
-
   All designers from [RMIT Master of Fashion (Design)
   ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
 layout: gallery

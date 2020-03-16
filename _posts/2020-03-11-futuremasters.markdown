@@ -1,5 +1,5 @@
 ---
-title: The Masters
+title: Future Masters
 date: 2020-03-11 15:32:00 +11:00
 published: false
 categories:

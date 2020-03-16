@@ -31,10 +31,7 @@ It's weird times right now so here's some very impressive work from last years g
 [ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 
 
 ![ALEX_MCQUIRE_img102.jpg](/uploads/ALEX_MCQUIRE_img102.jpg)
-![ALEX_MCQUIRE_img096.jpg](/uploads/ALEX_MCQUIRE_img096.jpg)
 ![ALEX_MCQUIRE_img091.jpg](/uploads/ALEX_MCQUIRE_img091.jpg)
-
-
 
 [KIM CLARK ](https://www.instagram.com/kimoclark/)
 

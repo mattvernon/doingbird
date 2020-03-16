@@ -20,7 +20,6 @@ layout: gallery
 It's weird times right now so here's some very impressive work from last years graduates of the Master of Fashion (Design) degree at RMIT in Melbourne. 
 
 ![Syna Chen_img255.jpg](/uploads/Syna%20Chen_img255.jpg)
-![Syna Chen_img300.jpg](/uploads/Syna%20Chen_img300.jpg)
 ![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
 ![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
 [SYNA CHEN](https://www.instagram.com/synachen/)

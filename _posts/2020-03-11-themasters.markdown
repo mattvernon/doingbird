@@ -28,6 +28,10 @@ It's weird times right now so here's some very impressive work from last years g
 ![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
 ![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
 
+[KURT VAN VELZEN](https://www.instagram.com/___kurtvanvelzen/)
+![Kurt van Velzen_img118.jpg](/uploads/Kurt%20van%20Velzen_img118.jpg)
+![Kurt van Velzen_img113.jpg](/uploads/Kurt%20van%20Velzen_img113.jpg)
+
 [ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 
 
 ![ALEX_MCQUIRE_img102.jpg](/uploads/ALEX_MCQUIRE_img102.jpg)
@@ -42,11 +46,6 @@ It's weird times right now so here's some very impressive work from last years g
 
 ![Minjia Li_img232.jpg](/uploads/Minjia%20Li_img232.jpg)
 ![Minjia Li_img238.jpg](/uploads/Minjia%20Li_img238.jpg)
-
-
-[KURT VAN VELZEN](https://www.instagram.com/___kurtvanvelzen/)
-![Kurt van Velzen_img113.jpg](/uploads/Kurt%20van%20Velzen_img113.jpg)
-![Kurt van Velzen_img118.jpg](/uploads/Kurt%20van%20Velzen_img118.jpg)
 
 
 [YUEGI MENG](https://www.instagram.com/yuki_meng7/)

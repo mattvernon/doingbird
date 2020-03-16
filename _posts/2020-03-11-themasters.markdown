@@ -27,10 +27,9 @@ It's weird times right now so here's some very impressive work from last years g
 ![Syna Chen_img300.jpg](/uploads/Syna%20Chen_img300.jpg)
 ![Syna Chen_img255.jpg](/uploads/Syna%20Chen_img255.jpg)
 ![Syna Chen_img266.jpg](/uploads/Syna%20Chen_img266.jpg)
-![Syna Chen_iimg309.jpg](/uploads/Syna%20Chen_iimg309.jpg)
 ![Syna Chen_img282.jpg](/uploads/Syna%20Chen_img282.jpg)
 ![Syna Chen_img271.jpg](/uploads/Syna%20Chen_img271.jpg)
-![Syna Chen_img280.jpg](/uploads/Syna%20Chen_img280.jpg)
+
 
 
 [ALEX MCQUIRE](https://www.instagram.com/alexmcquire/) 

@@ -4,8 +4,8 @@ date: 2020-03-11 15:32:00 +11:00
 published: false
 categories:
 - Fashion
-Main Image: "/uploads/Syna%20Chen_img255-d47620.jpg"
-Credits Text: |-
+Main Image: "/uploads/Syna%20Chen_iimg309-6efc7d.jpg"
+Credits Text: |
   Photographer [Agnieszka Chabros](https://www.instagram.com/achabros/)
 
   Stylist [Stuart Walford ](https://www.instagram.com/stuart_walford/)
@@ -14,8 +14,6 @@ Credits Text: |-
 
   All designers graduated from [RMIT Master of Fashion (Design)
   ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
-
-  https://afs.rmit.fashion/
 layout: gallery
 ---
 

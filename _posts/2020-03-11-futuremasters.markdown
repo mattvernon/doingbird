@@ -11,7 +11,7 @@ Credits Text: |
   Hair & Make Up [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) and team
 
 
-  All designers from [RMIT Master of Fashion (Design)
+  All designers graduated from [RMIT Master of Fashion (Design)
   ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
 layout: gallery
 ---

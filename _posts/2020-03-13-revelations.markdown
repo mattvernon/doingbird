@@ -31,9 +31,8 @@ Doug (right) wears: [Acne Studios](https://www.instagram.com/acnestudios/) shirt
 
 ![JD_NC_04.jpg](/uploads/JD_NC_04.jpg)
 
-Isaac wears: Song for the Mute pants https://www.instagram.com/
-songforthemute/, Nanushka shirt https://www.instagram.com/nanushka/,
-Hat from Route 66 https://www.instagram.com/route66store/
+Isaac wears: [Song for the Mute](https://www.instagram.com/songforthemute/) pants, [Nanushka](https://www.instagram.com/nanushka/)shirt,
+Hat from [Route 66](https://www.instagram.com/route66store/)
 
 
 ![JD_NC_05.jpg](/uploads/JD_NC_05.jpg)

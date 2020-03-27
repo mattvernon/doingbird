@@ -1,7 +1,6 @@
 ---
 title: Revelations
 date: 2020-03-27 10:00:00 +11:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/JD_NC_03.jpg"

@@ -2,6 +2,7 @@
 title: Wasteland
 date: 2020-03-31 08:33:00 +11:00
 published: false
+layout: gallery
 ---
 
 ![Wasteland_DN_01.jpg](/uploads/Wasteland_DN_01.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'ARCHIVE COVER #one'
+title: 'archive cover #one'
 date: 2020-03-31 13:18:00 +11:00
 published: false
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_01_018.jpg"

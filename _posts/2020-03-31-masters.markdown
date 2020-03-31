@@ -1,7 +1,6 @@
 ---
 title: Masters
 date: 2020-03-31 12:30:00 +11:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/Syna%20Chen_iimg309-6efc7d.jpg"

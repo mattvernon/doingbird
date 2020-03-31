@@ -4,7 +4,7 @@ date: 2020-03-31 08:33:00 +11:00
 published: false
 Credits Text: "Photography [Daniel Nadel](https://www.instagram.com/daniel_nadel_photography/)\nat
   [DLM](https://www.instagram.com/dlm_au/)  \nStyling [Josie McManus](https://www.instagram.com/josie.mcmanus/)
-  \ \nMake Up [Claire Thomson](https://www.instagram.com/josie.mcmanus/)using [Mac](https://www.instagram.com/maccosmetics/)
+  \ \nMake Up [Claire Thomson](https://www.instagram.com/josie.mcmanus/) using [Mac](https://www.instagram.com/maccosmetics/)
   \ \nHair [Pete Lennon](Lennon https://www.instagram.com/petelennon/)    \n   "
 is featured?: true
 layout: gallery

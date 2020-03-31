@@ -6,6 +6,7 @@ categories:
 - Features
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_03_022.jpg"
 Credits Text: "Photographer \LFashion Editor \nHair \nMake up \nModel \n wears"
+layout: gallery
 ---
 
 ![130924_DOINGBIRD_covershots_MDoyle_03_022.jpg](/uploads/130924_DOINGBIRD_covershots_MDoyle_03_022.jpg)

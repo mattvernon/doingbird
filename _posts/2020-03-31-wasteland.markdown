@@ -19,6 +19,7 @@ layout: gallery
 [ZIMMERMANN](https://www.instagram.com/zimmermann/) dress [MIU MIU](https://www.instagram.com/miumiu) boots Stylists own stockings  
 
 ![Wasteland_DN_02.jpg](/uploads/Wasteland_DN_02.jpg)
+[STRATEAS CARLUCCI](STRATEAS CARLUCCI ) coat CHRISTIAN [LOUBOUTIN](https://www.instagram.com/louboutinworld/ ) shoes [COACH](https://www.instagram.com/coach/ ) bag Stylists own stockings
 
 ![Wasteland_DN_03.jpg](/uploads/Wasteland_DN_03.jpg)
 

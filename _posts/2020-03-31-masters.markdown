@@ -1,6 +1,6 @@
 ---
-title: Future Masters
-date: 2020-03-11 15:32:00 +11:00
+title: Masters
+date: 2020-03-31 12:30:00 +11:00
 published: false
 categories:
 - Fashion
@@ -13,6 +13,7 @@ Credits Text: |
 
   All designers graduated from [RMIT Master of Fashion (Design)
   ](https://www.instagram.com/rmitmofd/?hl=en) in 2019
+is featured?: true
 layout: gallery
 ---
 

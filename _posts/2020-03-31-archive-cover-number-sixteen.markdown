@@ -5,6 +5,7 @@ published: false
 categories:
 - Features
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_16_040.jpg"
+layout: gallery
 ---
 
 ![130924_DOINGBIRD_covershots_MDoyle_16_040.jpg](/uploads/130924_DOINGBIRD_covershots_MDoyle_16_040.jpg)

@@ -11,6 +11,7 @@ Credits Text: "Photographer \L[Matthias Vriens](https://www.instagram.com/matthi
   Simancas](https://www.instagram.com/hectorsimancas/) \nModel Alison Renner at [Next](https://www.instagram.com/nextmodels/)
   (NY)\nAlison wears satin & lace bodysuit from Domseys Warehouse and miniskirt [Marc
   by Marc Jacobs](https://www.instagram.com/marcjacobs/) "
+layout: gallery
 ---
 
 ![130924_DOINGBIRD_covershots_MDoyle_02_020.jpg](/uploads/130924_DOINGBIRD_covershots_MDoyle_02_020.jpg)

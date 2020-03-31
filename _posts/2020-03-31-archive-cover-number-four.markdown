@@ -11,6 +11,7 @@ Credits Text: "Photographer [Jenny Gage & Tom Betterton](https://www.instagram.c
   up [Romy Soleimani](https://www.instagram.com/romyglow/)\nModel Natasa Vojnovic
   at [Elite](https://www.instagram.com/elitenyc/) \nNatasa wears [Helmut Lang](https://www.instagram.com/helmutlang/)
   dress "
+layout: gallery
 ---
 
 ![130924_DOINGBIRD_covershots_MDoyle_04_023.jpg](/uploads/130924_DOINGBIRD_covershots_MDoyle_04_023.jpg)

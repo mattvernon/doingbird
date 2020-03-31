@@ -16,6 +16,7 @@ layout: gallery
 ---
 
 ![Wasteland_DN_01.jpg](/uploads/Wasteland_DN_01.jpg)
+[ZIMMERMANN](https://www.instagram.com/zimmermann/) dress [MIU MIU](https://www.instagram.com/miumiu) boots Stylists own stockings  
 
 ![Wasteland_DN_02.jpg](/uploads/Wasteland_DN_02.jpg)
 

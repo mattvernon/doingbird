@@ -22,10 +22,13 @@ layout: gallery
 [STRATEAS CARLUCCI](STRATEAS CARLUCCI ) coat CHRISTIAN [LOUBOUTIN](https://www.instagram.com/louboutinworld/ ) shoes [COACH](https://www.instagram.com/coach/ ) bag Stylists own stockings
 
 ![Wasteland_DN_03.jpg](/uploads/Wasteland_DN_03.jpg)
+[PRADA](https://www.instagram.com/prada/) top,skirt,hat and shoes Stylists own socks  
 
 ![Wasteland_DN_04_FRONT_IMAGE.jpg](/uploads/Wasteland_DN_04_FRONT_IMAGE.jpg)
+[LOUIS VUITTON](https://www.instagram.com/louisvuitton/) dress
 
 ![Wasteland_DN_05.jpg](/uploads/Wasteland_DN_05.jpg)
+[PARIS GEORGIA](https://www.instagram.com/paris__georgia/) top and pants [AUTEUR ](https://www.instagram.com/auteur.studio/) coat
 
 ![Wasteland_DN_06.jpg](/uploads/Wasteland_DN_06.jpg)
 

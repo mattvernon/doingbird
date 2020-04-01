@@ -2,6 +2,7 @@
 title: Wasteland
 date: 2020-03-31 08:33:00 +11:00
 published: false
+Main Image: "/uploads/Wasteland_DN_04_FRONT_IMAGE.jpg"
 Credits Text: "Photography [Daniel Nadel](https://www.instagram.com/daniel_nadel_photography/)\nat
   [DLM](https://www.instagram.com/dlm_au/)  \nStyling [Josie McManus](https://www.instagram.com/josie.mcmanus/)
   \ \nMake Up [Claire Thomson](https://www.instagram.com/josie.mcmanus/) using [Mac](https://www.instagram.com/maccosmetics/)

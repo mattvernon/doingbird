@@ -29,7 +29,7 @@ layout: gallery
 <iframe src="https://player.vimeo.com/video/403217139" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![Wasteland_DN_03.jpg](/uploads/Wasteland_DN_03.jpg)
-[PRADA](https://www.instagram.com/prada/) top,skirt,hat and shoes Stylists own socks  
+[PRADA](https://www.instagram.com/prada/) top, skirt, hat and shoes Stylists own socks  
 
 ![Wasteland_DN_04_FRONT_IMAGE.jpg](/uploads/Wasteland_DN_04_FRONT_IMAGE.jpg)
 [LOUIS VUITTON](https://www.instagram.com/louisvuitton/) dress

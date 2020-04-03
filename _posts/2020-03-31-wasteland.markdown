@@ -40,6 +40,6 @@ layout: gallery
 ![Wasteland_DN_06.jpg](/uploads/Wasteland_DN_06.jpg)
 [DIOR ](https://www.instagram.com/dior/) shirt, top, skirt and shoes [DOLCE & GABBANA ](https://www.instagram.com/dolcegabbana/)sunglasses
 ![Wasteland_DN_07.jpg](/uploads/Wasteland_DN_07.jpg)
-[STRATEAS CARLUCCI](https://www.instagram.com/strateascarlucci/) dress, top and skirt, [TORY BURCH ](https://www.instagram.com/toryburch/) shoes, Stylists own hat
+[STRATEAS CARLUCCI](https://www.instagram.com/strateascarlucci/) dress, top and skirt  [TORY BURCH ](https://www.instagram.com/toryburch/) shoes, Stylists own hat
 ![Wasteland_DN_08.jpg](/uploads/Wasteland_DN_08.jpg)
 [CHANEL](https://www.instagram.com/chanelofficial/) playsuit, necklace and hat

@@ -6,7 +6,10 @@ categories:
 - Fashion
 Credits Text: "Photographer [Oliver Begg](https://www.instagram.com/oliver.begg/)
   \ \n\nStylist [Freddie Fredricks](https://www.instagram.com/freddiefredericks/)
-  \n\nHair [Kyye Reed](https://www.instagram.com/kyye)\n\nMake up [Mikele Simon](https://www.instagram.com/mikelesimonebeauty)\n"
+  \n\nHair [Kyye Reed](https://www.instagram.com/kyye)\n\nMake up [Mikele Simon](https://www.instagram.com/mikelesimonebeauty)\n\nMODELS
+  \ \nDANA [PRISCILLAS MODEL MANAGEMENT](https://www.instagram.com/danzrooney)  \nISABELLA
+  [PRISCILLAS MODEL MANAGEMENT](https://www.instagram.com/isabellaemmack)  \nATTY
+  [PRISCILLAS MODEL MANAGEMENT](https://www.instagram.com/attymitchell)   "
 is featured?: true
 layout: gallery
 ---

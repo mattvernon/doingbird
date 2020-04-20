@@ -1,7 +1,6 @@
 ---
 title: 'archive cover #two'
 date: 2020-04-21 09:00:00 +10:00
-published: false
 categories:
 - Features
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_02_020.jpg"

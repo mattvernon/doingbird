@@ -6,10 +6,10 @@ categories:
 - Fashion
 Main Image: "/uploads/200220_INDETERMINATE_03.jpg"
 Credits Text: "Photographer [Oliver Begg](https://www.instagram.com/oliver.begg/)
-  \ \nStylist [Freddie Fredricks](https://www.instagram.com/freddiefredericks/) \nHair
-  [Kyye Reed](https://www.instagram.com/kyye)\nMake up [Mikele Simon](https://www.instagram.com/mikelesimonebeauty)\n\nMODELS
-  \ \n[Dana](https://www.instagram.com/danzrooney)\n[Isabella](https://www.instagram.com/isabellaemmack)
-  \  \n[Atty](https://www.instagram.com/attymitchell) at [Priscilla's Models](https://www.instagram.com/priscillasmodels/)"
+  \ Stylist [Freddie Fredricks](https://www.instagram.com/freddiefredericks/) Hair
+  [Kyye Reed](https://www.instagram.com/kyye) Make up [Mikele Simon](https://www.instagram.com/mikelesimonebeauty)\nMODELS
+  [Dana](https://www.instagram.com/danzrooney),\n[Isabella](https://www.instagram.com/isabellaemmack)
+  &   \n[Atty](https://www.instagram.com/attymitchell) at [Priscilla's Models](https://www.instagram.com/priscillasmodels/)"
 is featured?: true
 layout: gallery
 ---

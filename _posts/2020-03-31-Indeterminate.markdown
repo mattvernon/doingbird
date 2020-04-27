@@ -23,11 +23,11 @@ Top **[Prada](https://www.instagram.com/prada/)**, Coat **[Prada](https://www.in
 
 ![200220_INDETERMINATE_03.jpg](/uploads/200220_INDETERMINATE_03.jpg)
 
-Shirt **[Cos](https://www.instagram.com/cosstores/)** Top  **[Cos](https://www.instagram.com/cosstores/)** Pants **[Cos](https://www.instagram.com/cosstores/)** Heels **[Louis Vuitton](https://www.instagram.com/louisvuitton/)** 
+Shirt **[Cos](https://www.instagram.com/cosstores/)**, Top  **[Cos](https://www.instagram.com/cosstores/)**, Pants **[Cos](https://www.instagram.com/cosstores/)**, Heels **[Louis Vuitton](https://www.instagram.com/louisvuitton/)** 
 
 ![200220_INDETERMINATE_04.jpg](/uploads/200220_INDETERMINATE_04.jpg)
 
-Shirt **[Rika Studios](https://www.instagram.com/rikastudios_/)** Skirt **[Bianca Spender](https://www.instagram.com/biancaspender/)** Pants **[Bianca Spender](https://www.instagram.com/biancaspender/)** Heels Iris and Ink
+Shirt **[Rika Studios](https://www.instagram.com/rikastudios_/)**, Skirt **[Bianca Spender](https://www.instagram.com/biancaspender/)**, Pants **[Bianca Spender](https://www.instagram.com/biancaspender/)**, Heels Iris and Ink
 
 ![200220_INDETERMINATE_05.jpg](/uploads/200220_INDETERMINATE_05.jpg)
 

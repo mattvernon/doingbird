@@ -16,7 +16,7 @@ layout: gallery
 
 ![200220_INDETERMINATE_01.jpg](/uploads/200220_INDETERMINATE_01.jpg)
 
-Top **[Prada](https://www.instagram.com/prada/)** Coat **[Prada](https://www.instagram.com/prada/)** Pleat Skirt **[Prada](https://www.instagram.com/prada/)** Under Skirt  **[Prada](https://www.instagram.com/prada/)** Necklaces **[Heart & Bone](https://www.instagram.com/heartofbone_/)** Heels Iris and Ink
+Top **[Prada](https://www.instagram.com/prada/)**, Coat **[Prada](https://www.instagram.com/prada/)**, Pleat Skirt **[Prada](https://www.instagram.com/prada/)**, Under Skirt  **[Prada](https://www.instagram.com/prada/)**, Necklaces **[Heart & Bone](https://www.instagram.com/heartofbone_/)**, Heels Iris and Ink
 
 ![200220_INDETERMINATE_02.jpg](/uploads/200220_INDETERMINATE_02.jpg)
 

@@ -5,10 +5,12 @@ published: false
 categories:
 - Features
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_03_022.jpg"
-Credits Text: "Photographer David Armstrong \L\nFashion Editor Trevor Stones \nHair
-  Jimmy Paul\nMake up Rie Omoto at Garren using Shisedo \nModel Liliana Dominguez
-  at Karens\nLiliana wears vintage nightgown from Resurrection\nProduction Mark Jovanovic
-  and Nahila Chianale at Unit\n"
+Credits Text: "Photographer [David Armstrong \L](https://www.instagram.com/davidarmstrongarchive/)\nFashion
+  Editor Trevor Stones \nHair [Jimmy Paul](https://www.instagram.com/jimmypaulhair/)\nMake
+  up [Rie Omoto](https://www.instagram.com/rieomoto/) at Garren using [Shisedo](https://www.instagram.com/shiseido/)
+  \nModel [Liliana Dominguez](tagram.com/lilianadominguezofficial/) at Karins\nLiliana
+  wears vintage nightgown from Resurrection\nProduction Mark Jovanovic and Nahila
+  Chianale at Unit\n"
 layout: gallery
 ---
 

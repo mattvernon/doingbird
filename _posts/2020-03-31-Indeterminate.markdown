@@ -31,7 +31,7 @@ Shirt [Rika Studios](https://www.instagram.com/rikastudios_/) Skirt [Bianca Spen
 
 ![200220_INDETERMINATE_05.jpg](/uploads/200220_INDETERMINATE_05.jpg)
 
-Dress **[Louis Vuitton]**(https://www.instagram.com/louisvuitton/) 
+Dress **[Louis Vuitton](https://www.instagram.com/louisvuitton/)** 
 
 ![200220_INDETERMINATE_06.jpg](/uploads/200220_INDETERMINATE_06.jpg)
 

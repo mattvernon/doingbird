@@ -1,6 +1,6 @@
 ---
 title: 'archive cover #three'
-date: 2020-03-31 14:42:00 +11:00
+date: 2020-04-27 14:42:00 +10:00
 published: false
 categories:
 - Features
@@ -11,6 +11,7 @@ Credits Text: "Photographer [David Armstrong \L](https://www.instagram.com/david
   \nModel [Liliana Dominguez](tagram.com/lilianadominguezofficial/) at Karins\nLiliana
   wears vintage nightgown from Resurrection\nProduction Mark Jovanovic and Nahila
   Chianale at Unit\n"
+is featured?: true
 layout: gallery
 ---
 

@@ -35,11 +35,19 @@ Jacket [Anine Bing](https://www.instagram.com/aninebingofficial/) Pant [Anine Bi
 
 ![200220_INDETERMINATE_06.jpg](/uploads/200220_INDETERMINATE_06.jpg)
 
+Dress [Louis Vuitton](https://www.instagram.com/louisvuitton/) 
+
 ![200220_INDETERMINATE_07.jpg](/uploads/200220_INDETERMINATE_07.jpg)
+
+Full look [Chanel](https://www.instagram.com/chanelofficial/) 
 
 ![200220_INDETERMINATE_08.jpg](/uploads/200220_INDETERMINATE_08.jpg)
 
+Jacket, Shirt, Pant [Bek Mur](https://www.instagram.com/bekmur/) [Necklace Zimmermann](https://www.instagram.com/zimmermann/)
+ 
 ![200220_INDETERMINATE_09.jpg](/uploads/200220_INDETERMINATE_09.jpg)
+
+Coat [Eliska Marczan](https://www.instagram.com/eliska.marczan.label/) Sock [Prada](https://www.instagram.com/prada/) Shoes  [Doc Martins](https://www.instagram.com/drmartensofficial/) 
 
 ![200220_INDETERMINATE_10.jpg](/uploads/200220_INDETERMINATE_10.jpg)
 

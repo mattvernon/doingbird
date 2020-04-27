@@ -4,6 +4,7 @@ date: 2020-03-31 16:19:00 +11:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/200220_INDETERMINATE_03.jpg"
 Credits Text: "Photographer [Oliver Begg](https://www.instagram.com/oliver.begg/)
   \ \n\nStylist [Freddie Fredricks](https://www.instagram.com/freddiefredericks/)
   \n\nHair [Kyye Reed](https://www.instagram.com/kyye)\n\nMake up [Mikele Simon](https://www.instagram.com/mikelesimonebeauty)\n\nMODELS

@@ -1,7 +1,6 @@
 ---
 title: Egggggggy Vase
 date: 2020-05-06 10:36:00 +10:00
-published: false
 categories:
 - Objects
 Main Image: "/uploads/Doingbird%20Objects%2053148%20colour-530679.jpg"

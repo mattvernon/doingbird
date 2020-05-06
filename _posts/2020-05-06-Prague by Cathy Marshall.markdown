@@ -1,5 +1,5 @@
 ---
-title: Prague
+title: Prague by Cathy Marshall
 date: 2020-05-06 11:15:00 +10:00
 published: false
 layout: gallery

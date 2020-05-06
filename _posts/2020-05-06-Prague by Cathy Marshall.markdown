@@ -2,8 +2,14 @@
 title: Prague by Cathy Marshall
 date: 2020-05-06 11:15:00 +10:00
 published: false
+Credits Text: All photographs by [Cathy Marshall ](https://www.instagram.com/cathylmarshall/)
 layout: gallery
 ---
+
+I took these photos during the European summer of 2018, when I spent some time in Prague and some of the smaller towns in the Czech Republic with Tom (‘my boyfriend’) and his family.
+The architecture in the Czech Republic is so romantic and the countryside is particularly pretty. I think these environmental influences lead me to take photos that are particularly feminine, or have a softness to them.
+Shooting in a more sartorial style in Prague enabled really beautiful, brief connections with the women I was drawn to.
+
 
 ![2495-11 001.jpg](/uploads/2495-11%20001.jpg)
 

@@ -15,3 +15,5 @@ layout: gallery
 ![Doingbird Objects 53148 colour-530679.jpg](/uploads/Doingbird%20Objects%2053148%20colour-530679.jpg)
 
 ![Doingbird Objects 53148-a552fd.jpg](/uploads/Doingbird%20Objects%2053148-a552fd.jpg)
+
+![Doingbird Objects 53148 bw-d30bd5.jpg](/uploads/Doingbird%20Objects%2053148%20bw-d30bd5.jpg)

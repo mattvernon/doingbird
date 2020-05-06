@@ -1,7 +1,8 @@
 ---
 title: Egggggggy Vase
 date: 2020-05-06 10:36:00 +10:00
-published: false
+categories:
+- Objects
 Main Image: "/uploads/Doingbird%20Objects%2053148%20colour-530679.jpg"
 Credits Text: "Egggggggy Vase by [Danielle Karlikoff](https://www.instagram.com/computa_hydrates)
   celebrates the egg as the ultimate jewel of life. A sculpture to exalt this iconic
@@ -15,3 +16,5 @@ layout: gallery
 ![Doingbird Objects 53148 colour-530679.jpg](/uploads/Doingbird%20Objects%2053148%20colour-530679.jpg)
 
 ![Doingbird Objects 53148-a552fd.jpg](/uploads/Doingbird%20Objects%2053148-a552fd.jpg)
+
+![Doingbird Objects 53148 bw-d30bd5.jpg](/uploads/Doingbird%20Objects%2053148%20bw-d30bd5.jpg)

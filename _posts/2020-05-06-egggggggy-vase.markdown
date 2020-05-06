@@ -10,8 +10,8 @@ is featured?: true
 layout: gallery
 ---
 
-![Doingbird Objects 53148-a552fd.jpg](/uploads/Doingbird%20Objects%2053148-a552fd.jpg)
-
 ![Doingbird Objects 53148 colour-530679.jpg](/uploads/Doingbird%20Objects%2053148%20colour-530679.jpg)
+
+![Doingbird Objects 53148-a552fd.jpg](/uploads/Doingbird%20Objects%2053148-a552fd.jpg)
 
 Egggggggy Vase by Danielle Karlikoff celebrates the egg as the ultimate jewel of life. A sculpture to exalt this iconic symbol in its multiple edible forms; whole, cracked, boiled, fried.

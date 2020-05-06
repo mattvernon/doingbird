@@ -2,9 +2,12 @@
 title: Egggggggy Vase
 date: 2020-05-06 10:36:00 +10:00
 published: false
+Main Image: "/uploads/Doingbird%20Objects%2053148%20colour-530679.jpg"
 Credits Text: "Photographs **[Anna Pogossova](https://www.instagram.com/annapogossova/)**
   at **[B&A](https://www.instagram.com/barepsau/)**  \nStyling **[Abby Bennett](https://www.instagram.com/bennett_abby/)**\n\nVase
   by [Danielle Karlikoff](https://www.instagram.com/computa_hydrates/)"
+is featured?: true
+layout: gallery
 ---
 
 ![Doingbird Objects 53148-a552fd.jpg](/uploads/Doingbird%20Objects%2053148-a552fd.jpg)

@@ -2,6 +2,8 @@
 title: Prague
 date: 2020-05-06 11:15:00 +10:00
 published: false
+categories:
+- World
 Credits Text: All photographs by [Cathy Marshall ](https://www.instagram.com/cathylmarshall/)
 layout: gallery
 ---

@@ -13,6 +13,7 @@ Credits Text: |-
 
 
   Photographs by [Cathy Marshall ](https://www.instagram.com/cathylmarshall/)
+is featured?: true
 layout: gallery
 ---
 

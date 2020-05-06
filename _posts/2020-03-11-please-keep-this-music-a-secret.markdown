@@ -7,10 +7,8 @@ categories:
 tags:
 - music
 - art
-Main Image: "/uploads/image1-2e4fdc.jpeg"
+Main Image: "/uploads/MaalamMahmoudKania_Essaouira2.jpeg"
 Credits Text: |+
-  Editor [Laila Sakini ](https://www.instagram.com/lailasakini/)
-
   Images by [Sarah White](https://www.instagram.com/sarah._._.white/) shot on the Canary Islands
 
 

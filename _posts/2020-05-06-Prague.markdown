@@ -4,22 +4,25 @@ date: 2020-05-06 11:15:00 +10:00
 published: false
 categories:
 - World
-Credits Text: All photographs by [Cathy Marshall ](https://www.instagram.com/cathylmarshall/)
+Main Image: "/uploads/2481-34%20001.jpg"
+Credits Text: |-
+  "Shooting in a more sartorial style in Prague enabled really beautiful, brief connections with the women I was drawn to."
+
+  Melbourne based photographer Cathy Marshall took these photos during the European summer of 2018, when she spent some time in Prague and some of the smaller towns in the Czech Republic with her boyfriend Tom and his family.
+
+  "The architecture in the Czech Republic is so romantic and the countryside is particularly pretty. I think these environmental influences lead me to take photos that are particularly feminine, or have a softness to them."
+
+
+  Photographs by [Cathy Marshall ](https://www.instagram.com/cathylmarshall/)
 layout: gallery
 ---
-
-Melbourne based photographer Cathy Marshall took these photos during the European summer of 2018, when she spent some time in Prague and some of the smaller towns in the Czech Republic with her boyfriend Tom and his family.
 
 
 ![2495-11 001.jpg](/uploads/2495-11%20001.jpg)
 
-"The architecture in the Czech Republic is so romantic and the countryside is particularly pretty. I think these environmental influences lead me to take photos that are particularly feminine, or have a softness to them." 
-
 ![2481-2 001.jpg](/uploads/2481-2%20001.jpg)
 
 ![2481-34 001.jpg](/uploads/2481-34%20001.jpg)
-
-"Shooting in a more sartorial style in Prague enabled really beautiful, brief connections with the women I was drawn to."
 
 ![2481-25 001.jpg](/uploads/2481-25%20001.jpg)
 

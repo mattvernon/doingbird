@@ -9,7 +9,7 @@ tags:
 - art
 Main Image: "/uploads/MaalamMahmoudKania_Essaouira2.jpeg"
 Credits Text: |+
-  Images by [Sarah White](https://www.instagram.com/sarah._._.white/) shot on the Canary Islands
+  Images by [Sarah White](https://www.instagram.com/sarah._._.white/) shot on location in the Canary Islands
 
 
 is featured?: true

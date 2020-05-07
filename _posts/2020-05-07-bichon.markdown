@@ -4,5 +4,16 @@ date: 2020-05-07 20:04:00 +10:00
 published: false
 categories:
 - Fashion
+Credits Text: |-
+  Bichon
+  Inspired by Discovery Channel’s ‘nature series’, we took model Olivia into the jungle and styled her in some fierce
+  looks. Prints and textures clash as key pieces from SS20 Miumiu, Moncler Genius x Richard Quinn & sustainable
+  bag producers Bichon get down and dirty, taking a ride on the wild side.
+
+  Photography [Mia Rankin ](https://www.instagram.com/_miarankinstudio/)
+  Styling [Sarah Pritchard](https://www.instagram.com/sar4hcant/)
+  Hair & Makeup [Xeneb Allen](https://www.instagram.com/curlysiouxsie/) using products by [Kevin Murphy](https://www.instagram.com/kevin.murphy/)
+  Assistant Sara De La Cruz
+  Model Olivia Jonasz at [Priscillas Models ](https://www.instagram.com/priscillasmodels/)
 ---
 

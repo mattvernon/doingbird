@@ -1,9 +1,10 @@
 ---
 title: Bichon
-date: 2020-05-07 20:04:00 +10:00
+date: 2020-05-12 12:00:00 +10:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/Doing%20Bird_%20Mia%20Rankin_Sarah%20Pritchard018.jpg"
 Credits Text: |
   Photography [Mia Rankin ](https://www.instagram.com/_miarankinstudio/)
   Styling [Sarah Pritchard](https://www.instagram.com/sar4hcant/)
@@ -11,6 +12,7 @@ Credits Text: |
   Assistant Sara De La Cruz
 
   Model Olivia Jonasz at [Priscillas Models ](https://www.instagram.com/priscillasmodels/)
+is featured?: true
 layout: gallery
 ---
 

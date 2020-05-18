@@ -8,8 +8,10 @@ tags:
 - art
 Main Image: "/uploads/MaalamMahmoudKania_Essaouira2.jpeg"
 Credits Text: |+
-  Words by George Beleznay
+  Words by George Beleznay,
+
   Images by [Sarah White](https://www.instagram.com/sarah._._.white/) shot on location in the Canary Islands
+
   Story Concept by [Laila Sakini](https://www.instagram.com/lailasakini/)
 
 is featured?: true

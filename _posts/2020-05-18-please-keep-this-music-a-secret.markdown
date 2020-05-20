@@ -10,6 +10,8 @@ Main Image: "/uploads/MaalamMahmoudKania_Essaouira2.jpeg"
 Credits Text: |+
   Words by [George Beleznay](https://www.instagram.com/georgeeeeeeeeeeee/)
 
+  [Purely Physical Teeny Tapes](https://soundcloud.com/purelyphysical)
+
   Images by [Sarah White](https://www.instagram.com/sarah._._.white/)
 
   Story Concept by [Laila Sakini](https://www.instagram.com/lailasakini/)

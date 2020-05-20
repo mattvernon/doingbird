@@ -68,7 +68,7 @@ Big fan of Mix Mup so when I saw he was selling these mixtapes through Facebook 
 
 MAALAM MAHMOUD KANIA “FESTIVAL D’ESSAOUIRA” - MOGADOR MUSIC - date unknown
 
-Picked this up in Essaouira a few years ago just based on the artwork. There are these cool music stores/stands in the markets there with all sorts of Moroccan CDs and tapes, as well as dubbed versions of classic pop albums (picked up a Mariah Carey one). They all have faded covers from being out in the sun all day. Kania (also spelled Guinia, Guinéa, Guinea, Gania or Khania) was a well known traditional Moroccan Gnawa musician I learned, although info on him seems hard to track down online.
+Picked this up in Essaouira a few years ago just based on the artwork. There are these cool music stores/stands in the markets there with all sorts of Moroccan CDs and tapes, as well as dubbed versions of classic pop albums (picked up a Mariah Carey one). They all have faded covers from being out in the sun all day. Kania (also spelled Guinia, Guinéa, Guinea, Gania or Khania) was a well known traditional Moroccan Gnawa musician I learned and has collaborated with Pharoah Sanders and Peter Brötzmann, among others.
 
 
 

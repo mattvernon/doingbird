@@ -8,7 +8,7 @@ tags:
 - art
 Main Image: "/uploads/MaalamMahmoudKania_Essaouira2.jpeg"
 Credits Text: |+
-  Words by George Beleznay
+  Words by [George Beleznay](https://www.instagram.com/georgeeeeeeeeeeee/)
 
   Images by [Sarah White](https://www.instagram.com/sarah._._.white/)
 
@@ -18,7 +18,7 @@ is featured?: true
 layout: gallery
 ---
 
-George Beleznay of London-based label [Purely Physical Teeny Tapes](https://www.instagram.com/purelyphysicalteenytapes/) talks us through some of the most prized pieces from his vast cassette collection. Recalling stories of weed bag art, Facebook messaging and finds through friends-of-friends George tells us about releases from Wilted Woman, Dale Cornish, HTRK, Mix-Mup and more with Sarah White shooting each tape on location in the Canary Islands.
+George Beleznay of London-based label [Purely Physical Teeny Tapes](https://soundcloud.com/purelyphysical) talks us through some of the most prized pieces from his vast cassette collection. Recalling stories of weed bag art, Facebook messaging and finds through friends-of-friends George tells us about releases from Wilted Woman, Dale Cornish, HTRK, Mix-Mup and more with Sarah White shooting each tape on location in the Canary Islands.
 
 
 ![DaleCornish_CutSleeve1.jpeg](/uploads/DaleCornish_CutSleeve1.jpeg)

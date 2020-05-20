@@ -8,7 +8,7 @@ tags:
 - art
 Main Image: "/uploads/MaalamMahmoudKania_Essaouira2.jpeg"
 Credits Text: |+
-  Words by George Beleznay
+  Words by [George Beleznay](https://www.instagram.com/georgeeeeeeeeeeee/)
 
   Images by [Sarah White](https://www.instagram.com/sarah._._.white/)
 
@@ -18,7 +18,7 @@ is featured?: true
 layout: gallery
 ---
 
-George Beleznay of London-based label [Purely Physical Teeny Tapes](https://www.instagram.com/purelyphysicalteenytapes/) talks us through some of the most prized pieces from his vast cassette collection. Recalling stories of weed bag art, Facebook messaging and finds through friends-of-friends George tells us about releases from Wilted Woman, Dale Cornish, HTRK, Mix-Mup and more with Sarah White shooting each tape on location in the Canary Islands.
+George Beleznay of London-based label [Purely Physical Teeny Tapes](https://soundcloud.com/purelyphysical) talks us through some of the most prized pieces from his vast cassette collection. Recalling stories of weed bag art, Facebook messaging and finds through friends-of-friends George tells us about releases from Wilted Woman, Dale Cornish, HTRK, Mix-Mup and more with Sarah White shooting each tape on location in the Canary Islands.
 
 
 ![DaleCornish_CutSleeve1.jpeg](/uploads/DaleCornish_CutSleeve1.jpeg)
@@ -68,7 +68,7 @@ Big fan of Mix Mup so when I saw he was selling these mixtapes through Facebook 
 
 MAALAM MAHMOUD KANIA “FESTIVAL D’ESSAOUIRA” - MOGADOR MUSIC - date unknown
 
-Picked this up in Essaouira a few years ago just based on the artwork. There are these cool music stores/stands in the markets there with all sorts of Moroccan CDs and tapes, as well as dubbed versions of classic pop albums (picked up a Mariah Carey one). They all have faded covers from being out in the sun all day. Kania (also spelled Guinia, Guinéa, Guinea, Gania or Khania) was a well known traditional Moroccan Gnawa musician I learned, although info on him seems hard to track down online.
+Picked this up in Essaouira a few years ago just based on the artwork. There are these cool music stores/stands in the markets there with all sorts of Moroccan CDs and tapes, as well as dubbed versions of classic pop albums (picked up a Mariah Carey one). They all have faded covers from being out in the sun all day. Kania (also spelled Guinia, Guinéa, Guinea, Gania or Khania) was a well known traditional Moroccan Gnawa musician I learned and has collaborated with Pharoah Sanders and Peter Brötzmann, among others.
 
 
 

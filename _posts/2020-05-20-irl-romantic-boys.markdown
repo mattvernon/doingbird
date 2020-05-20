@@ -4,7 +4,7 @@ date: 2020-05-20 15:29:00 +10:00
 published: false
 Main Image: "/uploads/JoDuck_DoingbirdPrada4%20copy.jpg"
 Credits Text: |-
-  photography Jo Duck at Art Box Black
+  photography [Jo Duck ](https://www.instagram.com/jo_duck/)at [Art Box Black](https://www.instagram.com/artboxblack/)
 
   Models Luke & Max
 is featured?: true

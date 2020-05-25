@@ -33,6 +33,7 @@ images above, sunglasses, bags & shoes [DIOR](https://www.instagram.com/dior/)
 ![200513_Doingbird_Magazine_1154.jpg](/uploads/200513_Doingbird_Magazine_1154.jpg)
 images above; bags, shoes & homewares by [GUCCI](https://www.instagram.com/gucci/)
 
+
 ![200513_Doingbird_Magazine_1221.jpg](/uploads/200513_Doingbird_Magazine_1221.jpg)
 
 ![200513_Doingbird_Magazine_1392.jpg](/uploads/200513_Doingbird_Magazine_1392.jpg)
@@ -40,4 +41,5 @@ images above; bags, shoes & homewares by [GUCCI](https://www.instagram.com/gucci
 ![200513_Doingbird_Magazine_1348.jpg](/uploads/200513_Doingbird_Magazine_1348.jpg)
 
 ![200513_Doingbird_Magazine_1539.jpg](/uploads/200513_Doingbird_Magazine_1539.jpg)
+images above; bags, shoes, sunglasses & jewellery by [CHANEL](https://www.instagram.com/chanelofficial/)
 

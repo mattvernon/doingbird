@@ -25,8 +25,6 @@ layout: gallery
 
 ![Woollahra May 2020 Doingbird 7.jpg](/uploads/Woollahra%20May%202020%20Doingbird%207.jpg)
 
-![Woollahra May 2020 Doingbird 7.jpg](/uploads/Woollahra%20May%202020%20Doingbird%207.jpg)
-
 ![Woollahra May 2020 Doingbird 10.jpg](/uploads/Woollahra%20May%202020%20Doingbird%2010.jpg)
 
 ![Woollahra May 2020 Doingbird 9.jpg](/uploads/Woollahra%20May%202020%20Doingbird%209.jpg)

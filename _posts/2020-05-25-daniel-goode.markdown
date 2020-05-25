@@ -3,6 +3,10 @@ title: Daniel Goode
 date: 2020-05-25 12:11:00 +10:00
 published: false
 Main Image: "/uploads/200513_Doingbird_Magazine_133.jpg"
+Credits Text: |-
+  an ISO Project
+
+  Photography [Daniel Goode](https://www.instagram.com/dl.goode/) at [The Artist Group](https://www.instagram.com/theartistgroup/)
 layout: gallery
 ---
 

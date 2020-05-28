@@ -7,7 +7,7 @@ Main Image: "/uploads/JoDuck_DoingbirdPrada4%20copy.jpg"
 Credits Text: "Concept & Photography [Jo Duck ](https://www.instagram.com/jo_duck/)at
   [Art Box Black](https://www.instagram.com/artboxblack/)\n\nModels Luke & Max\n\nModels
   both wear [PRADA](https://www.instagram.com/prada/) with own clothing\n\n#A DOINGBIRD
-  ISO project \n"
+  ISO PROJECT \n"
 is featured?: true
 layout: gallery
 ---

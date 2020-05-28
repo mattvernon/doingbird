@@ -5,10 +5,10 @@ published: false
 categories:
 - Fashion
 Main Image: "/uploads/Woollahra%20May%202020%20Doingbird%209.jpg"
-Credits Text: |
-  #A DOINGBIRD ISO Project
-
+Credits Text: |-
   Concept, Photography & Styling [Chloe Hill](https://www.instagram.com/chloechill/)
+
+  #A DOINGBIRD ISO Project
 is featured?: true
 layout: gallery
 ---

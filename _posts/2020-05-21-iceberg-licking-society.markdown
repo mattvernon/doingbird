@@ -5,6 +5,8 @@ published: false
 layout: gallery
 ---
 
+Nathan's friend & previous collaborator Iska Lupton interviews him about his
+
 How did you come up with this idea?
 
 The idea for iceberg licking came to me a few years back on my first voyage to Iceland.

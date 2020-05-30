@@ -12,9 +12,10 @@ is featured?: true
 layout: gallery
 ---
 
-![Doingbird 1.jpg](/uploads/Doingbird%201.jpg)
+Hairstylist Pete Lennon and his husband, artist Jeremy Alaban photograph each other in their 'hood' over a week during ISO. 
+As massive fans of [Perks and Mini](https://www.instagram.com/perksandmini/) they dived into their archive collection to show off their favourite pieces.
 
-Hairstylist Pete Lennon and his husband artist Jeremy Alaban shoot each other over a week in ISO wearing their favourite pieces by [Perks and Mini](https://www.instagram.com/perksandmini/) 
+![Doingbird 1.jpg](/uploads/Doingbird%201.jpg)
 
 ![Doingbird 2.jpg](/uploads/Doingbird%202.jpg)
 

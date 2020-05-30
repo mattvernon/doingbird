@@ -1,17 +1,20 @@
 ---
 title: OUR HOOD
-date: 2020-05-29 14:37:00 +10:00
+date: 2020-05-31 14:00:00 +10:00
 published: false
+categories:
+- Fashion
 Main Image: "/uploads/Doingbird%203.jpg"
-Credits Text: "Concept by Pete Lennon and Jeremy Alaban \nPhotography by Pete Lennon
-  and Jeremy Alaban \nModels -Pete Lennon and Jeremy Alaban \n\nAll clothing archive
-  PERKS & MINI"
+Credits Text: "Concept & Photography by [Pete Lennon](https://www.instagram.com/petelennon/)
+  and [Jeremy Alaban ](https://www.instagram.com/jeremyalaban/)\nModels Pete Lennon
+  and Jeremy Alaban \n\nAll clothing archive [PERKS & MINI](https://www.instagram.com/perksandmini/)"
+is featured?: true
 layout: gallery
 ---
 
 ![Doingbird 1.jpg](/uploads/Doingbird%201.jpg)
 
-Hairstylist Pete Lennon and his  husband artist Jeremy Alaban shoot each other over a week in ISO wearing their favourite pieces by Perks and Mini 
+Hairstylist Pete Lennon and his husband artist Jeremy Alaban shoot each other over a week in ISO wearing their favourite pieces by [Perks and Mini](https://www.instagram.com/perksandmini/) 
 
 ![Doingbird 2.jpg](/uploads/Doingbird%202.jpg)
 

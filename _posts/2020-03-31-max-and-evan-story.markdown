@@ -4,6 +4,15 @@ date: 2020-03-31 16:18:00 +11:00
 published: false
 categories:
 - Fashion
+Credits Text: |-
+  Hair by Rory Rice @ lion artist management
+  Makeup by Sean Brady
+  Fashion assistant Julianna Yao
+  Models: Konker @ Kult
+  Cal @ IMG
+  Malcolm @ IMG
+  Lachie @ Priscillas
+  Harrison @ Chadwick
 is featured?: true
 layout: gallery
 ---

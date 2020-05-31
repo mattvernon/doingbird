@@ -9,20 +9,28 @@ layout: gallery
 ---
 
 ![1_db flower36b.jpg](/uploads/1_db%20flower36b.jpg)
-LEFT: Jacket by Bally  RIGHT:well, according to him
+LEFT: Jacket by Bally                  
+RIGHT: all clothing and shoes by Prada. Jewellery by Heart of Bone
 ![2_db flower25 (6)b.jpg](/uploads/2_db%20flower25%20(6)b.jpg)
-
+LEFT:                  
+RIGHT:
 ![3_db flower25 (11) (3)b.jpg](/uploads/3_db%20flower25%20(11)%20(3)b.jpg)
-
+LEFT:  all clothing by Dior                
+RIGHT: jumper by Bally. Jacket by Salvatore Ferragamo
 ![4_db flower18b.jpg](/uploads/4_db%20flower18b.jpg)
-
+LEFT:                  
+RIGHT:
 ![5_db flower22b.jpg](/uploads/5_db%20flower22b.jpg)
-
+LEFT:                  
+RIGHT:
 ![6_db flower36b.jpg](/uploads/6_db%20flower36b.jpg)
-
+LEFT:                  
+RIGHT:
 ![7_db flower24b.jpg](/uploads/7_db%20flower24b.jpg)
-
+LEFT:                  
+RIGHT:
 ![8_db flower28b.jpg](/uploads/8_db%20flower28b.jpg)
-
+LEFT:                  
+RIGHT:
 ![9_doingbird mens 144b.jpg](/uploads/9_doingbird%20mens%20144b.jpg)
 

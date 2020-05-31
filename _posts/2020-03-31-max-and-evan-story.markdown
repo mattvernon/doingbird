@@ -4,21 +4,12 @@ date: 2020-03-31 16:18:00 +11:00
 published: false
 categories:
 - Fashion
-Credits Text: |-
-  Hair by Rory Rice @ lion artist management
-  Makeup by Sean Brady
-  Fashion assistant Julianna Yao
-  Models: Konker @ Kult
-  Cal @ IMG
-  Malcolm @ IMG
-  Lachie @ Priscillas
-  Harrison @ Chadwick
 is featured?: true
 layout: gallery
 ---
 
 ![1_db flower36b.jpg](/uploads/1_db%20flower36b.jpg)
-
+LEFT: Jacket by Bally  RIGHT:well, according to him
 ![2_db flower25 (6)b.jpg](/uploads/2_db%20flower25%20(6)b.jpg)
 
 ![3_db flower25 (11) (3)b.jpg](/uploads/3_db%20flower25%20(11)%20(3)b.jpg)

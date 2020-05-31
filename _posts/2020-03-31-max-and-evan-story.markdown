@@ -21,14 +21,14 @@ RIGHT: jumper by Bally. Jacket by Salvatore Ferragamo
 LEFT:   jumpsuit by Salvatore Ferragamo. Bandana by Prada. Jewellery by Heart of bone               
 RIGHT: Jacket by Bally. Jumper by Salvatore Ferragamo. Pants by Zegna. Shoes by Dior
 ![5_db flower22b.jpg](/uploads/5_db%20flower22b.jpg)
-LEFT:                  
-RIGHT:
+LEFT:  all clothing by Dior                
+RIGHT: jacket by Emporio Armani, singlet stylists own
 ![6_db flower36b.jpg](/uploads/6_db%20flower36b.jpg)
-LEFT:                  
-RIGHT:
+Jacket by Zegna, Shirt by Emporio Armani
 ![7_db flower24b.jpg](/uploads/7_db%20flower24b.jpg)
-LEFT:                  
-RIGHT:
+LEFT:  all clothing by Prada. Jewellery by Heart of Bone               
+RIGHT: jacket Zegna. Singlet by Dior. Pants by Salvatore Ferragamo. Shoes by Bally.
+Jewellery by Heart of Bone
 ![8_db flower28b.jpg](/uploads/8_db%20flower28b.jpg)
 LEFT:                  
 RIGHT:

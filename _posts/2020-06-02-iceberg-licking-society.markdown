@@ -9,9 +9,7 @@ is featured?: true
 layout: post
 ---
 
-TOGETHER WE CAN STOP THE MELT
-Film Directed by Nathan Ceddia      
-Interview by Iska Lupton
+TOGETHER WE CAN STOP THE MELT, Directed by Nathan Ceddia    Interview by Iska Lupton
 
 <iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

@@ -5,8 +5,6 @@ published: false
 layout: gallery
 ---
 
-![ILS_Video_Still_Press-(1)_Landscape.jpg](/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg)
-
 Nathan Ceddia is an Australian Film Director and Photographer based in Berlin. His work is humorous, the best kind of strange and always epically beautiful to look at. 
 
 Below he talks to friend & previous collaborator Iska Lupton about 

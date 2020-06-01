@@ -32,6 +32,8 @@ I would say its a mixture of both planned and improvised. There are moments you 
 I wanted the film to be a part of a bigger campaign with an important message attached to it.
 To go full circle with the idea we built a website and membership system, so no matter where you are in the world you can be involved and contribute to the cause. We also teamed up with Iceland's leading environmental NGO Landvernd, building a web store with proceeds supporting their climate change programs.
 
+![membership-card (10).png](/uploads/membership-card%20(10).png)
+
 **Do you want people to think your work is earnest? Or to see the parody?**
 The great thing about an audience is that everyone gets to have their own unique viewing experience. My goal was to create a story that takes you on a rollercoaster; it's a range of different emotions that lets you off at the end with a clear, hitting question about the environment.
 

@@ -4,6 +4,11 @@ date: 2020-03-31 16:18:00 +11:00
 published: false
 categories:
 - Fashion
+Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
+  at \n\nhair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist
+  Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup by Sean Brady\nFashion
+  assistant Julianna Yao\nModels: Konker @ Kult\nCal @ IMG\nMalcolm @ IMG\nLachie
+  @ Priscillas\nHarrison @ Chadwick"
 is featured?: true
 layout: gallery
 ---

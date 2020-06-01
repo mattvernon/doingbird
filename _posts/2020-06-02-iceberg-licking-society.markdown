@@ -1,6 +1,6 @@
 ---
 title: Iceberg Licking Society
-date: 2020-05-21 12:10:00 +10:00
+date: 2020-06-02 12:00:00 +10:00
 published: false
 Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
 layout: gallery

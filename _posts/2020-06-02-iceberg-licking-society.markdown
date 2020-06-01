@@ -3,7 +3,7 @@ title: Iceberg Licking Society
 date: 2020-06-02 12:00:00 +10:00
 published: false
 Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
-layout: gallery
+layout: post
 ---
 
 <iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

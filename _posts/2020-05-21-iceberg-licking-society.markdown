@@ -2,6 +2,7 @@
 title: Iceberg Licking Society
 date: 2020-05-21 12:10:00 +10:00
 published: false
+Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
 layout: gallery
 ---
 
@@ -58,6 +59,8 @@ I've always loved to provoke people from a young age. I think it comes down to m
 **Did you lick an iceberg? What did it make you feel?**
 
 Yes, I did. It was the closest I've ever been to Mother Nature.
+
+![ILS20_Poster_Fin1.jpg](/uploads/ILS20_Poster_Fin1.jpg)
 
 **Were there any happy accidents when filming?**
 I approached this film with no clear expectations and an open mind. I knew I had a good story, so throughout the filming process it was all about trial and error. The finished film is very different from the original treatment. It really grew organically during the edit and ended up turning into something much greater than I could have expected. Happy accidents, moments of luck, fate, and timing helped bring this project together.

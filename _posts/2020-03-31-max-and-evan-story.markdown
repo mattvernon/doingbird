@@ -26,10 +26,10 @@ Jacket by Zegna, Shirt by Emporio Armani
 LEFT:  all clothing by Prada. Jewellery by Heart of Bone               
 RIGHT: jacket Zegna. Singlet by Dior. Pants by Salvatore Ferragamo. Shoes by Bally.Jewellery by Heart of Bone
 ![7_db flower24b.jpg](/uploads/7_db%20flower24b.jpg)
-LEFT:                  
-RIGHT:
+LEFT: top by Emporio Armani. Pants by Zegna                 
+RIGHT: all clothing and shoes by Prada. Jewellery by Heart of Bone
 ![8_db flower28b.jpg](/uploads/8_db%20flower28b.jpg)
-LEFT:                  
-RIGHT:
+LEFT: Jacket by Salavtore Ferragamo. Jumper and shorts by Bally. Models own jewellery                  
+RIGHT: singlet by Dior. Rings and bracelet by Heart of Bone. Bracelet by Charlton
 ![9_doingbird mens 144b.jpg](/uploads/9_doingbird%20mens%20144b.jpg)
-
+all clothing by Prada

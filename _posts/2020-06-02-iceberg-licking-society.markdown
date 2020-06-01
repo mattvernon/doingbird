@@ -13,7 +13,6 @@ layout: post
 Below he talks to friend & previous collaborator Iska Lupton about 
 his latest projects, the [Iceberg Licking Society](https://www.instagram.com/iceberglickingsociety/) and film, TOGETHER WE CAN STOP THE MELT, tackling the massive issue of Climate Change and global warming, made in partnership with the Icelandic Environment Association, [Landvernd](https://www.instagram.com/landvernd/)
 
-
 **How did you come up with this idea?**
 The idea for iceberg licking came to me a few years back on my first voyage to Iceland.
 It was an overwhelming experience, as I was witnessing so much ice. I had never seen anything like it.

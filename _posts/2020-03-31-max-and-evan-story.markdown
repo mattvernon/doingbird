@@ -5,10 +5,10 @@ published: false
 categories:
 - Fashion
 Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
-  at \n\nhair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist
-  Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup by Sean Brady\nFashion
-  assistant Julianna Yao\nModels: Konker @ Kult\nCal @ IMG\nMalcolm @ IMG\nLachie
-  @ Priscillas\nHarrison @ Chadwick"
+  at \nstyling **[Evan Betts](https://www.instagram.com/evanbeezy/)**\nhair **[Rory
+  Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup
+  by Sean Brady\nFashion assistant Julianna Yao\nModels:  \nKonker at **[Kult](https://www.instagram.com/kultaustralia/)**\nCal
+  @ IMG\nMalcolm @ IMG\nLachie @ Priscillas\nHarrison @ Chadwick"
 is featured?: true
 layout: gallery
 ---

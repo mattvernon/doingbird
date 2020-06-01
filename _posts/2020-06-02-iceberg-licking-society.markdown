@@ -12,8 +12,7 @@ TOGETHER WE CAN STOP THE MELT, Director Nathan Ceddia
 [Nathan Ceddia](https://www.instagram.com/nathanceddia/) is an Australian Film Director and Photographer based in Berlin. His work is humorous, the best kind of strange and always epically beautiful to look at. Below he talks to friend & previous collaborator Iska Lupton about his latest projects, the [Iceberg Licking Society](https://www.instagram.com/iceberglickingsociety/) and film, TOGETHER WE CAN STOP THE MELT, tackling the massive issue of Climate Change and global warming, made in partnership with the Icelandic Environment Association, [Landvernd](https://www.instagram.com/landvernd/)
 
 **How did you come up with this idea?**
-The idea for iceberg licking came to me a few years back on my first voyage to Iceland.
-It was an overwhelming experience, as I was witnessing so much ice. I had never seen anything like it.
+The idea for iceberg licking came to me a few years back on my first voyage to Iceland. It was an overwhelming experience, as I was witnessing so much ice. I had never seen anything like it.
 Since my youth I've only ever associated ice with licking, refreshment, and cooling yourself down on a warm summer day. Surrounded by ice I immediately wanted to taste the experience. I felt like a kid in a candy store full of ice lollies. This was the beginning of the idea of the Iceberg Licking Society.
 
 **Who did you make it for?**

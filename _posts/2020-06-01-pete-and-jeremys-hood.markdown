@@ -9,7 +9,8 @@ Credits Text: "Hairstylist Pete Lennon and his husband, artist Jeremy Alaban pho
   for this shoot they delved into their continually growing archive to show off their
   favourite pieces.\n\n\nConcept & Photography by [Pete Lennon](https://www.instagram.com/petelennon/)
   and [Jeremy Alaban ](https://www.instagram.com/jeremyalaban/)\nModels Pete Lennon
-  and Jeremy Alaban \n\nAll clothing archive [PERKS & MINI](https://www.instagram.com/perksandmini/)"
+  and Jeremy Alaban \n\nAll clothing archive [PERKS & MINI](https://www.instagram.com/perksandmini/)\n\n#A
+  DOINGBIRD ISO PROJECT"
 is featured?: true
 layout: gallery
 ---

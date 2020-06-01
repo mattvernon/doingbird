@@ -6,7 +6,6 @@ Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
 layout: gallery
 ---
 
-
 <iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Nathan Ceddia is an Australian Film Director and Photographer based in Berlin. His work is humorous, the best kind of strange and always epically beautiful to look at. 

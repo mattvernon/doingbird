@@ -24,6 +24,7 @@ I prefer to work with real people and real characters, whether it's fiction or n
 
 **How do you create a narrative? How much of this was planned vs improvised?**
 I would say its a mixture of both planned and improvised. There are moments you cannot physically plan for, so when I notice opportunities during a shoot I tend to jump on them. A lot of the real magic usually happens in these moments.
+![ILS_Video_Still_Press-(3)_Landscape.jpg](/uploads/ILS_Video_Still_Press-(3)_Landscape.jpg)
 
 **You created a whole brand for the film. Love it. Why do this?**
 I wanted the film to be a part of a bigger campaign with an important message attached to it.
@@ -58,6 +59,8 @@ I once heard David Lynch say that he doesn't like to explain his films once he's
 
 **Are there any other environmental issues you have ideas for films for?**
 Looking after our environment is the most important subject we could ever write about. In recent years the environment has become a key topic, and it will continue to be an important theme throughout my future work.
+
+![ILS_Video_Still_Press-(8)_Landscape.jpg](/uploads/ILS_Video_Still_Press-(8)_Landscape.jpg)
 
 **What makes you deem a piece of film ‘a success’?**
 What I deem to be a success has definitely changed over the years. I think now for me it's important to witness my own personal growth in my practice, this helps create stepping stones to bigger and grander projects. One aspect that will always stay important is to succeed at putting a smile on a stranger's face and to give that stranger a unique viewing experience like never before.      

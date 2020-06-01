@@ -1,15 +1,14 @@
 ---
-title: OUR HOOD
+title: Pete & Jeremy's 'Hood
 date: 2020-05-31 14:00:00 +10:00
 published: false
 categories:
 - Fashion
 Main Image: "/uploads/Doingbird%203.jpg"
 Credits Text: "Hairstylist Pete Lennon and his husband, artist Jeremy Alaban photograph
-  each other walking around their 'hood' over a week long period during ISO. \nAs
-  collectors of [Perks and Mini](https://www.instagram.com/perksandmini/) they dived
-  into their continually growing archive to show off their favourite pieces in these
-  photos.\n\n\nConcept & Photography by [Pete Lennon](https://www.instagram.com/petelennon/)
+  each other in their 'hood during ISO. \nAs collectors of [Perks and Mini](https://www.instagram.com/perksandmini/)
+  for this shoot they delved into their continually growing archive to show off their
+  favourite pieces.\n\n\nConcept & Photography by [Pete Lennon](https://www.instagram.com/petelennon/)
   and [Jeremy Alaban ](https://www.instagram.com/jeremyalaban/)\nModels Pete Lennon
   and Jeremy Alaban \n\nAll clothing archive [PERKS & MINI](https://www.instagram.com/perksandmini/)"
 is featured?: true

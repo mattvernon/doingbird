@@ -6,7 +6,7 @@ Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
 layout: gallery
 ---
 
-![ILS20_Logo_1.jpg](/uploads/ILS20_Logo_1.jpg)
+
 
 Nathan Ceddia is an Australian Film Director and Photographer based in Berlin. His work is humorous, the best kind of strange and always epically beautiful to look at. 
 
@@ -92,6 +92,7 @@ I began to find my style of filmmaking early on, whilst studying video art in Me
 
 In this last year, my filmmaking has grown and developed to become more personal. I have encountered great collaborators, but I've also learned to collaborate with myself, adding a bigger part of me to my work. 
 
+![ILS20_Logo_1.jpg](/uploads/ILS20_Logo_1.jpg)
 
 ABOUT ICEBERG LICKING SOCIETY
 Established in 2009, Iceberg Licking Society is a community of like-minded individuals that travel all over the world in search of quality icebergs to lick. As an association of more than 2500 members worldwide who share this passion, they have come together not only to preserve the instinct to lick but also to protect current and future lickers’ rights.  ILS members are responsible for a distinguished collection of famous firsts: Iceberg A-22 first lick, A-38 first lick and Iceberg B-15 first lick. Through its work in research, education, public service, conservation, and exploration, the society’s mission today is to stop the melt.

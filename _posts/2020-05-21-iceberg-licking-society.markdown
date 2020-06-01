@@ -5,6 +5,7 @@ published: false
 layout: gallery
 ---
 
+<iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 Nathan Ceddia is an Australian Film Director and Photographer based in Berlin. His work is humorous, often strange and always epically beautiful to look at. 
 
 For his latest project, TOGETHER WE CAN STOP THE MELT, a film made in partnership with the Icelandic Environment Association, Landvernd, it tackles the massive issue of Climate Change and global warming through the eyes and hearts of the ILS - Iceberg Licking Society.  

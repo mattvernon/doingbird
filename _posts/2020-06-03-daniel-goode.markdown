@@ -1,7 +1,9 @@
 ---
 title: Daniel Goode
-date: 2020-05-25 12:11:00 +10:00
+date: 2020-06-03 09:00:00 +10:00
 published: false
+categories:
+- Fashion
 Main Image: "/uploads/200513_Doingbird_Magazine_133.jpg"
 Credits Text: |-
   Photography [Daniel Goode](https://www.instagram.com/dl.goode/) at [The Artist Group](https://www.instagram.com/theartistgroup/)

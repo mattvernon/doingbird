@@ -98,10 +98,10 @@ I have encountered great collaborators, but I've also learned to collaborate wit
 
 ABOUT ICEBERG LICKING SOCIETY
 Established in 2009, Iceberg Licking Society is a community of like-minded individuals that travel all over the world in search of quality icebergs to lick. As an association of more than 2500 members worldwide who share this passion, they have come together not only to preserve the instinct to lick but also to protect current and future lickers’ rights.  ILS members are responsible for a distinguished collection of famous firsts: Iceberg A-22 first lick, A-38 first lick and Iceberg B-15 first lick. Through its work in research, education, public service, conservation, and exploration, the society’s mission today is to stop the melt.
-https://iceberglickingsociety.com/
-@Iceberglickingsociety
+[https://iceberglickingsociety.com/](https://iceberglickingsociety.com/)
+
 
 ABOUT LANDVERND
 Landvernd, the Icelandic Environment Association, is a national environmental non-governmental organization based in Iceland. Landvernd was founded in 1969 with a main emphasis on nature conservation, in particular on the conservation of soil and vegetation. In the last two decades, Landvernd’s efforts have increasingly concentrated on protecting Iceland’s unique wilderness and landscapes, especially in the uninhabited central highlands of the country. This is not least due to an increasing demand of energy for heavy industry, notably aluminum, causing non-reversable destruction of large sensitive areas in Icelandic nature.
- https://landvernd.is/en-landvernd-icelandic-environment-association/ 
+[ https://landvernd.is/en-landvernd-icelandic-environment-association/ ](https://landvernd.is/)
  @Landvernd 

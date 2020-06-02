@@ -13,7 +13,7 @@ Credits Text: "Nathan Ceddia is an Australian film director and photographer bas
   and hearts of the ILS - Iceberg Licking Society. A society created by the director
   himself  \n\nNathan's friend & collaborator Iska Lupton interviews him about his
   work and making this film.\n\nTOGETHER WE CAN STOP THE MELT\n\nDirected by [Nathan
-  Ceddia](https://www.instagram.com/nathanceddia/?hl=en) \nInterview by [Iska Lupton](https://www.instagram.com/iskalupton/?hl=en)\n\nhttps://iceberglickingsociety.com/[](https://iceberglickingsociety.com/)"
+  Ceddia](https://www.instagram.com/nathanceddia/?hl=en) \nInterview by [Iska Lupton](https://www.instagram.com/iskalupton/?hl=en)\n\n[iceberglickingsociety.com](https://iceberglickingsociety.com/)"
 is featured?: true
 layout: gallery
 ---

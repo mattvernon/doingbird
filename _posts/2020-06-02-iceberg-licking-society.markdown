@@ -18,7 +18,7 @@ is featured?: true
 layout: gallery
 ---
 
-<iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/424658363" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **How did you come up with this idea?**
 

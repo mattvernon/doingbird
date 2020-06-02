@@ -5,6 +5,14 @@ published: false
 categories:
 - Features
 Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
+Credits Text: "Nathan Ceddia is an Australian Film Director and Photographer based
+  in Berlin. His work is humorous, provoking, often strange and always epically beautiful
+  to look at. \n\nFor his latest project, TOGETHER WE CAN STOP THE MELT, a film made
+  in partnership with the Icelandic Environment Association, [Landvernd](https://www.instagram.com/landvernd/?hl=en),
+  it tackles the massive issue of Climate Change and global warming through the eyes
+  and hearts of the ILS - Iceberg Licking Society. A society created by the director
+  himself  \n\nNathan's friend & previous collaborator Iska Lupton interviews him
+  about his work and making this film.\n"
 layout: gallery
 ---
 

@@ -10,10 +10,10 @@ Credits Text: "Nathan Ceddia is an Australian film director and photographer bas
   to look at. \n\nFor his latest project, TOGETHER WE CAN STOP THE MELT, a film made
   in partnership with the Icelandic Environment Association, [Landvernd](https://www.instagram.com/landvernd/?hl=en),
   it tackles the massive issue of Climate Change and global warming through the eyes
-  and hearts of the ILS - Iceberg Licking Society. A society created by the director
-  himself  \n\nNathan's friend & collaborator Iska Lupton interviews him about his
-  work and making this film.\n\nTOGETHER WE CAN STOP THE MELT\n\nDirected by [Nathan
-  Ceddia](https://www.instagram.com/nathanceddia/?hl=en) \nInterview by [Iska Lupton](https://www.instagram.com/iskalupton/?hl=en)\n\n[iceberglickingsociety.com](https://iceberglickingsociety.com/)"
+  and hearts of the ILS - Iceberg Licking Society.\n\nNathan's friend & collaborator
+  Iska Lupton interviews him about his work and making this film.\n\nTOGETHER WE CAN
+  STOP THE MELT\n\nDirected by [Nathan Ceddia](https://www.instagram.com/nathanceddia/?hl=en)
+  \nInterview by [Iska Lupton](https://www.instagram.com/iskalupton/?hl=en)\n\n[iceberglickingsociety.com](https://iceberglickingsociety.com/)"
 is featured?: true
 layout: gallery
 ---

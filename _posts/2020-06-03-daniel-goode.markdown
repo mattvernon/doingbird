@@ -13,13 +13,13 @@ is featured?: true
 layout: gallery
 ---
 
-![200513_Doingbird_Magazine_100.jpg](/uploads/200513_Doingbird_Magazine_100.jpg)
-
 ![200513_Doingbird_Magazine_133.jpg](/uploads/200513_Doingbird_Magazine_133.jpg)
 
 ![200513_Doingbird_Magazine_256.jpg](/uploads/200513_Doingbird_Magazine_256.jpg)
 
 ![200513_Doingbird_Magazine_483.jpg](/uploads/200513_Doingbird_Magazine_483.jpg) 
+
+![200513_Doingbird_Magazine_100.jpg](/uploads/200513_Doingbird_Magazine_100.jpg)
 
 ![200513_Doingbird_Magazine_569.jpg](/uploads/200513_Doingbird_Magazine_569.jpg) 
 

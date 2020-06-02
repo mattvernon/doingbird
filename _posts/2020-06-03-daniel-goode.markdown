@@ -1,16 +1,17 @@
 ---
 title: Daniel Goode
-date: 2020-05-25 12:11:00 +10:00
+date: 2020-06-03 09:00:00 +10:00
 published: false
+categories:
+- Fashion
 Main Image: "/uploads/200513_Doingbird_Magazine_133.jpg"
 Credits Text: |-
-  an ISO Project
-
   Photography [Daniel Goode](https://www.instagram.com/dl.goode/) at [The Artist Group](https://www.instagram.com/theartistgroup/)
+
+  #A DOINGBIRD ISO PROJECT
+is featured?: true
 layout: gallery
 ---
-
-![200513_Doingbird_Magazine_100.jpg](/uploads/200513_Doingbird_Magazine_100.jpg)
 
 ![200513_Doingbird_Magazine_133.jpg](/uploads/200513_Doingbird_Magazine_133.jpg)
 
@@ -18,10 +19,12 @@ layout: gallery
 
 ![200513_Doingbird_Magazine_483.jpg](/uploads/200513_Doingbird_Magazine_483.jpg) 
 
+![200513_Doingbird_Magazine_100.jpg](/uploads/200513_Doingbird_Magazine_100.jpg)
+
 ![200513_Doingbird_Magazine_569.jpg](/uploads/200513_Doingbird_Magazine_569.jpg) 
 
 ![200513_Doingbird_Magazine_407.jpg](/uploads/200513_Doingbird_Magazine_407.jpg)
-images above, sunglasses, bags & shoes [DIOR](https://www.instagram.com/dior/) 
+ABOVE: sunglasses, bags & shoes [DIOR](https://www.instagram.com/dior/) 
 
 
 ![200513_Doingbird_Magazine_1109.jpg](/uploads/200513_Doingbird_Magazine_1109.jpg)
@@ -31,7 +34,7 @@ images above, sunglasses, bags & shoes [DIOR](https://www.instagram.com/dior/)
 ![200513_Doingbird_Magazine_1183.jpg](/uploads/200513_Doingbird_Magazine_1183.jpg)
 
 ![200513_Doingbird_Magazine_1154.jpg](/uploads/200513_Doingbird_Magazine_1154.jpg)
-images above; bags, shoes & homewares by [GUCCI](https://www.instagram.com/gucci/)
+ABOVE: bags, shoes & homewares by [GUCCI](https://www.instagram.com/gucci/)
 
 
 ![200513_Doingbird_Magazine_1221.jpg](/uploads/200513_Doingbird_Magazine_1221.jpg)
@@ -41,5 +44,5 @@ images above; bags, shoes & homewares by [GUCCI](https://www.instagram.com/gucci
 ![200513_Doingbird_Magazine_1348.jpg](/uploads/200513_Doingbird_Magazine_1348.jpg)
 
 ![200513_Doingbird_Magazine_1539.jpg](/uploads/200513_Doingbird_Magazine_1539.jpg)
-images above; bags, shoes, sunglasses & jewellery by [CHANEL](https://www.instagram.com/chanelofficial/)
+ABOVE: bags, shoes, sunglasses & jewellery by [CHANEL](https://www.instagram.com/chanelofficial/)
 

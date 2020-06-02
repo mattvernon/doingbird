@@ -12,7 +12,9 @@ Credits Text: "Nathan Ceddia is an Australian Film Director and Photographer bas
   it tackles the massive issue of Climate Change and global warming through the eyes
   and hearts of the ILS - Iceberg Licking Society. A society created by the director
   himself  \n\nNathan's friend & previous collaborator Iska Lupton interviews him
-  about his work and making this film.\n"
+  about his work and making this film.\n\nTOGETHER WE CAN STOP THE MELT\nDirected
+  by [Nathan Ceddia](https://www.instagram.com/nathanceddia/?hl=en) \nInterview by
+  [Iska Lupton](https://www.instagram.com/iskalupton/?hl=en)\n"
 layout: gallery
 ---
 

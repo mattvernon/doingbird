@@ -61,8 +61,6 @@ The great thing about an audience is that everyone gets to have their own unique
 If people want to see this as parody then that is their viewing experience.
 Either way, satire and comedy demand critical reflection on the part of the audience.
 
-
-
 **Are you drawn to working at the intersection of humour and seriousness? Why?**    
 I think some of the most serious people in the world built a deeper public appreciation through their openness to humour. If you can translate your ideas with both ends of the stick then you're going to open yourself up to a wider audience with greater critical reflection.
 

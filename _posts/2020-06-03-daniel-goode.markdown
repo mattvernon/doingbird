@@ -9,6 +9,7 @@ Credits Text: |-
   Photography [Daniel Goode](https://www.instagram.com/dl.goode/) at [The Artist Group](https://www.instagram.com/theartistgroup/)
 
   #A DOINGBIRD ISO PROJECT
+is featured?: true
 layout: gallery
 ---
 

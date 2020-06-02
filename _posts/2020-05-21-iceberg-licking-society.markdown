@@ -2,8 +2,12 @@
 title: Iceberg Licking Society
 date: 2020-05-21 12:10:00 +10:00
 published: false
+categories:
+- Features
 layout: gallery
 ---
+
+<iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Nathan Ceddia is an Australian Film Director and Photographer based in Berlin. His work is humorous, often strange and always epically beautiful to look at. 
 

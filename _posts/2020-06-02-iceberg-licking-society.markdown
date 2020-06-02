@@ -33,6 +33,8 @@ When a good idea falls into my head I'll usually carry it around with me until I
 
 I prefer to work with real people and real characters, whether it's fiction or non-fiction the real poetry of humans comes to life when playing themselves.
 
+![ILS_Video_Still_Press-(3)_Landscape.jpg](/uploads/ILS_Video_Still_Press-(3)_Landscape.jpg)
+
 **How do you create a narrative? How much of this was planned vs improvised?**
 
 I would say its a mixture of both planned and improvised. There are moments you cannot physically plan for, so when I notice opportunities during a shoot I tend to jump on them. A lot of the real magic usually happens in these moments.
@@ -41,6 +43,7 @@ I would say its a mixture of both planned and improvised. There are moments you 
 I wanted the film to be a part of a bigger campaign with an important message attached to it.
 To go full circle with the idea we built a website and membership system, so no matter where you are in the world you can be involved and contribute to the cause. We also teamed up with Iceland's leading environmental NGO Landvernd, building a web store with proceeds supporting their climate change programs.
 
+![ILS20_Logo_1.jpg](/uploads/ILS20_Logo_1.jpg)
  
 **Do you want people to think your work is earnest? Or to see the parody?**  
 
@@ -56,6 +59,8 @@ I think some of the most serious people in the world built a deeper public appre
 
 **What is it that makes you want to provoke with your work?**    
 I've always loved to provoke people from a young age. I think it comes down to me seeing things from different angles and wanting others to see what I see. With a medium like film, I'm able to display my thoughts, whilst pushing and pulling the normality of boundaries.  
+
+![ILS20_Poster_Fin1.jpg](/uploads/ILS20_Poster_Fin1.jpg)
 
 **Did you lick an iceberg? What did it make you feel?**    
 Yes, I did. It was the closest I've ever been to Mother Nature.
@@ -76,6 +81,8 @@ I once heard David Lynch say that he doesn't like to explain his films once he's
 Looking after our environment is the most important subject we could ever write about.
 In recent years the environment has become a key topic, and it will continue to be an important theme throughout my future work.
 
+![membership-card (10).png](/uploads/membership-card%20(10).png)
+
 **What makes you deem a piece of film ‘a success’?**    
 What I deem to be a success has definitely changed over the years. I think now for me it's important to witness my own personal growth in my practice, this helps create stepping stones to bigger and grander projects. One aspect that will always stay important is to succeed at putting a smile on a stranger's face and to give that stranger a unique viewing experience like never before.      
 
@@ -87,6 +94,7 @@ I began to find my style of filmmaking early on, whilst studying video art in Me
 In this last year, my filmmaking has grown and developed to become more personal.
 I have encountered great collaborators, but I've also learned to collaborate with myself, adding a bigger part of me to my work. 
 
+![ILS_Video_Still_Press-(8)_Landscape.jpg](/uploads/ILS_Video_Still_Press-(8)_Landscape.jpg)
 
 ABOUT ICEBERG LICKING SOCIETY
 Established in 2009, Iceberg Licking Society is a community of like-minded individuals that travel all over the world in search of quality icebergs to lick. As an association of more than 2500 members worldwide who share this passion, they have come together not only to preserve the instinct to lick but also to protect current and future lickers’ rights.  ILS members are responsible for a distinguished collection of famous firsts: Iceberg A-22 first lick, A-38 first lick and Iceberg B-15 first lick. Through its work in research, education, public service, conservation, and exploration, the society’s mission today is to stop the melt.

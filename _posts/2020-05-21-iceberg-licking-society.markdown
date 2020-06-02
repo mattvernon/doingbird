@@ -25,8 +25,7 @@ Since my youth I've only ever associated ice with licking, refreshment, and cool
 
 When a good idea falls into my head I'll usually carry it around with me until I've had the opportunity to manifest it. After I'm finished with the idea, I'm now free to share it with friends, family, and the rest of the world. This is the greatest gift I could think of giving, so in the end, my films are for everyone.    
 
-**Did you use actors or real people? How does this affect directing? What do you prefer?
-**
+**Did you use actors or real people? How does this affect directing? What do you prefer?**  
 
 I prefer to work with real people and real characters, whether it's fiction or non-fiction the real poetry of humans comes to life when playing themselves.
 
@@ -34,8 +33,7 @@ I prefer to work with real people and real characters, whether it's fiction or n
 
 I would say its a mixture of both planned and improvised. There are moments you cannot physically plan for, so when I notice opportunities during a shoot I tend to jump on them. A lot of the real magic usually happens in these moments.
 
-**You created a whole brand for the film. Love it. Why do this?
-**  
+**You created a whole brand for the film. Love it. Why do this?**    
 I wanted the film to be a part of a bigger campaign with an important message attached to it.
 To go full circle with the idea we built a website and membership system, so no matter where you are in the world you can be involved and contribute to the cause. We also teamed up with Iceland's leading environmental NGO Landvernd, building a web store with proceeds supporting their climate change programs.
 

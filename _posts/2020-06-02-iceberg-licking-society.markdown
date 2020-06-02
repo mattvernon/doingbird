@@ -18,10 +18,6 @@ Credits Text: "Nathan Ceddia is an Australian Film Director and Photographer bas
 layout: gallery
 ---
 
-TOGETHER WE CAN STOP THE MELT
-Directed by [Nathan Ceddia](https://www.instagram.com/nathanceddia/?hl=en) 
-Interview by [Iska Lupton](https://www.instagram.com/iskalupton/?hl=en)
-
 <iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Nathan Ceddia is an Australian Film Director and Photographer based in Berlin. His work is humorous, provoking, often strange and always epically beautiful to look at. 

@@ -72,8 +72,7 @@ I once heard David Lynch say that he doesn't like to explain his films once he's
 Looking after our environment is the most important subject we could ever write about.
 In recent years the environment has become a key topic, and it will continue to be an important theme throughout my future work.
 
-**What makes you deem a piece of film ‘a success’?
-**  
+**What makes you deem a piece of film ‘a success’?**    
 What I deem to be a success has definitely changed over the years. I think now for me it's important to witness my own personal growth in my practice, this helps create stepping stones to bigger and grander projects. One aspect that will always stay important is to succeed at putting a smile on a stranger's face and to give that stranger a unique viewing experience like never before.      
 
 **Do you think it’s important for filmmakers to have a ‘style’ or be very flexible? What would you say your style/vibe is?**    

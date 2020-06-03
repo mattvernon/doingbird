@@ -3,7 +3,7 @@ title: Iceberg Licking Society
 date: 2020-06-02 16:00:00 +10:00
 categories:
 - Features
-Main Image: "/uploads/ILS_Video_Still_Press-(1)_Landscape.jpg"
+Main Image: "/uploads/Landscape.jpg"
 Credits Text: "Nathan Ceddia is an Australian film director and photographer based
   in Berlin. His work is humorous, provoking, often strange and always epically beautiful
   to look at. \n\nFor his latest project, TOGETHER WE CAN STOP THE MELT, a film made
@@ -18,8 +18,7 @@ is featured?: true
 layout: gallery
 ---
 
-<iframe src="https://player.vimeo.com/video/424658363" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/424658363" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 **How did you come up with this idea?**
 
 The idea for iceberg licking came to me a few years back on my first voyage to Iceland.

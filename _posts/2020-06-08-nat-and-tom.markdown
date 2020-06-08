@@ -6,10 +6,11 @@ categories:
 - Fashion
 Main Image: "/uploads/001.jpg"
 Credits Text: |
-  A collaboration between art director Nat Turnbull and spatial designer Tom Hancocks.
+  A collaboration between art director [Nat Turnbull](https://www.instagram.com/natturnbull/) at [Art Box Black](https://www.instagram.com/artboxblack/) and spatial designer [Tom Hancocks](https://www.instagram.com/tom.hancocks/)
 
-  @tom.hancocks
+
   tomhancocks.info
+is featured?: true
 layout: gallery
 ---
 

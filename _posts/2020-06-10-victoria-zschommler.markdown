@@ -1,6 +1,6 @@
 ---
 title: Victoria Zschommler
-date: 2020-05-27 19:48:00 +10:00
+date: 2020-06-10 19:48:00 +10:00
 published: false
 Main Image: "/uploads/200516_VZ_DOINGBIRD_PRADA_026_R1_G.jpg"
 Credits Text: "Photography Victoria Zschommler\nFloral art Hattie Molloy "

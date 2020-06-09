@@ -1,6 +1,6 @@
 ---
 title: Not so soft
-date: 2020-03-31 16:18:00 +11:00
+date: 2020-06-10 16:18:00 +10:00
 published: false
 categories:
 - Fashion

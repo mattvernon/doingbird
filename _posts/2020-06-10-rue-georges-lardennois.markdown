@@ -3,13 +3,17 @@ title: Rue Georges Lardennois
 date: 2020-06-10 10:13:00 +10:00
 published: false
 Main Image: "/uploads/7_AA4Z2541.jpg"
-Credits Text: |
-  Giovanni Di Stefano
+Credits Text: |-
+  Concept & Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/)
 
-  Models: Ruben, Aurel and Anouck with they own clothes
-
-  As you can see we live is a very special part of Paris, it is a very green and  hidden area on the top of a hill in the city centre, no cars, looks like a small village with a great community, some people calls this area  the Paradise, so we are very lucky.
+  "we live in a very special part of Paris, it is very green and  hidden on the top of a hill in the city centre, no cars, looks like a small village and has a great community. Some people call this area of Paris, The Paradise, so we are very lucky."
   I had a good time to shoot my boys and their friend and our garden and plants
+
+  Models: Ruben, Aurel and Anouck
+  Models wear own clothes
+
+  #A DOINGBIRD ISO PROJECT
+is featured?: true
 layout: gallery
 ---
 

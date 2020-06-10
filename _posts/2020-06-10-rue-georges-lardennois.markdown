@@ -6,12 +6,13 @@ categories:
 - World
 Main Image: "/uploads/7_AA4Z2541.jpg"
 Credits Text: |-
+  Paris based photographer Giovanni Di Stefano photographed his sons and their friend at home in their garden and street, Rue Georges Lardennois.
+
+  "We live in a very special part of Paris, it is very green and  hidden on the top of a hill in the city centre. No cars, looks like a small village and has a great community. Some people call this area of Paris, The Paradise, we are very lucky."
+
   Concept & Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/)
 
-  "we live in a very special part of Paris, it is very green and  hidden on the top of a hill in the city centre, no cars, looks like a small village and has a great community. Some people call this area of Paris, The Paradise, so we are very lucky."
-  I had a good time to shoot my boys and their friend and our garden and plants
-
-  Models: Ruben, Aurel and Anouck
+  Models Ruben, Aurel and Anouck
   Models wear own clothes
 
   #A DOINGBIRD ISO PROJECT

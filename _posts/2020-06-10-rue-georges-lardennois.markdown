@@ -2,6 +2,8 @@
 title: Rue Georges Lardennois
 date: 2020-06-10 10:13:00 +10:00
 published: false
+categories:
+- World
 Main Image: "/uploads/7_AA4Z2541.jpg"
 Credits Text: |-
   Concept & Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/)

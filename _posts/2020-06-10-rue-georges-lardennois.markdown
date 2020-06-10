@@ -6,7 +6,7 @@ categories:
 - World
 Main Image: "/uploads/7_AA4Z2541.jpg"
 Credits Text: |-
-  Paris based photographer Giovanni Di Stefano photographed his sons and their friend at home in their garden and street, Rue Georges Lardennois.
+  Paris based photographer Giovanni Di Stefano photographed his sons and their friend in their garden and on their street, Rue Georges Lardennois.
 
   "We live in a very special part of Paris, it is very green and  hidden on the top of a hill in the city centre. No cars, looks like a small village and has a great community. Some people call this area of Paris, The Paradise, we are very lucky."
 

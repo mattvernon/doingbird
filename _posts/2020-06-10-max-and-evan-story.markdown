@@ -4,7 +4,7 @@ date: 2020-06-10 16:18:00 +10:00
 published: false
 categories:
 - Fashion
-Main Image: "/uploads/3_db%20flower25%20(11)%20(3)c.jpg"
+Main Image: "/uploads/not%20so%20soft.jpg"
 Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
   at [DLM](https://www.instagram.com/dlm_au/)    \nstyling **[Evan Betts](https://www.instagram.com/evanbeezy/)**\nhair
   **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup

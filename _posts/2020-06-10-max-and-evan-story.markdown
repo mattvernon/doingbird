@@ -1,15 +1,16 @@
 ---
-title: max & evan story
-date: 2020-03-31 16:18:00 +11:00
+title: Not so soft
+date: 2020-06-10 16:18:00 +10:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/not%20so%20soft.jpg"
 Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
-  at \nstyling **[Evan Betts](https://www.instagram.com/evanbeezy/)**\nhair **[Rory
-  Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup
+  at [DLM](https://www.instagram.com/dlm_au/)    \nstyling **[Evan Betts](https://www.instagram.com/evanbeezy/)**\nhair
+  **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup
   by Sean Brady\nFashion assistant Julianna Yao  \nModels:  \nKonker at **[Kult](https://www.instagram.com/kultaustralia/)**\nCal
-  @ IMG\nMalcolm @ IMG\nLachie at **[Priscillas](https://www.instagram.com/priscillasmodels/)**\nHarrison
-  at **[Chadwick](https://www.instagram.com/chadwickmodels/)**"
+  @ **[IMG](https://www.instagram.com/imgmodels/)**\nMalcolm @ **[IMG](https://www.instagram.com/imgmodels/)**\nLachie
+  at **[Priscillas](https://www.instagram.com/priscillasmodels/)**\nHarrison at **[Chadwick](https://www.instagram.com/chadwickmodels/)**"
 is featured?: true
 layout: gallery
 ---

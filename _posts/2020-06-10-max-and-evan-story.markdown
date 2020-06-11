@@ -37,7 +37,7 @@ RIGHT: jacket by [Emporio Armani](https://www.instagram.com/emporioarmani/), sin
 
 ![5_db flower22b.jpg](/uploads/5_db%20flower22b.jpg)
 
-Jacket by [Zegna](https://www.instagram.com/zegnaofficial/) , Shirt by [Emporio Armani](https://www.instagram.com/emporioarmani/)
+Jacket by [Zegna](https://www.instagram.com/zegnaofficial/), Shirt by [Emporio Armani](https://www.instagram.com/emporioarmani/)
 
 ![6_db flower36b.jpg](/uploads/6_db%20flower36b.jpg)
 

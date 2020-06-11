@@ -8,8 +8,8 @@ Main Image: "/uploads/not%20so%20soft.jpg"
 Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
   at [DLM](https://www.instagram.com/dlm_au/)    \nstyling **[Evan Betts](https://www.instagram.com/evanbeezy/)**
   \   \nhair **[Rory Rice](https://www.instagram.com/_roryrice_/)** at **[Lion Artist
-  Management](https://www.instagram.com/lionartistmanagement/)**\nMakeup by Sean Brady\nFashion
-  assistant Julianna Yao  \nModels:  Konker at **[Kult](https://www.instagram.com/kultaustralia/)**
+  Management](https://www.instagram.com/lionartistmanagement/)**\n\nMakeup by Sean
+  Brady\nFashion assistant Julianna Yao  \nModels:  Konker at **[Kult](https://www.instagram.com/kultaustralia/)**
   Cal @ **[IMG](https://www.instagram.com/imgmodels/)** Malcolm @ **[IMG](https://www.instagram.com/imgmodels/)**
   Lachie at **[Priscillas](https://www.instagram.com/priscillasmodels/)** Harrison
   at **[Chadwick](https://www.instagram.com/chadwickmodels/)**"

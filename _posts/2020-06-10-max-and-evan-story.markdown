@@ -18,7 +18,7 @@ layout: gallery
 ![1_db flower36b.jpg](/uploads/1_db%20flower36b.jpg)
 
 LEFT: Jacket by [Bally](https://www.instagram.com/bally/)                  
-RIGHT: all clothing and shoes by [Prada](https://www.instagram.com/prada/) Jewellery by [Heart of bone](https://www.instagram.com/heartofbone_/)
+RIGHT: all clothing and shoes by [Prada](https://www.instagram.com/prada/), Jewellery by [Heart of bone](https://www.instagram.com/heartofbone_/)
 
 ![2_db flower25 (6)b.jpg](/uploads/2_db%20flower25%20(6)b.jpg)
 

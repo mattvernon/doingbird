@@ -1,7 +1,6 @@
 ---
 title: Not so soft
-date: 2020-06-10 16:18:00 +10:00
-published: false
+date: 2020-06-12 08:30:00 +10:00
 categories:
 - Fashion
 Main Image: "/uploads/not%20so%20soft.jpg"

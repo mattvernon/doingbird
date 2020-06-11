@@ -42,17 +42,17 @@ Jacket by [Zegna](https://www.instagram.com/zegnaofficial/), Shirt by [Emporio A
 ![6_db flower36b.jpg](/uploads/6_db%20flower36b.jpg)
 
 LEFT:  all clothing by [Prada](https://www.instagram.com/prada/). Jewellery by [Heart of Bone](https://www.instagram.com/heartofbone_/)               
-RIGHT: jacket [Zegna](https://www.instagram.com/zegnaofficial/)   Singlet by [Dior](https://www.instagram.com/dior/) Pants by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/) Shoes by [Bally](https://www.instagram.com/bally/) Jewellery by [Heart of Bone](https://www.instagram.com/heartofbone_/)
+RIGHT: jacket [Zegna](https://www.instagram.com/zegnaofficial/),   Singlet by [Dior](https://www.instagram.com/dior/), Pants by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/), Shoes by [Bally](https://www.instagram.com/bally/), Jewellery by [Heart of Bone](https://www.instagram.com/heartofbone_/)
 
 ![7_db flower24b.jpg](/uploads/7_db%20flower24b.jpg)
 
-LEFT: top by [Emporio Armani.](https://www.instagram.com/emporioarmani/) Pants by [Zegna](https://www.instagram.com/zegnaofficial/)                 
-RIGHT: all clothing and shoes by [Prada](https://www.instagram.com/prada/). Jewellery by [Heart of Bone](https://www.instagram.com/heartofbone_/)
+LEFT: top by [Emporio Armani.](https://www.instagram.com/emporioarmani/), Pants by [Zegna](https://www.instagram.com/zegnaofficial/)                 
+RIGHT: all clothing and shoes by [Prada](https://www.instagram.com/prada/), Jewellery by [Heart of Bone](https://www.instagram.com/heartofbone_/)
 
 ![8_db flower28b.jpg](/uploads/8_db%20flower28b.jpg)
 
-LEFT: Jacket by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/) Jumper and shorts by [Bally](https://www.instagram.com/bally/) Models own jewellery                  
-RIGHT: singlet by [Dior](https://www.instagram.com/dior/) Rings and bracelet by [Heart of Bone](https://www.instagram.com/heartofbone_/). Bracelet by Charlton
+LEFT: Jacket by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/), Jumper and shorts by [Bally](https://www.instagram.com/bally/), Models own jewellery                  
+RIGHT: singlet by [Dior](https://www.instagram.com/dior/), Rings and bracelet by [Heart of Bone](https://www.instagram.com/heartofbone_/), Bracelet by Charlton
 
 ![9_doingbird mens 144b.jpg](/uploads/9_doingbird%20mens%20144b.jpg)
 

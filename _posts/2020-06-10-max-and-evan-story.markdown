@@ -23,12 +23,12 @@ RIGHT: all clothing and shoes by [Prada](https://www.instagram.com/prada/), Jewe
 ![2_db flower25 (6)b.jpg](/uploads/2_db%20flower25%20(6)b.jpg)
 
 LEFT:  all clothing by [Dior](https://www.instagram.com/dior/)                
-RIGHT: jumper by [Bally](https://www.instagram.com/bally/). Jacket by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/)
+RIGHT: jumper by [Bally](https://www.instagram.com/bally/), Jacket by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/)
 
 ![3_db flower25 (11) (3)b.jpg](/uploads/3_db%20flower25%20(11)%20(3)b.jpg)
 
-LEFT:   jumpsuit by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/) Bandana by [Prada.](https://www.instagram.com/prada/) Jewellery by [Heart of bone](https://www.instagram.com/heartofbone_/)               
-RIGHT: Jacket by [Bally](https://www.instagram.com/bally/) Jumper by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/) Pants by [Zegna](https://www.instagram.com/zegnaofficial/)   Shoes by [Dior](https://www.instagram.com/dior/)
+LEFT:   jumpsuit by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/) Bandana by [Prada.](https://www.instagram.com/prada/), Jewellery by [Heart of bone](https://www.instagram.com/heartofbone_/)               
+RIGHT: Jacket by [Bally](https://www.instagram.com/bally/), Jumper by [Salvatore Ferragamo](https://www.instagram.com/ferragamo/), Pants by [Zegna](https://www.instagram.com/zegnaofficial/), Shoes by [Dior](https://www.instagram.com/dior/)
 
 ![4_db flower18b.jpg](/uploads/4_db%20flower18b.jpg)
 

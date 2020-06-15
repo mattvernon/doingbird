@@ -18,9 +18,9 @@ layout: gallery
 
 ![doingbirdportraittestcrop.jpg](/uploads/doingbirdportraittestcrop.jpg)
 
+![doingbirdportraitlsdone.jpg](/uploads/doingbirdportraitlsdone.jpg)
 
-
-![DSC_4123.jpg](/uploads/DSC_4123.jpg)
+![doingbirdportraitlsdone5.jpg](/uploads/doingbirdportraitlsdone5.jpg)
 
 ![doingbirdportrait2.jpg](/uploads/doingbirdportrait2.jpg)
 

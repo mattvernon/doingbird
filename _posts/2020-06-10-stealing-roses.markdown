@@ -18,8 +18,6 @@ layout: gallery
 
 ![Untitled-1testborder.jpg](/uploads/Untitled-1testborder.jpg)
 
-![DSC_3952.jpg](/uploads/DSC_3952.jpg)
-
 ![DSC_4219.jpg](/uploads/DSC_4219.jpg)
 
 ![DSC_4123.jpg](/uploads/DSC_4123.jpg)

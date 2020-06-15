@@ -1,6 +1,6 @@
 ---
 title: Stealing Roses
-date: 2020-06-10 15:34:00 +10:00
+date: 2020-06-14 15:34:00 +10:00
 published: false
 categories:
 - Fashion
@@ -12,6 +12,7 @@ Credits Text: |-
   Models Erinn Bowtell & Abby Bennett
 
   All Clothing Bottega Veneta
+is featured?: true
 layout: gallery
 ---
 

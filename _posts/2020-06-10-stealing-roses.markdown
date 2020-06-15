@@ -14,4 +14,23 @@ Credits Text: |-
 layout: gallery
 ---
 
-![test1.jpg](/uploads/test1.jpg)
+![test1-626b4d.jpg](/uploads/test1-626b4d.jpg)
+
+![DSC_4219.jpg](/uploads/DSC_4219.jpg)
+
+![DSC_4123.jpg](/uploads/DSC_4123.jpg)
+
+![doingbirdportrait2.jpg](/uploads/doingbirdportrait2.jpg)
+
+![DSC_3952.jpg](/uploads/DSC_3952.jpg)
+
+![doingbirdportrait3-60ccc5.jpg](/uploads/doingbirdportrait3-60ccc5.jpg)
+
+![DSC_3953.jpg](/uploads/DSC_3953.jpg)
+
+![doingbirdportrait5.jpg](/uploads/doingbirdportrait5.jpg)
+
+![DSC_4029.jpg](/uploads/DSC_4029.jpg)
+
+![DSC_3998-Edit.jpg](/uploads/DSC_3998-Edit.jpg)
+

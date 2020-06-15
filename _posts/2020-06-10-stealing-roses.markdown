@@ -14,4 +14,3 @@ Credits Text: |-
 layout: gallery
 ---
 
-![test1.jpg](/uploads/test1.jpg)

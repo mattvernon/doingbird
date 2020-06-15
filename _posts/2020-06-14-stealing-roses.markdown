@@ -6,12 +6,12 @@ categories:
 - Fashion
 Main Image: "/uploads/doingbirdportraitlsdone.jpg"
 Credits Text: |-
-  Art Direction & Styling Abby Bennett
-  Photography Reece Newnham
+  Photography [Reece Newnham](https://www.instagram.com/spin_cigg/)
+  Fashion Editor [Abby Bennett](https://www.instagram.com/bennett_abby/)
 
-  Models Erinn Bowtell & Abby Bennett
+  Models [Erinn Bowtell](https://www.instagram.com/erinnbowtell/) & Abby Bennett
 
-  All Clothing Bottega Veneta
+  All Clothing [Bottega Veneta](https://www.instagram.com/bottegaveneta/)
 is featured?: true
 layout: gallery
 ---

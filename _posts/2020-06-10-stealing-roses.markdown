@@ -30,4 +30,6 @@ layout: gallery
 
 ![doingbirdportrait5.jpg](/uploads/doingbirdportrait5.jpg)
 
+![doingbirdportraitlsdone3.jpg](/uploads/doingbirdportraitlsdone3.jpg)
 
+![doingbirdportraitlsdone2.jpg](/uploads/doingbirdportraitlsdone2.jpg)

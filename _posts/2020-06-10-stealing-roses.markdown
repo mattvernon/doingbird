@@ -15,6 +15,7 @@ layout: gallery
 ---
 
 ![test1-626b4d.jpg](/uploads/test1-626b4d.jpg)
+
 ![doingbirdportraittestcrop.jpg](/uploads/doingbirdportraittestcrop.jpg)
 
 ![DSC_4219.jpg](/uploads/DSC_4219.jpg)

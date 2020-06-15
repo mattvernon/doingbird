@@ -1,7 +1,9 @@
 ---
 title: Victoria Zschommler
-date: 2020-06-10 19:48:00 +10:00
+date: 2020-06-15 14:00:00 +10:00
 published: false
+categories:
+- Fashion
 Main Image: "/uploads/200516_VZ_DOINGBIRD_PRADA_108_R1_G.jpg"
 Credits Text: "Photography [Victoria Zschommler](https://www.instagram.com/victoriazschommler/)\nFloral
   art [Hattie Molloy](https://www.instagram.com/hattiemolloy/) \n\nAll clothing &

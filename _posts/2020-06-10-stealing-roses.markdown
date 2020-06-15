@@ -26,11 +26,8 @@ layout: gallery
 
 ![doingbirdportrait3-60ccc5.jpg](/uploads/doingbirdportrait3-60ccc5.jpg)
 
-![DSC_3953.jpg](/uploads/DSC_3953.jpg)
+![doingbirdportraitlsdone4.jpg](/uploads/doingbirdportraitlsdone4.jpg)
 
 ![doingbirdportrait5.jpg](/uploads/doingbirdportrait5.jpg)
 
-![DSC_4029.jpg](/uploads/DSC_4029.jpg)
-
-![DSC_3998-Edit.jpg](/uploads/DSC_3998-Edit.jpg)
 

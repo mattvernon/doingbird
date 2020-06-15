@@ -3,7 +3,10 @@ title: Victoria Zschommler
 date: 2020-06-10 19:48:00 +10:00
 published: false
 Main Image: "/uploads/200516_VZ_DOINGBIRD_PRADA_026_R1_G.jpg"
-Credits Text: "Photography Victoria Zschommler\nFloral art Hattie Molloy "
+Credits Text: "Photography [Victoria Zschommler](https://www.instagram.com/victoriazschommler/)\nFloral
+  art [Hattie Molloy](https://www.instagram.com/hattiemolloy/) \n\nAll clothing &
+  accessories by [Miu Miu](https://www.instagram.com/miumiu/) & [Prada](https://www.instagram.com/prada/)\n\n#A
+  DOINGBIRD ISO PROJECT"
 is featured?: true
 layout: gallery
 ---

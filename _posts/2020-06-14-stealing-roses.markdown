@@ -20,6 +20,8 @@ layout: gallery
 
 ![doingbirdportraittestcrop.jpg](/uploads/doingbirdportraittestcrop.jpg)
 
+![doingbirdportraitlsdone4.jpg](/uploads/doingbirdportraitlsdone4.jpg)
+
 ![doingbirdportraitlsdone.jpg](/uploads/doingbirdportraitlsdone.jpg)
 
 ![doingbirdportraitlsdone5.jpg](/uploads/doingbirdportraitlsdone5.jpg)
@@ -28,7 +30,6 @@ layout: gallery
 
 ![doingbirdportrait3-60ccc5.jpg](/uploads/doingbirdportrait3-60ccc5.jpg)
 
-![doingbirdportraitlsdone4.jpg](/uploads/doingbirdportraitlsdone4.jpg)
 
 ![doingbirdportrait5.jpg](/uploads/doingbirdportrait5.jpg)
 

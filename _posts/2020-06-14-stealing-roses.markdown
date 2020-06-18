@@ -32,8 +32,6 @@ layout: gallery
 
 ![doingbirdportraitlsdone3.jpg](/uploads/doingbirdportraitlsdone3.jpg)
 
-![doingbirdportraitlsdone4.jpg](/uploads/doingbirdportraitlsdone4.jpg)
-
 ![doingbirdportraitlsdone5.jpg](/uploads/doingbirdportraitlsdone5.jpg)
 
 ![doingbirdportraitlsdone190.jpg](/uploads/doingbirdportraitlsdone190.jpg)

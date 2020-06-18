@@ -10,9 +10,11 @@ Credits Text: |-
 
   Fashion Editor [Abby Bennett](https://www.instagram.com/bennett_abby/)
 
+  All Clothing [Bottega Veneta](https://www.instagram.com/bottegaveneta/)
+
   Models [Erinn Bowtell](https://www.instagram.com/erinnbowtell/) & Abby Bennett
 
-  All Clothing [Bottega Veneta](https://www.instagram.com/bottegaveneta/)
+  #A DOINGBIRD ISO PROJECT
 is featured?: true
 layout: gallery
 ---

@@ -7,6 +7,7 @@ categories:
 Main Image: "/uploads/edited%20doingbirdportraitlsdone190%20copy.jpeg"
 Credits Text: |-
   Photography [Reece Newnham](https://www.instagram.com/spin_cigg/)
+
   Fashion Editor [Abby Bennett](https://www.instagram.com/bennett_abby/)
 
   Models [Erinn Bowtell](https://www.instagram.com/erinnbowtell/) & Abby Bennett

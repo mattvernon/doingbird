@@ -16,6 +16,8 @@ is featured?: true
 layout: gallery
 ---
 
+![doingbirdportraitlsdone190.jpg](/uploads/doingbirdportraitlsdone190.jpg)
+
 ![test1-626b4d.jpg](/uploads/test1-626b4d.jpg)
 
 ![doingbirdportraittestcrop.jpg](/uploads/doingbirdportraittestcrop.jpg)

@@ -4,7 +4,7 @@ date: 2020-06-19 09:00:00 +10:00
 published: false
 categories:
 - Fashion
-Main Image: "/uploads/doingbirdportraitlsdone2.jpg"
+Main Image: "/uploads/edited%20doingbirdportraitlsdone190%20copy.jpeg"
 Credits Text: |-
   Photography [Reece Newnham](https://www.instagram.com/spin_cigg/)
   Fashion Editor [Abby Bennett](https://www.instagram.com/bennett_abby/)

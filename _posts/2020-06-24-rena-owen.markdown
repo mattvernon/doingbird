@@ -2,6 +2,7 @@
 title: Rena Owen
 date: 2020-06-24 16:34:00 +10:00
 published: false
+layout: gallery
 ---
 
 ![16th June 2019_Shot 1_0126.jpg](/uploads/16th%20June%202019_Shot%201_0126.jpg)

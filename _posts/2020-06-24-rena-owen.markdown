@@ -1,5 +1,5 @@
 ---
-title: Rena Owen
+title: Reena Owen
 date: 2020-06-24 16:34:00 +10:00
 published: false
 layout: gallery

@@ -1,7 +1,9 @@
 ---
 title: my mushrooms
-date: 2020-06-09 15:50:00 +10:00
+date: 2020-06-25 09:00:00 +10:00
 published: false
+categories:
+- Fashion
 Main Image: "/uploads/3%20db%20dior%20(6).jpg"
 Credits Text: |-
   Photography [Max Doyle](https://www.instagram.com/maxdoyle_photographer/) & Frankie Doyle

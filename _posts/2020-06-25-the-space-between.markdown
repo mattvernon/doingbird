@@ -6,10 +6,11 @@ categories:
 - Fashion
 Main Image: "/uploads/001.jpg"
 Credits Text: |
-  A collaboration between art director [Nat Turnbull](https://www.instagram.com/natturnbull/) at [Art Box Black](https://www.instagram.com/artboxblack/) and spatial designer [Tom Hancocks](https://www.instagram.com/tom.hancocks/)
+  A collaboration between art director [Nat Turnbull](https://www.instagram.com/natturnbull/) and spatial designer [Tom Hancocks](https://www.instagram.com/tom.hancocks/)
 
 
   [tomhancocks.info](https://tomhancocks.info/)
+  [Nat Turnbull](http://www.natalieturnbull.com.au/) at [Art Box Black](https://www.instagram.com/artboxblack/)
 
   #A DOINGBIRD ISO PROJECT
 is featured?: true

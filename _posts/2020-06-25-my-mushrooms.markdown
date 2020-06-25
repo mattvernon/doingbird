@@ -1,7 +1,16 @@
 ---
 title: my mushrooms
-date: 2020-06-09 15:50:00 +10:00
-published: false
+date: 2020-06-25 09:00:00 +10:00
+categories:
+- Fashion
+Main Image: "/uploads/Frankie%20Dior.jpg"
+Credits Text: |-
+  Photography [Max Doyle](https://www.instagram.com/maxdoyle_photographer/) & Frankie Doyle
+
+  All Clothing [Dior ](https://www.instagram.com/dior/)
+
+  Models Frankie Doyle, Wilco Doyle & Max Doyle
+is featured?: true
 layout: gallery
 ---
 

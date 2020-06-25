@@ -1,6 +1,6 @@
 ---
-title: Nat & Tom
-date: 2020-06-08 18:14:00 +10:00
+title: The Space Between
+date: 2020-06-25 18:14:00 +10:00
 published: false
 categories:
 - Fashion
@@ -9,7 +9,9 @@ Credits Text: |
   A collaboration between art director [Nat Turnbull](https://www.instagram.com/natturnbull/) at [Art Box Black](https://www.instagram.com/artboxblack/) and spatial designer [Tom Hancocks](https://www.instagram.com/tom.hancocks/)
 
 
-  tomhancocks.info
+  [tomhancocks.info](https://tomhancocks.info/)
+
+  #A DOINGBIRD ISO PROJECT
 is featured?: true
 layout: gallery
 ---

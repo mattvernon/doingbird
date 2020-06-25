@@ -10,6 +10,8 @@ Credits Text: |-
   All Clothing [Dior ](https://www.instagram.com/dior/)
 
   Models Frankie Doyle, Wilco Doyle & Max Doyle
+
+  #A DOINGBIRD ISO PROJECT
 is featured?: true
 layout: gallery
 ---

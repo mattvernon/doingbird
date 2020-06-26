@@ -1,7 +1,6 @@
 ---
 title: The Space Between
 date: 2020-06-25 18:14:00 +10:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/001.jpg"

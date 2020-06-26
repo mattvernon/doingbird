@@ -1,17 +1,17 @@
 ---
 title: The Space Between
 date: 2020-06-25 18:14:00 +10:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/001.jpg"
-Credits Text: |
-  A collaboration between art director [Nat Turnbull](https://www.instagram.com/natturnbull/) at [Art Box Black](https://www.instagram.com/artboxblack/) and spatial designer [Tom Hancocks](https://www.instagram.com/tom.hancocks/)
-
-
-  [tomhancocks.info](https://tomhancocks.info/)
-
-  #A DOINGBIRD ISO PROJECT
+Credits Text: "A collaboration between Melbourne based art director [Nat Turnbull](https://www.instagram.com/natturnbull/)
+  and New York based spatial designer [Tom Hancocks](https://www.instagram.com/tom.hancocks/)\n\nHow
+  did you go about creating these images together? \n\"I had the bags shot individually
+  'e-commerce' style on all different angles and shapes, then I created a ’style guide’
+  for the types of spaces the bags could exist in and how they might fit into those,
+  then Tom worked his magic and created these incredible worlds in CGI.\" - Nat Turnbull\n\n#A
+  DOINGBIRD ISO PROJECT\n\n[tomhancocks.info](https://tomhancocks.info/)\n\n[Nat Turnbull](http://www.natalieturnbull.com.au/)
+  at [Art Box Black](https://www.instagram.com/artboxblack/)\n\n"
 is featured?: true
 layout: gallery
 ---

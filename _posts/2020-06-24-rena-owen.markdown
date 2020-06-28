@@ -2,7 +2,8 @@
 title: Amazing Grace
 date: 2020-06-24 16:34:00 +10:00
 published: false
-Credits Text: "Writer Gudrun Willcocks   \nphotographs [Hugh Stewart](https://www.instagram.com/hughstewartgallery/?hl=en)
+Credits Text: "Writer [Gudrun Willcocks](https://www.instagram.com/gudrungw/?hl=en)
+  \  \nphotographs [Hugh Stewart](https://www.instagram.com/hughstewartgallery/?hl=en)
   \   \nstyling **[Miguel Urbina Tan]**"
 layout: gallery
 ---

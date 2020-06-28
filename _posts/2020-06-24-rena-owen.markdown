@@ -4,7 +4,7 @@ date: 2020-06-24 16:34:00 +10:00
 published: false
 Credits Text: "Writer Gudrun Willcocks   \nphotographs [Hugh Stewart](https://www.instagram.com/hughstewartgallery/?hl=en)
   \   \nstyling **[Miguel Urbina Tan]**"
-layout: gallery
+layout: post
 ---
 
 The actress Rena Owen, 57, sits upright in a black Georgian-inspired dress. A proud streak of grey is visible within her soft, dark beehive and she wears a bemused purse of red lips, in the images taken by her friend, portrait photographer, Hugh Stewart.

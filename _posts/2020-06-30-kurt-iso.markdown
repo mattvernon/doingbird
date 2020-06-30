@@ -4,8 +4,9 @@ date: 2020-06-30 18:47:00 +10:00
 published: false
 categories:
 - Fashion
-Credits Text: "Concept & Styling Kurt Johnson \nPhotography Mia Rankin\n\nAll Clothing
-  by Gucci \n\nModels Kurt Johnson & Buster\n\n# A DOINGBIRD ISO PROJECT "
+Credits Text: "Concept & Styling [Kurt Johnson ](https://www.instagram.com/kurt__johnson/)\nPhotography
+  [Mia Rankin](https://www.instagram.com/_miarankinstudio/)\n\nAll Clothing by [Gucci](https://www.instagram.com/gucci/)
+  \n\nModels Kurt Johnson & dog??\n\n# A DOINGBIRD ISO PROJECT "
 layout: gallery
 ---
 

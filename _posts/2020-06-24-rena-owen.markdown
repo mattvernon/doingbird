@@ -1,21 +1,14 @@
 ---
 title: Amazing Grace
-date: 2020-07-03 16:34:00 +10:00
-categories:
-- Features
-tags:
-- Shoot
-- Feature
-- actor
-Main Image: "/uploads/16th%20June%202019_Shot%202_0260-8a35ee.jpg"
+date: 2020-06-24 16:34:00 +10:00
+published: false
 Credits Text: "Writer [Gudrun Willcocks](https://www.instagram.com/gudrungw/?hl=en)
   \  \nphotographs [Hugh Stewart](https://www.instagram.com/hughstewartgallery/?hl=en)
   \   \nstyling [Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/?hl=en)"
-is featured?: true
 layout: gallery
 ---
 
-The actress Rena Owen, 57, sits upright in a black Georgian-inspired dress. A proud streak of grey is visible within her soft, dark beehive and she wears a bemused purse of red lips, in the images taken by her friend, portrait photographer, Hugh Stewart.
+The actress Rena Owen, 57, sits upright in a black burgundy Georgian inspired dress. A proud streak of grey is visible within her soft, dark beehive and she wears a bemused purse of red lips, in the images taken by her friend, portrait photographer, Hugh Stewart.
 
 ![16th June 2019_Shot 1_0126-08c4d5.jpg](/uploads/16th%20June%202019_Shot%201_0126-08c4d5.jpg)
 

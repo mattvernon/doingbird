@@ -1,7 +1,12 @@
 ---
 title: Amazing Grace
 date: 2020-06-24 16:34:00 +10:00
-published: false
+categories:
+- Features
+tags:
+- Shoot
+- Feature
+- actor
 Main Image: "/uploads/16th%20June%202019_Shot%202_0260-8a35ee.jpg"
 Credits Text: "Writer [Gudrun Willcocks](https://www.instagram.com/gudrungw/?hl=en)
   \  \nphotographs [Hugh Stewart](https://www.instagram.com/hughstewartgallery/?hl=en)

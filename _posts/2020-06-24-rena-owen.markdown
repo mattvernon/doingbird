@@ -6,6 +6,7 @@ Main Image: "/uploads/16th%20June%202019_Shot%202_0260-8a35ee.jpg"
 Credits Text: "Writer [Gudrun Willcocks](https://www.instagram.com/gudrungw/?hl=en)
   \  \nphotographs [Hugh Stewart](https://www.instagram.com/hughstewartgallery/?hl=en)
   \   \nstyling [Miguel Urbina Tan](https://www.instagram.com/miguelurbinatan/?hl=en)"
+is featured?: true
 layout: gallery
 ---
 

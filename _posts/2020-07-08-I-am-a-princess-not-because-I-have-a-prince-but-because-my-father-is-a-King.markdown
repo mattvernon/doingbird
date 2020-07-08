@@ -1,12 +1,13 @@
 ---
-title: KURT ISO
-date: 2020-06-30 18:47:00 +10:00
-published: false
+title: I am a princess not because I have a prince, but because my father is a King
+date: 2020-07-08 16:00:00 +10:00
 categories:
 - Fashion
-Credits Text: "Concept & Styling [Kurt Johnson ](https://www.instagram.com/kurt__johnson/)\nPhotography
+Main Image: "/uploads/Doingbird_Kurt%20Johnson_Mia%20Rankin_square004.jpg"
+Credits Text: "Concept & Styling [Kurt Johnson ](https://www.instagram.com/kurt__johnson/)\n\nPhotography
   [Mia Rankin](https://www.instagram.com/_miarankinstudio/)\n\nAll Clothing by [Gucci](https://www.instagram.com/gucci/)
-  \n\nModels Kurt Johnson & dog??\n\n# A DOINGBIRD ISO PROJECT "
+  \n\nModels Kurt Johnson & Harper\n\n# A DOINGBIRD ISO PROJECT "
+is featured?: true
 layout: gallery
 ---
 

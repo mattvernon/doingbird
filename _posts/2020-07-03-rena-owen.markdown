@@ -1,7 +1,6 @@
 ---
 title: Amazing Grace
 date: 2020-07-03 09:00:00 +10:00
-published: false
 categories:
 - Features
 Main Image: "/uploads/16th%20June%202019_Shot%202_0260-8a35ee.jpg"

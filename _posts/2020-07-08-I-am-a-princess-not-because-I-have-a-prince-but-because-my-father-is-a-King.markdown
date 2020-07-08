@@ -5,7 +5,7 @@ published: false
 categories:
 - Fashion
 Main Image: "/uploads/Doingbird_Kurt%20Johnson_Mia%20Rankin_square004.jpg"
-Credits Text: "Concept & Styling [Kurt Johnson ](https://www.instagram.com/kurt__johnson/)\nPhotography
+Credits Text: "Concept & Styling [Kurt Johnson ](https://www.instagram.com/kurt__johnson/)\n\nPhotography
   [Mia Rankin](https://www.instagram.com/_miarankinstudio/)\n\nAll Clothing by [Gucci](https://www.instagram.com/gucci/)
   \n\nModels Kurt Johnson & Harper\n\n# A DOINGBIRD ISO PROJECT "
 is featured?: true

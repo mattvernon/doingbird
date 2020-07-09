@@ -6,9 +6,10 @@ categories:
 - Features
 Main Image: "/uploads/002712530034.jpg"
 Credits Text: |-
-  Photography Cameron Smith
+  [Chaii](https://www.instagram.com/chaii_music/) was photographed on location in Los Angeles by [Cameron Smith](https://www.instagram.com/cameronsmith/)
 
   Interview by Tina Summers
+is featured?: true
 layout: gallery
 ---
 

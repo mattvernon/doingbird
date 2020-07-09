@@ -4,6 +4,7 @@ date: 2020-06-08 16:19:00 +10:00
 published: false
 categories:
 - Features
+Main Image: "/uploads/002712530034.jpg"
 Credits Text: |-
   Photography Cameron Smith
 

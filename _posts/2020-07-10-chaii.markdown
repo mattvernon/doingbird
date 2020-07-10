@@ -1,55 +1,83 @@
 ---
 title: Chaii
-date: 2020-06-08 16:19:00 +10:00
-published: false
+date: 2020-07-10 09:00:00 +10:00
 categories:
 - Features
+Main Image: "/uploads/002712530034.jpg"
 Credits Text: |-
-  Photography Cameron Smith
+  [Chaii](https://www.instagram.com/chaii_music/) was photographed on location in Los Angeles by [Cameron Smith](https://www.instagram.com/cameronsmith/)
 
   Interview by Tina Summers
+is featured?: true
+layout: gallery
 ---
 
-CHAII is New Zealand’s next big thing. As a child, the genre-bending Persian-kiwi rapper learned English rapping along to Eminem, and since then she’s been developing her signature sound, which culminated in the release of her first official single ‘South’ in 2019. Before that, she’d released the track ‘Digebasse (Enough)’ and its accompanying video to Facebook, which organically gained 1.2 million videos, before signing to BMG. That video, and the one for ‘South’, were both created guerrilla-style with friends and locals in the Middle East. It’s that DIY ethos that’s made CHAII one of the most exciting young artists to watch in 2020, one that Fendi tapped last year for some of its videos. Her latest single ‘Trouble’ was written to capture life as a child in Iran. We asked her some questions about her life to date, and photographed her in LA.  
+CHAII is one of New Zealand’s most talented new stars. As a child, the genre-bending Persian-kiwi rapper learned English rapping along to Eminem, and since then she’s been developing her signature sound, which culminated in the release of her first official single ‘South’ in 2019. Before that, she’d released the track ‘Digebasse (Enough)’ and its accompanying video to Facebook, which organically gained 1.2 million videos, before signing to BMG. That video, and the one for ‘South’, were both created guerrilla-style with friends and locals in the Middle East. It’s that DIY ethos that’s made CHAII one of the most exciting young artists to watch in 2020, one that Fendi tapped last year for some of its videos. Her recent single ‘Trouble’ was written to capture life as a child in Iran, and there’s more on the way because her EP Lightswitch is out today! We asked her some questions about her life to date.   
 
-So, I saw you at BIGSOUND and you had so much energy — it just looked like you were having so much fun. What was that like? How do you feel when you're performing? 
+![002712530001.jpg](/uploads/002712530001.jpg)
+
+*So, I saw you at BIGSOUND last year and you had so much energy — it just looked like you were having so much fun. What was that like? How do you feel when you're performing?*
+
 It’s so much fun performing. I love being on stage. We spend so much time hiding away writing music that there’s something special about taking it to stage and connecting with a live audience.
 
-How "fun" has the whole process been, going from recording ‘Digebasse (Enough)’ and making the accompanying video, to signing with BMG, to making ‘South’ and the video, to being at BIGSOUND, and now where you are today? I imagine it's been so much hard work!
+*How "fun" has the whole process been, going from recording ‘Digebasse (Enough)’ and making the accompanying video, to signing with BMG, to making ‘South’ and the video, to being at BIGSOUND, and now where you are today? I imagine it's been so much hard work!* 
+
 Yes, you spend years working hard on your craft then for it to suddenly start result in things like signing to BMG is kind of unreal. I definitely was not expecting anything because you just never know. I guess good things happen when you least expect. I could never imagine myself doing anything else but being in the music industry, so for my music to be going somewhere feels so special and the process is definitely fun. Don’t get make wrong — it’s a lot of ups and downs and a hard road to be on at times, but if you’re having fun and doing it because you love it, things just happen and flow naturally.
 
-Since this is one of your first interviews, I wanted to find out a bit about you before CHAII if you're cool with that. Where did you grow up in New Zealand, and what was it like? 
+![002712530005.jpg](/uploads/002712530005.jpg)
+
+*Since this is one of your first interviews, I wanted to find out a bit about you before CHAII if you're cool with that. Where did you grow up in New Zealand, and what was it like?*
+
 I was working in the creative industries before CHAII — more behind the scenes, working on other artists’ projects, mixing records and making music videos, but then decided to focus on my own music full time as of the beginning of 2019. 
 
-Wow! And when did you start making music? 
+*Wow! And when did you start making music?*
+
 I’ve made music since I was maybe 11 and it’s been a constant throughout my life, so I thought why not give it some attention and see if I can make that dream a reality? I’ve lived in Auckland since I was 8 until now. I love it so much here and feel really blessed. The first 8 years of my life I was living in different cities in Iran; my dad was a doctor so we moved around a lot. I had the best childhood and glad I had the chance to connect with my motherland those first few years. Iran and New Zealand are both home to me. 
 
-You mentioned that you learned English through rapping along to Eminem. How old were you? Were there any songs in particular that really struck a chord with you?
+*You mentioned that you learned English through rapping along to Eminem. How old were you? Were there any songs in particular that really struck a chord with you?*
+
 So when I moved to NZ I was 8 and The Marshall Mathers LP record had just dropped. I was like, “What in the world is this! I LOVE IT.” There was just something about the level of expression in rap music. I just starting learning all his songs off by heart. I definitely didn’t know any English when I was rapping some of his songs. When I was about 11 I knew English fluently and had started writing rhymes.
 
-How would you describe your music to someone new to it? 
+*How would you describe your music to someone new to it?*
+
 Persian-dance-rap, haha. 
 
-Can you tell us about the whole process of producing the video for ‘Digebasse’ and ‘South’ — how you set them up, how long it took each time, the inspirations, difficulties you faced, and so on?
+![002712530014.jpg](/uploads/002712530014.jpg)
+![002712530013.jpg](/uploads/002712530013.jpg)
+![002712530012.jpg](/uploads/002712530012.jpg)
+
+*Can you tell us about the whole process of producing the video for ‘Digebasse’ and ‘South’ last year — how you set them up, how long it took each time, the inspirations, difficulties you faced, and so on?*
+
 I’d produced/Creative Directed videos for other artists in the past so I was lucky in that sense that it took less time to put together. I also roughly knew what would/wouldn’t work with the budget we had. I drew up the concept and plans for them both at the same time along with a third track ‘Trouble’ which is the next release. For the three videos I spent 4-5 months on pre-production. I wanted this project to be filmed in the Middle East so IO did research into where would be best to film. I had never heard of Oman until I googled it. My crew of three talented friends and I went over and to my surprise we got everything I was hoping to film. I told my crew that if Oman doesn’t work out we’ll head over to Turkey... But I knew we couldn’t financially afford to travel to Turkey, and so Oman was the only shot we had, but I didn’t want them to worry. The difficulties are producing a video via long distance — it makes it harder to fully lock down locations, people, camels, etc, lol. So I spent the first few days during our first stop in Dubai trying to get everything sorted — the rest was pretty much on the go, like getting the kids in the video. We kinda had to just ask as we went. We were also lucky to have really friendly amazing Omani locals help up navigate. Seriously, they were some of the most kind people I’ve ever met and we felt so safe, as opposed to what we see on the news about the Middle East. My main goal was to film the Middle East in a positive and real light. 
 
-What did you think of Oman?
+*What did you think of Oman?*
+
 OMAN is amazing!! Seriously one of the best places and friendliest people. We were busy filming the whole 17 days we were there but we managed to spend some time with the locals and get to know the country more. I chose Oman because it most looked like the south of Iran where I was born. 
 
-What was the response like to ‘Digebasse (Enough)’? Were you shocked by how many views the video got? 
+*What was the response like to ‘Digebasse (Enough)’? Were you shocked by how many views the video got?*
+
 The response was crazy. LIKE WHAT. I love that music visuals can create a conversation and that’s what I wanted to do. The song is not commercial so I didn’t expect it to pop off. I do feel we’re in such an accepting time in music and that’s why people accepted how raw and unfiltered it was. Deep down I always hoped lots of people would see it, so they see another perspective of Middle East.
 
-Did you find people reaching out to you after ‘Digebasse’, and if so what were they saying? 
+*Did you find people reaching out to you after ‘Digebasse’, and if so what were they saying?*
+
 A lot of people reached out especially from the Middle East. Lots of artists reached out to collaborate. And there were also just many messages that said ‘hi’, haha. 
 
-Who are your favourite artists of all time?
-I have lots of favourite artists for different reasons. J Cole is definitely up there for me, I love that he gets his message out but you could still jam it at a club. Childish Gambino, Chance the rapper, Princess Nokia, MIA.  Pretty much all the artists that keep it raw and interesting.
+*Who are your favourite artists of all time?*
 
-A recent article said you're "the next MIA" — (a) how do you feel about that comparison, and (b) what do you think it says that a comparison with MIA might be one of the main ways that people will get their head around you, given how few truly household name artists there are operating in the Western World who were born or whose parents were born in the Middle East and South Asia?  
+I have lots of favourite artists for different reasons. J Cole is definitely up there for me, I love that he gets his message out but you could still jam it at a club. Childish Gambino, Chance the rapper, Princess Nokia, MIA. Pretty much all the artists that keep it raw and interesting.
+
+![002712530034.jpg](/uploads/002712530034.jpg)
+
+*A recent article said you're "the next MIA" — (a) how do you feel about that comparison, and (b) what do you think it says that a comparison with MIA might be one of the main ways that people will get their head around you, given how few truly household name artists there are operating in the Western World who were born or whose parents were born in the Middle East and South Asia?*
+
 MIA opened up my eyes to being able to connect the two worlds in a way that everyone can vibe to it. I take the comparison as a compliment — she’s dope. I love that she has purpose in her music but also seems like she has fun with it. I feel like people like us have so much to say/show visually and we can be that lens into Middle East - South Asia through music. I didn’t have many artists to look up to when it came to what I’ve been making, so MIA definitely was the closest and made it seem possible for me to know I could fuse the two worlds. It still took me years to blend specifically Iranian and Western music and I’m still experimenting and having fun with it.
 
-Are there any Iranian (or Middle-Eastern, or South Asian) rappers/artists that you really admire, especially female-identifying? Or New Zealand for that matter!
+*Are there any Iranian (or Middle-Eastern, or South Asian) rappers/artists that you really admire, especially female-identifying? Or New Zealand for that matter!*
+
 There are so many dope female rappers making waves around the world. I don’t know many Middle Eastern female rappers but love Tierra Whack, Princess Nokia, Doja Cat, Vayne (NZ), Nadia Rose, Little Simz, Snow tha Product list goes on.
 
-I read you talking about how underground music is distributed via whatsapp and taxi drivers in Iran, and how you'd got in touch with some of the artists there. Can you tell us a bit about those conversations and what they revealed to you, and how those artists have influenced you? 
+*I read you talking about how underground music is distributed via whatsapp and taxi drivers in Iran, and how you'd got in touch with some of the artists there. Can you tell us a bit about those conversations and what they revealed to you, and how those artists have influenced you?*
+
 Rap music is a touchy subject in Iran. There’s a huge underground rap scene. People distribute through WhatsApp and via word of mouth. Taxis are a great place for that. Most of the artists that I was in touch with in Iran have since moved overseas. I was way younger when I was in touch with those artists. We would all pass beats and songs to each other. It was like another world. As I got older I realised how lucky I was that I could voice everything without consequences/needing to be underground. Those artists have also influenced me in the way that when you’ve got something to say, you just say it. 
+
+![002712530023.jpg](/uploads/002712530023.jpg)

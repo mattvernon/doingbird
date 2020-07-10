@@ -1,7 +1,6 @@
 ---
 title: Chaii
 date: 2020-07-10 09:00:00 +10:00
-published: false
 categories:
 - Features
 Main Image: "/uploads/002712530034.jpg"

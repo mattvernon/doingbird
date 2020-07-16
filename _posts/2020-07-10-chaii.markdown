@@ -3,7 +3,7 @@ title: Chaii
 date: 2020-07-10 09:00:00 +10:00
 categories:
 - Features
-Main Image: "/uploads/002712530034.jpg"
+Main Image: "/uploads/002712530014.jpg"
 Credits Text: |-
   [Chaii](https://www.instagram.com/chaii_music/) was photographed on location in Los Angeles by [Cameron Smith](https://www.instagram.com/cameronsmith/)
 
@@ -68,8 +68,6 @@ A lot of people reached out especially from the Middle East. Lots of artists rea
 *Who are your favourite artists of all time?*
 
 I have lots of favourite artists for different reasons. J Cole is definitely up there for me, I love that he gets his message out but you could still jam it at a club. Childish Gambino, Chance the rapper, Princess Nokia, MIA. Pretty much all the artists that keep it raw and interesting.
-
-![002712530034.jpg](/uploads/002712530034.jpg)
 
 *A recent article said you're "the next MIA" — (a) how do you feel about that comparison, and (b) what do you think it says that a comparison with MIA might be one of the main ways that people will get their head around you, given how few truly household name artists there are operating in the Western World who were born or whose parents were born in the Middle East and South Asia?*
 

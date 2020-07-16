@@ -3,7 +3,7 @@ title: Chaii
 date: 2020-07-10 09:00:00 +10:00
 categories:
 - Features
-Main Image: "/uploads/002712530034.jpg"
+Main Image: "/uploads/002712530014.jpg"
 Credits Text: |-
   [Chaii](https://www.instagram.com/chaii_music/) was photographed on location in Los Angeles by [Cameron Smith](https://www.instagram.com/cameronsmith/)
 

@@ -7,6 +7,9 @@ Main Image: "/uploads/002712530034.jpg"
 Credits Text: |-
   [Chaii](https://www.instagram.com/chaii_music/) was photographed on location in Los Angeles by [Cameron Smith](https://www.instagram.com/cameronsmith/)
 
+  Video by Cameron Smith
+  Music by Chaii
+
   Interview by Tina Summers
 is featured?: true
 layout: gallery

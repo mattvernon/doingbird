@@ -2,6 +2,7 @@
 title: Holidays
 date: 2020-07-17 12:16:00 +10:00
 published: false
+Main Image: "/uploads/000016%20(2)%20final%20copy.jpg"
 Credits Text: "Photography Zac Bayly \n\nGreen Boots by PRADA \nGreen boots shot:
   Prada boots and Kmart underwear \nChecked jacket shot: Toni jacket https://www.instagram.com/shop.toni/"
 layout: gallery

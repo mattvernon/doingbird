@@ -1,7 +1,6 @@
 ---
 title: Holidays
 date: 2020-07-17 12:16:00 +10:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/final%20copy%202.jpeg"

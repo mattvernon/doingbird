@@ -6,7 +6,7 @@ categories:
 - Fashion
 Main Image: "/uploads/final%20copy%202.jpeg"
 Credits Text: "Photography [Zac Bayly](https://www.instagram.com/zacbayly/) \n\nGreen
-  Boots by [PRADA ](https://www.instagram.com/prada/)\nChecked jacket by [Toni ](https://www.instagram.com/shop.toni/)\n\n#A
+  Boots by [PRADA ](https://www.instagram.com/prada/)\nChecked jacket by [TONI](https://www.instagram.com/shop.toni/)\n\n#A
   DOINGBIRD ISO PROJECT"
 is featured?: true
 layout: gallery

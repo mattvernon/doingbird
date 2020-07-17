@@ -4,5 +4,6 @@ date: 2020-07-17 12:16:00 +10:00
 published: false
 Credits Text: "Photography Zac Bayly \n\nGreen Boots by PRADA \nGreen boots shot:
   Prada boots and Kmart underwear \nChecked jacket shot: Toni jacket https://www.instagram.com/shop.toni/"
+layout: gallery
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: THE FOLKLORE OF WASTE // THE FUTURE IS HANDMADE Bolgatanga, GHANA
+title: THE FOLKLORE OF WASTE Bolgatanga, GHANA
 date: 2020-07-20 09:00:00 +10:00
 published: false
 Credits Text: |2

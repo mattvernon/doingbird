@@ -2,15 +2,13 @@
 title: THE FOLKLORE OF WASTE Bolgatanga, GHANA
 date: 2020-07-20 09:00:00 +10:00
 published: false
-Credits Text: |2
+Credits Text: |+
+  Photography [Kirsty Barros](https://www.instagram.com/kirstybarros/)
 
+  Styling [Kirsty Barros](https://www.instagram.com/kirstybarros/) & [Bettina McIlwraith ](https://www.instagram.com/appetitefordecoration/)
+  Words: [Bettina McIlwraith](https://www.instagram.com/appetitefordecoration/) + Juanita
   Models: Juanita, Flavia, Aggy, Paul, Isaac, Franca, D4, Mr. John
-  Photographer: Kirsty Barros
-  Stylists: Kirsty Barros + Bettina McILwraith 
-  Words: Bettina McILwraith + Juanita
 
-  @kirstybarros
-  @appetitefordecoration
 layout: gallery
 ---
 

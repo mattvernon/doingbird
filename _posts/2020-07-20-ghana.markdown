@@ -1,6 +1,6 @@
 ---
 title: Ghana
-date: 2020-07-17 12:19:00 +10:00
+date: 2020-07-20 09:00:00 +10:00
 published: false
 Credits Text: |2
 

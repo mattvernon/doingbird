@@ -3,6 +3,10 @@ title: THE FOLKLORE OF WASTE Bolgatanga, GHANA
 date: 2020-07-20 09:00:00 +10:00
 published: false
 Credits Text: |+
+  Sydney Stylist Kirsty Barros took these photos during her one month tenure working with the artisans of Baba Tree Baskets invited by Bettina McIlwraith who was working on the ground in Design and Development. The two friends who have known each other for years but never worked together, styled “The Folklore of Waste” side by side. 
+
+  Shot with their friends in Ghana’s Upper East Region - a very remote town called Bolgatanga, recognised globally because of the exquisite artisan basketry handwoven here. A celebration of the extreme creativity that abounds in the region, the strength and resilience of their companions and the relationships formed in making it all happen. 
+
   Photography [Kirsty Barros](https://www.instagram.com/kirstybarros/)
 
   Styling [Kirsty Barros](https://www.instagram.com/kirstybarros/) & [Bettina McIlwraith ](https://www.instagram.com/appetitefordecoration/)
@@ -28,9 +32,6 @@ Colour, motif and tradition interwoven with a wealth of waste so eloquently upcy
 
 Wack and improvised styling is how we use what we’ve got - inspired by local street vendors, rap stars and respected elders. This is the folklore of waste. Folklore of the time and age.
 
-Sydney Stylist Kirsty Barros took these photos during her one month tenure working with the artisans of Baba Tree Baskets invited by Bettina McIlwraith who was working on the ground in Design and Development. The two friends who have known each other for years but never worked together, styled “The Folklore of Waste” side by side. 
-
-Shot with their friends in Ghana’s Upper East Region - a very remote town called Bolgatanga, recognised globally because of the exquisite artisan basketry handwoven here. A celebration of the extreme creativity that abounds in the region, the strength and resilience of their companions and the relationships formed in making it all happen. 
 
 ![GHANA5.jpg](/uploads/GHANA5.jpg)
 

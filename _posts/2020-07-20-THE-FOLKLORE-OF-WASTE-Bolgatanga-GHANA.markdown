@@ -2,6 +2,8 @@
 title: THE FOLKLORE OF WASTE Bolgatanga, GHANA
 date: 2020-07-20 09:00:00 +10:00
 published: false
+categories:
+- World
 Credits Text: |+
   Sydney Stylist Kirsty Barros took these photos during her one month tenure working with the artisans of Baba Tree Baskets invited by Bettina McIlwraith who was working on the ground in Design and Development. The two friends who have known each other for years but never worked together, styled “The Folklore of Waste” side by side. 
 
@@ -26,12 +28,11 @@ layout: gallery
 
 Colour, motif and tradition interwoven with a wealth of waste so eloquently upcycled into everyday life as per tradition. Geometric weaving laden with meaning and spiritual strength speak the language of craft and sit alongside this epiphany of style founded in upcycling and new traditions. The future is handmade. 
 
+Wack and improvised styling is how we use what we’ve got - inspired by local street vendors, rap stars and respected elders. This is the folklore of waste. Folklore of the time and age.
+
 ![GHANA3-116e09.jpg](/uploads/GHANA3-116e09.jpg)
 
 ![GHANA4.jpg](/uploads/GHANA4.jpg)
-
-Wack and improvised styling is how we use what we’ve got - inspired by local street vendors, rap stars and respected elders. This is the folklore of waste. Folklore of the time and age.
-
 
 ![GHANA5.jpg](/uploads/GHANA5.jpg)
 

@@ -35,23 +35,14 @@ Shot with their friends in Ghana’s Upper East Region - a very remote town call
 A celebration of the extreme creativity that abounds in the region, the strength and resilience of their companions and the relationships formed in making it all happen. 
 
 ![GHANA4.jpg](/uploads/GHANA4.jpg)
-
 ![GHANA5.jpg](/uploads/GHANA5.jpg)
-
 ![GHANA6.jpg](/uploads/GHANA6.jpg)
-
 ![GHANA7.jpg](/uploads/GHANA7.jpg)
-
 ![GHANA8-bb2a69.jpg](/uploads/GHANA8-bb2a69.jpg)
-
 ![GHANA9-fd8a90.jpg](/uploads/GHANA9-fd8a90.jpg)
-
 ![GHANA10.jpg](/uploads/GHANA10.jpg)
-
 ![GHANA11.jpg](/uploads/GHANA11.jpg)
-
 ![GHANA12.jpg](/uploads/GHANA12.jpg)
-
 ![GHANA1.jpg](/uploads/GHANA1.jpg)
 
 Photography [Kirsty Barros](https://www.instagram.com/kirstybarros/)

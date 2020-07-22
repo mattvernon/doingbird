@@ -13,7 +13,7 @@ Credits Text: |+
 
   Models: Juanita, Flavia, Aggy, Paul, Isaac, Franca, D4, Mr. John
 
-layout: gallery
+layout: post
 ---
 
 ![GHANA1.jpg](/uploads/GHANA1.jpg)

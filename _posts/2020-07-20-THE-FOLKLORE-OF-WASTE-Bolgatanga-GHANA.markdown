@@ -23,7 +23,7 @@ Colour, motif and tradition interwoven with a wealth of waste so eloquently upcy
 
 Wack and improvised styling is how we use what we’ve got - inspired by local street vendors, rap stars and respected elders. This is the folklore of waste. Folklore of the time and age.
 
-![GHANA1.jpg](/uploads/GHANA1.jpg)
+![D006210-R1-32-5.jpg](/uploads/D006210-R1-32-5.jpg)
 
 ![GHANA2.jpg](/uploads/GHANA2.jpg)
 
@@ -51,8 +51,7 @@ Shot with their friends in Ghana’s Upper East Region - a very remote town call
 
 ![GHANA12.jpg](/uploads/GHANA12.jpg)
 
-![D006210-R1-32-5.jpg](/uploads/D006210-R1-32-5.jpg)
-
+![GHANA1.jpg](/uploads/GHANA1.jpg)
 
 Photography [Kirsty Barros](https://www.instagram.com/kirstybarros/)
 

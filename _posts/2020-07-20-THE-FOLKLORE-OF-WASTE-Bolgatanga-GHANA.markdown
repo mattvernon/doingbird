@@ -14,6 +14,7 @@ Credits Text: |+
 
   Models: Juanita, Flavia, Aggy, Paul, Isaac, Franca, D4, Mr. John
 
+is featured?: true
 layout: post
 ---
 

@@ -18,7 +18,7 @@ layout: post
 
 Story by [Kirsty Barros](https://www.instagram.com/kirstybarros/) & [Bettina McIlwraith](https://www.instagram.com/appetitefordecoration/) 
 
-![GHANA2.jpg](/uploads/GHANA2.jpg)
+![D006210-R1-32-5.jpg](/uploads/D006210-R1-32-5.jpg)
 
  Mixed, layered, combined, stitched and patched together in an energetic and haphazard mix of what’s on offer at Bolgatanga’s local markets - upcycled, found, vintage, handed-down and re-purposed altogether. This is how we live here. 
 
@@ -26,8 +26,8 @@ Colour, motif and tradition interwoven with a wealth of waste so eloquently upcy
 
 Wack and improvised styling is how we use what we’ve got - inspired by local street vendors, rap stars and respected elders. This is the folklore of waste. Folklore of the time and age.
 
+![GHANA2.jpg](/uploads/GHANA2.jpg)
 ![GHANA3-116e09.jpg](/uploads/GHANA3-116e09.jpg)
-![D006210-R1-32-5.jpg](/uploads/D006210-R1-32-5.jpg)
 
 Sydney Stylist Kirsty Barros took these photos during her one month tenure working with the artisans of Baba Tree Baskets, invited by Bettina McIlwraith who was working on the ground in Design and Development. The two friends who have known each other for years but never worked together, styled “The Folklore of Waste” side by side. 
 

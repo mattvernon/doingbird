@@ -19,6 +19,7 @@ layout: post
 Story by [Kirsty Barros](https://www.instagram.com/kirstybarros/) & [Bettina McIlwraith](https://www.instagram.com/appetitefordecoration/) 
 
  Mixed, layered, combined, stitched and patched together in an energetic and haphazard mix of what’s on offer at Bolgatanga’s local markets - upcycled, found, vintage, handed-down and re-purposed altogether. This is how we live here. 
+
 Colour, motif and tradition interwoven with a wealth of waste so eloquently upcycled into everyday life as per tradition. Geometric weaving laden with meaning and spiritual strength speak the language of craft and sit alongside this epiphany of style founded in upcycling and new traditions. The future is handmade. 
 
 Wack and improvised styling is how we use what we’ve got - inspired by local street vendors, rap stars and respected elders. This is the folklore of waste. Folklore of the time and age.

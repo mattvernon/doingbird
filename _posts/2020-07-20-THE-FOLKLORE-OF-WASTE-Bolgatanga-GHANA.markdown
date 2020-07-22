@@ -1,9 +1,12 @@
 ---
 title: THE FOLKLORE OF WASTE Bolgatanga, GHANA
 date: 2020-07-20 09:00:00 +10:00
-published: false
 categories:
 - World
+tags:
+- world
+- fashion
+- ghana
 Main Image: "/uploads/D006210-R1-32-5.jpg"
 Credits Text: |+
   Photography [Kirsty Barros](https://www.instagram.com/kirstybarros/)

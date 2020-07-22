@@ -4,6 +4,7 @@ date: 2020-07-20 09:00:00 +10:00
 published: false
 categories:
 - World
+Main Image: "/uploads/D006210-R1-32-5.jpg"
 Credits Text: |+
   Photography [Kirsty Barros](https://www.instagram.com/kirstybarros/)
 

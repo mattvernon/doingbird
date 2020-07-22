@@ -28,7 +28,7 @@ Wack and improvised styling is how we use what we’ve got - inspired by local s
 
 ![GHANA2.jpg](/uploads/GHANA2.jpg)
 
-Sydney Stylist Kirsty Barros took these photos during her one month tenure working with the artisans of Baba Tree Baskets invited by Bettina McIlwraith who was working on the ground in Design and Development. The two friends who have known each other for years but never worked together, styled “The Folklore of Waste” side by side. 
+Sydney Stylist Kirsty Barros took these photos during her one month tenure working with the artisans of Baba Tree Baskets, invited by Bettina McIlwraith who was working on the ground in Design and Development. The two friends who have known each other for years but never worked together, styled “The Folklore of Waste” side by side. 
 
 Shot with their friends in Ghana’s Upper East Region - a very remote town called Bolgatanga, recognised globally because of the exquisite artisan basketry handwoven here. A celebration of the extreme creativity that abounds in the region, the strength and resilience of their companions and the relationships formed in making it all happen. 
 

@@ -17,6 +17,7 @@ layout: post
 ---
 
 Story by [Kirsty Barros](https://www.instagram.com/kirstybarros/) & [Bettina McIlwraith](https://www.instagram.com/appetitefordecoration/) 
+
 ![GHANA2.jpg](/uploads/GHANA2.jpg)
 
  Mixed, layered, combined, stitched and patched together in an energetic and haphazard mix of what’s on offer at Bolgatanga’s local markets - upcycled, found, vintage, handed-down and re-purposed altogether. This is how we live here. 

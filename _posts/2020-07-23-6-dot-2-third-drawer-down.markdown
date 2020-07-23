@@ -9,7 +9,7 @@ Credits Text: "Photography [Anna Pogossova ](https://www.instagram.com/annapogos
   @ [B&A](https://www.instagram.com/barepsau/)  \n\nDesign & Layout [Tristan Ceddia](https://www.instagram.com/tristanceddia/)
   @ [Never Now](https://www.instagram.com/nevernow_/) \n\nBump Vase Cone by [Tom Dixon](https://www.instagram.com/tomdixonstudio/)
   and Hand dipped mug by [Peter Shire](https://www.instagram.com/petershire/)/Echo
-  Park Pottery, both from [Third Drawer Down ](https://www.instagram.com/thirddrawerdown/)"
+  Park Pottery, both from [Third Drawer Down ](https://www.instagram.com/thirddrawerdown/)\n"
 is featured?: true
 layout: gallery
 ---

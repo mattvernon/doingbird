@@ -15,7 +15,7 @@ Credits Text: |+
 
   Words: [Bettina McIlwraith](https://www.instagram.com/appetitefordecoration/) + Juanita
 
-  Models: Juanita, Flavia, Aggy, Paul, Isaac, Franca, D4, Mr. John
+  Models: Juanita, Flavia, Aggy, Paul, Daniel, Franca, D4, Mr. John
 
 is featured?: true
 layout: post

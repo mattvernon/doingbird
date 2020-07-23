@@ -21,3 +21,4 @@ Photography [Colin Dodgson](https://www.instagram.com/colin_dodgson/) at [Art Pa
 Model Malgosia Bela at [DNA Models](https://www.instagram.com/dnamodels/?sid=35449/)
 Hair [Esther Langham](https://www.instagram.com/estherlangham/) at [Art & Commerce ](https://www.instagram.com/artandcommerce/), Make up [Gucci Westman](https://www.instagram.com/gucciwestman/) at [Home Agency](https://www.instagram.com/homeagency/), Casting [Noah Shelley](https://www.instagram.com/noah_shelley_casting/) 
 Production [PRODn](https://www.instagram.com/prodn_artandcommerce/), Photographic Assistance Lucas Piran, Fashion Assistance Tess Herbert 
+

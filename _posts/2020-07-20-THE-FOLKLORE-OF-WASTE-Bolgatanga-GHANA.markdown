@@ -56,4 +56,4 @@ Styling [Kirsty Barros](https://www.instagram.com/kirstybarros/) & [Bettina McIl
 
 Words: [Bettina McIlwraith](https://www.instagram.com/appetitefordecoration/)
 
-Models: Juanita, Flavia, Aggy, Paul, Isaac, Franca, D4, Mr. John
+Models: Juanita, Flavia, Aggy, Paul, Daniel, Franca, D4, Mr. John

@@ -7,11 +7,15 @@ categories:
 tags:
 - Fashion
 Main Image: "/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-1.jpg"
-Credits Text: "Photography Colin Dodgson \nFashion Editor Sara Moonves \nHair Esther
-  Langham at Art & Commerce \nMake up Gucci Westman at Art & Commerce \nCasting Noah
-  Shelley at AM Casting \nPhotographic Assistance Lucas Piran \nFashion Assistance
-  Tess Herbert \nProduction PRODn at Art & Commerce \nModel Malgosia Bela at NEXT
-  Management "
+Credits Text: "Photography [Colin Dodgson](https://www.instagram.com/colin_dodgson/)
+  at [Art Partner](https://www.instagram.com/artpartner/),Fashion Editor [Sara Moonves](https://www.instagram.com/saramoonves/)
+  at [CLM Agency](https://www.instagram.com/clmagency/)\nModel Malgosia Bela at [DNA
+  Models](https://www.instagram.com/dnamodels/?sid=35449/)\n\nHair [Esther Langham](https://www.instagram.com/estherlangham/)
+  at [Art & Commerce ](https://www.instagram.com/artandcommerce/), Make up [Gucci
+  Westman](https://www.instagram.com/gucciwestman/) at [Home Agency](https://www.instagram.com/homeagency/),
+  Casting [Noah Shelley](https://www.instagram.com/noah_shelley_casting/) \nProduction
+  [PRODn](https://www.instagram.com/prodn_artandcommerce/), Photographic Assistance
+  Lucas Piran, Fashion Assistance Tess Herbert \n"
 layout: post
 ---
 

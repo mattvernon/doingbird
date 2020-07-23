@@ -14,6 +14,7 @@ layout: post
 
 ![Doingbird-18-Malgosia-Bela-Colin-Dodgson-1.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-1.jpg)![Doingbird-18-Malgosia-Bela-Colin-Dodgson-2.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-2.jpg)![Doingbird-18-Malgosia-Bela-Colin-Dodgson-3.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-3.jpg)![Doingbird-18-Malgosia-Bela-Colin-Dodgson-4.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-4.jpg)![Doingbird-18-Malgosia-Bela-Colin-Dodgson-5.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-5.jpg)![Doingbird-18-Malgosia-Bela-Colin-Dodgson-6.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-6.jpg)![Doingbird-18-Malgosia-Bela-Colin-Dodgson-7.jpg](/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-7.jpg)
 
+DOINGBIRD PRINT ISSUE #EIGHTEEN 
 Photography [Colin Dodgson](https://www.instagram.com/colin_dodgson/) at [Art Partner](https://www.instagram.com/artpartner/),Fashion Editor [Sara Moonves](https://www.instagram.com/saramoonves/) at [CLM Agency](https://www.instagram.com/clmagency/)
 Model Malgosia Bela at [DNA Models](https://www.instagram.com/dnamodels/?sid=35449/)
 

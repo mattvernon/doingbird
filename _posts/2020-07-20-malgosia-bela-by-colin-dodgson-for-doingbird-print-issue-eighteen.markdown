@@ -7,6 +7,11 @@ categories:
 tags:
 - Fashion
 Main Image: "/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-1.jpg"
+Credits Text: "Photography Colin Dodgson \nFashion Editor Sara Moonves \nHair Esther
+  Langham at Art & Commerce \nMake up Gucci Westman at Art & Commerce \nCasting Noah
+  Shelley at AM Casting \nPhotographic Assistance Lucas Piran \nFashion Assistance
+  Tess Herbert \nProduction PRODn at Art & Commerce \nModel Malgosia Bela at NEXT
+  Management "
 layout: post
 ---
 

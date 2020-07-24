@@ -1,7 +1,6 @@
 ---
 title: Malgosia Bela by Colin Dodgson
 date: 2020-07-20 20:46:00 +10:00
-published: false
 categories:
 - Archives
 tags:

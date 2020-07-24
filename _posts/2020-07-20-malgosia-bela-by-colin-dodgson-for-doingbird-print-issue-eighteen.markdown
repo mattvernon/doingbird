@@ -6,7 +6,7 @@ categories:
 - Archives
 tags:
 - Fashion
-Main Image: "/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-1.jpg"
+Main Image: "/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-6.jpg"
 Credits Text: "\n"
 is featured?: true
 layout: post

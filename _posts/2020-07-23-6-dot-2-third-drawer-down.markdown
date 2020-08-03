@@ -1,9 +1,11 @@
 ---
 title: 6.2 Third Drawer Down
 date: 2020-07-23 10:51:00 +10:00
-published: false
 categories:
 - Objects
+tags:
+- objects
+- artefacts
 Main Image: "/uploads/Db20_01_AnnaP_ThirdDD_Fin_6.jpg"
 Credits Text: "Photography [Anna Pogossova ](https://www.instagram.com/annapogossova/)
   @ [B&A](https://www.instagram.com/barepsau/)  \n\nDesign & Layout [Tristan Ceddia](https://www.instagram.com/tristanceddia/)

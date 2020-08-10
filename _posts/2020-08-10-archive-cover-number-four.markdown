@@ -1,7 +1,6 @@
 ---
 title: 'archive cover #four'
-date: 2020-07-20 14:55:00 +10:00
-published: false
+date: 2020-08-10 09:00:00 +10:00
 categories:
 - Features
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_04_023.jpg"
@@ -11,6 +10,7 @@ Credits Text: "Photographer [Jenny Gage & Tom Betterton](https://www.instagram.c
   up [Romy Soleimani](https://www.instagram.com/romyglow/)\nModel Natasa Vojnovic
   at [Elite](https://www.instagram.com/elitenyc/) \nNatasa wears [Helmut Lang](https://www.instagram.com/helmutlang/)
   dress "
+is featured?: true
 layout: gallery
 ---
 

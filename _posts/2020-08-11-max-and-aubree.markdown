@@ -2,6 +2,10 @@
 title: Max and Aubree
 date: 2020-08-11 19:12:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- fashion
 layout: gallery
 ---
 

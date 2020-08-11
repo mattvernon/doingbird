@@ -13,11 +13,10 @@ layout: gallery
 
 ![4 db garage     65b.jpg](/uploads/4%20db%20garage%20%20%20%20%2065b.jpg)
 
-![5 db garage    10b.jpg](/uploads/5%20db%20garage%20%20%20%2010b.jpg)
-
 ![6 db garage     75b.jpg](/uploads/6%20db%20garage%20%20%20%20%2075b.jpg)
+
+![5 db garage    10b.jpg](/uploads/5%20db%20garage%20%20%20%2010b.jpg)
 
 ![7 doingbird Classic garage 161b.jpg](/uploads/7%20doingbird%20Classic%20garage%20161b.jpg)
 
 ![8 db garage     22b.jpg](/uploads/8%20db%20garage%20%20%20%20%2022b.jpg)
-

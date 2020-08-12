@@ -9,6 +9,7 @@ Credits Text: "Photography & Styling [Katja Rahlwes](https://www.instagram.com/k
   \nModel [Christina Kruse](https://www.instagram.com/ckruse101/) at [The Lions](https://www.instagram.com/thelionsny/)\nChristina
   wears [Hermes](https://www.instagram.com/hermes/) scarf, [Ray-Ban](https://www.instagram.com/rayban/)
   sunglasses"
+is featured?: true
 layout: gallery
 ---
 

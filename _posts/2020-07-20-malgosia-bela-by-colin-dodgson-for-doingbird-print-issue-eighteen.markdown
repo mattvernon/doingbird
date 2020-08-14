@@ -2,7 +2,7 @@
 title: Malgosia Bela by Colin Dodgson
 date: 2020-07-20 20:46:00 +10:00
 categories:
-- Archives
+- Features
 tags:
 - Fashion
 Main Image: "/uploads/Doingbird-18-Malgosia-Bela-Colin-Dodgson-2.jpg"

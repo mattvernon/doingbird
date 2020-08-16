@@ -9,12 +9,15 @@ tags:
 Credits Text: "Model [Hannah Elyse](https://www.instagram.com/hannahelyseofficial/?hl=en)
   at [Chadwicks Models](http://www.chadwickmodels.com)  \nphotographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
   \ \nstyling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**  \nHairstylist
-  [Kyye Reed](https://www.workagency.com.au/agency)\nmake-up [Peter Beard](https://artist-group.net)
+  [Kyye Reed](https://www.workagency.com.au/agency)  \nmake-up [Peter Beard](https://artist-group.net)
   \  \n\nArtist  [Luke Player](https://instagram.com/lukeplayer?igshid=1dl15mf7654j2)"
 layout: gallery
 ---
 
-![1 doingbird Classic garage 98b.jpg](/uploads/1%20doingbird%20Classic%20garage%2098b.jpg)
+![HEARTBREAK HOTEL POSTER BLACK LIPSTICKb.jpg](/uploads/HEARTBREAK%20HOTEL%20POSTER%20BLACK%20LIPSTICKb.jpg)
+
+![HEARTBREAK HOTEL POSTER BLACK LIPSTICKa.jpg](/uploads/HEARTBREAK%20HOTEL%20POSTER%20BLACK%20LIPSTICKa.jpg)
+
 
 ![2 db garage     9b.jpg](/uploads/2%20db%20garage%20%20%20%20%209b.jpg)
 

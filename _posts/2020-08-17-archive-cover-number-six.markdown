@@ -1,9 +1,12 @@
 ---
 title: 'archive cover #six'
 date: 2020-08-17 08:00:00 +10:00
-published: false
 categories:
 - Features
+tags:
+- cover
+- magazine
+- model
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_06_025.jpg"
 Credits Text: "Photography [David Armstrong](https://www.instagram.com/davidarmstrongarchive/)\nModel
   [Liya Kebede](https://www.instagram.com/liyakebede/)\n\nFashion Editor [Trevor Stones](https://www.instagram.com/trevorstones/)

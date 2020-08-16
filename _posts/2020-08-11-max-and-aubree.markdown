@@ -1,11 +1,16 @@
 ---
-title: Max and Aubree
+title: Heartbreak Hotel
 date: 2020-08-11 19:12:00 +10:00
 published: false
 categories:
 - Fashion
 tags:
 - fashion
+Credits Text: "Model [Hannah Elyse](https://www.instagram.com/hannahelyseofficial/?hl=en)
+  at [Chadwicks Models](http://www.chadwickmodels.com)  \nphotographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**\nstyling
+  **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**\nHairstylist [Kyye
+  Reed](https://www.workagency.com.au/agency)\nmake-up [Peter Beard](https://artist-group.net)
+  \n\nArtist  [Luke Player](https://instagram.com/lukeplayer?igshid=1dl15mf7654j2)"
 layout: gallery
 ---
 

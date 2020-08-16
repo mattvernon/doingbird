@@ -1,6 +1,6 @@
 ---
 title: 'archive cover #six'
-date: 2020-08-14 15:43:00 +10:00
+date: 2020-08-17 08:00:00 +10:00
 published: false
 categories:
 - Features

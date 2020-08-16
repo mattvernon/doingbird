@@ -6,6 +6,8 @@ categories:
 - Fashion
 tags:
 - fashion
+Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**\nstyling
+  **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**\nhair \nmake-up"
 layout: gallery
 ---
 

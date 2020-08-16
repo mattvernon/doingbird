@@ -6,8 +6,11 @@ categories:
 - Fashion
 tags:
 - fashion
-Credits Text: "photographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**\nstyling
-  **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**\nhair \nmake-up"
+Credits Text: "Model [Hannah Elyse](https://www.instagram.com/hannahelyseofficial/?hl=en)
+  at [Chadwicks Models](http://www.chadwickmodels.com)  \nphotographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**\nstyling
+  **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**\nHairstylist [Kyye
+  Reed](https://www.workagency.com.au/agency)\nmake-up [Peter Beard](https://artist-group.net)
+  \n\nArtist  [Luke Player](https://instagram.com/lukeplayer?igshid=1dl15mf7654j2)"
 layout: gallery
 ---
 

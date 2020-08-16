@@ -6,11 +6,13 @@ categories:
 - Fashion
 tags:
 - fashion
+Main Image: "/uploads/6%20db%20garage%20%20%20%20%2075b.jpg"
 Credits Text: "Model [Hannah Elyse](https://www.instagram.com/hannahelyseofficial/?hl=en)
   at [Chadwicks Models](http://www.chadwickmodels.com)  \nphotographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
   \ \nstyling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**  \nHairstylist
   [Kyye Reed](https://www.workagency.com.au/agency)  \nmake-up [Peter Beard](https://artist-group.net)
   \  \n\nArtist  [Luke Player](https://instagram.com/lukeplayer?igshid=1dl15mf7654j2)"
+is featured?: true
 layout: gallery
 ---
 

@@ -23,10 +23,10 @@ Vintage leather jacket from
 [Route 66](https://route66.com.au)
 
 ![2 db garage     9b.jpg](/uploads/2%20db%20garage%20%20%20%20%209b.jpg)
-dress [Chanel](https://www.chanel.com/au/) 
+dress [CHANEL](https://www.chanel.com/au/) 
 ![3 doingbird Classic garage 132b.jpg](/uploads/3%20doingbird%20Classic%20garage%20132b.jpg)
-suit and tie [Giorgio Armani](https://www.armani.com/au/armanicom/unisex/giorgio-armani/cross_section?gclid=EAIaIQobChMImOKOqeeg6wIVC38rCh1NPA8aEAAYASAAEgLMrPD_BwE&gclsrc=aw.ds&tp=124774) 
-vintage tshirt and boots from [Route 66](https://route66.com.au)
+suit and tie [GIORGIO ARMANI](https://www.armani.com/au/armanicom/unisex/giorgio-armani/cross_section?gclid=EAIaIQobChMImOKOqeeg6wIVC38rCh1NPA8aEAAYASAAEgLMrPD_BwE&gclsrc=aw.ds&tp=124774) 
+vintage tshirt and boots from [ROUTE 66](https://route66.com.au)
 ![4 db garage     65b.jpg](/uploads/4%20db%20garage%20%20%20%20%2065b.jpg)
 dress and stockings [Marc Jacobs](https://www.marcjacobs.com) 
 vintage boots from

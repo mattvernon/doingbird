@@ -19,6 +19,7 @@ layout: gallery
 ![200805_Doingbird_Magazine_61.jpg](/uploads/200805_Doingbird_Magazine_61.jpg)
 Tess wears [CHANEL](https://www.chanel.com/au/) blazer , Maisie wears [CHANEL](https://www.chanel.com/au/) blazer and skirt
 
+
 ![200805_Doingbird_Magazine_77.jpg](/uploads/200805_Doingbird_Magazine_77.jpg)
 Maisie wears [WYNN HAMLYN](https://www.wynnhamlyn.com/) coat and [SARAH & SEBASTIAN](https://www.sarahandsebastian.com/) earrings worn throughout,  Tess wears [ESSE STUDIOS](https://essestudios.com/) vest, [HAIDER ACKERMANN](https://www.haiderackermann.com/) pants from [The Outnet](https://www.theoutnet.com/en-au/) and [SARAH & SEBASTIAN](https://www.sarahandsebastian.com/) earrings, worn throughout
 
@@ -30,6 +31,7 @@ Tess wears [PRADA](https://www.prada.com/au/en.html) blazer, skirt, scarf and be
 
 ![200805_Doingbird_Magazine_142.jpg](/uploads/200805_Doingbird_Magazine_142.jpg)
 Maisie wears [BOTTEGA VENETA](https://www.bottegaveneta.com/au) blazer, pants and heels,  Tess wears [DIOR](https://www.dior.com/en_int) bustier, pants and heels
+
 
 
 ![200805_Doingbird_Magazine_640.jpg](/uploads/200805_Doingbird_Magazine_640.jpg)
@@ -54,6 +56,7 @@ Maisie wears [GARETH PUGH](https://www.instagram.com/garethpughstudio/?hl=en) bl
 
 ![200805_Doingbird_Magazine_385.jpg](/uploads/200805_Doingbird_Magazine_385.jpg)
 Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks,  Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat, [BOTTEGA VENETA](https://www.bottegaveneta.com/au) boots and stylist's own socks
+
 
 
 ![200805_Doingbird_Magazine_446.jpg](/uploads/200805_Doingbird_Magazine_446.jpg)

@@ -10,6 +10,7 @@ Credits Text: |-
   Styling [Lucy Wood](https://www.instagram.com/lucyrosewood_/?hl=en)
   Hair by [Kyye Reed   ](https://www.instagram.com/kyye/?hl=en)
   Make-Up by [Gillian Campbell   ](https://www.instagram.com/gillielove/?hl=en)
+
   Models [Maisie Dunlop](https://www.instagram.com/maisinadaze/?hl=en) and [Tess Angel](https://www.instagram.com/tess_angel/?hl=en) @ [Priscilla’s   ](https://www.instagram.com/priscillasmodels/?hl=en)
 is featured?: true
 layout: gallery

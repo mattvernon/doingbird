@@ -10,7 +10,7 @@ Credits Text: "Model [Hannah Elyse](https://www.instagram.com/hannahelyseofficia
   at [Chadwicks Models](http://www.chadwickmodels.com)  \nphotographs **[Max Doyle](https://www.instagram.com/maxdoyle_photographer/)**
   \ \nstyling **[Aubree Smith](https://www.instagram.com/aubreestrawberry/)**  \nHairstylist
   [Kyye Reed](https://www.workagency.com.au/agency)  \nmake-up [Peter Beard](https://artist-group.net)
-  \  \n\nArtist  [Luke Player](https://instagram.com/lukeplayer?igshid=1dl15mf7654j2)"
+  \  \n\nArtist [Luke Player](https://instagram.com/lukeplayer?igshid=1dl15mf7654j2)"
 is featured?: true
 layout: gallery
 ---

@@ -5,6 +5,7 @@ published: false
 categories:
 - Features
 Main Image: "/uploads/130924_DOINGBIRD_covershots_MDoyle_08_028.jpg"
+is featured?: true
 layout: gallery
 ---
 

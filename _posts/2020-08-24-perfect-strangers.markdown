@@ -14,7 +14,7 @@ layout: gallery
 ---
 
 ![200805_Doingbird_Magazine_61.jpg](/uploads/200805_Doingbird_Magazine_61.jpg)
-Tess wears Chanel blazer , Maisie wears Chanel blazer and skirt
+Tess wears [CHANEL](https://www.chanel.com/au/) blazer , Maisie wears [CHANEL](https://www.chanel.com/au/) blazer and skirt
 
 ![200805_Doingbird_Magazine_77.jpg](/uploads/200805_Doingbird_Magazine_77.jpg)
 Maisie wears Wynn Hamlyn coat and Sarah & Sebastian earrings (worn throughout.) Tess wears Esse Studios vest, Haider Ackermann pants from The Outnet and Sarah & Sebastian earrings (worn throughout) 

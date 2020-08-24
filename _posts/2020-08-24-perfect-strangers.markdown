@@ -30,11 +30,15 @@ Tess wears [PRADA](https://www.prada.com/au/en.html) blazer, skirt, scarf and be
 
 
 ![200805_Doingbird_Magazine_301.jpg](/uploads/200805_Doingbird_Magazine_301.jpg)
+Maisie wears [PRADA](https://www.prada.com/au/en.html) blazer, skirt, scarf and belt, Tess wears [PRADA](https://www.prada.com/au/en.html) shirt, knit, skirt, tie and [MAX MARA](https://au.maxmara.com/) shoes
+
 Tess wears [MIU MIU](https://www.miumiu.com/au/en.html) shirt and skirt , Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) shirt, vest and pants
 
 
 ![200805_Doingbird_Magazine_331.jpg](/uploads/200805_Doingbird_Magazine_331.jpg)
-Maisie wears [PRADA](https://www.prada.com/au/en.html) blazer, skirt, scarf and belt, Tess wears [PRADA](https://www.prada.com/au/en.html) shirt, knit, skirt, tie and [MAX MARA](https://au.maxmara.com/) shoes
+Tess wears [MIU MIU](https://www.miumiu.com/au/en.html) shirt and skirt , Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) shirt, vest and pants
+
+
 
 ![200805_Doingbird_Magazine_385.jpg](/uploads/200805_Doingbird_Magazine_385.jpg)
 Tess wears [PRADA](https://www.prada.com/au/en.html) knit and [CHANEL](https://www.chanel.com/au/) headband,  Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) dress and gloves

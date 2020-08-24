@@ -43,8 +43,8 @@ Maisie wears [GARETH PUGH](https://www.instagram.com/garethpughstudio/?hl=en) bl
 
 
 ![200805_Doingbird_Magazine_640.jpg](/uploads/200805_Doingbird_Magazine_640.jpg)
-Maisie wears LEE MATHEWS coat, MIU MIU boots and stylist's own socks, Tess wears LEE MATHEWS coat, BOTTEGA VENETA boots and stylist's own socks
+Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks, Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat, [BOTTEGA VENETA](https://www.bottegaveneta.com/au) boots and stylist's own socks
 
 
 ![200805_Doingbird_Magazine_647.jpg](/uploads/200805_Doingbird_Magazine_647.jpg)
-Maisie wears LEE MATHEWS coat, MIU MIU boots and stylist's own socks,  Tess wears LEE MATHEWS coat 
+Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks,  Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat 

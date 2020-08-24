@@ -2,8 +2,11 @@
 title: Perfect Strangers
 date: 2020-08-24 17:22:00 +10:00
 published: false
+categories:
+- Fashion
 Credits Text: "Photography Daniel Goode \nStyling Lucy Wood\nHair by Kyye Reed\L\nMake-Up
   by Gillian Campbell\L\nModels Maisie Dunlop and Tess Angel @ Priscilla’s\L"
+layout: gallery
 ---
 
 ![200805_Doingbird_Magazine_61.jpg](/uploads/200805_Doingbird_Magazine_61.jpg)

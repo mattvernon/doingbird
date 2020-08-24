@@ -20,7 +20,7 @@ Tess wears [CHANEL](https://www.chanel.com/au/) blazer , Maisie wears [CHANEL]
 Maisie wears [WYNN HAMLYN](https://www.wynnhamlyn.com/) coat and [SARAH & SEBASTIAN](https://www.sarahandsebastian.com/) earrings worn throughout,  Tess wears [ESSE STUDIOS](https://essestudios.com/) vest, [HAIDER ACKERMANN](https://www.haiderackermann.com/) pants from [The Outnet](https://www.theoutnet.com/en-au/) and [SARAH & SEBASTIAN](https://www.sarahandsebastian.com/) earrings, worn throughout
 
 ![200805_Doingbird_Magazine_142.jpg](/uploads/200805_Doingbird_Magazine_142.jpg)
-Tess wears Prada blazer, skirt, scarf and belt. Maisie wears Prada knit, shirt, skirt and tie.
+Tess wears PRADA blazer, skirt, scarf and belt,  Maisie wears PRADA knit, shirt, skirt and tie.
 
 
 ![200805_Doingbird_Magazine_237.jpg](/uploads/200805_Doingbird_Magazine_237.jpg)

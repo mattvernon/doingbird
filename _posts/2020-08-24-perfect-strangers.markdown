@@ -32,29 +32,30 @@ Maisie wears [BOTTEGA VENETA](https://www.bottegaveneta.com/au) blazer, pants an
 
 
 ![200805_Doingbird_Magazine_640.jpg](/uploads/200805_Doingbird_Magazine_640.jpg)
-Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks, Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat, [BOTTEGA VENETA](https://www.bottegaveneta.com/au) boots and stylist's own socks
+Tess wears [MIU MIU](https://www.miumiu.com/au/en.html) shirt and skirt , Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) shirt, vest and pants
 
 
 
 ![200805_Doingbird_Magazine_301.jpg](/uploads/200805_Doingbird_Magazine_301.jpg)
 Maisie wears [PRADA](https://www.prada.com/au/en.html) blazer, skirt, scarf and belt, Tess wears [PRADA](https://www.prada.com/au/en.html) shirt, knit, skirt, tie and [MAX MARA](https://au.maxmara.com/) shoes
 
-Tess wears [MIU MIU](https://www.miumiu.com/au/en.html) shirt and skirt , Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) shirt, vest and pants
 
 
 ![200805_Doingbird_Magazine_647.jpg](/uploads/200805_Doingbird_Magazine_647.jpg)
-Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks,  Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat 
+Tess wears [PRADA](https://www.prada.com/au/en.html) knit and [CHANEL](https://www.chanel.com/au/) headband,  Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) dress and gloves
+
 
 
 ![200805_Doingbird_Magazine_331.jpg](/uploads/200805_Doingbird_Magazine_331.jpg)
-Tess wears [MIU MIU](https://www.miumiu.com/au/en.html) shirt and skirt , Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) shirt, vest and pants
+Maisie wears [GARETH PUGH](https://www.instagram.com/garethpughstudio/?hl=en) blazer from [The Outnet](https://www.theoutnet.com/en-au/) and [COS](https://www.cosstores.com/au/) shirt,  Tess wears [MAX MARA](https://au.maxmara.com/) suit and [COS](https://www.cosstores.com/au/) shirt
 
 
 
 ![200805_Doingbird_Magazine_385.jpg](/uploads/200805_Doingbird_Magazine_385.jpg)
-Tess wears [PRADA](https://www.prada.com/au/en.html) knit and [CHANEL](https://www.chanel.com/au/) headband,  Maisie wears [GUCCI](https://www.gucci.com/au/en_au/) dress and gloves
+Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks,  Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat, [BOTTEGA VENETA](https://www.bottegaveneta.com/au) boots and stylist's own socks
 
 
 ![200805_Doingbird_Magazine_446.jpg](/uploads/200805_Doingbird_Magazine_446.jpg)
-Maisie wears [GARETH PUGH](https://www.instagram.com/garethpughstudio/?hl=en) blazer from [The Outnet](https://www.theoutnet.com/en-au/) and [COS](https://www.cosstores.com/au/) shirt,  Tess wears [MAX MARA](https://au.maxmara.com/) suit and [COS](https://www.cosstores.com/au/) shirt
+Maisie wears [LEE MATHEWS](https://leemathews.com.au/) coat, [MIU MIU](https://www.miumiu.com/au/en.html) boots and stylist's own socks,  Tess wears [LEE MATHEWS](https://leemathews.com.au/) coat 
+
 

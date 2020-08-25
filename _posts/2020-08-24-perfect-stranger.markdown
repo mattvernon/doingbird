@@ -4,7 +4,7 @@ date: 2020-08-24 17:22:00 +10:00
 published: false
 categories:
 - Fashion
-Main Image: "/uploads/200805_Doingbird_Magazine_237.jpg"
+Main Image: "/uploads/200805_Doingbird_Magazine_385.jpg"
 Credits Text: |-
   Photography [Daniel Goode ](https://www.instagram.com/dl.goode/?hl=en)
   Styling [Lucy Wood](https://www.instagram.com/lucyrosewood_/?hl=en)

@@ -10,8 +10,8 @@ Credits Text: |2
    A sport, a game, an obsession. A rite of passage. 
 
   Saména is one of the most remarkable places on Marseille's rocky seafront where groups of teens gather to challenge each other and defy the law of gravity by jumping off the cliffs into the blues of the Mediterranean.
-   Overcoming vertigo, taking the risk, throwing themselves into the seemingly permanent eerie mass of azur.
 
+   Overcoming vertigo, taking the risk, throwing themselves into the seemingly permanent eerie mass of azur.
    The testimony of desire to belong to the air, the water, the group.
 
 

@@ -4,6 +4,12 @@ date: 2020-08-25 11:30:00 +10:00
 published: false
 categories:
 - World
+Credits Text: |
+  Words: Anna Pirowska Tòth
+  Production: Ginie Mirbel
+  Photography Giovanni Di Stefano
+
+  Thanks to: Amine, Christian, Marvin, Rayan and Karim
 layout: gallery
 ---
 

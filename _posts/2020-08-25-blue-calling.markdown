@@ -1,11 +1,17 @@
 ---
-title: Kids of Marseille
+title: Blue Calling
 date: 2020-08-25 11:30:00 +10:00
 published: false
 categories:
 - World
 layout: gallery
 ---
+
+ Climbing up and jumping off, again and again, from the early morning till the sun sets. 
+A sport, a game, an obsession. A rite of passage. 
+Saména is one of the most remarkable places on Marseille's rocky seafront where groups of teens gather to challenge each other and defy the law of gravity by jumping off the cliffs into the blues of the Mediterranean. 
+Overcoming vertigo, taking the risk, throwing themselves into the seemingly permanent eerie mass of azur. 
+The testimony of desire to belong to the air, the water, the group.
 
 ![01_calanque_saména_giovanni_di_stefano_photography_saména_doing_bird_magazine_portraitS.jpg](/uploads/01_calanque_same%CC%81na_giovanni_di_stefano_photography_same%CC%81na_doing_bird_magazine_portraitS.jpg)
 

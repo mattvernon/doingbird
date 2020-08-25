@@ -4,8 +4,8 @@ date: 2020-08-25 11:30:00 +10:00
 published: false
 categories:
 - World
-Credits Text: |
-  Blue Calling
+Credits Text: |2
+
    Climbing up and jumping off, again and again, from the early morning till the sun sets.
    A sport, a game, an obsession. A rite of passage. 
 

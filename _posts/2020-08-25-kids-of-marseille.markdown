@@ -1,7 +1,9 @@
 ---
 title: Kids of Marseille
-date: 2020-07-17 12:19:00 +10:00
+date: 2020-08-25 11:30:00 +10:00
 published: false
+categories:
+- World
 layout: gallery
 ---
 

@@ -21,6 +21,7 @@ Credits Text: |2
   Photography Giovanni Di Stefano
 
   Thanks to: Amine, Christian, Marvin, Rayan and Karim
+is featured?: true
 layout: gallery
 ---
 

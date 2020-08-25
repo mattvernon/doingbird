@@ -4,6 +4,7 @@ date: 2020-08-25 11:30:00 +10:00
 published: false
 categories:
 - World
+Main Image: "/uploads/12._giovanni_di_stefano_photographer_same%CC%81na_corniche_kennedy_doing_bird_magazine_project_jpg.jpg"
 Credits Text: |2
 
    Climbing up and jumping off, again and again, from the early morning till the sun sets.

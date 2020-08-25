@@ -16,11 +16,11 @@ Credits Text: |2
    The testimony of desire to belong to the air, the water, the group.
 
 
-  Words: Anna Pirowska Tòth
-  Production: Ginie Mirbel
-  Photography Giovanni Di Stefano
+  WORDS Anna Pirowska Tòth
+  PHOTOGRAPHY [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/)
+  PRODUCTION Ginie Mirbel
 
-  Thanks to: Amine, Christian, Marvin, Rayan and Karim
+  Thanks to Amine, Christian, Marvin, Rayan and Karim
 is featured?: true
 layout: gallery
 ---

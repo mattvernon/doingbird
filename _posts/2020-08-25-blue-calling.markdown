@@ -20,7 +20,7 @@ Credits Text: |2
   PHOTOGRAPHY [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/)
   PRODUCTION [Ginie Mirbel](https://www.instagram.com/giniebel/?igshid=3rtzpicr5n76)
 
-  Thanks to Amine, Christian, [Marvin](https://www.instagram.com/marvindu972/?igshid=1jcuh2d36ltlp), Rayan and Karim
+  Thanks to Amine, Christian, [Marvin](https://www.instagram.com/marvindu972/?igshid=1jcuh2d36ltlp), [Ismail](https://www.instagram.com/ismail13013/?igshid=1jnca927xyk1m), Rayan and Karim
 is featured?: true
 layout: gallery
 ---

@@ -2,6 +2,15 @@
 title: '"dance movement" - Настя Ливаднова'
 date: 2020-08-25 11:36:00 +10:00
 published: false
+Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova provides
+  videos of her domestic based “voice stunt” work with Laila Sakini over an Instagram-internet
+  exchange. The HSC current contemporary art student’s body is the central focus of
+  the self-made dance videos which feature her own recordings, audio (voice) and editing
+  work. Resolved, instant and intimate Livadnova’s arresting works and her method
+  of exhibition (online media) render a once coveted and embodied modality (dance)
+  into an accessible and viable form for the socially distanced future. \n\nEditor
+  Laila Sakini "
+layout: gallery
 ---
 
 <iframe src="https://player.vimeo.com/video/452963537" width="640" height="623" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

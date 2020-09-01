@@ -2,6 +2,8 @@
 title: '"dance movement" - Настя Ливаднова'
 date: 2020-08-25 11:36:00 +10:00
 published: false
+categories:
+- Art
 Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova provides
   videos of her domestic based “voice stunt” work with Laila Sakini over an Instagram-internet
   exchange. The HSC current contemporary art student’s body is the central focus of

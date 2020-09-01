@@ -6,12 +6,12 @@ categories:
 - Art
 Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova provides
   videos of her domestic based “voice stunt” work with Laila Sakini over an Instagram-internet
-  exchange. The HSC current contemporary art student’s body is the central focus of
-  the self-made dance videos which feature her own recordings, audio (voice) and editing
-  work. Resolved, instant and intimate Livadnova’s arresting works and her method
-  of exhibition (online media) render a once coveted and embodied modality (dance)
-  into an accessible and viable form for the socially distanced future. \n\nEditor
-  Laila Sakini "
+  exchange. \n\nThe HSC current contemporary art student’s body is the central focus
+  of the self-made dance videos which feature her own recordings, audio (voice) and
+  editing work. \n\nResolved, instant and intimate Livadnova’s arresting works and
+  her method of exhibition (online media) render a once coveted and embodied modality
+  (dance) into an accessible and viable form for the socially distanced future. \n\nVideos
+  Nastya Livadnova\nEditor Laila Sakini "
 layout: gallery
 ---
 

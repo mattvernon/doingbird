@@ -4,13 +4,13 @@ date: 2020-08-25 11:36:00 +10:00
 published: false
 categories:
 - Art
-Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova provides
+Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova shares
   videos of her domestic based “voice stunt” work with Laila Sakini over an Instagram-internet
-  exchange. \n\nThe HSC current contemporary art student’s body is the central focus
-  of the self-made dance videos which feature her own recordings, audio (voice) and
+  exchange. \n\nThe HSC contemporary art student’s own body is the central instrument
+  in the “self-made” dance videos, which feature her recordings, audio (voice) and
   editing work. \n\nResolved, instant and intimate Livadnova’s arresting works and
-  her method of exhibition (online media) render a once coveted and embodied modality
-  (dance) into an accessible and viable form for the socially distanced future. \n\nVideos
+  her method of exhibition (online media) render coveted and embodied modalities of
+  dance into an accessible forms for a socially distanced, digitalised viewing.\n\n\nVideos
   Nastya Livadnova\nEditor Laila Sakini "
 layout: gallery
 ---

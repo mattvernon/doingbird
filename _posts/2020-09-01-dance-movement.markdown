@@ -10,7 +10,7 @@ Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova shar
   in the “self-made” dance videos, which feature her recordings, audio (voice) and
   editing work. \n\nResolved, instant and intimate Livadnova’s arresting works and
   her method of exhibition (online media) render coveted and embodied modalities of
-  dance into an accessible forms for a socially distanced, digitalised viewing.\n\n\nVideos
+  dance into accessible forms for a socially distanced, digitalised viewing.\n\n\nVideos
   Nastya Livadnova\nEditor Laila Sakini "
 layout: gallery
 ---

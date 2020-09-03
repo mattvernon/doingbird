@@ -12,7 +12,8 @@ Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova shar
   editing work. \n\nResolved, instant and intimate Livadnova’s arresting works and
   her method of exhibition (online media) render coveted and embodied modalities of
   dance into accessible forms for a socially distanced, digitalised viewing.\n\n\nVideos
-  Nastya Livadnova\nEditor Laila Sakini "
+  [Nastya Livadnova](https://www.instagram.com/nastya.livadnova/?igshid=uriv42ej5ije)\nEditor
+  [Laila Sakini ](https://www.instagram.com/lailasakini/)"
 is featured?: true
 layout: gallery
 ---

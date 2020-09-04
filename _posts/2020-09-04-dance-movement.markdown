@@ -1,7 +1,6 @@
 ---
 title: '"dance movement" - Настя Ливаднова'
-date: 2020-09-03 11:36:00 +10:00
-published: false
+date: 2020-09-04 09:00:00 +10:00
 categories:
 - Art
 tags:

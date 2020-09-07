@@ -10,7 +10,7 @@ tags:
 Main Image: "/uploads/dance%20movement%20title%20image.png"
 Credits Text: "Young Moscow based artist and choreographer Nastya Livadnova shares
   videos of her domestic based “voice stunt” work with Laila Sakini over an Instagram-internet
-  exchange. \n\nThe HSC contemporary art student’s own body is the central instrument
+  exchange. \n\nThe HSE contemporary art student’s own body is the central instrument
   in the “self-made” dance videos, which feature her recordings, audio (voice) and
   editing work. \n\nResolved, instant and intimate Livadnova’s arresting works and
   her method of exhibition (online media) render coveted and embodied modalities of

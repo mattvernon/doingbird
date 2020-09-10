@@ -20,7 +20,7 @@ It’s been a bit frustrating, cancelling tours, re-planning video shoots due to
 ![Edited 1.jpg](/uploads/Edited%201.jpg)
 ![Edited 15.jpg](/uploads/Edited%2015.jpg)
 
-## Your recent single 'Oceans' started out as “a sea shanty-esque poem scrawled on a bit of paper, about going mad in the ocean.” What inspired you to write about going mad on the ocean? Is it a fear of yours? 
+## Your recent single 'Oceans' started out as “a sea shanty-esque poem scrawled on a bit of paper, about going mad on the ocean.” What inspired you to write about going mad on the ocean? Is it a fear of yours? 
 
 I was drunk and thinking about pirates. Thinking about seafaring times long before technology became what it is today, how difficult it would have been for those people, the blessings, the curses, the life and the death and everything leading up to that. 
 

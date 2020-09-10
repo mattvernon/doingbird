@@ -7,15 +7,17 @@ categories:
 tags:
 - Music
 Main Image: "/uploads/cropped%20pete%20.jpg"
-Credits Text: |-
-  [Peter Bibby ](https://www.instagram.com/peterbibbymusicband/) photographed by Tiger ??
+Credits Text: |+
+  [PETER BIBBY](https://www.instagram.com/peterbibbymusicband/) photographed by Tiger Hutchence-Geldof
 
   Words Tina Summers
+
+
 is featured?: true
 layout: gallery
 ---
 
-Western Australia’s cult rocker Peter Bibby has long occupied an enviable space in Australian music: respected and admired by his peers, with a dedicated fanbase, while making music that’s, well, fucking weird. This year he’s released a sea shanty called ‘Oceans’ and a song inspired by a small town’s Wikipedia page (‘Whyalla’). He’s released two acclaimed albums to date — 2014's Butcher/Hairstylist/Beautician and 2018's Grand Champion — and his third Marge (at the time of writing) is out next week. We asked Monsieur Bibby some questions and of course his answers, like his music, straddled the line between sincere, thoughtful, thought-provoking and bloody LOL.
+Western Australia’s cult rocker [Peter Bibby](https://spinningtopmusic.com/pages/peter-bibby) has long occupied an enviable space in Australian music: respected and admired by his peers, with a dedicated fanbase, while making music that’s, well, fucking weird. This year he’s released a sea shanty called ‘Oceans’ and a song inspired by a small town’s Wikipedia page (‘Whyalla’). He’s released two acclaimed albums to date — 2014's Butcher/Hairstylist/Beautician and 2018's Grand Champion — and his third Marge (at the time of writing) is out next week. We asked Monsieur Bibby some questions and of course his answers, like his music, straddled the line between sincere, thoughtful, thought-provoking and bloody LOL.
 
 ![cropped pete .jpg](/uploads/cropped%20pete%20.jpg)
 
@@ -79,3 +81,5 @@ I’d love to write Billy Madison 2 with Adam Sandler.
 Probably eat a bit of breakfast, go for a run later… Next year we’ll hopefully be able to tour the record, that’ll be nice!
 
 ![bibby.jpg](/uploads/bibby.jpg)
+
+New Album, MARGE, is out Friday 18th September 2020

@@ -39,7 +39,7 @@ I was drunk and thinking about pirates. Thinking about seafaring times long befo
 
 It’s an interesting and unique town but to be honest, I settled on Whyalla because of the name. It’s a bit more catchy than say ‘Bong Bong’ or ‘Sausage Gully’, for example. Having spent a few days in Whyalla a few of the visual aspects were quite striking to me — for example the steelworks factory, and the fact the town is surrounded by old mine fields is pretty wild. After doing some research about the place I found more and more fun facts and had more than enough juice to write the song.
 
-## 'Whyalla' has been described as both a "curse" and a "love letter" to life in rural Australia. What does 'Whyalla' — the place and its history — represent to you?  
+### 'Whyalla' has been described as both a "curse" and a "love letter" to life in rural Australia. What does 'Whyalla' — the place and its history — represent to you?  
 
 A breeding ground for true heroes. The hub of Australian Steelworks. 
 
@@ -47,32 +47,34 @@ A breeding ground for true heroes. The hub of Australian Steelworks.
 ![Edited 8.jpg](/uploads/Edited%208.jpg)
 ![Edited 10.jpg](/uploads/Edited%2010.jpg)
 
-## Could you tell us about how your bandmate Dirty Dave's grandma 'Marge' came to be on your album [also called Marge!]’s artwork?
+### Could you tell us about how your bandmate Dirty Dave's grandma 'Marge' came to be on your album [also called Marge!]’s artwork?
  
 Dave has been taking photos of dear Margaret enjoying cigarettes for a while now. We all felt that the wise old-timer ripping a duzza was a good visual representation of the music we had created. Marge just turned 94 years old — pretty good innings.
 
-## What can people expect from Marge? And how do you hope people will respond to it? 
+### What can people expect from Marge? And how do you hope people will respond to it? 
 
 People can expect 11 musical songs of varying quality. I hope people have an unhealthy enthusiasm towards it and are driven completely mad by their unfathomable love for every single moment captured on the record.
 
 ![Edited 9.jpg](/uploads/Edited%209.jpg)
 
-## You've been described as a "troubadour", a "maverick", a "rule-breaker" and all sorts of other amazing words that suggest your approach to music and your career is very unique. Are there any particular idea/ls or goals that govern your approach to music, your career, and life? 
+### You've been described as a "troubadour", a "maverick", a "rule-breaker" and all sorts of other amazing words that suggest your approach to music and your career is very unique. Are there any particular idea/ls or goals that govern your approach to music, your career, and life? 
 
 You’ve got to be the guy you need to be to have the time you want to have. Honesty, sincerity, and a sense of humour are a few things that drive me. ‘Don’t be a dickhead’ is another one.
 
-## What would you like to see more of in the Australian music industry? 
+### What would you like to see more of in the Australian music industry? 
 
 More government recognition of the legitimacy of the various professions within the industry and more support in times of crisis. More laksa. 
 
-## Are there any Australian acts or other kinds of artists that are inspiring for you right now? 
+### Are there any Australian acts or other kinds of artists that are inspiring for you right now? 
 
 Everyone who has held it together through these weird times, job well done gang. I’ve also been really enjoying Otis Hope Carey’s paintings. 
 
-## Dream collab? 
+### Dream collab? 
+
 I’d love to write Billy Madison 2 with Adam Sandler. 
 
-## What's next for you? 
+### What's next for you? 
+
 Probably eat a bit of breakfast, go for a run later… Next year we’ll hopefully be able to tour the record, that’ll be nice!
 
 ![bibby.jpg](/uploads/bibby.jpg)

@@ -2,6 +2,10 @@
 title: Peter Bibby
 date: 2020-09-09 11:35:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- Music
 ---
 
 Western Australia’s cult rocker Peter Bibby has long occupied an enviable space in Australian music: respected and admired by his peers, with a dedicated fanbase, while making music that’s, well, fucking weird. This year he’s released a sea shanty called ‘Oceans’ and a song inspired by a small town’s Wikipedia page (‘Whyalla’). He’s released two acclaimed albums to date — 2014's Butcher/Hairstylist/Beautician and 2018's Grand Champion — and his third Marge (at the time of writing) is out next week. We asked Monsieur Bibby some questions and of course his answers, like his music, straddled the line between sincere, thoughtful, thought-provoking and bloody LOL.

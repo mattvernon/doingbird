@@ -78,4 +78,4 @@ Probably eat a bit of breakfast, go for a run later… Next year we’ll hopeful
 
 ![bibby.jpg](/uploads/bibby.jpg)
 
-New Album, MARGE, is out Friday 18th September 2020
+New Album, [MARGE](https://spinningtopmusic.com/pages/peter-bibby), is out Friday 18th September 2020

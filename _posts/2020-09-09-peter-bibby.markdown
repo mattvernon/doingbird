@@ -7,7 +7,7 @@ categories:
 tags:
 - Music
 Main Image: "/uploads/cropped%20pete%20.jpg"
-Credits Text: "photographer TIGER HUTCHENCE-GELDOF\n\nwords TINA SUMMERS\n\n[*PETER
+Credits Text: "photographer TIGER HUTCHENCE-GELDOF\n\ninterview [ZAC BAYLY](https://www.instagram.com/zacbayly/)\n\n[*PETER
   BIBBY*](https://www.instagram.com/peterbibbymusicband/) \n\n\n\n"
 is featured?: true
 layout: gallery

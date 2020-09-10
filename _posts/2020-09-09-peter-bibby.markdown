@@ -20,22 +20,22 @@ Western Australia’s cult rocker Peter Bibby has long occupied an enviable spac
 ![cropped pete .jpg](/uploads/cropped%20pete%20.jpg)
 
 
-## What have you been up to this year, both in and out of lockdown?
+### What have you been up to this year, both in and out of lockdown?
  
 This year I have become addicted to running; probably the healthiest addiction I’ve ever had. Besides that I’ve been making some things out of wood, furniture and chopping boards, etc., playing music with my friends, and working at the bar. Lockdown was a nice break from responsibilities and a good chance to focus on my health and some things I rarely get the opportunity to do.
 
-## How does it feel to be releasing new music with the difficulties around live shows and touring at the moment? 
+### How does it feel to be releasing new music with the difficulties around live shows and touring at the moment? 
 
 It’s been a bit frustrating, cancelling tours, re-planning video shoots due to social distancing regulations, etc. etc. It’s been an interesting challenge. On the bright side everyone seems incredibly hungry for new music, probably because a lot of people are still bored shitless in lockdown. 
 
 ![Edited 1.jpg](/uploads/Edited%201.jpg)
 ![Edited 15.jpg](/uploads/Edited%2015.jpg)
 
-## Your recent single 'Oceans' started out as “a sea shanty-esque poem scrawled on a bit of paper, about going mad on the ocean.” What inspired you to write about going mad on the ocean? Is it a fear of yours? 
+### Your recent single 'Oceans' started out as “a sea shanty-esque poem scrawled on a bit of paper, about going mad on the ocean.” What inspired you to write about going mad on the ocean? Is it a fear of yours? 
 
 I was drunk and thinking about pirates. Thinking about seafaring times long before technology became what it is today, how difficult it would have been for those people, the blessings, the curses, the life and the death and everything leading up to that. 
 
-## I read that you wrote 'Whyalla' after a friend asked you to write a track for an Australian road trip compilation. Why did you pick the city of Whyalla specifically, and what about the place is so interesting to you? 
+### I read that you wrote 'Whyalla' after a friend asked you to write a track for an Australian road trip compilation. Why did you pick the city of Whyalla specifically, and what about the place is so interesting to you? 
 
 It’s an interesting and unique town but to be honest, I settled on Whyalla because of the name. It’s a bit more catchy than say ‘Bong Bong’ or ‘Sausage Gully’, for example. Having spent a few days in Whyalla a few of the visual aspects were quite striking to me — for example the steelworks factory, and the fact the town is surrounded by old mine fields is pretty wild. After doing some research about the place I found more and more fun facts and had more than enough juice to write the song.
 

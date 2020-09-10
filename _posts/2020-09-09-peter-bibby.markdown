@@ -7,12 +7,8 @@ categories:
 tags:
 - Music
 Main Image: "/uploads/cropped%20pete%20.jpg"
-Credits Text: |+
-  [PETER BIBBY](https://www.instagram.com/peterbibbymusicband/) photographed by Tiger Hutchence-Geldof
-
-  Words Tina Summers
-
-
+Credits Text: "[PETER BIBBY](https://www.instagram.com/peterbibbymusicband/) photographed
+  by TIGER HUTCHENCE-GELDOF \n\nWords Tina Summers\n\n\n"
 is featured?: true
 layout: gallery
 ---

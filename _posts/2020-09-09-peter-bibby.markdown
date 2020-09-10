@@ -43,6 +43,7 @@ A breeding ground for true heroes. The hub of Australian Steelworks.
 
 ![Edited 7.jpg](/uploads/Edited%207.jpg)
 ![Edited 8.jpg](/uploads/Edited%208.jpg)
+![Edited 10.jpg](/uploads/Edited%2010.jpg)
 
 ## Could you tell us about how your bandmate Dirty Dave's grandma 'Marge' came to be on your album [also called Marge!]’s artwork?
  

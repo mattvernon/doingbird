@@ -28,8 +28,9 @@ This year I have become addicted to running; probably the healthiest addiction I
 
 It’s been a bit frustrating, cancelling tours, re-planning video shoots due to social distancing regulations, etc. etc. It’s been an interesting challenge. On the bright side everyone seems incredibly hungry for new music, probably because a lot of people are still bored shitless in lockdown. 
 
-![Edited 1.jpg](/uploads/Edited%201.jpg)
 ![Edited 15.jpg](/uploads/Edited%2015.jpg)
+![Edited 1.jpg](/uploads/Edited%201.jpg)
+
 
 ### Your recent single 'Oceans' started out as “a sea shanty-esque poem scrawled on a bit of paper, about going mad on the ocean.” What inspired you to write about going mad on the ocean? Is it a fear of yours? 
 

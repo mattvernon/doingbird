@@ -3,7 +3,8 @@ title: Drew Wheeler still life
 date: 2020-08-31 11:15:00 +10:00
 published: false
 categories:
-- Art
+- Objects
+layout: gallery
 ---
 
 ![stills pages_indu.jpg](/uploads/stills%20pages_indu.jpg)

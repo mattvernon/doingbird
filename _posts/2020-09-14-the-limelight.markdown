@@ -2,12 +2,12 @@
 title: The Limelight
 date: 2020-09-14 20:28:00 +10:00
 published: false
-Credits Text: |-
-  Model - Mateen @ Chic
-  Photography - Buster Parks
-  Styling - Kurt Johnson
-  Makeup - Sean Brady
-  Hair - Kyye Reed
+Main Image: "/uploads/01-e4a455.jpg"
+Credits Text: "Photography [BUSTER PARKS](https://www.instagram.com/busterparks/)
+  \nStyling [KURT JOHNSON](https://www.instagram.com/kurt__johnson/)\nMakeup [SEAN
+  BRADY](https://www.instagram.com/seanetc/)\nHair [KYYE REED](https://www.instagram.com/kyye/)\n\nModel
+  [MATEEN](https://www.instagram.com/mateen_ismail/) @ [Chic Model Management](https://www.instagram.com/chic_management/)"
+is featured?: true
 layout: gallery
 ---
 

@@ -2,6 +2,8 @@
 title: The Limelight
 date: 2020-09-14 20:28:00 +10:00
 published: false
+categories:
+- Fashion
 Main Image: "/uploads/01-e4a455.jpg"
 Credits Text: "Photography [BUSTER PARKS](https://www.instagram.com/busterparks/)
   \nStyling [KURT JOHNSON](https://www.instagram.com/kurt__johnson/)\nMakeup [SEAN

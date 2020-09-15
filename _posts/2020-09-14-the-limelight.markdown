@@ -18,52 +18,32 @@ layout: gallery
 ![02.jpg](/uploads/02.jpg)
 ![03.jpg](/uploads/03.jpg)
 
-Full look - Balenciaga
-Gloves - Libidex from Max Black
-Ring - Cashmere Malekitsch
+all clothing & shoes BALENCIAGA; gloves Libidex from MAX BLACK; ring CASHMERE MALEKITSCH
 
 ![04-576535.jpg](/uploads/04-576535.jpg)
 
-Full Look - Prada
-Choker - JPalm
-Gloves - Libidex from Max
-Black
+all clothing & shoes PRADA; choker JPALM; gloves Libidex from MAX BLACK
 
 ![05.jpg](/uploads/05.jpg)
 ![06.jpg](/uploads/06.jpg)
-Left Full Look - Maison Margiela from Pieces
-right All Jewellery - Cashmere Malekitsch
-Shirt and Sweater - Maison Margiela
-from Pieces
+Left all clothing MAISON MARGIELA from PIECES; right
+Shirt and Sweater MAISON MARGIELA from PIECES, Jewellery CASHMERE MALEKITSCH
 
 ![07-828cd6.jpg](/uploads/07-828cd6.jpg)
-Full Look - Maison Margiela from Pieces
+all clothing MAISON MARGIELA from PIECES
 
 ![08.jpg](/uploads/08.jpg)
 ![09.jpg](/uploads/09.jpg)
-Left Hat - Ann Demeulemeester from Pieces
-Choker - Zana Bayne
-Jacket - Maison Margiela from Pieces
-Trousers - Libidex from Max Black
-Shoes - Bottega Veneta
-
-Right Trousers - Prada
-All Jewellery - Cashmere Malekitsch
+left, hat ANN DEMEULEMEESTER from PIECES, Choker ZANA BAYNE, jacket MAISON MARGIELA from PIECES, trousers Libidex from MAX BLACK, shoes BOTTEGA VENETA; right, trousers PRADA, jewellery CASHMERE MALEKITSCH
 
 ![10.jpg](/uploads/10.jpg)
 ![11.jpg](/uploads/11.jpg)
 
-left Top - Maison Margiela from Pieces
-right Pants + Boots - Bottega Veneta
-Top and Gloves - Libidex from Max
-Black
+left, top MAISON MARGIELA from PIECES;
+right, pants & boots BOTTEGA VENETA, top & gloves Libidex from MAX BLACK
 
-![12-bdd498.jpg](/uploads/12-bdd498.jpg)
-left Top - Maison Margiela from Pieces
-
+![12-bdd498.jpg](/uploads/12-bdd498.jpg) 
 ![13-efbb81.jpg](/uploads/13-efbb81.jpg)
-right Pants + Boots - Bottega Veneta
-Top and Gloves - Libidex from Max
-Black
+left, top MAISON MARGIELA from PIECES; right, pants & boots BOTTEGA VENETA, top & gloves Libidex from MAX BLACK
 
 

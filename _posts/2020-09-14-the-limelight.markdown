@@ -15,14 +15,12 @@ layout: gallery
 
 ![01-e4a455.jpg](/uploads/01-e4a455.jpg)
 
-![02.jpg](/uploads/02.jpg)
-![03.jpg](/uploads/03.jpg)
-
+![03-3fe40f.jpg](/uploads/03-3fe40f.jpg)
 all clothing & shoes [BALENCIAGA](https://www.balenciaga.com/au); gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/); ring [CASHMERE MALEKITSCH](https://cashmeremalekitsch.com/)
 
 ![04-576535.jpg](/uploads/04-576535.jpg)
 
-all clothing & shoes [PRADA](https://www.prada.com/au/en.html); choker [JPALM](https://www.jpalm.co.nz/); gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
+all clothing & shoes [PRADA](https://www.prada.com/au/en.html); choker JPALM; gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
 
 ![05.jpg](/uploads/05.jpg)
 ![06.jpg](/uploads/06.jpg)
@@ -34,16 +32,16 @@ all clothing [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](
 
 ![08.jpg](/uploads/08.jpg)
 ![09.jpg](/uploads/09.jpg)
-left, hat [ANN DEMEULEMEESTER](https://www.anndemeulemeester.com/) from [PIECES](https://piecesydney.com/), Choker [ZANA BAYNE](http://zanabayne.com/), jacket [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/), trousers [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/), shoes [BOTTEGA VENETA](https://www.bottegaveneta.com/au); right, trousers [PRADA](https://www.prada.com/au/en.html), jewellery [CASHMERE MALEKITSCH](https://cashmeremalekitsch.com/)
+left, hat ANN DEMEULEMEESTER from [PIECES](https://piecesydney.com/), Choker ZANA BAYNE, jacket [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/), trousers [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/), shoes BOTTEGA VENETA; right, trousers PRADA, jewellery [CASHMERE MALEKITSCH](https://cashmeremalekitsch.com/)
 
 ![10.jpg](/uploads/10.jpg)
 ![11.jpg](/uploads/11.jpg)
 
 left, top [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/);
-right, pants & boots [BOTTEGA VENETA](https://www.bottegaveneta.com/au), top & gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
+right, pants & boots BOTTEGA VENETA, top & gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
 
 ![12-bdd498.jpg](/uploads/12-bdd498.jpg) 
 ![13-efbb81.jpg](/uploads/13-efbb81.jpg)
-left, top [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/); right, pants & boots [BOTTEGA VENETA](https://www.bottegaveneta.com/au), top & gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
+left, top [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/); right, pants & boots BOTTEGA VENETA, top & gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
 
 

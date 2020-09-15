@@ -22,8 +22,8 @@ all clothing & shoes [BALENCIAGA](https://www.balenciaga.com/au); gloves [Libide
 
 all clothing & shoes [PRADA](https://www.prada.com/au/en.html); choker JPALM; gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)
 
-![05.jpg](/uploads/05.jpg)
-![06.jpg](/uploads/06.jpg)
+![06-baadc0.jpg](/uploads/06-baadc0.jpg)
+
 Left all clothing [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/); right
 Shirt and Sweater [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/), Jewellery [CASHMERE MALEKITSCH](https://cashmeremalekitsch.com/)
 

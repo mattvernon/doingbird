@@ -34,7 +34,7 @@ all clothing [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](
 
 left, hat ANN DEMEULEMEESTER from [PIECES](https://piecesydney.com/), Choker ZANA BAYNE, jacket [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/), trousers [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/), shoes BOTTEGA VENETA; right, trousers PRADA, jewellery [CASHMERE MALEKITSCH](https://cashmeremalekitsch.com/)
 
-![11-b82a1d.jpg](/uploads/11-b82a1d.jpg)
+![11b.jpg](/uploads/11b.jpg)
 
 left, top [MAISON MARGIELA](https://www.maisonmargiela.com/au) from [PIECES](https://piecesydney.com/);
 right, pants & boots BOTTEGA VENETA, top & gloves [Libidex](https://www.libidex.com/) from [MAX BLACK](https://maxblack.com.au/)

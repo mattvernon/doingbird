@@ -2,6 +2,7 @@
 title: The Songs of Strada
 date: 2020-09-25 15:56:00 +10:00
 published: false
+layout: gallery
 ---
 
 Multi-instrumtalist, producer & editor Laila Sakini talks to Doingbird's Editor Abby Bennett about the songs that make up her latest body of work, Strada.

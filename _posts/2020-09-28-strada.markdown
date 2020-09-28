@@ -2,7 +2,7 @@
 title: The Songs of Strada
 date: 2020-09-28 15:56:00 +10:00
 published: false
-Main Image: "/uploads/image6.jpeg"
+Main Image: "/uploads/image1-dfc2b2.jpeg"
 Credits Text: |+
   *Multi-instrumtalist, producer & editor [LAILA SAKINI](https://lailasakini.bandcamp.com/) talks to Doingbird's Editor [ABBY BENNETT](https://www.instagram.com/bennett_abby/) about the songs that make up her latest body of work, [STRADA](https://boomkat.com/products/strada-0fa52538-7a7d-4dfa-b58b-6f895d437a5a).*
 

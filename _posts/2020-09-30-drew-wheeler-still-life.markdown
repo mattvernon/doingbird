@@ -4,7 +4,7 @@ date: 2020-09-30 08:00:00 +10:00
 published: false
 categories:
 - Objects
-Main Image: "/uploads/stills%20pages_indu7.jpg"
+Main Image: "/uploads/stills%20pages_indu2.jpg"
 Credits Text: "Art Direction: [Linnea Grondahl](https://www.instagram.com/elinneag/?hl=en)
   \  \nPhoto: [Drew Wheeler ](http://www.drewwheeler.net)  \nSet Design: [Annika Fischer](https://www.annikarosefischer.com/)
   \  \n"

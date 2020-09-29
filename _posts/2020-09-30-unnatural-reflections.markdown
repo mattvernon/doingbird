@@ -1,5 +1,5 @@
 ---
-title: Unnatural reflections
+title: Unnatural Reflections
 date: 2020-09-30 08:00:00 +10:00
 categories:
 - Art

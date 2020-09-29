@@ -4,8 +4,10 @@ date: 2020-08-31 11:15:00 +10:00
 published: false
 categories:
 - Objects
-Credits Text: "Art Direction: Linnea Grondahl   \nPhoto: [Drew Wheeler ](http://www.drewwheeler.net)
-  \ \nSet Design: [Annika Fischer](https://www.annikarosefischer.com/)   \n"
+Credits Text: "Art Direction: [Linnea Grondahl](https://www.instagram.com/elinneag/?hl=en)
+  \  \nPhoto: [Drew Wheeler ](http://www.drewwheeler.net)  \nSet Design: [Annika Fischer](https://www.annikarosefischer.com/)
+  \  \n"
+is featured?: true
 layout: gallery
 ---
 

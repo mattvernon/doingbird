@@ -2,6 +2,8 @@
 title: Saturnia
 date: 2020-09-30 10:10:00 +10:00
 published: false
+categories:
+- World
 Credits Text: "Saturnia is an ancient village in the south of Tuscany in the area
   known as Maremma. Although not yet commercialised, it attracts tourists because
   of its Thermal Bath which have been of considerable importance since ancient ages.
@@ -11,4 +13,26 @@ Credits Text: "Saturnia is an ancient village in the south of Tuscany in the are
   is) rich in sulphur.\nToday visitors coat their bodies in the mud making designs
   over their skins as they lounge around the springs.\n\nPhotography Giovanni Di Stefano"
 ---
+
+![1_saturnia_italy_thermal_bath_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_ copie.jpeg](/uploads/1_saturnia_italy_thermal_bath_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_%20copie.jpeg)
+
+![2_saturnia_italy_thermal_bath_giovanni_di_stefano_photography_doing_bird_magazine.jpg](/uploads/2_saturnia_italy_thermal_bath_giovanni_di_stefano_photography_doing_bird_magazine.jpg)
+
+![3_giovanni_di_stefano_photography_saturnia_terme_bath_doing_bird_magazine_pg.jpg](/uploads/3_giovanni_di_stefano_photography_saturnia_terme_bath_doing_bird_magazine_pg.jpg)
+
+![4_saturnia_thermal_bath_doing_bird_magazine_giovanni_di_stefano_photographer_paris_fashion_portraits_.jpg](/uploads/4_saturnia_thermal_bath_doing_bird_magazine_giovanni_di_stefano_photographer_paris_fashion_portraits_.jpg)
+
+![5_saturnia_termal_bath_doing_bird_magazine_giovanni_di_stefano_photographer_paris_fashion_portraits_.jpg](/uploads/5_saturnia_termal_bath_doing_bird_magazine_giovanni_di_stefano_photographer_paris_fashion_portraits_.jpg)
+
+![6_giovanni_di_stefano_photography_doing_birds_magazine_saturnia_thermal_bath.jpg](/uploads/6_giovanni_di_stefano_photography_doing_birds_magazine_saturnia_thermal_bath.jpg)
+
+![7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg](/uploads/7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg)
+
+![8_saturnia_thermal_bath_italy_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_.jpg](/uploads/8_saturnia_thermal_bath_italy_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_.jpg)
+
+![9_saturnia_thermal_bath_italy_giovanni_di_stefano_photographer_paris_fashion_portraits_doing_bird_magazine_.jpg](/uploads/9_saturnia_thermal_bath_italy_giovanni_di_stefano_photographer_paris_fashion_portraits_doing_bird_magazine_.jpg)
+
+![10_termal_bath_saturnia_italy_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg](/uploads/10_termal_bath_saturnia_italy_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg)
+
+![11_doing_bird_magazine_saturnia_thermal_bath_italy_giovanni_di_stefano_photography_paris_.jpg](/uploads/11_doing_bird_magazine_saturnia_thermal_bath_italy_giovanni_di_stefano_photography_paris_.jpg)
 

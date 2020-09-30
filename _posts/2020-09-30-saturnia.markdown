@@ -13,6 +13,7 @@ Credits Text: "*Saturnia is an ancient village in the south of Tuscany in the ar
   is) rich in sulphur.\nToday visitors coat their bodies in the mud making designs
   over their skins as they lounge around the springs.\n*\n\nPhotography [Giovanni
   Di Stefano](https://www.giovanni-di-stefano.com/)"
+layout: gallery
 ---
 
 ![1_saturnia_italy_thermal_bath_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_ copie.jpeg](/uploads/1_saturnia_italy_thermal_bath_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_%20copie.jpeg)

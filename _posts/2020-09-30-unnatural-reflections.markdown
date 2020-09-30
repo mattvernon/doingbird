@@ -7,7 +7,11 @@ tags:
 - still life
 - Photography
 Main Image: "/uploads/stills%20pages_indu2.jpg"
-Credits Text: "Art Direction: [Linnea Grondahl](https://www.instagram.com/elinneag/?hl=en)
+Credits Text: "*Unnatural reflections is a story created with inspiration of repeating
+  patterns in nature. An artistic interpretation of the recurring shapes and textures
+  we often find in our natural environment. A reminder of the connection between us
+  all, our surroundings, and the importance of balance in life to promote a healthy
+  climate*\n\n\nArt Direction: [Linnea Grondahl](https://www.instagram.com/elinneag/?hl=en)
   \  \nPhoto: [Drew Wheeler ](http://www.drewwheeler.net)  \nSet Design: [Annika Fischer](https://www.annikarosefischer.com/)
   \  \n"
 is featured?: true

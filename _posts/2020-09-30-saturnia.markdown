@@ -6,7 +6,7 @@ categories:
 - World
 Main Image: "/uploads/7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg"
 Credits Text: |-
-  *Saturnia is an ancient village in the south of Tuscany in the area known as Maremma. Although not yet commercialised, it attracts tourists because of its Thermal Bath which have been of considerable importance since ancient ages. *
+  *Saturnia is an ancient village in the south of Tuscany in the area known as Maremma. Although not yet commercialised, it attracts tourists because of its Thermal Bath which have been of considerable importance since ancient ages.*
 
   *The thermal baths in Saturnia have been around for centuries, as is proved by Etruscan remains found in the area. The baths were famous with the Romans who realised their health benefits. *
 

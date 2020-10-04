@@ -2,6 +2,8 @@
 title: Joesef
 date: 2020-10-04 13:38:00 +11:00
 published: false
+categories:
+- Features
 Main Image: "/uploads/Joesef_7_109.jpg"
 Credits Text: "Photography Josh Hight \n\nInterview Tina Summers"
 is featured?: true

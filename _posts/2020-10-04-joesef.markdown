@@ -2,7 +2,9 @@
 title: Joesef
 date: 2020-10-04 13:38:00 +11:00
 published: false
+Main Image: "/uploads/Joesef_4_091.jpg"
 Credits Text: "Photography Josh Hight \n\nInterview Tina Summers"
+is featured?: true
 ---
 
 Joesef is the angel-voiced Glaswegian singer-songwriter whose otherworldly vocals have found their closest comparison in Amy Winehouse. His soulful earworm ‘Loverboy’ made waves in 2019, with British Vogue calling him “the summer sad boy we didn’t know we needed” and the BBC including him on their ‘Sound of 2020’ list. He’s since released a series of equally addictive tracks that hit you right in the feels: ‘Think That I Don’t Need Your Love’, ‘The Sun Is Up Forever’ and ‘I Wonder Why’ feat. Loyle Carner. In the lead up to the release of his new EP, Does It Make U Feel Good?, we caught up with the fast-rising soul-pop artist from the “bit of a shit hole" East End of Glasgow (his words!) to chat karaoke, working with your best friends, and singing about heartbreak to a roomful of strangers. 

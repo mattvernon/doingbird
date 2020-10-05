@@ -5,12 +5,15 @@ published: false
 categories:
 - Features
 Main Image: "/uploads/Joesef_7_109.jpg"
-Credits Text: "Photography Josh Hight \n\nInterview Tina Summers"
+Credits Text: |-
+  Photography [JOSH HIGHT ](https://www.instagram.com/josh._.hight/)
+
+  Interview Tina Summers
 is featured?: true
 layout: gallery
 ---
 
-*Joesef is the angel-voiced Glaswegian singer-songwriter whose otherworldly vocals have found their closest comparison in Amy Winehouse. His soulful earworm ‘Loverboy’ made waves in 2019, with British Vogue calling him “the summer sad boy we didn’t know we needed” and the BBC including him on their ‘Sound of 2020’ list.*
+*[Joesef](https://www.instagram.com/joesefjoesefjoesef/) is the angel-voiced Glaswegian singer-songwriter whose otherworldly vocals have found their closest comparison in Amy Winehouse. His soulful earworm ‘Loverboy’ made waves in 2019, with British Vogue calling him “the summer sad boy we didn’t know we needed” and the BBC including him on their ‘Sound of 2020’ list.*
 *He’s since released a series of equally addictive tracks that hit you right in the feels: ‘Think That I Don’t Need Your Love’, ‘The Sun Is Up Forever’ and ‘I Wonder Why’ feat. Loyle Carner. In the lead up to the release of his new EP, Does It Make U Feel Good?, we caught up with the fast-rising soul-pop artist from the “bit of a shit hole" East End of Glasgow (his words!) to chat karaoke, working with your best friends, and singing about heartbreak to a roomful of strangers.*
 
 ![Joesef_1_132-4196e4.jpg](/uploads/Joesef_1_132-4196e4.jpg)

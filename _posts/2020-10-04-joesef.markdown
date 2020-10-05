@@ -4,6 +4,10 @@ date: 2020-10-04 13:38:00 +11:00
 published: false
 categories:
 - Features
+tags:
+- Music
+- glasgow
+- london
 Main Image: "/uploads/Joesef_7_109.jpg"
 Credits Text: |-
   Photography [JOSH HIGHT ](https://www.instagram.com/josh._.hight/)

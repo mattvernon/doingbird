@@ -10,7 +10,7 @@ tags:
 - london
 Main Image: "/uploads/Joesef_7_109.jpg"
 Credits Text: |-
-  PHOTOGRAPHY [Josh Hight ](https://www.instagram.com/josh._.hight/)
+  [JOESEF](https://www.instagram.com/joesefjoesefjoesef/) photographed in London by [JOSH HIGHT ](https://www.instagram.com/josh._.hight/)
 
   WORDS Tina Summers
 is featured?: true

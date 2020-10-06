@@ -2,6 +2,8 @@
 title: Chrissie Abbott – POSITIVE FLOW
 date: 2020-10-06 16:58:00 +11:00
 published: false
+categories:
+- ART
 Credits Text: "GAMMA - The Magical Frequency, an exhibition by Chrissie Abbott opens
   Friday 9th October 2020 at [101 Gallery](https://101alle.com/), Allersbergerstraße
   101, Nürnberg \n\nArtwork by [Chrissie Abbott](https://chrissieabbott.com/)\n\nInterview

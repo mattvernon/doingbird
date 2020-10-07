@@ -89,7 +89,6 @@ That hallway was based on my childhood home’s hallway. It’s funny how you me
 
 I think that is the 27. I put a 27 in the top because the house was number 27.
 
-[hallway.mp4](/uploads/hallway.mp4)
 ![hallway.jpg](/uploads/hallway.jpg)
 ![INVISIBLE FIELD.jpg](/uploads/INVISIBLE%20FIELD.jpg)
 

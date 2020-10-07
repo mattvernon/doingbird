@@ -90,6 +90,7 @@ I think that is the 27. I put a 27 in the top because the house was number 27.
 
 ![hallway.jpg](/uploads/hallway.jpg)
 ![INVISIBLE FIELD.jpg](/uploads/INVISIBLE%20FIELD.jpg)
+![waking.jpg](/uploads/waking.jpg)
 
 
 ### Ooh I like this. I like there being little hidden clues, it’s like T-Bag.  Another thing I read about this gamma energy was the idea of invisible energy fields. What type of energy do you think you give off?

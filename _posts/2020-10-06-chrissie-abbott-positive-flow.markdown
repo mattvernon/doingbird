@@ -13,6 +13,9 @@ layout: gallery
 
 A possum hisses, alarmed, at a hand mirror proclaiming a ‘New Dawn’. This possum is all of us. Staring at our lethargic reflections, with a brewing sense of unease, wondering what the shifting sands of 2020 will throw our way next. “I just very much identified with the same feeling” says Chrissie Abbott of the work. Yup, it’s been a long year, and Chrissie’s experience has been no different. Her latest exhibition ‘Gamma – A Magical Frequency’, allows us to make our escape through hypnotic colorscapes and campish copy-lines. Opening this week at 101 Gallery in Nuremberg, the works explore theories of invisible energy fields and alternative realms. Ahead of the opening, I relish the opportunity to chat with my friend about these enticing notions. If we can’t meet on the astral plane, this will have to be the next best thing.
 
+![new dawn.jpg](/uploads/new%20dawn.jpg)
+
+![GAMMA FLYER_a4.jpg](/uploads/GAMMA%20FLYER_a4.jpg)
 
 ### So, the title of your new show is ‘Gamma’. Can you tell me a little bit about how you landed on that as a theme?
 
@@ -25,6 +28,10 @@ It felt almost like a parallel universe, somewhere I would want to get to.
 ### I think it’s interesting that Gamma is described as the optimal human state, and that kindness is wrapped into that. That is something new to me because often when you hear about meditation it’s in the context of entrepreneurs and start-up bros – people optimizing their performance. You rarely hear about empathy or kindness being a part of that. 
 
 Yeah, that’s what really struck me as well because I think there’s also something about meditation that makes you think it’s a self-serving act, that it’s all about you delving deeper into your own presence. But just reading that stuff made me think that if you optimize yourself then you are capable of being better and nicer to other people and seeing things from other people’s points of view – Being better outside of yourself as a result of being better inside of yourself. It was a nice angle. With the way the world is now, everyone is needing a bit of empathy. Or maybe we are beginning to realize how important empathy is.
+
+![worse.jpg](/uploads/worse.jpg)
+![the sky.jpg](/uploads/the%20sky.jpg)
+![dream.jpg](/uploads/dream.jpg)
 
 ### Do you think the work for this show is a direct result of where we are currently at? The last six months?
 
@@ -63,6 +70,9 @@ When I was a kid.
 
 I think when you’re a kid you experience so much in such a short space of time. You’re experiencing everything for the first time, so you remember it all. I kinda wish that I dreamt about more beautiful places and inspiring landscapes but I definitely don’t. It’s all very mundane.
 
+![dream.jpg](/uploads/dream.jpg)
+![life.jpg](/uploads/life.jpg)
+
 ### Have you ever had a flying dream?
 
 Oh yeah. I remember having a flying dream as a kid, I must have been maybe 10 and I dreamt that I was flying into a tree and then I realized that Take That lived behind the dishwasher in the kitchen and I was like “This is so amazing, I can fly AND Take That live in my kitchen.”
@@ -78,6 +88,11 @@ That hallway was based on my childhood home’s hallway. It’s funny how you me
 ### Did it have something funny on the ceiling? There was a design on the ceiling in the picture.
 
 I think that is the 27. I put a 27 in the top because the house was number 27.
+
+[hallway.mp4](/uploads/hallway.mp4)
+![hallway.jpg](/uploads/hallway.jpg)
+![INVISIBLE FIELD.jpg](/uploads/INVISIBLE%20FIELD.jpg)
+
 
 ### Ooh I like this. I like there being little hidden clues, it’s like T-Bag.  Another thing I read about this gamma energy was the idea of invisible energy fields. What type of energy do you think you give off?
 
@@ -103,3 +118,4 @@ There’s obviously lots of theory around color and how that affects your mood. 
 
 I think that’s a dated rule.
 
+![CA.jpeg](/uploads/CA.jpeg)

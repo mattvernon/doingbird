@@ -118,3 +118,4 @@ There’s obviously lots of theory around color and how that affects your mood. 
 I think that’s a dated rule.
 
 ![CA.jpeg](/uploads/CA.jpeg)
+![quantum.jpg](/uploads/quantum.jpg)

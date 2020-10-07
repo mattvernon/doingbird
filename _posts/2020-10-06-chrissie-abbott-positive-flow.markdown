@@ -31,7 +31,6 @@ Yeah, that’s what really struck me as well because I think there’s also some
 
 ![worse.jpg](/uploads/worse.jpg)
 ![the sky.jpg](/uploads/the%20sky.jpg)
-![dream.jpg](/uploads/dream.jpg)
 
 ### Do you think the work for this show is a direct result of where we are currently at? The last six months?
 

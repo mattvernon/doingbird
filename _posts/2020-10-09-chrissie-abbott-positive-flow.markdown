@@ -1,7 +1,6 @@
 ---
 title: Chrissie Abbott – POSITIVE FLOW
-date: 2020-10-08 21:00:00 +11:00
-published: false
+date: 2020-10-09 07:00:00 +11:00
 categories:
 - ART
 Main Image: "/uploads/quantum.jpg"

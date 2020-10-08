@@ -9,7 +9,7 @@ Credits Text: "Artwork by [Chrissie Abbott](https://chrissieabbott.com/)\n\nInte
   by [Alexandra Weiland](https://www.instagram.com/clubalex/) \n\n*Chrissie, originally
   from London and Alex, hailing from Melbourne Australia are good friends who met
   at work in Nuremberg, Germany. Both are talented creatives who currently live on
-  opposite sides of the world so we bought them together to talk about Chrissie’s
+  opposite sides of the world so we brought them together to talk about Chrissie’s
   forthcoming exhibition* GAMMA - The Magical Frequency which opens Friday 9th October
   2020 at [101 Gallery](https://101alle.com/), Allersbergerstraße 101, Nürnberg \n\n"
 is featured?: true

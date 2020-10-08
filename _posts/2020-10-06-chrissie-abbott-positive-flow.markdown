@@ -4,6 +4,7 @@ date: 2020-10-06 16:58:00 +11:00
 published: false
 categories:
 - ART
+Main Image: "/uploads/quantum.jpg"
 Credits Text: "Artwork by [Chrissie Abbott](https://chrissieabbott.com/)\n\nInterview
   by [Alexandra Weiland](https://www.instagram.com/clubalex/) \n\nChrissie, originally
   from London and Alex, hailing from Melbourne Australia are good friends who met

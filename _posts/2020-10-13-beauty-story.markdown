@@ -8,5 +8,6 @@ Credits Text: |
   Stylist - Coco Adorjany (i - @cocoadorjany)
   Model 1 - Marlo Hsieh @ Chadwick ( i - @marlo.m.h)
   Model 2 - Sam Socen (i - @milkmakesmeshit)
+layout: gallery
 ---
 

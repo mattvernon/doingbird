@@ -5,7 +5,7 @@ published: false
 Credits Text: |-
   Photographer [SASKIA WILSON](https://www.saskiawilson.com/)
 
-  Words GEMMA Jordine
+  Words GEMMA JORDINE
 is featured?: true
 layout: gallery
 ---

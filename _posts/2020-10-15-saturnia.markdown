@@ -1,7 +1,6 @@
 ---
 title: Saturnia
-date: 2020-10-04 22:10:00 +11:00
-published: false
+date: 2020-10-15 10:00:00 +11:00
 categories:
 - World
 Main Image: "/uploads/7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg"
@@ -30,7 +29,7 @@ layout: gallery
 
 ![6_giovanni_di_stefano_photography_doing_birds_magazine_saturnia_thermal_bath.jpg](/uploads/6_giovanni_di_stefano_photography_doing_birds_magazine_saturnia_thermal_bath.jpg)
 
-![7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg](/uploads/7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_.jpg)
+![7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_-28ca52.jpg](/uploads/7_saturnia_giovanni_di_stefano_photographer_paris_doing_bird_magazine_-28ca52.jpg)
 
 ![8_saturnia_thermal_bath_italy_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_.jpg](/uploads/8_saturnia_thermal_bath_italy_doing_bird_magazine_giovanni_di_stefano_photography_paris_fashion_portraits_.jpg)
 

@@ -3,6 +3,7 @@ title: DIRT- abby's shoot
 date: 2020-08-25 11:37:00 +10:00
 published: false
 Credits Text: "Photography Cameron Smith \nFashion Editor Abby Bennett"
+layout: gallery
 ---
 
 ![DIRT_1.jpg](/uploads/DIRT_1.jpg)

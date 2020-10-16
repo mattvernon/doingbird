@@ -6,11 +6,11 @@ Credits Text: "Photography Cameron Smith \nFashion Editor Abby Bennett"
 layout: gallery
 ---
 
+![DIRT_2.jpg](/uploads/DIRT_2.jpg)
+
 ![DIRT_1.jpg](/uploads/DIRT_1.jpg)
 
 ![DIRT_01.jpg](/uploads/DIRT_01.jpg)
-
-![DIRT_2.jpg](/uploads/DIRT_2.jpg)
 
 ![DIRT_3.jpg](/uploads/DIRT_3.jpg)
 

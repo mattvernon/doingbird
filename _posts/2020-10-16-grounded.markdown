@@ -26,11 +26,11 @@ layout: gallery
 
 ![DIRT_7.jpg](/uploads/DIRT_7.jpg)
 
-![DIRT_3A.jpg](/uploads/DIRT_3A.jpg)
+![DIRT_8.jpg](/uploads/DIRT_8.jpg)
 
 ![DIRT_9.jpg](/uploads/DIRT_9.jpg)
 
-![DIRT_8.jpg](/uploads/DIRT_8.jpg)
+![DIRT_3A.jpg](/uploads/DIRT_3A.jpg)
 
 ![DIRT_10.jpg](/uploads/DIRT_10.jpg)
 

@@ -11,7 +11,7 @@ Credits Text: "Photography [Cameron Smith](http://www.cameronsmithphoto.com/inde
 layout: gallery
 ---
 
-![DIRT_1.jpg](/uploads/DIRT_1.jpg)
+![DIRT A.jpg](/uploads/DIRT%20A.jpg)
 
 ![DIRT_01.jpg](/uploads/DIRT_01.jpg)
 Josephine wears shirt UNIQLO, top BASERANGE, pants BALLY, hair clip, belt & shoes CHANEL

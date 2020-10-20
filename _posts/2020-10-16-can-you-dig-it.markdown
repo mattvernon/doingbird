@@ -2,12 +2,14 @@
 title: Can you dig it?
 date: 2020-10-16 10:37:00 +11:00
 published: false
+Main Image: "/uploads/DIRT_5.jpg"
 Credits Text: "Photography [Cameron Smith](http://www.cameronsmithphoto.com/index.html)
   \nFashion Editor [Abby Bennett](https://www.abbybennett.com.au/)\n\nHair & Make
   up [Emma-Louise](https://www.emmalouisemakeup.com/) \nFashion Assistant [Alyssa
   Selin](https://www.instagram.com/alyssa.selin/?hl=en)\n\nModels Josephine and Aroha
   @ [Chadwick Models](http://www.chadwickmodels.com/) \n\nSpecial thanks to [CSG Landscape
   Supplies & Garden Centre ](https://csglandscapes.com.au/) "
+is featured?: true
 layout: gallery
 ---
 

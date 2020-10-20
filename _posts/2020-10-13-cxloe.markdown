@@ -2,7 +2,7 @@
 title: CXLOE
 date: 2020-10-13 11:00:00 +11:00
 published: false
-Main Image: "/uploads/CXLEO_Portrait_Saskia_Wilson10.jpg"
+Main Image: "/uploads/CXLEO_Portrait_Saskia_Wilson03.jpg"
 Credits Text: |-
   Photographer [SASKIA WILSON](https://www.saskiawilson.com/)
 

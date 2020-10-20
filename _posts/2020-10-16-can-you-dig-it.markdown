@@ -3,11 +3,12 @@ title: Can you dig it?
 date: 2020-10-16 10:37:00 +11:00
 published: false
 Main Image: "/uploads/DIRT_5.jpg"
-Credits Text: "Photography [Cameron Smith](http://www.cameronsmithphoto.com/index.html),
-  Fashion Editor [Abby Bennett](https://www.abbybennett.com.au/)\n\nHair & Make up
-  [Emma-Louise](https://www.emmalouisemakeup.com/), Fashion Assistant [Alyssa Selin](https://www.instagram.com/alyssa.selin/?hl=en),
-  Models Josephine and Aroha @ [Chadwick Models](http://www.chadwickmodels.com/) \n\nSpecial
-  thanks to [CSG Landscape Supplies & Garden Centre ](https://csglandscapes.com.au/) "
+Credits Text: "Photography [CAMERON SMITH](http://www.cameronsmithphoto.com/index.html),
+  Fashion Editor [ABBY BENNETT](https://www.abbybennett.com.au/)\n\nHair & Make up
+  [EMMA-LOUISE](https://www.emmalouisemakeup.com/), Fashion Assistant [ALYSSA SELIN](https://www.instagram.com/alyssa.selin/?hl=en),
+  Models [JOSEPHINE](https://www.instagram.com/josephine_olton/) and [AROHA](https://www.instagram.com/arohaatkinson/)
+  @ [Chadwick Models](http://www.chadwickmodels.com/) \n\nSpecial thanks to [CSG Landscape
+  Supplies & Garden Centre ](https://csglandscapes.com.au/) "
 is featured?: true
 layout: gallery
 ---

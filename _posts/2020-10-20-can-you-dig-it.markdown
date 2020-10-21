@@ -44,6 +44,8 @@ Josephine wears all clothing [BASERANGE](https://baserange.net.au/), Jewellery [
 ![DIRT_3A.jpg](/uploads/DIRT_3A.jpg)
 AROHA wears coat & jumper [BALLY](https://www.bally.com.au/en_AU/home), Shorts [HOLIDAY THE LABEL](https://holidaythelabel.com/), 'Dirt' cap [HATTIE MOLLOY](https://shopbyhattie.com/)
 
+![DSC_5145.jpg](/uploads/DSC_5145.jpg)
+
 ![DIRT_10.jpg](/uploads/DIRT_10.jpg)
 
 ![DSC_5489-Edit-2.jpg](/uploads/DSC_5489-Edit-2.jpg)

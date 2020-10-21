@@ -2,7 +2,7 @@
 title: Can you dig it?
 date: 2020-10-20 10:37:00 +11:00
 published: false
-Main Image: "/uploads/DIRT_2.jpg"
+Main Image: "/uploads/DSC_5489-Edit-2.jpg"
 Credits Text: "Photography [CAMERON SMITH](http://www.cameronsmithphoto.com/index.html),
   Fashion Editor [ABBY BENNETT](https://www.abbybennett.com.au/)\nHair & Make up [EMMA-LOUISE](https://www.emmalouisemakeup.com/),
   Fashion Assistant [ALYSSA SELIN](https://www.instagram.com/alyssa.selin/?hl=en),

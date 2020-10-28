@@ -1,7 +1,11 @@
 ---
 title: CXLOE
-date: 2020-10-13 11:00:00 +11:00
+date: 2020-10-28 11:00:00 +11:00
 published: false
+categories:
+- Features
+tags:
+- music
 Main Image: "/uploads/CXLEO_Portrait_Saskia_Wilson03.jpg"
 Credits Text: |-
   Photographer [SASKIA WILSON](https://www.saskiawilson.com/)

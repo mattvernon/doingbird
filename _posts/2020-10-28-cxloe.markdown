@@ -1,7 +1,11 @@
 ---
 title: CXLOE
-date: 2020-10-13 11:00:00 +11:00
+date: 2020-10-28 11:00:00 +11:00
 published: false
+categories:
+- Features
+tags:
+- music
 Main Image: "/uploads/CXLEO_Portrait_Saskia_Wilson03.jpg"
 Credits Text: |-
   Photographer [SASKIA WILSON](https://www.saskiawilson.com/)
@@ -11,9 +15,9 @@ is featured?: true
 layout: gallery
 ---
 
-Hailing from the dreamy Northern Beaches of Sydney, [CXLOE](https://cxloe.com/)! is one of the newest faces of a lesser known subsection of pop music labelled as dark pop. The boundaries of pop are slowly being broken down and refined into something edgier and heavier by rising voices, creating a more nuanced idea around what pop really is. The duality of CXLOE herself is her two sides- a Virgo who grew up in a family of pharmacists, and her darker alter ego. These two sides merge together in her latest single Twelve Steps, an infectious pop track that is also a raw and deeply personal look into addiction. 
+Hailing from the dreamy Northern Beaches of Sydney, [CXLOE](https://www.instagram.com/iamcxloe/) is one of the newest faces of a lesser known subsection of pop music labelled as dark pop. The boundaries of pop are slowly being broken down and refined into something edgier and heavier by rising voices, creating a more nuanced idea around what pop really is. There's a duality to CXLOE — she's a Virgo who grew up in a family of pharmacists on the sunny Northern Beaches, but she also has a darker alter ego expressed through her music. These two sides merge together in her latest single Twelve Steps, an infectious pop track that is also a raw and deeply personal look into addiction. 
 
-We caught up with CXLOE to discuss her upcoming EP Heavy, Part One, releasing music as therapy, her love/hate relationship with LA and why everything always feels so heavy. 
+We caught up with [CXLOE](https://www.instagram.com/iamcxloe/) to discuss her upcoming EP [Heavy, Part One](https://cxloe.lnk.to/heavypt1), releasing music as therapy, her love/hate relationship with LA and why everything always feels so heavy. 
 
 ![CXLEO_Portrait_Saskia_Wilson01_INSTA.jpg](/uploads/CXLEO_Portrait_Saskia_Wilson01_INSTA.jpg)
 
@@ -62,7 +66,7 @@ I think it's changed because we're all always growing and we're always going thr
 
 ### Who are your influences?
 
-I grew up listening to Eva Cassidy and Joni Mitchell, so they're lyrical influences. Sonically, Ali X, Banks, and Tove Lo. I love Tove Lo, Queen of the Clouds is one of my favorite albums and I still go back for inspiration to listen to that today. 
+I grew up listening to Eva Cassidy and Joni Mitchell, so they're lyrical influences. Sonically, Ali X, Banks, and Tove Lo. I love Tove Lo, Queen of the Clouds is one of my favourite albums and I still go back for inspiration to listen to that today. 
 
 
 ![CXLEO_Portrait_Saskia_Wilson08.jpg](/uploads/CXLEO_Portrait_Saskia_Wilson08.jpg)
@@ -78,7 +82,7 @@ It's always me and it’s always coming from a part of me, but I definitely have
 
 It is a very personal song and I wanted to write it for a long time. It was one of the song titles that was in my notes for a while, but I just wanted to write it with the right people. It means a lot to me, and it's very close to my heart. And I wanted to be respectful to the people in my life. It’s pretty much just based on addiction. And I wanted to make it a universal concept so that everyone could relate to it somehow. And that's where the toxic relationship thing came from. I feel like we've all been in a relationship that we needed a 12 step to get over them for or that we knew wasn't good for us. And so that was the concept that I feel like everyone could relate to. Essentially, it did stem from addiction, whether it's to food or shopping or alcohol or whatever it is. 
 
-### What comes after Heavy, Part One?
+### What comes after [Heavy, Part One](https://cxloe.lnk.to/heavypt1)?
 
 Part Two is the other side of the Heavy concept. Part One is very internal and explains the way I am and then EP two is the way that it affects everyone in my life. My personality traits and how it affects the people around me. It feels really organic and natural. I don’t want it to feel like I’m putting it on. 
 

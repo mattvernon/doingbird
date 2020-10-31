@@ -22,6 +22,8 @@ layout: gallery
 
 ![2_3940000-R1-36-36A-Recovered.jpg](/uploads/2_3940000-R1-36-36A-Recovered.jpg)
 
+Left: Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_official/) from [PIECES](https://www.instagram.com/pieces.oceania/), Bra [MONLCER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), Skirt [MONCLER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/)
+
 ![3_3940000-R1-17-17A-radial.jpg](/uploads/3_3940000-R1-17-17A-radial.jpg)
 
 ![4_3941000-R1-21-221 (1).jpg](/uploads/4_3941000-R1-21-221%20(1).jpg)

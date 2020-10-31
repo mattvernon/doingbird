@@ -2,9 +2,10 @@
 title: WICKED SERAPHIM
 date: 2020-10-31 09:00:00 +11:00
 categories:
-- halloween
+- Fashion
 tags:
 - Fashion
+- Halloween
 Main Image: "/uploads/1title4%20copy.jpg"
 Credits Text: |+
   Photography & Video [RAHNEE BLISS](https://www.instagram.com/rahneebliss/)

@@ -19,6 +19,8 @@ layout: gallery
 ---
 
 ![1_3940000-R1-24-24A copy (1).jpg](/uploads/1_3940000-R1-24-24A%20copy%20(1).jpg)
+Left: Coat & Necklace [MIU MIU](https://www.miumiu.com/au/en.html), Neck tie [PRADA](https://www.prada.com/au/en.html). Right: Dress [GUCCI](https://www.gucci.com/au/en_au/), Necklace & Gloves [MIU MIU](https://www.miumiu.com/au/en.html), Stockings GUCCI
+
 
 ![2_3940000-R1-36-36A-Recovered.jpg](/uploads/2_3940000-R1-36-36A-Recovered.jpg)
 

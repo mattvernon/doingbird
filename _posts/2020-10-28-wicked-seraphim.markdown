@@ -5,10 +5,8 @@ published: false
 Credits Text: |
   Photography & Video [RAHNEE BLISS](https://www.instagram.com/rahneebliss/)
   Styling & Art Direction [KURT JOHNSON](https://www.instagram.com/kurt__johnson/)
-  MAKEUP - YASMIN GOONWEYN
-  @BASTAFINO
-  HAIR - CHRISTOPHER BYRNE
-  @LALATOPHA
+  Make up [YASMIN GOONWEYN](https://www.instagram.com/bastafino/)
+  Hair [CHRISTOPHER BYRNE](https://www.instagram.com/lalatopha/)
   AC - NATHAN PATERSON
   @NATHAN.PATERSON
   TYPOGRAPHY - CAL SINO

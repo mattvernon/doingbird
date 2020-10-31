@@ -6,6 +6,7 @@ categories:
 - halloween
 tags:
 - Fashion
+Main Image: "/uploads/1title4%20copy.jpg"
 Credits Text: |+
   Photography & Video [RAHNEE BLISS](https://www.instagram.com/rahneebliss/)
   Styling & Art Direction [KURT JOHNSON](https://www.instagram.com/kurt__johnson/)

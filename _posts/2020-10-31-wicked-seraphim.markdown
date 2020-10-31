@@ -15,6 +15,7 @@ Credits Text: |+
   Typography [CAL SINO](https://www.instagram.com/cal_sino/)
   Model [PHOENIX](https://www.instagram.com/ilovedhertothepointofinvention/)
 
+is featured?: true
 layout: gallery
 ---
 

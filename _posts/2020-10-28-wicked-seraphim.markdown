@@ -41,5 +41,5 @@ Coat [FENDI](https://www.fendi.com/au/), Boots [BALENCIAGA](https://www.balencia
 [PIECES](https://www.instagram.com/pieces.oceania/)
 
 
-Coat UMA WANG from [PIECES](https://www.instagram.com/pieces.oceania/), Shoes MAISON MARGIELA from
+Coat UMA WANG from [PIECES](https://www.instagram.com/pieces.oceania/), Shoes [MAISON MARGIELA](https://www.maisonmargiela.com/au)from
 [PIECES](https://www.instagram.com/pieces.oceania/), Gloves & Stockings stylists own

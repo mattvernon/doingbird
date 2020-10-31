@@ -46,33 +46,9 @@ Left: Coat & Necklace [MIU MIU](https://www.miumiu.com/au/en.html), Neck tie [PR
 ![7_3939000-R1-24-25- copy.jpg](/uploads/7_3939000-R1-24-25-%20copy.jpg)
 Left: Coat [FENDI](https://www.fendi.com/au/), Boots [BALENCIAGA](https://www.balenciaga.com/au), Hat [YOHJI YAMAMOTO](https://www.instagram.com/yohjiyamamotoofficial/) from [PIECES](https://www.instagram.com/pieces.oceania/)
 
-
 ![8_polaroid6-noangellight.jpg](/uploads/8_polaroid6-noangellight.jpg)
 
 ![9_3941000-R1-05-6-dust.jpg](/uploads/9_3941000-R1-05-6-dust.jpg)
-
-
-Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_official/) from [PIECES](https://www.instagram.com/pieces.oceania/), Bra [MONLCER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), Skirt [MONCLER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/)
-
-
-All clothing [GUCCI](https://www.gucci.com/au/en_au/), Stockings stylists own 
-
-
-Coat & Necklace [MIU MIU](https://www.miumiu.com/au/en.html), Neck tie [PRADA](https://www.prada.com/au/en.html)
-
-
-Dress [GUCCI](https://www.gucci.com/au/en_au/), Necklace & Gloves [MIU MIU](https://www.miumiu.com/au/en.html), Stockings GUCCI
-
-
-All clothing [BALENCIAGA](https://www.balenciaga.com/au)
-
-
-Jacket & Skirt [GUCCI](https://www.gucci.com/au/en_au/), Hat YOHJI YAMAMOTO from [PIECES](https://www.instagram.com/pieces.oceania/)
-
-
-Coat [FENDI](https://www.fendi.com/au/), Boots [BALENCIAGA](https://www.balenciaga.com/au), Hat [YOHJI YAMAMOTO](https://www.instagram.com/yohjiyamamotoofficial/) from
-[PIECES](https://www.instagram.com/pieces.oceania/)
-
-
-Coat UMA WANG from [PIECES](https://www.instagram.com/pieces.oceania/), Shoes [MAISON MARGIELA](https://www.maisonmargiela.com/au)from
+Left: Dress [GUCCI](https://www.gucci.com/au/en_au/), Necklace & Gloves [MIU MIU](https://www.miumiu.com/au/en.html), Stockings GUCCI. Right: Coat UMA WANG from [PIECES](https://www.instagram.com/pieces.oceania/), Shoes [MAISON MARGIELA](https://www.maisonmargiela.com/au)from
 [PIECES](https://www.instagram.com/pieces.oceania/), Gloves & Stockings stylists own
+

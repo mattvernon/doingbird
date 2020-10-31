@@ -15,6 +15,25 @@ Credits Text: |
   @ILOVEDHERTOTHEPOINTOFINVENTION
 ---
 
+![1_3940000-R1-24-24A copy (1).jpg](/uploads/1_3940000-R1-24-24A%20copy%20(1).jpg)
+
+![2_3940000-R1-36-36A-Recovered.jpg](/uploads/2_3940000-R1-36-36A-Recovered.jpg)
+
+![3_3940000-R1-17-17A-radial.jpg](/uploads/3_3940000-R1-17-17A-radial.jpg)
+
+![4_3941000-R1-21-221 (1).jpg](/uploads/4_3941000-R1-21-221%20(1).jpg)
+
+![5_A003942-R1-34-35-crisp.jpg](/uploads/5_A003942-R1-34-35-crisp.jpg)
+
+![6_collage2 (1).jpg](/uploads/6_collage2%20(1).jpg)
+
+![7_3939000-R1-24-25- copy.jpg](/uploads/7_3939000-R1-24-25-%20copy.jpg)
+
+![8_polaroid6-noangellight.jpg](/uploads/8_polaroid6-noangellight.jpg)
+
+![9_3941000-R1-05-6-dust.jpg](/uploads/9_3941000-R1-05-6-dust.jpg)
+
+
 Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_official/) from [PIECES](https://www.instagram.com/pieces.oceania/), Bra [MONLCER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), Skirt [MONCLER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/)
 
 

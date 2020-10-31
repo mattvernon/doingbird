@@ -39,9 +39,9 @@ Left: Dress [GUCCI](https://www.gucci.com/au/en_au/), Necklace & Gloves [MIU MIU
 Left: all clothing [GUCCI](https://www.gucci.com/au/en_au/), Stockings stylists own. Right:Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_official/) from [PIECES](https://www.instagram.com/pieces.oceania/), Bra [MONLCER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), Skirt [MONCLER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/)
 
 
-
-
 ![6_collage2 (1).jpg](/uploads/6_collage2%20(1).jpg)
+Left: Coat & Necklace [MIU MIU](https://www.miumiu.com/au/en.html), Neck tie [PRADA](https://www.prada.com/au/en.html)
+
 
 ![7_3939000-R1-24-25- copy.jpg](/uploads/7_3939000-R1-24-25-%20copy.jpg)
 

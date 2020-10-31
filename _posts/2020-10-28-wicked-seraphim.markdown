@@ -37,7 +37,7 @@ All clothing [BALENCIAGA](https://www.balenciaga.com/au)
 Jacket & Skirt [GUCCI](https://www.gucci.com/au/en_au/), Hat YOHJI YAMAMOTO from [PIECES](https://www.instagram.com/pieces.oceania/)
 
 
-Coat FENDI, Boots BALENCIAGA, Hat YOHJI YAMAMOTO from
+Coat [FENDI](https://www.fendi.com/au/), Boots [BALENCIAGA](https://www.balenciaga.com/au), Hat YOHJI YAMAMOTO from
 [PIECES](https://www.instagram.com/pieces.oceania/)
 
 

@@ -2,6 +2,10 @@
 title: WICKED SERAPHIM
 date: 2020-10-31 09:00:00 +11:00
 published: false
+categories:
+- halloween
+tags:
+- Fashion
 Credits Text: |
   Photography & Video [RAHNEE BLISS](https://www.instagram.com/rahneebliss/)
   Styling & Art Direction [KURT JOHNSON](https://www.instagram.com/kurt__johnson/)
@@ -13,6 +17,7 @@ Credits Text: |
   @CAL_SINO
   MODEL - PHOENIX
   @ILOVEDHERTOTHEPOINTOFINVENTION
+layout: gallery
 ---
 
 ![1_3940000-R1-24-24A copy (1).jpg](/uploads/1_3940000-R1-24-24A%20copy%20(1).jpg)

@@ -5,6 +5,7 @@ categories:
 - halloween
 tags:
 - Fashion
+- Halloween
 Main Image: "/uploads/1title4%20copy.jpg"
 Credits Text: |+
   Photography & Video [RAHNEE BLISS](https://www.instagram.com/rahneebliss/)

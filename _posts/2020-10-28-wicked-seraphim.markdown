@@ -19,3 +19,27 @@ Credits Text: |
   @ILOVEDHERTOTHEPOINTOFINVENTION
 ---
 
+Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_official/) from [PIECES](https://www.instagram.com/pieces.oceania/), Bra [MONLCER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), Skirt [MONCLER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/)
+
+
+All clothing [GUCCI](https://www.gucci.com/au/en_au/), Stockings stylists own 
+
+
+Coat & Necklace [MIU MIU](https://www.miumiu.com/au/en.html), Neck tie [PRADA](https://www.prada.com/au/en.html)
+
+
+Dress [GUCCI](https://www.gucci.com/au/en_au/), Necklace & Gloves [MIU MIU](https://www.miumiu.com/au/en.html), Stockings GUCCI
+
+
+All clothing [BALENCIAGA](https://www.balenciaga.com/au)
+
+
+Jacket & Skirt [GUCCI](https://www.gucci.com/au/en_au/), Hat YOHJI YAMAMOTO from [PIECES](https://www.instagram.com/pieces.oceania/)
+
+
+Coat FENDI, Boots BALENCIAGA, Hat YOHJI YAMAMOTO from
+[PIECES](https://www.instagram.com/pieces.oceania/)
+
+
+Coat UMA WANG from [PIECES](https://www.instagram.com/pieces.oceania/), Shoes MAISON MARGIELA from
+[PIECES](https://www.instagram.com/pieces.oceania/), Gloves & Stockings stylists own

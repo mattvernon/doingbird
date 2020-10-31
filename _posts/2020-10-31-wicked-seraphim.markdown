@@ -29,13 +29,17 @@ Left: Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_of
 
 
 ![3_3940000-R1-17-17A-radial.jpg](/uploads/3_3940000-R1-17-17A-radial.jpg)
-Right: all clothing [BALENCIAGA](https://www.balenciaga.com/au)
+Left: all clothing [GUCCI](https://www.gucci.com/au/en_au/), Stockings stylists own. Right: all clothing [BALENCIAGA](https://www.balenciaga.com/au)
 
 ![4_3941000-R1-21-221 (1).jpg](/uploads/4_3941000-R1-21-221%20(1).jpg)
 Left: Dress [GUCCI](https://www.gucci.com/au/en_au/), Necklace & Gloves [MIU MIU](https://www.miumiu.com/au/en.html), Stockings GUCCI. Right: Jacket & Skirt [GUCCI](https://www.gucci.com/au/en_au/), Hat YOHJI YAMAMOTO from [PIECES](https://www.instagram.com/pieces.oceania/)
 
 
 ![5_A003942-R1-34-35-crisp.jpg](/uploads/5_A003942-R1-34-35-crisp.jpg)
+Left: all clothing [GUCCI](https://www.gucci.com/au/en_au/), Stockings stylists own. Right:Dress [MAISON MIHARA YASUHIRO](https://www.instagram.com/miharayasuhiro_official/) from [PIECES](https://www.instagram.com/pieces.oceania/), Bra [MONLCER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/), Skirt [MONCLER GENIUS](https://www.instagram.com/moncler/) [SIMONE ROCHA](https://www.instagram.com/simonerocha_/)
+
+
+
 
 ![6_collage2 (1).jpg](/uploads/6_collage2%20(1).jpg)
 

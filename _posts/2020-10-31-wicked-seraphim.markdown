@@ -44,6 +44,8 @@ Left: Coat & Necklace [MIU MIU](https://www.miumiu.com/au/en.html), Neck tie [PR
 
 
 ![7_3939000-R1-24-25- copy.jpg](/uploads/7_3939000-R1-24-25-%20copy.jpg)
+Left: Coat [FENDI](https://www.fendi.com/au/), Boots [BALENCIAGA](https://www.balenciaga.com/au), Hat [YOHJI YAMAMOTO](https://www.instagram.com/yohjiyamamotoofficial/) from [PIECES](https://www.instagram.com/pieces.oceania/)
+
 
 ![8_polaroid6-noangellight.jpg](/uploads/8_polaroid6-noangellight.jpg)
 

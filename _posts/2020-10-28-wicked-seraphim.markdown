@@ -3,10 +3,8 @@ title: WICKED SERAPHIM
 date: 2020-10-28 21:55:00 +11:00
 published: false
 Credits Text: |
-  PHOTOGRAPHY/VIDEO - RAHNEE BLISS
-  @RAHNEEBLISS
-  STYLING AND ART DIRECTION - KURT JOHNSON
-  @KURT__JOHNSON
+  Photography & Video [RAHNEE BLISS](https://www.instagram.com/rahneebliss/)
+  Styling & Art Direction [KURT JOHNSON](https://www.instagram.com/kurt__johnson/)
   MAKEUP - YASMIN GOONWEYN
   @BASTAFINO
   HAIR - CHRISTOPHER BYRNE

@@ -13,7 +13,6 @@ layout: gallery
 
 ![Manu 3.jpg](/uploads/Manu%203.jpg)
 
-![Manu 4.jpg](/uploads/Manu%204.jpg)
 
 ![Manu 5b.jpg](/uploads/Manu%205b.jpg)![Manu 1.jpg](/uploads/Manu%201.jpg)
 

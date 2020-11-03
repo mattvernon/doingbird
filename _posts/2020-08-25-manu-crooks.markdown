@@ -4,8 +4,9 @@ date: 2020-08-25 11:36:00 +10:00
 published: false
 categories:
 - Features
-Credits Text: "styling **[Evan Betts](https://www.instagram.com/evanbeezy/)** \nphotographs
-  **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at [DLM](https://www.instagram.com/dlm_au/) "
+Credits Text: "styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**   \nphotographs
+  **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at [DLM](https://www.instagram.com/dlm_au/)
+  \  \nStyling Assistant Kahli McCredie"
 layout: gallery
 ---
 

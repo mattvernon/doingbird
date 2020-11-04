@@ -15,11 +15,10 @@ All clothing by [DIOR MEN]( [Dior](https://www.instagram.com/dior/) )
 
 ![Manu 2.jpg](/uploads/Manu%202.jpg)
 LEFT: Jumper by [DIOR MEN]([DIOR MEN]( [Dior](https://www.instagram.com/dior/) )), Jacket by Valentino, Pants by [Bally]([Bally](https://www.instagram.com/bally/)), Shoes by Nike                 
-RIGHT:
+RIGHT:Sunglasses by [Le Specs](https://au.lespecs.com/?gclid=EAIaIQobChMI8Pbnssrn7AIVyhErCh3AkwCWEAAYASAAEgI93_D_BwE)
 ![Manu 3.jpg](/uploads/Manu%203.jpg)
 
 
 ![Manu 5b.jpg](/uploads/Manu%205b.jpg)
 
 ![Manu 6.jpg](/uploads/Manu%206.jpg)
-

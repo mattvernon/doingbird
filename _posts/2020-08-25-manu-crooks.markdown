@@ -11,7 +11,7 @@ layout: gallery
 ---
 
 ![Manu 1.jpg](/uploads/Manu%201.jpg)
-All clothing by [DIOR MEN]( [Dior](https://www.instagram.com/dior/) )
+All clothing by [DIOR MEN](https://www.instagram.com/dior/)
 
 ![Manu 2.jpg](/uploads/Manu%202.jpg)
 LEFT: Jumper by [DIOR MEN]([DIOR MEN]( [Dior](https://www.instagram.com/dior/) )), Jacket by Valentino, Pants by [Bally]([Bally](https://www.instagram.com/bally/)), Shoes by Nike                   

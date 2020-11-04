@@ -15,10 +15,10 @@ All clothing by [DIOR MEN]( [Dior](https://www.instagram.com/dior/) )
 
 ![Manu 2.jpg](/uploads/Manu%202.jpg)
 LEFT: Jumper by [DIOR MEN]([DIOR MEN]( [Dior](https://www.instagram.com/dior/) )), Jacket by Valentino, Pants by [Bally]([Bally](https://www.instagram.com/bally/)), Shoes by Nike                   
-RIGHT:Sunglasses by [Le Specs](https://au.lespecs.com/?gclid=EAIaIQobChMI8Pbnssrn7AIVyhErCh3AkwCWEAAYASAAEgI93_D_BwE)
+RIGHT: Sunglasses by [Le Specs](https://au.lespecs.com/?gclid=EAIaIQobChMI8Pbnssrn7AIVyhErCh3AkwCWEAAYASAAEgI93_D_BwE)
 ![Manu 3.jpg](/uploads/Manu%203.jpg)
-LEFT:Jacket and Pants by [Ermenegildo Zegna Couture]((https://www.instagram.com/zegnaofficial/)), Top (worn under) by Bonds, Shoes by
-[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by Prada
+LEFT: Jacket and Pants by [Ermenegildo Zegna Couture]((https://www.instagram.com/zegnaofficial/)), Top (worn under) by Bonds, Shoes by
+[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada]([Prada](https://www.instagram.com/prada/))
 
 ![Manu 5b.jpg](/uploads/Manu%205b.jpg)
 

@@ -18,7 +18,7 @@ LEFT: Jumper by [DIOR MEN](https://www.instagram.com/dior/), Jacket by Valentino
 RIGHT: Sunglasses by [Le Specs](https://www.instagram.com/lespecs/?hl=en)
 ![Manu 3.jpg](/uploads/Manu%203.jpg)
 LEFT: Jacket and Pants by [Ermenegildo Zegna Couture](https://www.instagram.com/zegnaofficial/), Top (worn under) by Bonds, Shoes by
-[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada]([Prada](https://www.instagram.com/prada/))
+[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada](https://www.instagram.com/prada/)
 
 ![Manu 5b.jpg](/uploads/Manu%205b.jpg)
 

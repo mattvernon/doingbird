@@ -18,8 +18,11 @@ LEFT: Jumper by [DIOR MEN](https://www.instagram.com/dior/), Jacket by Valentino
 RIGHT: Sunglasses by [Le Specs](https://www.instagram.com/lespecs/?hl=en)
 ![Manu 3.jpg](/uploads/Manu%203.jpg)
 LEFT: Jacket and Pants by [Ermenegildo Zegna Couture](https://www.instagram.com/zegnaofficial/), Top (worn under) by Bonds, Shoes by
-[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada](https://www.instagram.com/prada/)
-
+[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada](https://www.instagram.com/prada/)  
+RIGHT: Jacket, pants, and shoes by [Prada](https://www.instagram.com/prada/). Hoodie by Lacoste
 ![Manu 5b.jpg](/uploads/Manu%205b.jpg)
-
+LEFT:Shirt by Louis Vuitton  
+RIGHT: Jacket and Pants by [Emporio Armani.](https://www.instagram.com/emporioarmani/). Bag by [Bally](https://www.instagram.com/bally/). Shoes by Adidas
 ![Manu 6.jpg](/uploads/Manu%206.jpg)
+LEFT:Jumper by DIOR MEN. Pants by Bally. Shoes by Nike. Rings by BVLGARI  
+RIGHT: Top and Pants by Ermenegildo Zegna Couture. Sunglasses by BVLGARI

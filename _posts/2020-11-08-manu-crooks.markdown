@@ -13,7 +13,7 @@ layout: gallery
 It’s been over three years since Manu Crooks released Mood Forever, the six-track EP that established him as one of Australia’s most promising young artists. Storming onto the scene in 2016 with songs like Assumptions and Everyday, Manu’s lyrics were a welcome reflection of the experiences of his community, while his music took elements of Aussie hip hop, Atlantan trap and British grime and morphed them into something compellingly unique. Becoming known for his high-energy live shows early on, Manu won fans across his headline tours and support slots for artists like Denzel Curry, Tory Lanez, YG and Stormzy. Straight out the gate, it was clear that Manu Crooks was a performer with the talent and passion to be big. 
 
 ![Manu 1.jpg](/uploads/Manu%201.jpg)
-All clothing by [DIOR MEN](https://www.instagram.com/dior/)
+Above: all clothing by [DIOR MEN](https://www.instagram.com/dior/)
 
 In the time since, Manu has only released a handful of new songs, flaunting his advantage as an independent artist to focus on quality over quantity. “For me, it’s like a painting. I’ve got to paint when I’m inspired and when it calls for me rather than adhering to a schedule” he explains. “I don’t want to fall for the pressure. This is my art, you know? When I’m long gone, this is what will be left. It’s my legacy and I need to make sure that I’m 100 percent happy with everything I put out.” When Manu Crooks does release a new song however, it tends to  arrive with a sweeping, cinematic video clip, offering enough of a glimpse into his universe of mates, girls, cars and clubs, to carry us over to the next.
 

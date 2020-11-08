@@ -1,7 +1,12 @@
 ---
 title: beauty story
-date: 2020-10-13 19:40:00 +11:00
+date: 2020-11-07 07:40:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Beauty
+- make up
 Main Image: "/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany009.jpg"
 Credits Text: |
   Photographer **[Mia Rankin](https://www.instagram.com/_miarankinstudio/) **

@@ -27,7 +27,7 @@ Necklace [CHANEL](https://www.chanel.com/au/)
 all clothing and jewellery, Stylists own
 
 ![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany006.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany006.jpg)
-Dress ARMANI
+Dress [ARMANI](https://www.armani.com/au/armanicom)
 
 ![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany007.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany007.jpg)
 

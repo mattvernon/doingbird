@@ -8,12 +8,11 @@ tags:
 - Beauty
 - make up
 Main Image: "/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany009.jpg"
-Credits Text: |
-  Photographer **[Mia Rankin](https://www.instagram.com/_miarankinstudio/) **
-  Make up **[Joel Babicci](https://www.instagram.com/joel_babicci/) **
-  Stylist **[Coco Adorjany](https://www.instagram.com/cocoadorjany/)**
-  Models: **[Marlo Hsieh](https://www.instagram.com/marlo.m.h/)** @ **[Chadwick](https://www.instagram.com/chadwickmodels/)**
-  & **[Sam Socen](https://www.instagram.com/milkmakesmeshit/) **
+Credits Text: "Photographer **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)
+  \nMake up **[Joel Babicci](https://www.instagram.com/joel_babicci/)\nStylist **[Coco
+  Adorjany](https://www.instagram.com/cocoadorjany/)\nModels: **[Marlo Hsieh](https://www.instagram.com/marlo.m.h/)
+  @ **[Chadwick](https://www.instagram.com/chadwickmodels/)\n& **[Sam Socen](https://www.instagram.com/milkmakesmeshit/)\n"
+is featured?: true
 layout: gallery
 ---
 

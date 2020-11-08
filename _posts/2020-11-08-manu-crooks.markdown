@@ -41,6 +41,14 @@ It had been 15 years since I'd visited. After everything that’s happened in my
 
 Before the pandemic I had plans to play shows in Europe and the States. I had a whole project ready to roll out at the start of the year and was planning a press run before everything shut down. Basically I had to switch my plans around and just carry on making music instead. Taking everything into consideration it made sense to work on a sequel to the project that everyone was familiar with instead. For me, I feel like the lockdown made me sit and focus on things. I honed in more on the subject matter and the vibe, energy and message I want to put out there as well. It’s given me time to think in more depth about everything. I guess this moment has made most of us think about what’s important and what we want to do as well. I mean, not being able to tour and do shows sucks but you just need to learn to adjust.
 
+![Manu 3.jpg](/uploads/Manu%203.jpg)
+LEFT: Jacket and Pants by [Ermenegildo Zegna Couture](https://www.instagram.com/zegnaofficial/), Top (worn under) by Bonds, Shoes by
+[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada](https://www.instagram.com/prada/)  
+RIGHT: Jacket, pants, and shoes by [Prada](https://www.instagram.com/prada/). Hoodie by Lacoste
+![Manu 5b.jpg](/uploads/Manu%205b.jpg)
+LEFT:Shirt by Louis Vuitton  
+RIGHT: Jacket and Pants by [Emporio Armani.](https://www.instagram.com/emporioarmani/). Bag by [Bally](https://www.instagram.com/bally/). Shoes by Adidas
+
 ### Until now, your live shows have seemed like such a big part of your journey.  
 
 The crazy thing is, doing my live shows kind of completes the whole art for me. Having that taken away is a big deal. It’s challenging, like getting over that barrier and being able to communicate without the live shows is different. I feel like lots of people discovered me and enjoyed my songs more by seeing my live shows. I miss it. I really feel like Bastards will serve its purpose greatly when I play it live. I think it will go crazy live. 
@@ -76,16 +84,6 @@ I want to do a national tour and then off the back of that do shows overseas as 
 
 100 percent, they’re very supportive. I remember one of my early shows, when I opened for Stormzy, I had my family over and it was the first time my mum had seen me perform. To be honest, she was kind of tripping out, but yeah they’re really supportive and proud. 
 
-![Manu 2.jpg](/uploads/Manu%202.jpg)
-LEFT: Jumper by [DIOR MEN](https://www.instagram.com/dior/), Jacket by Valentino, Pants by [Bally](https://www.instagram.com/bally/), Shoes by Nike                   
-RIGHT: Sunglasses by [Le Specs](https://www.instagram.com/lespecs/?hl=en)
-![Manu 3.jpg](/uploads/Manu%203.jpg)
-LEFT: Jacket and Pants by [Ermenegildo Zegna Couture](https://www.instagram.com/zegnaofficial/), Top (worn under) by Bonds, Shoes by
-[Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage), Bag by [Prada](https://www.instagram.com/prada/)  
-RIGHT: Jacket, pants, and shoes by [Prada](https://www.instagram.com/prada/). Hoodie by Lacoste
-![Manu 5b.jpg](/uploads/Manu%205b.jpg)
-LEFT:Shirt by Louis Vuitton  
-RIGHT: Jacket and Pants by [Emporio Armani.](https://www.instagram.com/emporioarmani/). Bag by [Bally](https://www.instagram.com/bally/). Shoes by Adidas
 ![Manu 6.jpg](/uploads/Manu%206.jpg)
 LEFT:Jumper by DIOR MEN. Pants by Bally. Shoes by Nike. Rings by BVLGARI  
 RIGHT: Top and Pants by Ermenegildo Zegna Couture. Sunglasses by BVLGARI

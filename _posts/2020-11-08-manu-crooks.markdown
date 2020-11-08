@@ -21,6 +21,10 @@ Manu was born in Ghana and moved to Western Sydney with his mum and sister when 
 
 Breaking his dry-ish spell recently, Manu released two new songs—Killing Me Softly and Bastards. Both are the business and both are set to appear on his forthcoming EP Mood Forever 2. While we wait to hear more, we spoke to Manu at home in Sydney about his new music, life during the Coronavirus and ambitions for the future.
 
+![Manu 2.jpg](/uploads/Manu%202.jpg)
+LEFT: Jumper by [DIOR MEN](https://www.instagram.com/dior/), Jacket by Valentino, Pants by [Bally](https://www.instagram.com/bally/), Shoes by Nike                   
+RIGHT: Sunglasses by [Le Specs](https://www.instagram.com/lespecs/?hl=en)
+
 ### We’re so happy to have new music from you. How would you say your sound has evolved since the first EP? 
 
 I’d say it’s more in depth. I’ve matured, there’s been a lot of growth as an artist and a person. Mood Forever was moody, but it was more chill I think. Don’t get me wrong, I had aggressive songs during that time as well but I feel like Bastards and Killing Me Softly are just tapping into something that’s more in-depth, you know. 

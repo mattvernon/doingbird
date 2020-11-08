@@ -6,7 +6,7 @@ categories:
 - Features
 Credits Text: "styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**   \nphotographs
   **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at [DLM](https://www.instagram.com/dlm_au/)
-  \  \nStyling Assistant Kahli McCredie\n\nInterview [BRIONY WRIGHT](https://www.instagram.com/brionywright/)"
+  \  \nStyling Assistant Kahli McCredie\n\nInterview **[Briony Wright]**(https://www.instagram.com/brionywright/)"
 layout: gallery
 ---
 

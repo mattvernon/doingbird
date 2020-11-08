@@ -4,6 +4,7 @@ date: 2020-11-08 08:00:00 +11:00
 published: false
 categories:
 - Features
+Main Image: "/uploads/Manu%201.jpg"
 Credits Text: "styling **[Evan Betts](https://www.instagram.com/evanbeezy/)**   \nphotographs
   **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at [DLM](https://www.instagram.com/dlm_au/)
   \  \nStyling Assistant Kahli McCredie\n\nInterview **[Briony Wright](https://www.instagram.com/brionywright/)**"

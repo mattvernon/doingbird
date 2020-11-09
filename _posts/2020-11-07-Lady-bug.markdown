@@ -1,0 +1,44 @@
+---
+title: Lady Bug
+date: 2020-11-07 07:40:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- Beauty
+- make up
+Main Image: "/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany009.jpg"
+Credits Text: "Photographer **[Mia Rankin](https://www.instagram.com/_miarankinstudio/)**
+  \nMake up **[Joel Babicci](https://www.instagram.com/joel_babicci/)**\nStylist **[Coco
+  Adorjany](https://www.instagram.com/cocoadorjany/)**\nModels: **[Marlo Hsieh](https://www.instagram.com/marlo.m.h/)**
+  @ **[Chadwick](https://www.instagram.com/chadwickmodels/)**\n& **[Sam Socen](https://www.instagram.com/milkmakesmeshit/)**\n"
+is featured?: true
+layout: gallery
+---
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany001.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany001.jpg)
+Earrings [UNDERGROUND SUNDAE](https://www.undergroundsundae.com/shop)
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany002.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany002.jpg)
+Earrings [UNDERGROUND SUNDAE](https://www.undergroundsundae.com/shop)
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany003.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany003.jpg)
+all clothing and jewellery, Stylists own
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany004.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany004.jpg)
+Necklace [CHANEL](https://www.chanel.com/au/)
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany005.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany005.jpg)
+all clothing and jewellery, Stylists own
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany006.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany006.jpg)
+Dress [ARMANI](https://www.armani.com/au/armanicom)
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany007.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany007.jpg)
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany008.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany008.jpg)
+Jacket [CHANEL](https://www.chanel.com/au/)
+
+![Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany009.jpg](/uploads/Beauty_Doingbird_Mia-Rankin_Joel-Babicci_Coco-Adorjany009.jpg)
+
+

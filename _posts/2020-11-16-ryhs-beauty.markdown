@@ -3,8 +3,12 @@ title: The Men
 date: 2020-11-16 10:52:00 +11:00
 categories:
 - beauty
-Credits Text: "Skin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
-  \nhair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
+Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivkovic/)
+  \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming
+  [BRADWYN JONES](https://www.instagram.com/bradwynjones/)  \nGrooming Assistant [RENA
+  FURDI ](https://www.instagram.com/renatafurdi_makeup/)\nPhotography Assistant [EMMA
+  BRENNAN](https://www.instagram.com/rosebren/)  \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
+  \  \nhair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
 layout: gallery
 ---
 

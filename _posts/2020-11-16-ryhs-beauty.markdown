@@ -4,7 +4,7 @@ date: 2020-11-16 10:52:00 +11:00
 published: false
 categories:
 - beauty
-Main Image: "![MUN_4037_FINAL-d207ba.jpg](/uploads/MUN_4037_FINAL-d207ba.jpg)"
+Main Image: "/uploads/MUN_4037_FINAL-d207ba.jpg"
 Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivkovic/)
   \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming
   [BRADWYN JONES](https://www.instagram.com/bradwynjones/)  \nGrooming Assistant [RENA

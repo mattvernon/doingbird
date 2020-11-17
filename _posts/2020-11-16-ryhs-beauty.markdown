@@ -4,7 +4,7 @@ date: 2020-11-16 10:52:00 +11:00
 categories:
 - beauty
 Credits Text: "Skin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
-  \n-  hair, Oribe\n"
+  \nhair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
 layout: gallery
 ---
 

@@ -22,7 +22,7 @@ Machar, Chain [Jessica Crema](https://www.instagram.com/jessica.crema/?hl=enhttp
 ![Gels_6535_FINAL.jpg](/uploads/Gels_6535_FINAL.jpg)
 Mun, Rings [Cameron Studio](https://www.instagram.com/cameronstudio/)
 ![NOEL_4347_FINAL.jpg](/uploads/NOEL_4347_FINAL.jpg)
-
+Noel, Chain [Yves Saint Laurent](https://www.instagram.com/ysl/?hl=en)
 ![NOEL_4539_FINAL.jpg](/uploads/NOEL_4539_FINAL.jpg)
 
 ![Gels_6240_FINAL.jpg](/uploads/Gels_6240_FINAL.jpg)

@@ -4,6 +4,17 @@ date: 2020-11-16 11:52:00 +11:00
 published: false
 categories:
 - Features
+Credits Text: |2-
+
+  Music: https://www.instagram.com/musicofbambi/
+
+  Talent: https://www.instagram.com/rhyskosakowski/
+  at https://www.instagram.com/sydneydanceco/
+
+  Director: https://www.instagram.com/jamie_heath/
+
+  Production: https://www.instagram.com/positivefdbk/
+  @sydneydancecompany
 layout: gallery
 ---
 

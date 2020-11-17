@@ -26,6 +26,7 @@ Noel, Chain [Yves Saint Laurent](https://www.instagram.com/ysl/?hl=en)
 ![NOEL_4539_FINAL.jpg](/uploads/NOEL_4539_FINAL.jpg)
 
 ![Gels_6240_FINAL.jpg](/uploads/Gels_6240_FINAL.jpg)
+Noel, Chain [White Trash Charm](https://www.instagram.com/whitetrashcharmsjewelry/)
 ![MUN_4464_FINAL.jpg](/uploads/MUN_4464_FINAL.jpg)
 
 

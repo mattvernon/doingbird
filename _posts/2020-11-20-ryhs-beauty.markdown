@@ -1,9 +1,12 @@
 ---
 title: The Men
-date: 2020-11-16 10:52:00 +11:00
+date: 2020-11-20 08:00:00 +11:00
 published: false
 categories:
+- Fashion
+tags:
 - beauty
+- fashion
 Main Image: "/uploads/MUN_4037_FINAL-d207ba.jpg"
 Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivkovic/)
   \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming

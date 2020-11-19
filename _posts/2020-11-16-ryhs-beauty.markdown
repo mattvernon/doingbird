@@ -8,12 +8,12 @@ Main Image: "/uploads/MUN_4037_FINAL-d207ba.jpg"
 Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivkovic/)
   \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming
   [BRADWYN JONES](https://www.instagram.com/bradwynjones/)  \nGrooming Assistant [RENA
-  FURDI ](https://www.instagram.com/renatafurdi_makeup/)\nPhotography Assistant [EMMA
-  BRENNAN](https://www.instagram.com/rosebren/)  \nStudio [M on W](https://www.instagram.com/m__on__w/)
-  \n\nModels [Noel](https://www.instagram.com/noelkuron/) @ [IMG](https://www.instagram.com/imgmodels/),
-  [Mun](https://www.instagram.com/munmichaelmun/) @ [KULT](https://www.instagram.com/kultaustralia/)
-  and [Machar](https://www.instagram.com/machar__/) @ [CHADWICK](https://www.instagram.com/chadwickmodels/)\n\n\nSkin
-  \ [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
+  FURDI ](https://www.instagram.com/renatafurdi_makeup/)\n\nModels [Noel](https://www.instagram.com/noelkuron/)
+  @ [IMG](https://www.instagram.com/imgmodels/), [Mun](https://www.instagram.com/munmichaelmun/)
+  @ [KULT](https://www.instagram.com/kultaustralia/) and [Machar](https://www.instagram.com/machar__/)
+  @ [CHADWICK](https://www.instagram.com/chadwickmodels/)\n\nPhotography Assistant
+  [EMMA BRENNAN](https://www.instagram.com/rosebren/)  \nStudio [M on W](https://www.instagram.com/m__on__w/)
+  \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
   \  \nhair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
 is featured?: true
 layout: gallery

@@ -36,12 +36,8 @@ Chain [White Trash Charm](https://www.instagram.com/whitetrashcharmsjewelry/)
 ![9 Gels_6559_FINAL.jpg](/uploads/9%20Gels_6559_FINAL.jpg)
 
 ![10 Gels_7057.jpg](/uploads/10%20Gels_7057.jpg)
+Chain [Jessica Crema]
 
 
 
 
-
-Noel, 
-Noel, 
-Mun, Rings [Cameron Studio](https://www.instagram.com/cameronstudio/)
-Machar, Chain [Jessica Crema]

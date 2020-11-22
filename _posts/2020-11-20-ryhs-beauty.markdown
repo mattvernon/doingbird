@@ -28,7 +28,7 @@ layout: gallery
 ![5 MACHAR_3759_FINAL.jpg](/uploads/5%20MACHAR_3759_FINAL.jpg)
 
 ![6 NOEL_4347_FINAL.jpg](/uploads/6%20NOEL_4347_FINAL.jpg)
-
+Chain [Yves Saint Laurent](https://www.instagram.com/ysl/?hl=en)
 ![7 MUN_3964_FINAL.jpg](/uploads/7%20MUN_3964_FINAL.jpg)
 
 ![8 Gels_6255_FINAL.jpg](/uploads/8%20Gels_6255_FINAL.jpg)
@@ -42,6 +42,6 @@ layout: gallery
 
 
 Noel, Chain [White Trash Charm](https://www.instagram.com/whitetrashcharmsjewelry/)
-Noel, Chain [Yves Saint Laurent](https://www.instagram.com/ysl/?hl=en)
+Noel, 
 Mun, Rings [Cameron Studio](https://www.instagram.com/cameronstudio/)
 Machar, Chain [Jessica Crema]

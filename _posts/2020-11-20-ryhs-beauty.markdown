@@ -8,34 +8,37 @@ tags:
 - fashion
 Main Image: "/uploads/MUN_4037_FINAL-d207ba.jpg"
 Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivkovic/)
-  \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming
-  [BRADWYN JONES](https://www.instagram.com/bradwynjones/)  \nGrooming Assistant [RENA
-  FURDI ](https://www.instagram.com/renatafurdi_makeup/)\n\nModels [Noel](https://www.instagram.com/noelkuron/)
-  @ [IMG](https://www.instagram.com/imgmodels/), [Mun](https://www.instagram.com/munmichaelmun/)
-  @ [KULT](https://www.instagram.com/kultaustralia/) and [Machar](https://www.instagram.com/machar__/)
-  @ [CHADWICK](https://www.instagram.com/chadwickmodels/)\n\nPhotography Assistant
-  [EMMA BRENNAN](https://www.instagram.com/rosebren/)  \nStudio [M on W](https://www.instagram.com/m__on__w/)
-  \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
-  \  \nhair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
+  Creative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/) Grooming [BRADWYN
+  JONES](https://www.instagram.com/bradwynjones/) Grooming Assistant [RENA FURDI ](https://www.instagram.com/renatafurdi_makeup/)
+  Photography Assistant [EMMA BRENNAN](https://www.instagram.com/rosebren/) Studio
+  [M on W](https://www.instagram.com/m__on__w/) \n\nModels\n[Noel](https://www.instagram.com/noelkuron/)
+  @ [IMG](https://www.instagram.com/imgmodels/) [Mun](https://www.instagram.com/munmichaelmun/)
+  @ [Kult](https://www.instagram.com/kultaustralia/) [Machar](https://www.instagram.com/machar__/)
+  @ [Chadwicks](https://www.instagram.com/chadwickmodels/)  \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
+  hair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
 is featured?: true
 layout: gallery
 ---
 
+![2 MACHAR_3636_FINAL.jpg](/uploads/2%20MACHAR_3636_FINAL.jpg)
 
-![MUN_3917_FINAL.jpg](/uploads/MUN_3917_FINAL.jpg)
+![3 NOEL_4299_FINAL.jpg](/uploads/3%20NOEL_4299_FINAL.jpg)
 
-![MACHAR_4386_FINAL.jpg](/uploads/MACHAR_4386_FINAL.jpg)
-Machar, Chain [Jessica Crema](https://www.instagram.com/jessica.crema/?hl=enhttps://www.instagram.com/jessica.crema/?hl=en)
-![MACHAR_3759b_FINAL.jpg](/uploads/MACHAR_3759b_FINAL.jpg)
-![Gels_6535_FINAL.jpg](/uploads/Gels_6535_FINAL.jpg)
-Mun, Rings [Cameron Studio](https://www.instagram.com/cameronstudio/)
-![NOEL_4347_FINAL.jpg](/uploads/NOEL_4347_FINAL.jpg)
-Noel, Chain [Yves Saint Laurent](https://www.instagram.com/ysl/?hl=en)
-![NOEL_4539_FINAL.jpg](/uploads/NOEL_4539_FINAL.jpg)
+![4 MUN_3917_FINAL.jpg](/uploads/4%20MUN_3917_FINAL.jpg)
 
-![Gels_6240_FINAL.jpg](/uploads/Gels_6240_FINAL.jpg)
-Noel, Chain [White Trash Charm](https://www.instagram.com/whitetrashcharmsjewelry/)
-![MUN_4464_FINAL.jpg](/uploads/MUN_4464_FINAL.jpg)
+![5 MACHAR_3759_FINAL.jpg](/uploads/5%20MACHAR_3759_FINAL.jpg)
+
+![6 NOEL_4347_FINAL.jpg](/uploads/6%20NOEL_4347_FINAL.jpg)
+Chain [Yves Saint Laurent](https://www.instagram.com/ysl/?hl=en)
+![7 MUN_3964_FINAL.jpg](/uploads/7%20MUN_3964_FINAL.jpg)
+
+![8 Gels_6255_FINAL.jpg](/uploads/8%20Gels_6255_FINAL.jpg)
+Chain [White Trash Charm](https://www.instagram.com/whitetrashcharmsjewelry/)
+![9 Gels_6559_FINAL.jpg](/uploads/9%20Gels_6559_FINAL.jpg)
+
+![10 Gels_7057.jpg](/uploads/10%20Gels_7057.jpg)
+Chain Jessica Crema
+
 
 
 

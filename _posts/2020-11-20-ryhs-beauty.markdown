@@ -9,14 +9,13 @@ tags:
 - fashion
 Main Image: "/uploads/MUN_4037_FINAL-d207ba.jpg"
 Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivkovic/)
-  \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming
-  [BRADWYN JONES](https://www.instagram.com/bradwynjones/)  \nGrooming Assistant [RENA
-  FURDI ](https://www.instagram.com/renatafurdi_makeup/)\nPhotography Assistant [EMMA
-  BRENNAN](https://www.instagram.com/rosebren/) Studio [M on W](https://www.instagram.com/m__on__w/)
-  \n\nModels\n[Noel](https://www.instagram.com/noelkuron/) @ [IMG](https://www.instagram.com/imgmodels/)
-  [Mun](https://www.instagram.com/munmichaelmun/) @ [Kult](https://www.instagram.com/kultaustralia/)
-  [Machar](https://www.instagram.com/machar__/) @ [Chadwicks](https://www.instagram.com/chadwickmodels/)
-  \ \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
+  Creative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/) Grooming [BRADWYN
+  JONES](https://www.instagram.com/bradwynjones/) Grooming Assistant [RENA FURDI ](https://www.instagram.com/renatafurdi_makeup/)
+  Photography Assistant [EMMA BRENNAN](https://www.instagram.com/rosebren/) Studio
+  [M on W](https://www.instagram.com/m__on__w/) \n\nModels\n[Noel](https://www.instagram.com/noelkuron/)
+  @ [IMG](https://www.instagram.com/imgmodels/) [Mun](https://www.instagram.com/munmichaelmun/)
+  @ [Kult](https://www.instagram.com/kultaustralia/) [Machar](https://www.instagram.com/machar__/)
+  @ [Chadwicks](https://www.instagram.com/chadwickmodels/)  \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
   hair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
 is featured?: true
 layout: gallery

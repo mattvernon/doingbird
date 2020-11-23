@@ -1,5 +1,5 @@
 ---
-title: Bambi
+title: weber fechner by bambi
 date: 2020-11-23 11:00:00 +11:00
 published: false
 categories:

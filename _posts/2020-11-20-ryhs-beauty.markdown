@@ -14,10 +14,10 @@ Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivko
   FURDI ](https://www.instagram.com/renatafurdi_makeup/)\nPhotography Assistant [EMMA
   BRENNAN](https://www.instagram.com/rosebren/)  \nStudio [M on W](https://www.instagram.com/m__on__w/)
   \n\nModels\n[Noel](https://www.instagram.com/noelkuron/) @ [IMG](https://www.instagram.com/imgmodels/)
-  \ \n[Mun](https://www.instagram.com/munmichaelmun/) @ [Kult](https://www.instagram.com/kultaustralia/)
-  \ \n[Machar](https://www.instagram.com/machar__/) @ [Chadwicks](https://www.instagram.com/chadwickmodels/)
-  \ \n\n\n\n\n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
-  \  \nhair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
+  [Mun](https://www.instagram.com/munmichaelmun/) @ [Kult](https://www.instagram.com/kultaustralia/)
+  [Machar](https://www.instagram.com/machar__/) @ [Chadwicks](https://www.instagram.com/chadwickmodels/)
+  \ \n\n\nSkin  [Avène](https://www.avene.com.au/?gclid=EAIaIQobChMI4NvUvKWI7QIVR5VLBR2law5xEAAYASAAEgIgiPD_BwE)
+  hair [Oribe](https://www.oribe.com/oribestorefront/oribe/en/)\n"
 is featured?: true
 layout: gallery
 ---

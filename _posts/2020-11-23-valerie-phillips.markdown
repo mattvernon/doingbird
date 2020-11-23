@@ -2,6 +2,7 @@
 title: Valerie Phillips - Something to Show
 date: 2020-11-23 15:18:00 +11:00
 published: false
+Credits Text: 'Interview by Alexandra Weiland '
 ---
 
 When I first met Valerie Phillips last year in Tokyo, she was promoting her latest book Alice in Londonland, a photographic document of model Alice’s careless wanders around the store fronts and snack bars of Greater London. Cut to now, and it’s a whole different world. “It’s weird to have a book that was all about my London and the freedom of that, and my next book to be about lockdown,” reflects Valerie – “There’s something eerie but kind of cool about that.” 

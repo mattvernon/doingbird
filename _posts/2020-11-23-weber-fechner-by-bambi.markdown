@@ -9,8 +9,8 @@ tags:
 - Dance
 Main Image: "/uploads/Scan-20B.jpg"
 Credits Text: "Director, Stills & Collage [JAMIE HEATH](https://www.instagram.com/jamie_heath/)
-  Dancer [RHYS KOSAKOSKI](https://www.instagram.com/rhyskosakowski/) of [Sydney Dance
-  Company](https://www.instagram.com/sydneydanceco/)\n\nTrack ['weber fechner'](https://open.spotify.com/album/431t0HngLTPT6C3BUMJP1j?highlight=spotify:track:7EDASteztefYPZV2Hsj7Os)
+  \nDancer [RHYS KOSAKOSKI](https://www.instagram.com/rhyskosakowski/) of [Sydney
+  Dance Company](https://www.instagram.com/sydneydanceco/)\n\nTrack ['weber fechner'](https://open.spotify.com/album/431t0HngLTPT6C3BUMJP1j?highlight=spotify:track:7EDASteztefYPZV2Hsj7Os)
   by [bambi ](https://www.instagram.com/musicofbambi/)\n\nProduction [Zac Bayly](https://www.instagram.com/zacbayly/)
   for [Positive Feedback](https://www.instagram.com/positivefdbk/) \nSpecial thanks
   to [Suzy Byrne](https://www.instagram.com/suzy_byrne/) & [Spinning Top](https://www.instagram.com/spinningtopmusic/)\n\n"

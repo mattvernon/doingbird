@@ -1,9 +1,12 @@
 ---
 title: Bambi
-date: 2020-11-16 11:52:00 +11:00
+date: 2020-11-23 11:00:00 +11:00
 published: false
 categories:
 - Features
+tags:
+- Music
+- Dance
 Main Image: "/uploads/Scan-20B.jpg"
 Credits Text: "Director, Stills & Collage [JAMIE HEATH](https://www.instagram.com/jamie_heath/)
   Dancer [RHYS KOSAKOSKI](https://www.instagram.com/rhyskosakowski/) of [Sydney Dance
@@ -11,6 +14,7 @@ Credits Text: "Director, Stills & Collage [JAMIE HEATH](https://www.instagram.co
   by [bambi ](https://www.instagram.com/musicofbambi/)\n\nProduction [Zac Bayly](https://www.instagram.com/zacbayly/)
   for [Positive Feedback](https://www.instagram.com/positivefdbk/) \nSpecial thanks
   to [Suzy Byrne](https://www.instagram.com/suzy_byrne/) & [Spinning Top](https://www.instagram.com/spinningtopmusic/)\n\n"
+is featured?: true
 layout: gallery
 ---
 

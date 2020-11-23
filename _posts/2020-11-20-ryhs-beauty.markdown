@@ -12,7 +12,7 @@ Credits Text: "Photography [MARIJA IVKOVIC](https://www.instagram.com/marijaivko
   \ \nCreative/Stylist [RHYS RIPPER](https://www.instagram.com/rhysripper/)  \nGrooming
   [BRADWYN JONES](https://www.instagram.com/bradwynjones/)  \nGrooming Assistant [RENA
   FURDI ](https://www.instagram.com/renatafurdi_makeup/)\nPhotography Assistant [EMMA
-  BRENNAN](https://www.instagram.com/rosebren/)  \nStudio [M on W](https://www.instagram.com/m__on__w/)
+  BRENNAN](https://www.instagram.com/rosebren/) Studio [M on W](https://www.instagram.com/m__on__w/)
   \n\nModels\n[Noel](https://www.instagram.com/noelkuron/) @ [IMG](https://www.instagram.com/imgmodels/)
   [Mun](https://www.instagram.com/munmichaelmun/) @ [Kult](https://www.instagram.com/kultaustralia/)
   [Machar](https://www.instagram.com/machar__/) @ [Chadwicks](https://www.instagram.com/chadwickmodels/)

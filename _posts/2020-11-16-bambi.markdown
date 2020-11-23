@@ -4,6 +4,7 @@ date: 2020-11-16 11:52:00 +11:00
 published: false
 categories:
 - Features
+Main Image: "/uploads/Scan-20B.jpg"
 Credits Text: "Director, Stills & Collage [JAMIE HEATH](https://www.instagram.com/jamie_heath/)
   Dancer [RHYS KOSAKOSKI](https://www.instagram.com/rhyskosakowski/) of [Sydney Dance
   Company](https://www.instagram.com/sydneydanceco/)\n\nTrack ['weber fechner'](https://open.spotify.com/album/431t0HngLTPT6C3BUMJP1j?highlight=spotify:track:7EDASteztefYPZV2Hsj7Os)

@@ -33,9 +33,6 @@ Yes, so I Skyped her, and the funny thing is, because she’s Swedish and I’m 
 
 I invited her over for a few days and we shot some stuff and I think we just found it very easy to be around each other. We were very chill, very chatty, very natural even though we are both very different people. And now she’s an up-and-coming artist and does amazing work of her own – art, photography, fashion, everything – and her work is so different to mine. I think we’re a super odd pair and maybe it shouldn’t work but it just works so well it’s kinda nuts.
 
-![VP_IHADYMAB__021.jpg](/uploads/VP_IHADYMAB__021.jpg)
-
-![VP_IHADYMAB__029.jpg](/uploads/VP_IHADYMAB__029.jpg)
 
 **So, the closeness you have, did that help with this latest project?**
 
@@ -44,12 +41,15 @@ Yes. So, when we shot this book, during lockdown, because she’s very technical
 **I think you mentioned that you were meant to have a road trip together but then it had to become something very different. You had to approach it working ‘socially distanced’, from London to Stockholm. How did you find that process?**
 
 I tell you something, after this it’s going to be hard to do anything else (laughs). Because it was so easy and so luxurious. Instead of having to run around and shoot in the street and change clothes in a bathroom, it’s just like “Hey, I’m going to just turn on my computer and hang out with my friend who I really miss and just talk shit for three hours and I don’t have to actually leave my sofa”. It was too good in a way.
+![VP_IHADYMAB__092.jpg](/uploads/VP_IHADYMAB__092.jpg)
+![VP_IHADYMAB__082.jpg](/uploads/VP_IHADYMAB__082.jpg)
+![VP_IHADYMAB__029.jpg](/uploads/VP_IHADYMAB__029.jpg)
 
 **I think you can really feel that intimacy in the images. The fact you can see your little face responding to her in the corner of the Facetimes, it really feels like the viewer is observing a conversation between friends.**
 
 That’s cool, that’s really nice. I hadn’t really thought about that and I think if I had thought about it, I might have put my hair in a ponytail or put some makeup on, but who thinks of that. You’re just slobbing around your house making work, and then I’m like “Oh, someone wants to blow this up to an A1 print? Okay, great.” (Laughs)
 
-![VP_IHADYMAB__092.jpg](/uploads/VP_IHADYMAB__092.jpg)
+
 ![VP_IHADYMAB__063.jpg](/uploads/VP_IHADYMAB__063.jpg)
 
 
@@ -80,4 +80,7 @@ Because I just like the temporariness of things that end up being permanent. It�
 
 
 ![VP_IHADYMAB__cover.jpg](/uploads/VP_IHADYMAB__cover.jpg)
+
+![VP_IHADYMAB__021.jpg](/uploads/VP_IHADYMAB__021.jpg)
+
 

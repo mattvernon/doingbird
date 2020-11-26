@@ -11,6 +11,7 @@ is featured?: true
 layout: gallery
 ---
 
+![VP_IHADYMAB__119.jpg](/uploads/VP_IHADYMAB__119.jpg)
 
 When I first met Valerie Phillips last year in Tokyo, she was promoting her latest book Alice in Londonland, a photographic document of model Alice’s careless wanders around the store fronts and snack bars of Greater London. Cut to now, and it’s a whole different world. “It’s weird to have a book that was all about my London and the freedom of that, and my next book to be about lockdown,” reflects Valerie – “There’s something eerie but kind of cool about that.” 
 

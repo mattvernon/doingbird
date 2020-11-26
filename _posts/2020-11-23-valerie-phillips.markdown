@@ -13,7 +13,6 @@ I Had a Dream You Married a Boy, is the latest project by the New York City-born
 
 ![VP_IHADYMAB__114.jpg](/uploads/VP_IHADYMAB__114.jpg)
 
-
 **You’ve made four zines and two books now with Arvida. You two obviously have a strong relationship. How did it begin?**
 
 I met Arvida kind of randomly. She’s Swedish and she lives there, and I met her through another really good friend of mine who is the editor of Vice in Stockholm. She had mentioned to me that there was this girl I needed to meet, who wanted to come to London to assist. She was a photographer, just starting out and when I saw her and some of her work, her self-portraits, I just kind of fell in love with her and thought, “I just want to bring her to London to shoot with me”.
@@ -26,6 +25,9 @@ Yes, so I Skyped her, and the funny thing is, because she’s Swedish and I’m 
 
 I invited her over for a few days and we shot some stuff and I think we just found it very easy to be around each other. We were very chill, very chatty, very natural even though we are both very different people. And now she’s an up-and-coming artist and does amazing work of her own – art, photography, fashion, everything – and her work is so different to mine. I think we’re a super odd pair and maybe it shouldn’t work but it just works so well it’s kinda nuts.
 
+![VP_IHADYMAB__021.jpg](/uploads/VP_IHADYMAB__021.jpg)
+
+![VP_IHADYMAB__029.jpg](/uploads/VP_IHADYMAB__029.jpg)
 
 **So, the closeness you have, did that help with this latest project?**
 
@@ -38,6 +40,10 @@ I tell you something, after this it’s going to be hard to do anything else (la
 **I think you can really feel that intimacy in the images. The fact you can see your little face responding to her in the corner of the Facetimes, it really feels like the viewer is observing a conversation between friends.**
 
 That’s cool, that’s really nice. I hadn’t really thought about that and I think if I had thought about it, I might have put my hair in a ponytail or put some makeup on, but who thinks of that. You’re just slobbing around your house making work, and then I’m like “Oh, someone wants to blow this up to an A1 print? Okay, great.” (Laughs)
+
+![VP_IHADYMAB__092.jpg](/uploads/VP_IHADYMAB__092.jpg)
+![VP_IHADYMAB__063.jpg](/uploads/VP_IHADYMAB__063.jpg)
+
 
 **You often shoot with the same women and girls. It’s almost like a photographer/muse relationship, but to me feels more like a genuine friendship. I think it would feel different if you were a male photographer, for instance. If I saw a man’s face in the top right corner of a Facetime in these images, I’d feel weird about that.**
 

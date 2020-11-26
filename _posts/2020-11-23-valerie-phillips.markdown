@@ -42,8 +42,9 @@ Yes. So, when we shot this book, during lockdown, because she’s very technical
 I tell you something, after this it’s going to be hard to do anything else (laughs). Because it was so easy and so luxurious. Instead of having to run around and shoot in the street and change clothes in a bathroom, it’s just like “Hey, I’m going to just turn on my computer and hang out with my friend who I really miss and just talk shit for three hours and I don’t have to actually leave my sofa”. It was too good in a way.
 
 ![VP_IHADYMAB__092.jpg](/uploads/VP_IHADYMAB__092.jpg)
-
 ![VP_IHADYMAB__082.jpg](/uploads/VP_IHADYMAB__082.jpg)
+![VP_IHADYMAB__088.jpg](/uploads/VP_IHADYMAB__088.jpg)
+
 
 
 *I think you can really feel that intimacy in the images. The fact you can see your little face responding to her in the corner of the Facetimes, it really feels like the viewer is observing a conversation between friends.*

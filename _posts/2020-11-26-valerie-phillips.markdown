@@ -1,7 +1,14 @@
 ---
 title: Valerie Phillips - Something to Show
-date: 2020-11-23 15:18:00 +11:00
+date: 2020-11-26 15:18:00 +11:00
 published: false
+categories:
+- Features
+tags:
+- Photography
+- Fashion
+- art
+- books
 Main Image: "/uploads/VP_IHADYMAB__051.jpg"
 Credits Text: "**Interview by [ALEXANDRA WEILAND](https://www.instagram.com/clubalex/)**
   \n\n\n**'I Had a Dream You Married a Boy' is available now via [Art Data](https://artdata.co.uk/newsite85834654/wordpress/book/30982/)**\n\n\n**You

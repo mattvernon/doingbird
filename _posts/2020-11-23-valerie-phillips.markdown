@@ -2,6 +2,7 @@
 title: Valerie Phillips - Something to Show
 date: 2020-11-23 15:18:00 +11:00
 published: false
+Main Image: "/uploads/VP_IHADYMAB__051.jpg"
 Credits Text: 'Interview by Alexandra Weiland '
 layout: gallery
 ---

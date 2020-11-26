@@ -20,11 +20,11 @@ I Had a Dream You Married a Boy, is the latest project by the New York City-born
 ![VP_IHADYMAB__093.jpg](/uploads/VP_IHADYMAB__093.jpg)
 
 
-**You’ve made four zines and two books now with Arvida. You two obviously have a strong relationship. How did it begin?**
+*You’ve made four zines and two books now with Arvida. You two obviously have a strong relationship. How did it begin?*
 
 I met Arvida kind of randomly. She’s Swedish and she lives there, and I met her through another really good friend of mine who is the editor of Vice in Stockholm. She had mentioned to me that there was this girl I needed to meet, who wanted to come to London to assist. She was a photographer, just starting out and when I saw her and some of her work, her self-portraits, I just kind of fell in love with her and thought, “I just want to bring her to London to shoot with me”.
 
-**So, you were interested in shooting with her as a model?**
+*So, you were interested in shooting with her as a model?*
 
 Yes, so I Skyped her, and the funny thing is, because she’s Swedish and I’m American, there’s such a difference in the way we communicate. Americans are so effusive and over-the-top and Swedish people are so kind of calm and literal. And I’m thinking, “She’s 20, she’s going to be so excited I want to fly her to London…”, so I said, “Can I fly you to London, I’d love to shoot a project with you,” and she’s like “Well, that’s not really what I had in mind,” and I’m thinking “Damnnn. She kinda just kicked my ass.” It was really funny. We laugh about this so much now. Eventually I persuaded her. 
 

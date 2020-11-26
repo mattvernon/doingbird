@@ -4,9 +4,9 @@ date: 2020-11-23 15:18:00 +11:00
 published: false
 Main Image: "/uploads/VP_IHADYMAB__051.jpg"
 Credits Text: "Interview by Alexandra Weiland \n\n**I Had a Dream You Married a Boy
-  is available now via [Art Data](https://artdata.co.uk/newsite85834654/wordpress/book/30982/)**\nhttps://artdata.co.uk/newsite85834654/wordpress/book/30982/\n\nYou
+  is available now via [Art Data](https://artdata.co.uk/newsite85834654/wordpress/book/30982/)**\n\nYou
   can follow Valerie Phillips on her [Instagram ](https://www.instagram.com/wynterinspace/)
-  https://www.instagram.com/wynterinspace/\n"
+  \n"
 is featured?: true
 layout: gallery
 ---

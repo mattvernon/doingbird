@@ -3,7 +3,11 @@ title: Valerie Phillips - Something to Show
 date: 2020-11-23 15:18:00 +11:00
 published: false
 Main Image: "/uploads/VP_IHADYMAB__051.jpg"
-Credits Text: 'Interview by Alexandra Weiland '
+Credits Text: "Interview by Alexandra Weiland \n\n**I Had a Dream You Married a Boy
+  is available now via [Art Data](https://artdata.co.uk/newsite85834654/wordpress/book/30982/)**\nhttps://artdata.co.uk/newsite85834654/wordpress/book/30982/\n\nYou
+  can follow Valerie Phillips on her [Instagram ](https://www.instagram.com/wynterinspace/)
+  https://www.instagram.com/wynterinspace/\n"
+is featured?: true
 layout: gallery
 ---
 
@@ -74,7 +78,4 @@ Because I just like the temporariness of things that end up being permanent. Itâ
 
 
 
-**I Had a Dream You Married a Boy is available now via [Art Data](https://artdata.co.uk/newsite85834654/wordpress/book/30982/)**
-https://artdata.co.uk/newsite85834654/wordpress/book/30982/
 
-You can follow Valerie Phillips on her [Instagram ](https://www.instagram.com/wynterinspace/) https://www.instagram.com/wynterinspace/

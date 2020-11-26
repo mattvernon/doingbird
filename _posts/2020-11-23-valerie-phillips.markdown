@@ -37,26 +37,23 @@ I invited her over for a few days and we shot some stuff and I think we just fou
 
 Yes. So, when we shot this book, during lockdown, because she’s very technical, Arvida would go out to the woods and set up her computer and her phone and maybe a light even. I don’t think I could have done it with someone else who wasn’t as involved. She was really involved.
 
-**I think you mentioned that you were meant to have a road trip together but then it had to become something very different. You had to approach it working ‘socially distanced’, from London to Stockholm. How did you find that process?**
+*I think you mentioned that you were meant to have a road trip together but then it had to become something very different. You had to approach it working ‘socially distanced’, from London to Stockholm. How did you find that process?*
 
 I tell you something, after this it’s going to be hard to do anything else (laughs). Because it was so easy and so luxurious. Instead of having to run around and shoot in the street and change clothes in a bathroom, it’s just like “Hey, I’m going to just turn on my computer and hang out with my friend who I really miss and just talk shit for three hours and I don’t have to actually leave my sofa”. It was too good in a way.
 ![VP_IHADYMAB__092.jpg](/uploads/VP_IHADYMAB__092.jpg)
 ![VP_IHADYMAB__082.jpg](/uploads/VP_IHADYMAB__082.jpg)
-![VP_IHADYMAB__029.jpg](/uploads/VP_IHADYMAB__029.jpg)
 
-**I think you can really feel that intimacy in the images. The fact you can see your little face responding to her in the corner of the Facetimes, it really feels like the viewer is observing a conversation between friends.**
+*I think you can really feel that intimacy in the images. The fact you can see your little face responding to her in the corner of the Facetimes, it really feels like the viewer is observing a conversation between friends.*
 
 That’s cool, that’s really nice. I hadn’t really thought about that and I think if I had thought about it, I might have put my hair in a ponytail or put some makeup on, but who thinks of that. You’re just slobbing around your house making work, and then I’m like “Oh, someone wants to blow this up to an A1 print? Okay, great.” (Laughs)
 
-
 ![VP_IHADYMAB__063.jpg](/uploads/VP_IHADYMAB__063.jpg)
 
-
-**You often shoot with the same women and girls. It’s almost like a photographer/muse relationship, but to me feels more like a genuine friendship. I think it would feel different if you were a male photographer, for instance. If I saw a man’s face in the top right corner of a Facetime in these images, I’d feel weird about that.**
+*You often shoot with the same women and girls. It’s almost like a photographer/muse relationship, but to me feels more like a genuine friendship. I think it would feel different if you were a male photographer, for instance. If I saw a man’s face in the top right corner of a Facetime in these images, I’d feel weird about that.*
 
 Yeah, same. I think it’s really awkward to shoot and be around someone for a long period of time that you don’t have that ease with. That’s why I’ve chosen to do books with a few girls, and we’re very close. It’s quite an intense and intimate period of time when you’re shooting together. Even if you’re not doing anything super intense. Just deciding what you’re going to do that day, there’s a lot of trust and friendship needed. For me, it needs to be a really natural connection. I think that’s the commonality in all the books that I’ve made
 
-**You seem to work a lot in book form. Why is that? **
+*You seem to work a lot in book form. Why is that?*
 
 When I was a kid in New York I was very influenced by this store called Printed Matter. I didn’t really understand it because I wasn’t really cool enough to know who all these artists were, but I just thought this is a shop full of amazing things that are so out of reach, and kind of weird, and inspiring, and crazy, and I was just mesmerized. And I just thought, this is what I have to do. I have to be part of this somehow. It wasn’t that conscious, but it was that kinda idea in my head.
 

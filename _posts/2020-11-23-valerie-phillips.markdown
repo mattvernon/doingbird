@@ -18,6 +18,7 @@ When I first met Valerie Phillips last year in Tokyo, she was promoting her late
 I Had a Dream You Married a Boy, is the latest project by the New York City-born, London-based photographer. Released this month, the book features a series of photographs of long-time muse, Swedish artist Arvida Byström, all shot remotely by Valerie via Skype and FaceTime. The result is a uniquely intimate timestamp of friendship and portraiture, in the year 2020.
 
 ![VP_IHADYMAB__093.jpg](/uploads/VP_IHADYMAB__093.jpg)
+![VP_IHADYMAB__096.jpg](/uploads/VP_IHADYMAB__096.jpg)
 
 
 *You’ve made four zines and two books now with Arvida. You two obviously have a strong relationship. How did it begin?*

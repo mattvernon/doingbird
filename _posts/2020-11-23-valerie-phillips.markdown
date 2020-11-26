@@ -33,7 +33,7 @@ Yes, so I Skyped her, and the funny thing is, because she’s Swedish and I’m 
 I invited her over for a few days and we shot some stuff and I think we just found it very easy to be around each other. We were very chill, very chatty, very natural even though we are both very different people. And now she’s an up-and-coming artist and does amazing work of her own – art, photography, fashion, everything – and her work is so different to mine. I think we’re a super odd pair and maybe it shouldn’t work but it just works so well it’s kinda nuts.
 
 
-**So, the closeness you have, did that help with this latest project?**
+*So, the closeness you have, did that help with this latest project?*
 
 Yes. So, when we shot this book, during lockdown, because she’s very technical, Arvida would go out to the woods and set up her computer and her phone and maybe a light even. I don’t think I could have done it with someone else who wasn’t as involved. She was really involved.
 

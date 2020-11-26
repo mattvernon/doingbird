@@ -57,20 +57,19 @@ Yeah, same. I think it’s really awkward to shoot and be around someone for a l
 
 When I was a kid in New York I was very influenced by this store called Printed Matter. I didn’t really understand it because I wasn’t really cool enough to know who all these artists were, but I just thought this is a shop full of amazing things that are so out of reach, and kind of weird, and inspiring, and crazy, and I was just mesmerized. And I just thought, this is what I have to do. I have to be part of this somehow. It wasn’t that conscious, but it was that kinda idea in my head.
 
-**I saw on your Instagram that you have a whole bookcase full of these sketch books that you’ve put together. **
+*I saw on your Instagram that you have a whole bookcase full of these sketch books that you’ve put together.*
 
 Let me show you, I have some of them here. [Valerie turns the screen to show the bookcase full of spines of sketchbooks].
 
-**Oh wowww.**
+*Oh wowww*
 
 Let me get one out, this is basically how I do all my books…. So, this is like a PJ Harvey one. Even if I’m just doing a shoot with a model or musician, I will make a whole sketchbook out of it in order to sort of unpack what that shoot was for myself. That’s kind of what I do with everything. Even some of my commercial jobs. 
 
-**Why is that? **
+*Why is that?*
 
 It’s like… I want to see it. If they’re just on hard drives I sort of think, “Well, so what? What have you done for the past five years? Where is it? Is it just hard drives in a box?” I can’t really live with that; I need to have something to show for all this – all this time and work and effort.
 
-**I understand that. Also seeing a series of images is very different to just seeing one isolated select. That’s something I really loved about the new book. Those screengrabs of all the pictures of Arvida in your iPhone gallery. I also loved that you kept in all the digital borders. Like you can see the time on your phone, and how much battery you have left. Why did you keep that in?
-**
+*I understand that. Also seeing a series of images is very different to just seeing one isolated select. That’s something I really loved about the new book. Those screengrabs of all the pictures of Arvida in your iPhone gallery. I also loved that you kept in all the digital borders. Like you can see the time on your phone, and how much battery you have left. Why did you keep that in?*
 
 Because I just like the temporariness of things that end up being permanent. It’s the same reason I included the text messages between Arvida and I. The conversations that happen on text, they’re only meant for that one moment but for me they’re really special. I like those moments being locked into a printed document. That’s the kind of stuff that I enjoy and that I’m fascinated by. 
 

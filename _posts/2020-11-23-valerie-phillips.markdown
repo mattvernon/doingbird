@@ -28,7 +28,7 @@ I met Arvida kind of randomly. She’s Swedish and she lives there, and I met he
 
 Yes, so I Skyped her, and the funny thing is, because she’s Swedish and I’m American, there’s such a difference in the way we communicate. Americans are so effusive and over-the-top and Swedish people are so kind of calm and literal. And I’m thinking, “She’s 20, she’s going to be so excited I want to fly her to London…”, so I said, “Can I fly you to London, I’d love to shoot a project with you,” and she’s like “Well, that’s not really what I had in mind,” and I’m thinking “Damnnn. She kinda just kicked my ass.” It was really funny. We laugh about this so much now. Eventually I persuaded her. 
 
-**And clearly you got along?**
+*And clearly you got along?*
 
 I invited her over for a few days and we shot some stuff and I think we just found it very easy to be around each other. We were very chill, very chatty, very natural even though we are both very different people. And now she’s an up-and-coming artist and does amazing work of her own – art, photography, fashion, everything – and her work is so different to mine. I think we’re a super odd pair and maybe it shouldn’t work but it just works so well it’s kinda nuts.
 

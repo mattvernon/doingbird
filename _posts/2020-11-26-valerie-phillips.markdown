@@ -87,7 +87,8 @@ It’s like… I want to see it. If they’re just on hard drives I sort of thin
 
 Because I just like the temporariness of things that end up being permanent. It’s the same reason I included the text messages between Arvida and I. The conversations that happen on text, they’re only meant for that one moment but for me they’re really special. I like those moments being locked into a printed document. That’s the kind of stuff that I enjoy and that I’m fascinated by. 
 
-
+![VP_Text_AW-3.jpg](/uploads/VP_Text_AW-3.jpg)
+![VP_Text_AW-6.jpg](/uploads/VP_Text_AW-6.jpg)
 ![VP_IHADYMAB__021.jpg](/uploads/VP_IHADYMAB__021.jpg)
 ![VP_IHADYMAB__043.jpg](/uploads/VP_IHADYMAB__043.jpg)
 ![VP_IHADYMAB__029.jpg](/uploads/VP_IHADYMAB__029.jpg)

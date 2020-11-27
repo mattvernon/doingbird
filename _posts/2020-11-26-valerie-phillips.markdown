@@ -62,6 +62,8 @@ That’s cool, that’s really nice. I hadn’t really thought about that and I 
 
 ![VP_IHADYMAB__063.jpg](/uploads/VP_IHADYMAB__063.jpg)
 ![VP_IHADYMAB__051.jpg](/uploads/VP_IHADYMAB__051.jpg)
+![VP_Text_AW-6.jpg](/uploads/VP_Text_AW-6.jpg)
+
 
 *You often shoot with the same women and girls. It’s almost like a photographer/muse relationship, but to me feels more like a genuine friendship. I think it would feel different if you were a male photographer, for instance. If I saw a man’s face in the top right corner of a Facetime in these images, I’d feel weird about that.*
 
@@ -88,7 +90,6 @@ It’s like… I want to see it. If they’re just on hard drives I sort of thin
 
 Because I just like the temporariness of things that end up being permanent. It’s the same reason I included the text messages between Arvida and I. The conversations that happen on text, they’re only meant for that one moment but for me they’re really special. I like those moments being locked into a printed document. That’s the kind of stuff that I enjoy and that I’m fascinated by. 
 
-![VP_Text_AW-6.jpg](/uploads/VP_Text_AW-6.jpg)
 ![VP_IHADYMAB__021.jpg](/uploads/VP_IHADYMAB__021.jpg)
 ![VP_IHADYMAB__043.jpg](/uploads/VP_IHADYMAB__043.jpg)
 ![VP_IHADYMAB__029.jpg](/uploads/VP_IHADYMAB__029.jpg)

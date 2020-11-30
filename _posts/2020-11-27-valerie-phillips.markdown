@@ -1,7 +1,6 @@
 ---
 title: Valerie Phillips - Something to Show
 date: 2020-11-27 08:00:00 +11:00
-published: false
 categories:
 - Features
 tags:

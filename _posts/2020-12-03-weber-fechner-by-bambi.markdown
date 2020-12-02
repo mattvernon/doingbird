@@ -1,7 +1,6 @@
 ---
 title: "'weber fechner' by bambi"
-date: 2020-11-23 17:52:00 +11:00
-published: false
+date: 2020-12-03 07:00:00 +11:00
 categories:
 - Features
 tags:
@@ -22,8 +21,8 @@ In a Doingbird exclusive, West Australian musician bambi aka Dominic Simper (who
 
 "The Weber-Fechner law is a psychological / psychophysical hypothesis which explores the way in which we perceive change in accordance to the strength of a sensory stimulus," Simper shares. "The idea that the less that is currently occurring, the more sensitive we are to change. It kind of sums up the idea that the more we drown ourselves in sensory input, the less effect it will have on us in the end." 
 
-<iframe src="https://player.vimeo.com/video/480109746" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<iframe src="https://player.vimeo.com/video/486561943" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Interpreting the track are 20-year-old photographer-turned-director Jamie Heath, and 25-year-old dancer Rhys Kosakowski of the Sydney Dance Company (and formerly the Houston Ballet), who features in Sydney Dance Co.'s upcoming New Breed performances  for 2020. 
 

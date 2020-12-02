@@ -1,7 +1,6 @@
 ---
 title: "'weber fechner' by bambi"
-date: 2020-11-23 17:52:00 +11:00
-published: false
+date: 2020-12-03 07:00:00 +11:00
 categories:
 - Features
 tags:

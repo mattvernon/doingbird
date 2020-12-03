@@ -2,5 +2,6 @@
 title: Alith
 date: 2020-12-03 14:15:00 +11:00
 published: false
+Credits Text: 'Photography Mia Rankin '
 ---
 

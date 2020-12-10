@@ -1,7 +1,6 @@
 ---
 title: Manu Crooks
-date: 2020-12-08 08:00:00 +11:00
-published: false
+date: 2020-12-11 08:00:00 +11:00
 categories:
 - Features
 tags:
@@ -92,3 +91,7 @@ I want to do a national tour and then off the back of that do shows overseas as 
 ![Manu 6.jpg](/uploads/Manu%206.jpg)
 LEFT:Jumper by DIOR MEN. Pants by Bally. Shoes by Nike. Rings by BVLGARI  
 RIGHT: Top and Pants by Ermenegildo Zegna Couture. Sunglasses by BVLGARI
+
+
+Listen to Manu's new track 'Top' [here](https://orcd.co/manucrookstop)
+Watch Manu's new music video [here](https://youtu.be/4xrCm_Z01TM)

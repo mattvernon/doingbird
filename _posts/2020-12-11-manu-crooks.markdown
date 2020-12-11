@@ -93,5 +93,8 @@ LEFT:Jumper by DIOR MEN. Pants by Bally. Shoes by Nike. Rings by BVLGARI
 RIGHT: Top and Pants by Ermenegildo Zegna Couture. Sunglasses by BVLGARI
 
 
-Listen to Manu's new track 'Top' [here](https://orcd.co/manucrookstop)
-Watch Manu's new music video [here](https://youtu.be/4xrCm_Z01TM)
+LISTEN to Manu's new track 'Top' 
+[https://orcd.co/manucrookstop](https://orcd.co/manucrookstop)
+
+WATCH Manu's new music video 
+[https://youtu.be/4xrCm_Z01TM](https://youtu.be/4xrCm_Z01TM)

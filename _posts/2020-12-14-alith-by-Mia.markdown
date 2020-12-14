@@ -10,6 +10,7 @@ tags:
 Main Image: "/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah004.jpg"
 Credits Text: "Photography Mia Rankin \nStyling Romy Safiah \n\nModel: Alith @ "
 is featured?: true
+layout: gallery
 ---
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah001.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah001.jpg)

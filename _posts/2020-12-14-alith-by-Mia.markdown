@@ -1,8 +1,15 @@
 ---
 title: Alith by Mia
-date: 2020-12-03 14:15:00 +11:00
+date: 2020-12-14 08:00:00 +11:00
 published: false
-Credits Text: 'Photography Mia Rankin '
+categories:
+- Fashion
+tags:
+- Fashion
+- Models
+Main Image: "/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah004.jpg"
+Credits Text: "Photography Mia Rankin \nStyling Romy Safiah \n\nModel: Alith @ "
+is featured?: true
 ---
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah001.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah001.jpg)

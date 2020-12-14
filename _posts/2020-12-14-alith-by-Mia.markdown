@@ -7,7 +7,7 @@ categories:
 tags:
 - Fashion
 - Models
-Main Image: "/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah008.jpg"
+Main Image: "/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah013.jpg"
 Credits Text: "Photography Mia Rankin \nStyling Romy Safiah \n\nModel: Alith @ "
 is featured?: true
 layout: gallery

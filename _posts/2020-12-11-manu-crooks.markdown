@@ -15,7 +15,7 @@ is featured?: true
 layout: gallery
 ---
 
-It’s been over three years since Manu Crooks released Mood Forever, the six-track EP that established him as one of Australia’s most promising young artists. Storming onto the scene in 2016 with songs like Assumptions and Everyday, Manu’s lyrics were a welcome reflection of the experiences of his community, while his music took elements of Aussie hip hop, Atlantan trap and British grime and morphed them into something compellingly unique. Becoming known for his high-energy live shows early on, Manu won fans across his headline tours and support slots for artists like Denzel Curry, Tory Lanez, YG and Stormzy. Straight out the gate, it was clear that Manu Crooks was a performer with the talent and passion to be big. 
+It’s been over three years since [Manu Crooks](https://www.instagram.com/manuthecrook/) released Mood Forever, the six-track EP that established him as one of Australia’s most promising young artists. Storming onto the scene in 2016 with songs like Assumptions and Everyday, Manu’s lyrics were a welcome reflection of the experiences of his community, while his music took elements of Aussie hip hop, Atlantan trap and British grime and morphed them into something compellingly unique. Becoming known for his high-energy live shows early on, Manu won fans across his headline tours and support slots for artists like Denzel Curry, Tory Lanez, YG and Stormzy. Straight out the gate, it was clear that Manu Crooks was a performer with the talent and passion to be big. 
 
 ![Manu 1.jpg](/uploads/Manu%201.jpg)
 Above: all clothing by [DIOR MEN](https://www.instagram.com/dior/)

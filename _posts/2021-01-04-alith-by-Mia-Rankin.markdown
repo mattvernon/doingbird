@@ -1,5 +1,5 @@
 ---
-title: Alith by Mia
+title: Alith by Mia Rankin
 date: 2021-01-04 08:00:00 +11:00
 categories:
 - Fashion

@@ -8,31 +8,33 @@ tags:
 - Fashion
 - Models
 Main Image: "/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah013.jpg"
-Credits Text: "Photography Mia Rankin \nStyling Romy Safiah \n\nModel: Alith @ "
+Credits Text: "Photography [Mia Rankin](https://www.instagram.com/_miarankinstudio/)
+  \nStyling [Romy Safiah](https://www.instagram.com/romysafiyah/) \n\nModel: [Alith](https://www.instagram.com/alith_kuol/)
+  @ [Chadwick](https://www.instagram.com/chadwickmodels/) "
 is featured?: true
 layout: gallery
 ---
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah001.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah001.jpg)
-Prada Jumper 
+[PRADA](https://www.prada.com/au/en.html) Jumper 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah002.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah002.jpg)
-Agnes Choi Pant + Dion Lee Top 
+[AGNES CHOI](https://www.agneschoi.com/) Pant + [DION LEE](https://www.dionlee.com/) Top 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah003.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah003.jpg)
-Rachel Rutt Hat + Pant
+[RACHEL RUTT](https://www.rachelrutt.com/rutt-australia/) Hat + Pant
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah004.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah004.jpg)
-Prada Jumper + Bag
+[PRADA](https://www.prada.com/au/en.html) Jumper + Bag
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah005.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah005.jpg)
-Prada Suit 
+[PRADA](https://www.prada.com/au/en.html) Suit 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah006.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah006.jpg)
 Vintage Vest (stylists own)
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah007.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah007.jpg)
-Rachel Rutt Hat 
+[RACHEL RUTT](https://www.rachelrutt.com/rutt-australia/) Hat 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah008.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah008.jpg)
 Agnes Choi Pant + Dion Lee Top
@@ -41,7 +43,7 @@ Agnes Choi Pant + Dion Lee Top
 Rachel Rutt Hat
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah011.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah011.jpg)
-Prada Pant 
+[PRADA](https://www.prada.com/au/en.html) Pant 
 Boxers (Stylists Own)
 Anna Santangelo Belt
 

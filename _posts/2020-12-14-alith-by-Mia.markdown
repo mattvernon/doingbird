@@ -31,24 +31,22 @@ layout: gallery
 [PRADA](https://www.prada.com/au/en.html) Suit 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah006.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah006.jpg)
-Vintage Vest (stylists own)
+Vintage Vest, stylists own
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah007.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah007.jpg)
 [RACHEL RUTT](https://www.rachelrutt.com/rutt-australia/) Hat 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah008.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah008.jpg)
-Agnes Choi Pant + Dion Lee Top
+[AGNES CHOI](https://www.agneschoi.com/) top + [DION LEE](https://www.dionlee.com/) pant
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah009.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah009.jpg)
-Rachel Rutt Hat
+[RACHEL RUTT](https://www.rachelrutt.com/rutt-australia/) Hat 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah011.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah011.jpg)
-[PRADA](https://www.prada.com/au/en.html) Pant 
-Boxers (Stylists Own)
-Anna Santangelo Belt
+[PRADA](https://www.prada.com/au/en.html) Pant, Boxers Stylists Own, Anna Santangelo Belt
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah012.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah012.jpg)
-Moncler Genius Pant 
+[MONCLER GENIUS ](https://www.moncler.com/gb/genius/) Pant 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah013.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah013.jpg)
-Vintage Vest (stylists own)
+Vintage Vest, stylists own

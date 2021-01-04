@@ -37,7 +37,7 @@ Vintage Vest, stylists own
 [RACHEL RUTT](https://www.rachelrutt.com/rutt-australia/) Hat 
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah008.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah008.jpg)
-[AGNES CHOI](https://www.agneschoi.com/) top + [DION LEE](https://www.dionlee.com/) pant
+[AGNES CHOI](https://www.agneschoi.com/) Pant + [DION LEE](https://www.dionlee.com/) Top
 
 ![Alith_Doing Bird_Mia Rankin_Romy Safiyah009.jpg](/uploads/Alith_Doing%20Bird_Mia%20Rankin_Romy%20Safiyah009.jpg)
 [RACHEL RUTT](https://www.rachelrutt.com/rutt-australia/) Hat 

@@ -1,0 +1,39 @@
+---
+title: Two Aces
+date: 2021-01-06 16:41:00 +11:00
+published: false
+categories:
+- Fashion
+tags:
+- FASHION
+- Designers
+- Models
+Main Image: "/uploads/DB_SPorter%2003.jpg"
+Credits Text: "Photographer [Sheree Porter](https://www.instagram.com/sheree__porter/?hl=en)
+  \nStylist [Lucy Wood](https://www.instagram.com/lucyrosewood_/?hl=en)  \nMake-Up
+  [Peter Beard ](https://www.instagram.com/peterbeard/?hl=en)\nHair [Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/?hl=en)
+  \n\nModels: [Atty ](https://www.instagram.com/attymitchell/?hl=en) & \n[Anja](https://www.instagram.com/slimejive/?hl=en)
+  @ [Priscilla’s ](https://www.instagram.com/priscillasmodels/?hl=en)   \n"
+is featured?: true
+layout: gallery
+---
+
+![DB_SPorter 01.jpg](/uploads/DB_SPorter%2001.jpg)
+Left: Atty wears [BALENCIAGA](https://www.balenciaga.com/au) dress and earrings. Right: Atty wears [ZOO EMPORIUM](https://www.instagram.com/zooemporiumvintage/?hl=en) Vintage earrings.
+
+![DB_SPorter 02.jpg](/uploads/DB_SPorter%2002.jpg)
+Atty wears [MICHAEL LO SORDO](https://www.michaellosordo.com/) top and [ESÅNT](https://esant-esant.com/) pants.
+
+![DB_SPorter 03.jpg](/uploads/DB_SPorter%2003.jpg)
+Left: Atty wears [MONCLER](https://www.moncler.com/gb/) top and pants and [BOTTEGA VENETA](https://www.bottegaveneta.com/) heels.
+Right: Anja wears [DUNDAS](https://dundasworld.com/) blazer from [THE OUTNET](https://www.theoutnet.com/en-au/) and [ZOO EMPORIUM](https://www.instagram.com/zooemporiumvintage/?hl=en)Vintage earrings.
+
+
+![DB_SPorter 04.jpg](/uploads/DB_SPorter%2004.jpg)
+Right: Anja wears [CHANEL](https://www.chanel.com/au/) top, jacket, briefs and belt. 
+
+
+![DB_SPorter 05.jpg](/uploads/DB_SPorter%2005.jpg)
+Left: Anja wears [MONCLER](https://www.moncler.com/gb/) dress and [ROGER VIVIER](https://www.rogervivier.com/au-en/home/) boots.
+Right: Anja wears [BALENCIAGA](https://www.balenciaga.com/au) dress and earrings.
+

@@ -2,11 +2,11 @@
 title: Two Aces
 date: 2021-01-06 16:41:00 +11:00
 published: false
-Credits Text: "Photographer: Sheree Porter: https://www.instagram.com/sheree__porter/?hl=en\nStylist:
-  Lucy Wood: https://www.instagram.com/lucyrosewood_/?hl=en\nMake-Up: Peter Beard:
-  https://www.instagram.com/peterbeard/?hl=en\nHair: Gavin Anesbury: https://www.instagram.com/gavinanesburybeauty/?hl=en\n\nModels:\nAtty:
-  https://www.instagram.com/attymitchell/?hl=en\nAnja: https://www.instagram.com/slimejive/?hl=en\nBoth
-  at Priscilla’s:  https://www.instagram.com/priscillasmodels/?hl=en \n"
+Credits Text: "Photographer [Sheree Porter](https://www.instagram.com/sheree__porter/?hl=en)
+  \nStylist [Lucy Wood](https://www.instagram.com/lucyrosewood_/?hl=en)\nMake-Up [Peter
+  Beard ](https://www.instagram.com/peterbeard/?hl=en)\nHair [Gavin Anesbury](https://www.instagram.com/gavinanesburybeauty/?hl=en)
+  \n\nModels: [Atty ](https://www.instagram.com/attymitchell/?hl=en) & \n[Anja](https://www.instagram.com/slimejive/?hl=en)
+  @ [Priscilla’s ](https://www.instagram.com/priscillasmodels/?hl=en)   \n"
 layout: gallery
 ---
 

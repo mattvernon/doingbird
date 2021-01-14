@@ -19,7 +19,6 @@ layout: gallery
 ---
 
 ![page_3.jpg](/uploads/page_3.jpg)
-![page_4.jpg](/uploads/page_4.jpg)
 Tamasin wears [Acne Studios](https://www.acnestudios.com/au/en/home) Blazer & Leggings, [Underground Sundae](https://www.undergroundsundae.com/shop) Earring, [Martine Rose](https://martine-rose.com/) Loafers
 
 ![SamWongPhoto_018.jpg](/uploads/SamWongPhoto_018.jpg)
@@ -32,4 +31,4 @@ Atong wears [Acne Studios](https://www.acnestudios.com/au/en/home) Puffer Vest, 
 ![page_8.jpg](/uploads/page_8.jpg)
 Sarah wears [Y/Project](https://www.yproject.fr/) Shirt, [Acne Studios](https://www.acnestudios.com/au/en/home) Vest, [Maroske Peech](https://maroskepeech.com/) tie Legging, [Prada](https://www.prada.com/au/en.html) Earrings 
 
-
+![page_4.jpg](/uploads/page_4.jpg)

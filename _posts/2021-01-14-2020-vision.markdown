@@ -1,0 +1,33 @@
+---
+title: 2020 Vision
+date: 2021-01-14 08:00:00 +11:00
+categories:
+- Fashion
+tags:
+- FASHION
+- Models
+- Photography
+- editorial
+Main Image: "/uploads/page_3.jpg"
+Credits Text: "Photographer [SAM WONG](https://www.instagram.com/samwongphoto_/) \nStylist
+  [NATALIE PLUCHINOTTA](https://www.instagram.com/nat.pluch/) \nHair & Make up: [GEORGIA
+  RAMMAN](https://www.instagram.com/georgiaramman/)\n \nModels Atong & Sarah @ [People](https://www.instagram.com/people.agency/),
+  Tamasin @ [Duval](https://www.instagram.com/duval.agency/)\n"
+is featured?: true
+layout: gallery
+---
+
+![page_3.jpg](/uploads/page_3.jpg)
+Tamasin wears [Acne Studios](https://www.acnestudios.com/au/en/home) Blazer & Leggings, [Underground Sundae](https://www.undergroundsundae.com/shop) Earring, [Martine Rose](https://martine-rose.com/) Loafers
+
+![SamWongPhoto_017.jpg](/uploads/SamWongPhoto_017.jpg)
+Sarah wears [Acne Studios](https://www.acnestudios.com/au/en/home) stocking top & pants, [Oats](https://oats-the-label.com/) mesh top worn over [Baserange](https://www.baserange.net.au/) Bra, [Underground Sundae](https://www.undergroundsundae.com/shop) Necklaces
+
+![page_5.jpg](/uploads/page_5.jpg)
+Atong wears [Acne Studios](https://www.acnestudios.com/au/en/home) Puffer Vest, [Lotta Volkova x Adidas](https://www.adidas.com/us/lotta_volkova) leg warmers worn on arms, [Baserange](https://www.baserange.net.au/) underwear, [Comme des Garcons](https://www.comme-des-garcons.com/) shoes, [Underground Sundae](https://www.undergroundsundae.com/shop) earrings, Stylists own shorts and socks
+
+![page_8.jpg](/uploads/page_8.jpg)
+Sarah wears [Y/Project](https://www.yproject.fr/) Shirt, [Acne Studios](https://www.acnestudios.com/au/en/home) Vest, [Maroske Peech](https://maroskepeech.com/) tie Legging, [Prada](https://www.prada.com/au/en.html) Earrings 
+
+![page_4.jpg](/uploads/page_4.jpg)
+![SamWongPhoto_018.jpg](/uploads/SamWongPhoto_018.jpg)

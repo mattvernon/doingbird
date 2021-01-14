@@ -9,10 +9,12 @@ tags:
 - Models
 - Photography
 - editorial
+Main Image: "/uploads/page_3.jpg"
 Credits Text: "Photographer [SAM WONG](https://www.instagram.com/samwongphoto_/) \nStylist
   [NATALIE PLUCHINOTTA](https://www.instagram.com/nat.pluch/) \nHair & Make up: [GEORGIA
   RAMMAN](https://www.instagram.com/georgiaramman/)\n \nModels Atong & Sarah @ [People](https://www.instagram.com/people.agency/),
   Tamasin @ [Duval](https://www.instagram.com/duval.agency/)\n"
+is featured?: true
 layout: gallery
 ---
 

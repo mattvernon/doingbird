@@ -2,11 +2,10 @@
 title: 2020 Vision
 date: 2021-01-05 12:58:00 +11:00
 published: false
-Credits Text: |
-  Photographer: Sam Wong @samwongphoto_
-  Stylist: Natalie Pluchinotta @natpluch
-  H&M: Georgia Ramman @georgiaramman
-  Models: Atong & Sarah @people.agency Tamasin @Duval.agency
+Credits Text: "Photographer [SAM WONG](https://www.instagram.com/samwongphoto_/) \nStylist
+  [NATALIE PLUCHINOTTA](https://www.instagram.com/nat.pluch/) \nHair & Make up: [GEORGIA
+  RAMMAN](https://www.instagram.com/georgiaramman/)\n \nModels Atong & Sarah @ [People](https://www.instagram.com/people.agency/),
+  Tamasin @ [Duval](https://www.instagram.com/duval.agency/)\n"
 layout: gallery
 ---
 

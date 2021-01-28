@@ -14,3 +14,7 @@ The first time we played overseas we played in dublin. That was a very magical s
 ### When was the first time you experienced culture shock?
 
 Hmm to be honest i'm not sure if I have really experienced it. Obviously people, places, and things are very different over the world but I never go into new experiences with reference to my life back home. I like to just go with the flow.
+
+### Where do you draw inspiration from when you feel like your well of creativity is running dry?
+
+I dont force inspiration upon myself. When creativity is running dry I don't create. I have faith in myself to act whenever i am inspired so i like to just sit back and study when i'm not.

@@ -25,7 +25,6 @@ Hmm to be honest i'm not sure if I have really experienced it. Obviously people,
 
 I dont force inspiration upon myself. When creativity is running dry I don't create. I have faith in myself to act whenever i am inspired so i like to just sit back and study when i'm not.
 
-
 ![Gus-3.jpg](/uploads/Gus-3.jpg)
 
 *You obviously have a unique and developed personal style. What are some of your favorite looks from your past? Do you have any specific memories from your childhood that ignited your interest in fashion?* 
@@ -35,6 +34,8 @@ I am definitely happy with all my music video looks - some of which were from my
 *Is there anyone or anything you look to for aesthetic inspiration?*
 
 Not really i think stylistically i am inspired by different decades and go through phases of being obsessed with the aesthetics of them.
+
+![Gus-4.jpg](/uploads/Gus-4.jpg)
 
 *What advice would you give to young artists who are trying to find their voice and their audience?*
 
@@ -46,7 +47,6 @@ It's hard to say. Personally I think it will closely go back to the way it was. 
 appreciation for life and the position I'm in. Making music must always be joyous. I used to be so set on the idea that everything I make has to be substantial. But that's not the case - it is the
 process that i fell in love with, not the finished product.
 
-![Gus-4.jpg](/uploads/Gus-4.jpg)
 ![Gus-5.jpg](/uploads/Gus-5.jpg)
 
 *What are three things that living through 2020 has taught you?*

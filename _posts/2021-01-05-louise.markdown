@@ -2,6 +2,7 @@
 title: LOUISE
 date: 2021-01-05 13:02:00 +11:00
 published: false
+Main Image: "/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg"
 Credits Text: "Photography Daphne Nguyen \nStyling Sarah Pritchard \nMakeup Joel Babicci
   \nHair Kyye Reed \nTalent Louise @ People\nArtwork Nina Prendergast\n"
 layout: gallery

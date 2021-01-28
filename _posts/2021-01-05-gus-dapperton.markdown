@@ -23,3 +23,34 @@ I dont force inspiration upon myself. When creativity is running dry I don't cre
 
 I am definitely happy with all my music video looks - some of which were from my own wardrobe that have since been sold and some that havent - As a child i used to constantly change outfits throughout the day. And the outfits would consist of halloween costumes from previous years. I liked to mix and match superhero costumes.
 
+*Is there anyone or anything you look to for aesthetic inspiration?*
+
+Not really i think stylistically i am inspired by different decades and go through phases of being obsessed with the aesthetics of them.
+
+*What advice would you give to young artists who are trying to find their voice and their audience?*
+
+Create a local community. Find like minded artists in your hometown. I learned the most from my peers and your peers will push you to progress.
+
+*Outside of the obvious cancellations of live shows, how do think the pandemic has changed and will change the future of the music industry? How has it changed the way you approach your creative practice?
+*
+It's hard to say. Personally I think it will closely go back to the way it was. I feel like the routine of touring and roll outs is not through yet. I think that now I have gained a much greater
+appreciation for life and the position I'm in. Making music must always be joyous. I used to be so set on the idea that everything I make has to be substantial. But that's not the case - it is the
+process that i fell in love with, not the finished product.
+
+*What are three things that living through 2020 has taught you?*
+
+Never take anything for granted
+I needed time off
+Anything can happen
+
+*What are your top five albums you'd bring on a deserted island?*
+
+Tops - Picture you Staring
+Arcade Fire - The Suburbs
+Metronomy - The English Riviera
+Alex G - House Of Sugar
+Madvillain - Madvillainy
+
+*What artists are you listening to right now?*
+
+The Bee Gees, Matt Maltese, Drake, New Radicals

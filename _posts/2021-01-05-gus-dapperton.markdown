@@ -12,3 +12,5 @@ It starts in many different ways. Sometimes it starts with a melody in my head, 
 The first time we played overseas we played in dublin. That was a very magical show for me. And the last show we played on that same tour in italy where i was able to sit back and reflect on what had just occurred. It was the first time I truly saw my dreams come to life. Generally I am inspired by changes in my environment so I tend to write on the road a lot.
 
 ### When was the first time you experienced culture shock?
+
+Hmm to be honest i'm not sure if I have really experienced it. Obviously people, places, and things are very different over the world but I never go into new experiences with reference to my life back home. I like to just go with the flow.

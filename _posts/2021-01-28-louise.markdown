@@ -5,6 +5,7 @@ published: false
 Main Image: "/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg"
 Credits Text: "Photography Daphne Nguyen \nStyling Sarah Pritchard \nMakeup Joel Babicci
   \nHair Kyye Reed \nTalent Louise @ People\nArtwork Nina Prendergast\n"
+is featured?: true
 layout: gallery
 ---
 

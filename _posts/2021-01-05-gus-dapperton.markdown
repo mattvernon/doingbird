@@ -41,8 +41,8 @@ Not really i think stylistically i am inspired by different decades and go throu
 
 Create a local community. Find like minded artists in your hometown. I learned the most from my peers and your peers will push you to progress.
 
-*Outside of the obvious cancellations of live shows, how do think the pandemic has changed and will change the future of the music industry? How has it changed the way you approach your creative practice?
-*
+*Outside of the obvious cancellations of live shows, how do think the pandemic has changed and will change the future of the music industry? How has it changed the way you approach your creative practice?*
+
 It's hard to say. Personally I think it will closely go back to the way it was. I feel like the routine of touring and roll outs is not through yet. I think that now I have gained a much greater
 appreciation for life and the position I'm in. Making music must always be joyous. I used to be so set on the idea that everything I make has to be substantial. But that's not the case - it is the
 process that i fell in love with, not the finished product.

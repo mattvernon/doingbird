@@ -5,6 +5,8 @@ published: false
 layout: gallery
 ---
 
+![Gus-1.jpg](/uploads/Gus-1.jpg)
+
 *Could you describe the creative process of writing a song? How does it start? At what point does the band come into play? How do you write your lyrics?*
 
 It starts in many different ways. Sometimes it starts with a melody in my head, or a phrase overheard on the street, or the strum of a chord. I usually create the entire song digitally then replace the digital instrumentation with live instrumentation - that's where the band comes in. And when we play live of course. When it comes to lyrics I usually will have a general topic or idea. Then I will sing random vowels and consonants and then the words slowly come to me.
@@ -20,6 +22,9 @@ Hmm to be honest i'm not sure if I have really experienced it. Obviously people,
 *Where do you draw inspiration from when you feel like your well of creativity is running dry?*
 
 I dont force inspiration upon myself. When creativity is running dry I don't create. I have faith in myself to act whenever i am inspired so i like to just sit back and study when i'm not.
+
+![Gus-2.jpg](/uploads/Gus-2.jpg)
+![Gus-3.jpg](/uploads/Gus-3.jpg)
 
 *You obviously have a unique and developed personal style. What are some of your favorite looks from your past? Do you have any specific memories from your childhood that ignited your interest in fashion?* 
 
@@ -39,6 +44,9 @@ It's hard to say. Personally I think it will closely go back to the way it was. 
 appreciation for life and the position I'm in. Making music must always be joyous. I used to be so set on the idea that everything I make has to be substantial. But that's not the case - it is the
 process that i fell in love with, not the finished product.
 
+![Gus-4.jpg](/uploads/Gus-4.jpg)
+![Gus-5.jpg](/uploads/Gus-5.jpg)
+
 *What are three things that living through 2020 has taught you?*
 
 Never take anything for granted
@@ -56,3 +64,5 @@ Madvillain - Madvillainy
 *What artists are you listening to right now?*
 
 The Bee Gees, Matt Maltese, Drake, New Radicals
+
+![Gus-6.jpg](/uploads/Gus-6.jpg)

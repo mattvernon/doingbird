@@ -2,7 +2,7 @@
 title: '5.7: Brie Leon Hangbags'
 date: 2020-02-10 10:01:00 +11:00
 categories:
-- objects
+- Objects
 tags:
 - objects
 Main Image: "/uploads/5.7%20BrieLeon.jpg"

@@ -1,0 +1,49 @@
+---
+title: LOUISE
+date: 2021-01-28 16:00:00 +11:00
+categories:
+- Fashion
+tags:
+- FASHION
+- Models
+- Photography
+Main Image: "/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg"
+Credits Text: "Photography [Daphne Nguyen ](https://www.daphnenguyen.com/), Styling
+  [Sarah Pritchard](https://www.instagram.com/sar4hcant/?hl=en), Makeup [Joel Babicci](https://www.instagram.com/joel_babicci/?hl=en),
+  Hair [Kyye Reed](https://www.instagram.com/kyye/?hl=en) \n\nTalent: Louise @ [People
+  Agency](https://people.agency/)\n"
+is featured?: true
+layout: gallery
+---
+
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066520001.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066520001.jpg)
+Jacket, trousers, shoes [Moncler Genius](https://www.moncler.com/gb/) x [JW Anderson](https://www.jwanderson.com/au/), bag [Hereu](https://hereustudio.com/) 
+
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066530007.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066530007.jpg)
+Dress and bag [Louis Vuitton](https://au.louisvuitton.com/eng-au/homepage) 
+
+![DAPHNENGUYEN-20201130 - Sarah and Louise-000066540008.jpg](/uploads/DAPHNENGUYEN-20201130%20-%20Sarah%20and%20Louise-000066540008.jpg)
+Top & skirt [Miu Miu](https://www.miumiu.com/au/en.html), shoes and necklace (worn as belt) [Prada ](https://www.prada.com/au/en.html)
+
+![DAPHNENGUYEN-20201130 - Sarah and Louise-000066490009.jpg](/uploads/DAPHNENGUYEN-20201130%20-%20Sarah%20and%20Louise-000066490009.jpg)
+Jumpsuit [Moncler Grenoble](https://www.moncler.com/gb/), headband [Fendi](https://www.fendi.com/au/) 
+
+![DAPHNENGUYEN-20201130---Sarah-x-Louise-DSC_8133.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-x-Louise-DSC_8133.jpg)
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066510009.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066510009.jpg)
+All [Chanel](https://www.chanel.com/au/)
+
+![DAPHNENGUYEN-20201130 - Sarah and Louise-000066540007.jpg](/uploads/DAPHNENGUYEN-20201130%20-%20Sarah%20and%20Louise-000066540007.jpg)
+Top & skirt [Miu Miu](https://www.miumiu.com/au/en.html), shoes and necklace (worn as belt) [Prada](https://www.prada.com/au/en.html) 
+
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490010.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490010.jpg)
+Jumpsuit [Moncler Grenoble](https://www.moncler.com/gb/), headband [Fendi](https://www.fendi.com/au/) 
+
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066500005.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066500005.jpg)
+Dress and bag [Bottega Veneta](https://www.bottegaveneta.com/au)
+
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg)
+Jumpsuit [Moncler Grenoble](https://www.moncler.com/gb/), headband [Fendi](https://www.fendi.com/au/) 
+
+![DAPHNENGUYEN-20201130---Sarah-and-Louise-000066540002.jpg](/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066540002.jpg)
+Dress [Fendi](https://www.fendi.com/au/)
+

@@ -2,6 +2,12 @@
 title: LOUISE
 date: 2021-01-28 16:00:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- FASHION
+- Models
+- Photography
 Main Image: "/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg"
 Credits Text: "Photography [Daphne Nguyen ](https://www.daphnenguyen.com/), Styling
   [Sarah Pritchard](https://www.instagram.com/sar4hcant/?hl=en), Makeup [Joel Babicci](https://www.instagram.com/joel_babicci/?hl=en),

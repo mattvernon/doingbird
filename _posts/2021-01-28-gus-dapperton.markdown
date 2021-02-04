@@ -13,7 +13,7 @@ is featured?: true
 layout: gallery
 ---
 
-Native New Yorkers, musician Gus Dapperton and photographer and writer Myla Dalbesio managed a socially distant meet up for us to talk creativity, world tours and culture shock. 
+Native New Yorkers, musician Gus Dapperton and photographer and writer Myla Dalbesio managed a socially distant meet up to talk creativity, world tours, culture shock and take some beautiful photos.  
 
 ![Gus-1.jpg](/uploads/Gus-1.jpg)
 

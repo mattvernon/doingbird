@@ -10,8 +10,8 @@ tags:
 Main Image: "/uploads/DAPHNENGUYEN-20201130---Sarah-and-Louise-000066490001.jpg"
 Credits Text: "Photography [Daphne Nguyen ](https://www.daphnenguyen.com/), Styling
   [Sarah Pritchard](https://www.instagram.com/sar4hcant/?hl=en), Makeup [Joel Babicci](https://www.instagram.com/joel_babicci/?hl=en),
-  Hair [Kyye Reed](https://www.instagram.com/kyye/?hl=en) \n\nTalent: Louise @ [People
-  Agency](https://people.agency/)\n"
+  Hair [Kyye Reed](https://www.instagram.com/kyye/?hl=en) \n\nTalent: [Louise](https://www.instagram.com/louisehill3/)
+  @ [People Agency](https://people.agency/)\n"
 is featured?: true
 layout: gallery
 ---

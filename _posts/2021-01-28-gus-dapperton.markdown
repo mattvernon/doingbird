@@ -13,6 +13,8 @@ is featured?: true
 layout: gallery
 ---
 
+Native New Yorkers, musician Gus Dapperton and photographer and writer Myla Dalbesio managed a socially distant meet up for us to talk creativity, world tours and culture shock. 
+
 ![Gus-1.jpg](/uploads/Gus-1.jpg)
 
 *Could you describe the creative process of writing a song? How does it start? At what point does the band come into play? How do you write your lyrics?*

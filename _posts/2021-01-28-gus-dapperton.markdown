@@ -8,7 +8,7 @@ tags:
 - Music
 - Photography
 Main Image: "/uploads/Gus-1.jpg"
-Credits Text: "Photography & Interview [MYLA DALBESIO](http://www.myladalbesio.com/)\n\n "
+Credits Text: "Photography & Interview [MYLA DALBESIO](http://www.myladalbesio.com/)\n\n"
 is featured?: true
 layout: gallery
 ---
@@ -78,3 +78,5 @@ Madvillain - Madvillainy
 The Bee Gees, Matt Maltese, Drake, New Radicals
 
 ![Gus-6.jpg](/uploads/Gus-6.jpg)
+
+Listen to ORCA by Gus Dapperton [HERE](https://gusdapperton.lnk.to/orcaPR)

@@ -1,17 +1,20 @@
 ---
 title: GUS DAPPERTON
-date: 2021-01-28 13:00:00 +11:00
-published: false
+date: 2021-02-17 07:00:00 +11:00
 categories:
 - Features
 tags:
 - Music
 - Photography
 Main Image: "/uploads/Gus-1.jpg"
-Credits Text: "Photography & Interview [MYLA DALBESIO](http://www.myladalbesio.com/)\n\n "
+Credits Text: "Photography & Interview [MYLA DALBESIO](http://www.myladalbesio.com/)\n\n"
 is featured?: true
 layout: gallery
 ---
+
+[GUS DAPPERTON](https://www.instagram.com/gusdapperton/) is undoubtedly one of New York's hottest commodities right now. You may have first encountered him through his work with BENEE on her break-out hit 'Supalonely', but since then he's proved over and over again he's a mega star in his own right. His 2020 sophomore album [Orca](https://gusdapperton.lnk.to/orcaPR) is a heady mix of gritty alt-pop and introspective lyrics — covering everything from mortality to depression and putting his heart right on display for the world to see (it also received rave reviews from pretty much everyone). 
+
+We teamed Gus up with the super human NYC photographer [MYLA DALBESIO](https://www.instagram.com/myladalbesio/) for an intimate shoot and interview to discuss his creative process, life on the road, and what he's learned over the past year. 
 
 ![Gus-1.jpg](/uploads/Gus-1.jpg)
 
@@ -76,3 +79,5 @@ Madvillain - Madvillainy
 The Bee Gees, Matt Maltese, Drake, New Radicals
 
 ![Gus-6.jpg](/uploads/Gus-6.jpg)
+
+Listen to ORCA by Gus Dapperton [HERE](https://gusdapperton.lnk.to/orcaPR)

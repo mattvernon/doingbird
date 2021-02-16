@@ -13,9 +13,9 @@ is featured?: true
 layout: gallery
 ---
 
-[Gus Dapperton](https://www.instagram.com/gusdapperton/) is undoubtedly one of New York's hottest commodities right now. You may have first encountered him through his work with BENEE on her break-out hit 'Supalonely', but since then he's proved over and over again he's a mega star in his own right. His 2020 sophomore album [Orca](https://gusdapperton.lnk.to/orcaPR) is a heady mix of gritty alt-pop and introspective lyrics — covering everything from mortality to depression and putting his heart right on display for the world to see (it also received rave reviews from pretty much everyone). 
+[GUS DAPPERTON](https://www.instagram.com/gusdapperton/) is undoubtedly one of New York's hottest commodities right now. You may have first encountered him through his work with BENEE on her break-out hit 'Supalonely', but since then he's proved over and over again he's a mega star in his own right. His 2020 sophomore album [Orca](https://gusdapperton.lnk.to/orcaPR) is a heady mix of gritty alt-pop and introspective lyrics — covering everything from mortality to depression and putting his heart right on display for the world to see (it also received rave reviews from pretty much everyone). 
 
-We teamed Gus up with the super human NYC photographer Myla Dalbesio for an intimate shoot and interview to discuss his creative process, life on the road, and what he's learned over the past year. 
+We teamed Gus up with the super human NYC photographer [MYLA DALBESIO](https://www.instagram.com/myladalbesio/) for an intimate shoot and interview to discuss his creative process, life on the road, and what he's learned over the past year. 
 
 ![Gus-1.jpg](/uploads/Gus-1.jpg)
 

@@ -14,6 +14,7 @@ Credits Text: "Photography by Cathy Marshall \n\nDuring the September of 2018, p
   friends had signed up for but she still managed to capture these incredible moments.
   \ \n\nThese photos were taken on the western side of Crete at Chania, Elafonisi
   beach, Seitan Limania and in-between.\n\n\n"
+layout: gallery
 ---
 
 ![12485-32-001.jpg](/uploads/12485-32-001.jpg)

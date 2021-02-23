@@ -4,6 +4,10 @@ date: 2021-02-17 10:53:00 +11:00
 published: false
 categories:
 - World
+tags:
+- Crete
+- world
+- Photography
 Credits Text: "Photography by Cathy Marshall \n\nDuring the September of 2018, photographer
   Cathy Marshall spent a week holidaying in, usually super sunny, Crete with friends
   when a medicane (tropical cyclone) hit. It wasn’t the summer holiday her and her

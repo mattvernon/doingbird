@@ -9,11 +9,11 @@ tags:
 - world
 - Photography
 Credits Text: "*During the September of 2018, photographer Cathy Marshall spent a
-  week holidaying in, usually super sunny, Crete with friends when a medicane (tropical
-  cyclone) hit. It wasn’t the summer holiday her and her friends had signed up for
-  but she still managed to capture these incredible moments.*  \n\n*These photos were
-  taken on the western side of Crete at Chania, Elafonisi beach, Seitan Limania and
-  in-between.*\n\nPhotography by [CATHY MARSHALL ](https://cathy-marshall.com/)\n"
+  week holidaying in, usually super sunny Crete with friends when a medicane (tropical
+  cyclone) hit. It wasn’t the summer holiday they had signed up for but she still
+  managed to capture these incredible moments.*  \n\n*These photos were taken on the
+  western side of Crete at Chania, Elafonisi beach, Seitan Limania and in-between.*\n\nPhotography
+  by [CATHY MARSHALL ](https://cathy-marshall.com/)\n"
 layout: gallery
 ---
 

@@ -1,0 +1,32 @@
+---
+title: CRETE
+date: 2021-02-24 09:00:00 +11:00
+categories:
+- World
+tags:
+- Crete
+- world
+- Photography
+Credits Text: "*During the September of 2018, photographer Cathy Marshall spent a
+  week holidaying in, usually super sunny Crete with friends when a medicane (tropical
+  cyclone) hit. It wasn’t the summer holiday they had signed up for but she still
+  managed to capture these incredible moments.*  \n\n*These photos were taken on the
+  western side of Crete at Chania, Elafonisi beach, Seitan Limania and in-between.*\n\nPhotography
+  by [CATHY MARSHALL ](https://cathy-marshall.com/)\n"
+layout: gallery
+---
+
+![12485-32-001.jpg](/uploads/12485-32-001.jpg)
+![12480-33-001.jpg](/uploads/12480-33-001.jpg)
+![12485-11-001.jpg](/uploads/12485-11-001.jpg)
+![12491-21-001.jpg](/uploads/12491-21-001.jpg)
+![12485-33-001.jpg](/uploads/12485-33-001.jpg)
+![12491-4-001.jpg](/uploads/12491-4-001.jpg)
+![12491-16-001.jpg](/uploads/12491-16-001.jpg)
+![12491-24-001.jpg](/uploads/12491-24-001.jpg)
+![12491-17-001.jpg](/uploads/12491-17-001.jpg)
+
+
+
+
+

@@ -37,14 +37,3 @@ layout: gallery
 
 
 
-![1_Ilkin.jpg](/uploads/1_Ilkin.jpg)
-
-![2_Ilkin.jpg](/uploads/2_Ilkin.jpg)
-
-![3_Ilkin.jpg](/uploads/3_Ilkin.jpg)
-
-![4_Ilkin.jpg](/uploads/4_Ilkin.jpg)
-
-![5_Ilkin.jpg](/uploads/5_Ilkin.jpg)
-
-![6_Ilkin.jpg](/uploads/6_Ilkin.jpg)

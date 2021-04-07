@@ -4,6 +4,16 @@ date: 2021-04-07 08:49:00 +10:00
 published: false
 categories:
 - fashion
+Credits Text: |+
+  Photography: [Jess Ruby James](https://www.instagram.com/jessrubyjames/)
+
+  Stylist: [Ilkin Kurt](https://www.instagram.com/ilkinkurt/)
+
+  H&M: [Teneille Sorgiovanni](https://www.instagram.com/teneillesorg/) using Gucci Beauty and Christoph Robin hair products
+
+  Models: [Emma Boyd](https://www.instagram.com/emmakateboyd/) Pricillas Models, [Lydia Reidd](https://www.instagram.com/lydia.reidd/) Chadwick Models
+
+
 layout: gallery
 ---
 

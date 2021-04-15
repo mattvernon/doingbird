@@ -12,6 +12,7 @@ Credits Text: "Photography - [Constantine Virtanen](https://www.instagram.com/cz
   & Make Up -[Georgia Gaillard](https://www.instagram.com/gg.mua/) \nModel - Isla
   Coughlan [@ five twenty managment](http://www.fivetwentymgt.com/)\nStylist Assistant
   -  [Will Stevens](https://www.instagram.com/wi11.stevens/)\n"
+is featured?: true
 layout: gallery
 ---
 

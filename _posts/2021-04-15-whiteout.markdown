@@ -4,10 +4,12 @@ date: 2021-04-15 14:52:00 +10:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/B.jpg"
 Credits Text: "Photographer - Holly Ward \nhttps://www.instagram.com/hollywardstudio/\nhttps://www.hollywardstudio.com/\n\nStylist
   - Lucy Wood \nhttps://www.instagram.com/lucyrosewood/\nhttps://www.lucywood.co/\n\nMakeup
   and Hair - Samantha P @ HM devision \nhttps://www.instagram.com//samanthap.com.au/\nhttps://www.samanthap.com.au.co/\n\nModel
   - Hannah Elyse \nhttps://www.chadwicks.com.au.com/\n\n"
+layout: gallery
 ---
 
 ![210302_DoingBirdBeauty_147crop.jpg](/uploads/210302_DoingBirdBeauty_147crop.jpg)

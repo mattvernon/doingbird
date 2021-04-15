@@ -28,8 +28,9 @@ right, all clothing [MIU MIU](https://www.miumiu.com/au/en.html)
 ![A6L.jpg](/uploads/A6L.jpg)
 left, top and shorts [MIU MIU](https://www.miumiu.com/au/en.html), crochet halter top [POMS](https://www.pomspoms.com.au/collections/knitwear)
 
-
 ![A7L.jpg](/uploads/A7L.jpg)
+left, top & gloves [ALIX HIGGINS](https://www.alixhiggins.com/), belt [SURFE PLACID](https://www.instagram.com/surfeplacid/?hl=en), pants & shoes [PRADA](https://www.prada.com/au/en.html); right, all clothing [MIU MIU](https://www.miumiu.com/au/en.html)
 
 ![A8L.jpg](/uploads/A8L.jpg)
+left, dress by [PRADA](https://www.prada.com/au/en.html); right, all clothing [MIU MIU](https://www.miumiu.com/au/en.html)
 

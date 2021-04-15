@@ -2,11 +2,17 @@
 title: The 'Paris End'
 date: 2021-04-15 15:47:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- fashion
+Main Image: "/uploads/A5L.jpg"
 Credits Text: "Photography - [Constantine Virtanen](https://www.instagram.com/czsta/)
   \nArt Direction & Styling - [Thalea Michos Vellis](https://www.instagram.com/eye99/)\n\nHair
   & Make Up -[Georgia Gaillard](https://www.instagram.com/gg.mua/) \nModel - Isla
   Coughlan [@ five twenty managment](http://www.fivetwentymgt.com/)\nStylist Assistant
   -  [Will Stevens](https://www.instagram.com/wi11.stevens/)\n"
+layout: gallery
 ---
 
 ![A1L.jpg](/uploads/A1L.jpg)

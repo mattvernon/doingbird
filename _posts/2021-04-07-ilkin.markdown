@@ -5,13 +5,9 @@ published: false
 categories:
 - fashion
 Credits Text: |+
-  Photography: [Jess Ruby James](https://www.instagram.com/jessrubyjames/)
+  Photography [Jess Ruby James](https://www.instagram.com/jessrubyjames/) Stylist [Ilkin Kurt](https://www.instagram.com/ilkinkurt/) Hair & Make up [Teneille Sorgiovanni](https://www.instagram.com/teneillesorg/) using Gucci Beauty and Christoph Robin hair products
 
-  Stylist: [Ilkin Kurt](https://www.instagram.com/ilkinkurt/)
-
-  H&M: [Teneille Sorgiovanni](https://www.instagram.com/teneillesorg/) using Gucci Beauty and Christoph Robin hair products
-
-  Models: [Emma Boyd](https://www.instagram.com/emmakateboyd/) Pricillas Models, [Lydia Reidd](https://www.instagram.com/lydia.reidd/) Chadwick Models
+  Models [Emma Boyd](https://www.instagram.com/emmakateboyd/) @ [Priscillas](https://www.priscillas.com.au/) & [Lydia Reidd](https://www.instagram.com/lydia.reidd/) @ [Chadwick Models](http://www.chadwickmodels.com/)
 
 
 layout: gallery

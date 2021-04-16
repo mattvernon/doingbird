@@ -9,8 +9,8 @@ tags:
 Main Image: "/uploads/A5L.jpg"
 Credits Text: "Photography [Constantine Virtanen](https://www.instagram.com/czsta/)
   \n\nArt Direction & Styling [Thalea Michos Vellis](https://www.instagram.com/eye99/)\n\nHair
-  & Make Up [Georgia Gaillard](https://www.instagram.com/gg.mua/) \nModel Isla Coughlan
-  [@ five twenty managment](http://www.fivetwentymgt.com/)\nStylist Assistant [Will
+  & Make Up [Georgia Gaillard](https://www.instagram.com/gg.mua/) \n\nModel Isla Coughlan
+  @ [five twenty managment](http://www.fivetwentymgt.com/)\nStylist Assistant [Will
   Stevens](https://www.instagram.com/wi11.stevens/)\n"
 is featured?: true
 layout: gallery

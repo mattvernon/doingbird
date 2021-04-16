@@ -1,7 +1,6 @@
 ---
 title: The 'Paris End'
 date: 2021-04-16 09:00:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

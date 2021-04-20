@@ -1,7 +1,6 @@
 ---
 title: OPPOSITION
 date: 2021-04-20 08:49:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

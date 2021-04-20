@@ -1,15 +1,21 @@
 ---
 title: OPPOSITION
-date: 2021-04-07 08:49:00 +10:00
+date: 2021-04-20 08:49:00 +10:00
 published: false
 categories:
-- fashion
+- Fashion
+tags:
+- Fashion
+- photography
+- styling
+Main Image: "/uploads/2%23_Ilken.jpg"
 Credits Text: "Photography [Jess Ruby James](https://www.instagram.com/jessrubyjames/)
   \nStylist [Ilkin Kurt](https://www.instagram.com/ilkinkurt/) \nHair & Make up [Teneille
   Sorgiovanni](https://www.instagram.com/teneillesorg/) using Gucci Beauty and Christoph
   Robin hair products\n\nModels [Emma Boyd](https://www.instagram.com/emmakateboyd/)
   @ [Priscillas](https://www.priscillas.com.au/) & [Lydia Reidd](https://www.instagram.com/lydia.reidd/)
   @ [Chadwick Models](http://www.chadwickmodels.com/)\n\n\n"
+is featured?: true
 layout: gallery
 ---
 

@@ -1,9 +1,13 @@
 ---
 title: Whiteout
-date: 2021-04-15 14:52:00 +10:00
+date: 2021-05-07 09:00:00 +10:00
 published: false
 categories:
 - Fashion
+tags:
+- FASHION
+- Photography
+- Models
 Main Image: "/uploads/B.jpg"
 Credits Text: "Photography [Holly Ward](https://www.hollywardstudio.com/) Styling
   [Lucy Wood](https://www.lucywood.co/) Hair & Makeup [Samantha P](https://www.samanthap.com.au.co/)

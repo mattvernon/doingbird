@@ -7,11 +7,9 @@ tags:
 - Music
 - Features
 Main Image: "/uploads/Screen%20Shot%202021-05-07%20at%209.34.15%20am.png"
-Credits Text: |-
-  Film by [Simon Eeles](https://simoneeles.com/)
-  Produced by [Positive Feedback ](https://www.positive-feedback.com.au/)
-
-  Text by Tina Summers
+Credits Text: "Film by [Simon Eeles](https://simoneeles.com/)\nMusic by [Tulliah](https://www.instagram.com/tul_liah/)
+  \nProduced by [Positive Feedback ](https://www.positive-feedback.com.au/)\n\nText
+  by Tina Summers"
 is featured?: true
 layout: gallery
 ---

@@ -10,8 +10,9 @@ tags:
 Main Image: "/uploads/B.jpg"
 Credits Text: "Photography [Holly Ward](https://www.hollywardstudio.com/) Styling
   [Lucy Wood](https://www.lucywood.co/) Hair & Makeup [Samantha P](https://www.samanthap.com.au.co/)
-  @ [HM Division](https://www.hmdivision.com/) \nusing [Sisley Paris](https://www.sisley-paris.com/en-AU/)\n\nModel
-  Hannah Elyse @ [Chadwick Models](http://www.chadwickmodels.com/)\n\n"
+  @ [HM Division](https://www.hmdivision.com/) \nusing [Sisley Paris](https://www.sisley-paris.com/en-AU/)
+  and [Hair Rituel by Sisley](https://www.sisley-paris.com/en-AU/hairrituelbysisley.html)
+  \n\nModel Hannah Elyse @ [Chadwick Models](http://www.chadwickmodels.com/)\n\n"
 is featured?: true
 layout: gallery
 ---

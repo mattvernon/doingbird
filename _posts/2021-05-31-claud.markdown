@@ -1,7 +1,6 @@
 ---
 title: CLAUD
 date: 2021-05-31 08:00:00 +10:00
-published: false
 categories:
 - Features
 tags:
@@ -9,12 +8,12 @@ tags:
 - Photography
 Main Image: "/uploads/LR_MG_5853.jpg"
 Credits Text: "Photography [Myla Dalbesio ](http://www.myladalbesio.com/)\n\nText
-  Tina Summers "
+  Tina Summers \n\nCheck out Claud [here](https://www.instagram.com/claud.mp3/?utm_medium=copy_link)"
 is featured?: true
 layout: gallery
 ---
 
-Meet Claud — the 5 foot tall, blue-haired, non-binary super talent that has been prolifically creating smart and touching indie-pop music for the past few years, as well as being the first signing to Phoebe Bridgers’ new label Saddest Factory!!! Their new album Super Monster is out now — and we had some questions! 
+Meet [Claud](https://www.instagram.com/claud.mp3/?utm_medium=copy_link) — the 5 foot tall, blue-haired, non-binary super talent that has been prolifically creating smart and touching indie-pop music for the past few years, as well as being the first signing to Phoebe Bridgers’ new label Saddest Factory!!! Their new album Super Monster is out now — and we had some questions! 
 
 ![LR_MG_6039.jpg](/uploads/LR_MG_6039.jpg)
 

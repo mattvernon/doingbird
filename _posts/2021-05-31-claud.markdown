@@ -8,6 +8,9 @@ tags:
 - Music
 - Photography
 Main Image: "/uploads/LR_MG_5853.jpg"
+Credits Text: "Photography [Myla Dalbesio ](http://www.myladalbesio.com/)\n\nText
+  Tina Summers "
+is featured?: true
 layout: gallery
 ---
 

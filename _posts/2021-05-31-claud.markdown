@@ -1,7 +1,8 @@
 ---
 title: CLAUD
-date: 2021-04-16 14:16:00 +10:00
+date: 2021-05-31 08:00:00 +10:00
 published: false
+Main Image: "/uploads/LR_MG_5853.jpg"
 layout: gallery
 ---
 

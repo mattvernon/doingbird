@@ -2,6 +2,7 @@
 title: UNFAZED
 date: 2021-06-04 17:22:00 +10:00
 published: false
+layout: gallery
 ---
 
 ![LR_IMG_4250r2.jpg](/uploads/LR_IMG_4250r2.jpg)

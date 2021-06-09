@@ -2,13 +2,10 @@
 title: UNFAZED
 date: 2021-06-04 17:22:00 +10:00
 published: false
-Credits Text: |-
-  Photographer: Olivia Repaci https://www.instagram.com/oliviarepaci/
-  Styling: Josie McManus https://www.instagram.com/josie.mcmanus/
-  Makeup Artist: Mikele Simone @ DLM https://www.instagram.com/mikelesimonebeauty/
-  Hair: Richi Grisillo https://www.instagram.com/richi_grisillo/
-  Model: Manahou Makay https://www.instagram.com/manamackay/
-  Full
+Credits Text: "Photographer [OLIVIA REPACI](https://www.instagram.com/oliviarepaci/)\nStyling
+  [JOSIE McMANUS](https://www.instagram.com/josie.mcmanus/) \nMakeup [MIKELE SIMONE](https://www.instagram.com/mikelesimonebeauty/)
+  @ [DLM](https://www.dlmau.com/) \nHair [RICHI GRISILLO](https://www.instagram.com/richi_grisillo/)
+  \nModel [MANAHOU MAKAY ](https://www.instagram.com/manamackay/)\n"
 layout: gallery
 ---
 

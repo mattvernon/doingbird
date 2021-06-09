@@ -1,11 +1,17 @@
 ---
 title: UNFAZED
-date: 2021-06-04 17:22:00 +10:00
+date: 2021-06-09 17:00:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- FASHION
+Main Image: "/uploads/LR_IMG_4250r2.jpg"
 Credits Text: "Photographer [OLIVIA REPACI](https://www.instagram.com/oliviarepaci/)\nStyling
   [JOSIE McMANUS](https://www.instagram.com/josie.mcmanus/) \nMakeup [MIKELE SIMONE](https://www.instagram.com/mikelesimonebeauty/)
   @ [DLM](https://www.dlmau.com/) \nHair [RICHI GRISILLO](https://www.instagram.com/richi_grisillo/)
   \nModel [MANAHOU MAKAY ](https://www.instagram.com/manamackay/)\n"
+is featured?: true
 layout: gallery
 ---
 

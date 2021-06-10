@@ -1,7 +1,6 @@
 ---
 title: UNFAZED
 date: 2021-06-09 17:00:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

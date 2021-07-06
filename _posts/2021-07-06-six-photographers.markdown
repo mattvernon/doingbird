@@ -20,6 +20,10 @@ layout: gallery
 
 Six Fashion Photographers is a new exhibition showing July 8 - 11 at the [Centre for Contemporary Photography](https://ccp.org.au/) in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, [Jo Duck](http://www.joduck.com/).
 
+![JoDuck_Chicken_hug-it.jpg](/uploads/JoDuck_Chicken_hug-it.jpg)
+### Chicken Hug-it by JO DUCK
+Stylist Abby Bennett, Hair by Xeneb Allen, Model Tyler @ People agency. Thank you to Mathew Stott.
+
 We reached out to fashion photographers in the industry who we believe are breaking the stereotypical presentation of ‘fashion photography’ to make truly contemporary work which blurs the lines between art and fashion. 
 
 The exhibition features [Zac Bayly](https://www.instagram.com/zacbayly/), [Daniel Goode](https://www.danielgoodephoto.com/), [Daphne Nguyen](https://www.instagram.com/daphnenguyen__/?hl=en), [Ted Min](https://www.tedmin.net/), [Jamie Heath](https://www.instagram.com/jamie_heath/?hl=en) + [Jo Duck](https://www.instagram.com/jo_duck/) (hi!!). All at different stages of their careers, it’s thrilling to see their work hang on the walls of an institution like CCP. 
@@ -33,13 +37,10 @@ I hope other galleries can see what CCP are doing by showing a contemporary line
 
 Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.
 
-![JoDuck_Chicken_hug-it.jpg](/uploads/JoDuck_Chicken_hug-it.jpg)
-Title: Chicken Hug-it
-Shoot details: Stylist Abby Bennett. Hair by Xeneb Allen. Model Tyler @ People agency. Thank you to Mathew Stott.
 
 ![JoDuck_SpidermanCorolla.jpg](/uploads/JoDuck_SpidermanCorolla.jpg)
-Title: Spiderman waits in a Corolla, 2021
-Shoot details: Stylist Sarah Pritchard. Hair by Xeneb Allen. Face by Megan Harrison. Model Louis Lim. Corolla courtesy of Memphis LK.
+Spiderman waits in a Corolla, 2021 by JO DUCK 
+Stylist Sarah Pritchard, Hair by Xeneb Allen, Face by Megan Harrison, Model Louis Lim, Corolla courtesy of Memphis LK.
 
 
 **ZAC BAYLY **

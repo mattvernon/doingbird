@@ -2,6 +2,20 @@
 title: SIX PHOTOGRAPHERS
 date: 2021-07-06 20:56:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- Artists
+- Photography
+- Fashion
+Credits Text: |-
+  Text by [JO DUCK ](https://www.instagram.com/jo_duck/)
+
+  Photographs by [DANIEL GOODE](https://www.instagram.com/dl.goode/), [ZAC BAYLY](https://www.instagram.com/zacbayly/), [JAMIE HEATH](https://www.instagram.com/jamie_heath/?hl=en), [DAPHNE NGUYEN](https://www.instagram.com/daphnenguyen__/?hl=en), [TED MIN](https://www.instagram.com/tedminted/) & [JO DUCK ](https://www.instagram.com/jo_duck/)
+
+  Exhibition at the [Centre for Contemporary Photography](https://ccp.org.au/)
+is featured?: true
+layout: gallery
 ---
 
 *Six Fashion Photographers is a new exhibition showing July 8 - 11 at the [Centre for Contemporary Photography](https://ccp.org.au/) in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, [Jo Duck](http://www.joduck.com/).

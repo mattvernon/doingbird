@@ -27,12 +27,12 @@ Stylist Abby Bennett, Hair by Xeneb Allen, Model Tyler @ People agency. Thank yo
 
 We reached out to fashion photographers in the industry who we believe are breaking the stereotypical presentation of ‘fashion photography’ to make truly contemporary work which blurs the lines between art and fashion. 
 
-The exhibition features [Zac Bayly](https://www.instagram.com/zacbayly/), [Daniel Goode](https://www.danielgoodephoto.com/), [Daphne Nguyen](https://www.instagram.com/daphnenguyen__/?hl=en), [Ted Min](https://www.tedmin.net/), [Jamie Heath](https://www.instagram.com/jamie_heath/?hl=en) + [Jo Duck](https://www.instagram.com/jo_duck/) (hi!!). All at different stages of their careers, it’s thrilling to see their work hang on the walls of an institution like CCP. 
+The exhibition features [Zac Bayly](https://www.instagram.com/zacbayly/), [Daniel Goode](https://www.danielgoodephoto.com/), [Daphne Nguyen](https://www.instagram.com/daphnenguyen__/?hl=en), [Ted Min](https://www.tedmin.net/), [Jamie Heath](https://www.instagram.com/jamie_heath/?hl=en) + [Jo Duck](https://www.instagram.com/jo_duck/). All at different stages of their careers, it’s thrilling to see their work hang on the walls of an institution like CCP. 
 
 When I think of fashion photography exhibitions in Australia, I feel like it’s often photography of another era shown at a state library, or an historical exhibition in regional areas. 
 Fashion can often be overlooked as something frivolous, commercial or vacuous. 
 
-However the industry right now is full of incredible photographers, young up and comers along with photographers who have been in the industry for years who are still creating fresh and inspiring work.
+However the industry right now is full of incredible photographers, young up and comers along with more experienced photographers who have been in the industry for years who are still creating fresh and inspiring work.
 
 I hope other galleries can see what CCP are doing by showing a contemporary line up of fashion photographers and see the worth of our local talent. I would love to see more exhibitions like this in future, championing the personal work of our talented fashion photographers.
 
@@ -161,7 +161,7 @@ For me, coming to love fashion photography has been a process of breaking down m
 
 
 
-Zac Bayly, Ted Min + Jo Duck will be doing a talk on Sunday 11th at 2pm. Book a free ticket through the [CCP](https://ccp.org.au/)
+Zac Bayly, Ted Min + Jo Duck will be doing a talk on Saturday 10th at 2pm. Book a free ticket through the [CCP](https://ccp.org.au/)
 
 
 

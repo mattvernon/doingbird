@@ -36,12 +36,13 @@ However the industry right now is full of incredible photographers, young up and
 
 I hope other galleries can see what CCP are doing by showing a contemporary line up of fashion photographers and see the worth of our local talent. I would love to see more exhibitions like this in future, championing the personal work of our talented fashion photographers.
 
-Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.
-
-
 ![JoDuck_SpidermanCorolla.jpg](/uploads/JoDuck_SpidermanCorolla.jpg)
 *Spiderman waits in a Corolla, 2021 by JO DUCK 
 Stylist Sarah Pritchard, Hair by Xeneb Allen, Face by Megan Harrison, Model Louis Lim, Corolla courtesy of Memphis LK*
+
+
+Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.
+
 
 **ZAC BAYLY**
 

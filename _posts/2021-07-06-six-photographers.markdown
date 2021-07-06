@@ -1,7 +1,6 @@
 ---
 title: SIX PHOTOGRAPHERS
 date: 2021-07-06 20:56:00 +10:00
-published: false
 categories:
 - Features
 tags:

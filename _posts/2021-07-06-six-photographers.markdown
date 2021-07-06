@@ -7,7 +7,7 @@ tags:
 - Artists
 - Photography
 - Fashion
-Main Image: "/uploads/Daniel_Goode_Tex_2017.jpg"
+Main Image: "/uploads/JoDuck_SpidermanCorolla.jpg"
 Credits Text: |-
   Exhibition at the [CENTRE FOR CONTEMPORARY PHOTOGRAPHY](https://ccp.org.au/) 8-11 July 2021
 

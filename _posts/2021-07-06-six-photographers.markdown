@@ -8,7 +8,7 @@ published: false
 
 We reached out to fashion photographers in the industry who we believe are breaking the stereotypical presentation of ‘fashion photography’ to make truly contemporary work which blurs the lines between art and fashion. 
 
-The exhibition features [Zac Bayly](https://www.instagram.com/zacbayly/), [Daniel Goode](https://www.danielgoodephoto.com/), [Daphne Nguyen](https://www.instagram.com/daphnenguyen__/?hl=en), [Ted Min](https://www.tedmin.net/), [Jamie Heath](https://www.instagram.com/jamie_heath/?hl=en) + Jo Duck (hi). All at different stages of their careers, it’s thrilling to see their work hang on the walls of an institution like CCP. 
+The exhibition features [Zac Bayly](https://www.instagram.com/zacbayly/), [Daniel Goode](https://www.danielgoodephoto.com/), [Daphne Nguyen](https://www.instagram.com/daphnenguyen__/?hl=en), [Ted Min](https://www.tedmin.net/), [Jamie Heath](https://www.instagram.com/jamie_heath/?hl=en) + [Jo Duck](https://www.instagram.com/jo_duck/) (hi!!). All at different stages of their careers, it’s thrilling to see their work hang on the walls of an institution like CCP. 
 
 When I think of fashion photography exhibitions in Australia, I feel like it’s often photography of another era shown at a state library, or an historical exhibition in regional areas. 
 Fashion can often be overlooked as something frivolous, commercial or vacuous. 

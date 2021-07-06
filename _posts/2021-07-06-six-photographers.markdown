@@ -159,6 +159,12 @@ For me, coming to love fashion photography has been a process of breaking down m
 
 
 
+
+
+
+Zac Bayly, Ted Min + Jo Duck will be doing a talk on Sunday 11th at 2pm. Book a free ticket through the [CCP](https://ccp.org.au/)
+
+
+
 Due to covid restrictions, timed free tickets to Six Fashion Photographers must be booked through [HERE](https://www.eventbrite.com.au/e/visit-six-fashion-photographers-and-the-huxleys-places-of-worship-tickets-159750282395) 
 
-Zac Bayly, Ted Min + Jo Duck will be doing a talk on Sunday 11th at 2pm. Book a free ticket through the [CCP](https://ccp.org.au/).

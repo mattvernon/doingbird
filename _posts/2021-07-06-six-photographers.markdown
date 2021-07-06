@@ -19,7 +19,7 @@ is featured?: true
 layout: gallery
 ---
 
-**Six Fashion Photographers** is a new exhibition showing July 8 - 11 at the [Centre for Contemporary Photography](https://ccp.org.au/) in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, [Jo Duck](http://www.joduck.com/).
+*six fashion photographers* is a new exhibition showing July 8 - 11 at the [Centre for Contemporary Photography](https://ccp.org.au/) in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, [Jo Duck](http://www.joduck.com/).
 
 ![JoDuck_Chicken_hug-it.jpg](/uploads/JoDuck_Chicken_hug-it.jpg)
 *Chicken Hug-it by JO DUCK

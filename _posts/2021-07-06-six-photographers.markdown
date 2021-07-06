@@ -33,7 +33,12 @@ I hope other galleries can see what CCP are doing by showing a contemporary line
 
 Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.*
 
+Title: Chicken Hug-it
+Shoot details: Stylist Abby Bennett. Hair by Xeneb Allen. Model Tyler @ People agency. Thank you to Mathew Stott.
 
+
+Title: Spiderman waits in a Corolla, 2021
+Shoot details: Stylist Sarah Pritchard. Hair by Xeneb Allen. Face by Megan Harrison. Model Louis Lim. Corolla courtesy of Memphis LK.
 
 
 **ZAC  BAYLY**
@@ -49,6 +54,14 @@ I like that fashion photography is pretty immediate. It’s quite honest in that
 
 Do you know, I definitely didn’t, but I was obsessed with [the 90s sitcom] ‘Just Shoot Me’ - especially the fictional BLUSH Magazine’s Fashion Director Nina Van Horn, played by Wendy Malick. I think I’ve seen every episode ten times. 
 
+
+Title: Sunrise Guy with Bird, 2019
+Shoot details: Model: Reece McDonald. Stylist: Bridie Gilbert. 
+
+Title: Josh, 2018
+Shoot details: Model: Josh Lavery. Stylist: Trevor Stones. Originally published in Candy Issue 10. 
+
+
 **DAPHNE NGUYEN**
 
 *Can you tell me a bit about which images you’ve chosen to show for the exhibition?*
@@ -58,6 +71,13 @@ For me, the images are a wall of body and form (or lack of). Madame sunbathing s
 *Is there a difference between how you approach a series for a gallery wall as opposed to the pages of a magazine?*
 
 The show will be my first ever exhibition, so firstly I must thank Jo and Jack for being very supportive throughout the entire process. Shuffling different works around on a mockup wall seemed like an endless activity, but it was nice to be able to view them as a group and colour palette vs page-by-page within a publication.
+
+Title: Check your pocket for tissues, 2021
+Shoot details: Stylist Verity Mackey
+
+Title: To be preserved in jam, 2019
+Shoot details: Stylist Heidi Middleton. Beauty Sarah Tammer.  Model Romane Greze
+
 
 **DANIEL GOODE**
 
@@ -72,6 +92,12 @@ I think so, I mean there is without a doubt a number of artist here in Australia
 *Is there a difference between how you approach a series for a gallery wall as opposed to the pages of a magazine?*
  
 Yes absolutely, the edit for the gallery really came down to tones and feeling at a personal level of work from the last few years, where as I think for editorial both commercially and personal it lends itself to other factors such as the fashion, casting or collaboration with your team on which images to make final.
+
+
+Title: Daniel Stewart 2015
+
+Title: Tex 2017
+
 
 **TED MIN**
 
@@ -88,6 +114,16 @@ I studied fine arts in South Korea. The education system is very rigid and it on
 
 I’d love to see Hector Clark and Tom Cutbush’s work. 
 
+Title: A nipple - Sex Censorship
+Shoot details: For KingKong Magazine
+
+Title: The Birth of Venus Pose
+Shoot details: 
+Model: Stefania Ferrario 
+Make up Artist: Justin Henry
+Hair Stylist: Freda Rossidis
+
+
 **JAMIE HEATH**
 
 *Can you tell me a bit about which images you’ve chosen to show for the exhibition?*
@@ -103,6 +139,14 @@ Absolutely! Personally, I feel like those sorts of boundaries only exist when we
 *What is the thing you love most about fashion photography?*
 
 For me, coming to love fashion photography has been a process of breaking down my own perception of it. It all seems quite impossible when you start. Everything seems intimidating and out of reach. Very The September Issue-core. However, slowly as I came to understand more about my own practice, I realized fashion photography is really what you make it. What I love most has been the collaboration, all the new faces that I get to meet and work with. The coolest thing is that everyone is really passionate and everyone actually cares, which is so invigorating. 
+
+Title: Kurt March, 2021
+Shoot details: MODEL: Kurt Johnson STYLING: Kurt Johnson MU: Amber Adams
+
+
+Title: Rhys Dec, 2020
+Shoot details: MODEL: Rhys Kosakowski STYLING: Freddie Fredericks HMU: Sean Brady
+
 
 
 Due to covid restrictions, timed free tickets to Six Fashion Photographers must be booked through [HERE](https://www.eventbrite.com.au/e/visit-six-fashion-photographers-and-the-huxleys-places-of-worship-tickets-159750282395) 

@@ -18,7 +18,7 @@ is featured?: true
 layout: gallery
 ---
 
-*Six Fashion Photographers is a new exhibition showing July 8 - 11 at the [Centre for Contemporary Photography](https://ccp.org.au/) in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, [Jo Duck](http://www.joduck.com/).
+Six Fashion Photographers is a new exhibition showing July 8 - 11 at the [Centre for Contemporary Photography](https://ccp.org.au/) in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, [Jo Duck](http://www.joduck.com/).
 
 We reached out to fashion photographers in the industry who we believe are breaking the stereotypical presentation of ‘fashion photography’ to make truly contemporary work which blurs the lines between art and fashion. 
 
@@ -31,7 +31,7 @@ However the industry right now is full of incredible photographers, young up and
 
 I hope other galleries can see what CCP are doing by showing a contemporary line up of fashion photographers and see the worth of our local talent. I would love to see more exhibitions like this in future, championing the personal work of our talented fashion photographers.
 
-Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.*
+Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.
 
 Title: Chicken Hug-it
 Shoot details: Stylist Abby Bennett. Hair by Xeneb Allen. Model Tyler @ People agency. Thank you to Mathew Stott.

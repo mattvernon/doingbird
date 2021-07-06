@@ -88,13 +88,13 @@ The show will be my first ever exhibition, so firstly I must thank Jo and Jack 
 **DANIEL GOODE**
 
 *Can you tell me a bit about which images you’ve chosen to show for the exhibition?*
- 
+
 It was a long process kindly assisted by casting director Felicity Byrne, I printed 150+ images from the last few years and we culled down the work to about 30 images. I started to mock up layout options physically on the floor and I continued to edit down the final images based off colour, tone and feeling. It was then further refined by Jack Willet at CCP, and then I begun to play with the different sizes of the work.
- 
+
 *Internationally I feel like the lines between fashion and art are blurred, do you think that is evident in Australia?*
- 
+
 I think so, I mean there is without a doubt a number of artist here in Australia pushing their image making to levels outside of traditions, current trends and “rules”, that sit well internationally and Australia has a great sea of talent to work with.
- 
+
 *Is there a difference between how you approach a series for a gallery wall as opposed to the pages of a magazine?*
 
 Yes absolutely, the edit for the gallery really came down to tones and feeling at a personal level of work from the last few years, where as I think for editorial both commercially and personal it lends itself to other factors such as the fashion, casting or collaboration with your team on which images to make final.

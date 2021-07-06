@@ -59,6 +59,7 @@ I like that fashion photography is pretty immediate. It’s quite honest in that
 Do you know, I definitely didn’t, but I was obsessed with [the 90s sitcom] ‘Just Shoot Me’ - especially the fictional BLUSH Magazine’s Fashion Director Nina Van Horn, played by Wendy Malick. I think I’ve seen every episode ten times. 
 
 ![_C3A8936.jpg](/uploads/_C3A8936.jpg)
+
 *Sunrise Guy with Bird, 2019 by ZAC BAYLY* 
 *Model Reece McDonald, Stylist Bridie Gilbert*
 

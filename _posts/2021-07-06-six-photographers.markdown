@@ -100,7 +100,7 @@ I think so, I mean there is without a doubt a number of artist here in Australia
 Yes absolutely, the edit for the gallery really came down to tones and feeling at a personal level of work from the last few years, where as I think for editorial both commercially and personal it lends itself to other factors such as the fashion, casting or collaboration with your team on which images to make final.
 
 ![Daniel_Goode_Daniel_Stewart_2015.jpg](/uploads/Daniel_Goode_Daniel_Stewart_2015.jpg)
-Title: Daniel Stewart 2015
+*Daniel Stewart 2015 by DANIEL GOODE*
 
 ![Daniel_Goode_Tex_2017.jpg](/uploads/Daniel_Goode_Tex_2017.jpg)
 Title: Tex 2017

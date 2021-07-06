@@ -33,10 +33,11 @@ I hope other galleries can see what CCP are doing by showing a contemporary line
 
 Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.
 
+![JoDuck_Chicken_hug-it.jpg](/uploads/JoDuck_Chicken_hug-it.jpg)
 Title: Chicken Hug-it
 Shoot details: Stylist Abby Bennett. Hair by Xeneb Allen. Model Tyler @ People agency. Thank you to Mathew Stott.
 
-
+![JoDuck_SpidermanCorolla.jpg](/uploads/JoDuck_SpidermanCorolla.jpg)
 Title: Spiderman waits in a Corolla, 2021
 Shoot details: Stylist Sarah Pritchard. Hair by Xeneb Allen. Face by Megan Harrison. Model Louis Lim. Corolla courtesy of Memphis LK.
 
@@ -54,10 +55,11 @@ I like that fashion photography is pretty immediate. It’s quite honest in that
 
 Do you know, I definitely didn’t, but I was obsessed with [the 90s sitcom] ‘Just Shoot Me’ - especially the fictional BLUSH Magazine’s Fashion Director Nina Van Horn, played by Wendy Malick. I think I’ve seen every episode ten times. 
 
-
+![_C3A8936.jpg](/uploads/_C3A8936.jpg)
 Title: Sunrise Guy with Bird, 2019
 Shoot details: Model: Reece McDonald. Stylist: Bridie Gilbert. 
 
+![IMG_7921.jpg](/uploads/IMG_7921.jpg)
 Title: Josh, 2018
 Shoot details: Model: Josh Lavery. Stylist: Trevor Stones. Originally published in Candy Issue 10. 
 
@@ -72,9 +74,11 @@ For me, the images are a wall of body and form (or lack of). Madame sunbathing s
 
 The show will be my first ever exhibition, so firstly I must thank Jo and Jack for being very supportive throughout the entire process. Shuffling different works around on a mockup wall seemed like an endless activity, but it was nice to be able to view them as a group and colour palette vs page-by-page within a publication.
 
+![DAPHNENGUYEN-20210629 - CCP imacon TIFFs-DAPHNE_02 003- LR.jpg](/uploads/DAPHNENGUYEN-20210629%20-%20CCP%20imacon%20TIFFs-DAPHNE_02%20003-%20LR.jpg)
 Title: Check your pocket for tissues, 2021
 Shoot details: Stylist Verity Mackey
 
+![DAPHNENGUYEN-20210629 - CCP imacon TIFFs-Picture a 001- LR.jpg](/uploads/DAPHNENGUYEN-20210629%20-%20CCP%20imacon%20TIFFs-Picture%20a%20001-%20LR.jpg)
 Title: To be preserved in jam, 2019
 Shoot details: Stylist Heidi Middleton. Beauty Sarah Tammer.  Model Romane Greze
 
@@ -93,9 +97,10 @@ I think so, I mean there is without a doubt a number of artist here in Australia
  
 Yes absolutely, the edit for the gallery really came down to tones and feeling at a personal level of work from the last few years, where as I think for editorial both commercially and personal it lends itself to other factors such as the fashion, casting or collaboration with your team on which images to make final.
 
-
+![Daniel_Goode_Daniel_Stewart_2015.jpg](/uploads/Daniel_Goode_Daniel_Stewart_2015.jpg)
 Title: Daniel Stewart 2015
 
+![Daniel_Goode_Tex_2017.jpg](/uploads/Daniel_Goode_Tex_2017.jpg)
 Title: Tex 2017
 
 
@@ -114,14 +119,13 @@ I studied fine arts in South Korea. The education system is very rigid and it on
 
 I’d love to see Hector Clark and Tom Cutbush’s work. 
 
+![CCP_A_nipple_SexCensorship_2020.jpg](/uploads/CCP_A_nipple_SexCensorship_2020.jpg)
 Title: A nipple - Sex Censorship
 Shoot details: For KingKong Magazine
 
+![CCP_TheBirthofVenusPose_2021.jpg](/uploads/CCP_TheBirthofVenusPose_2021.jpg)
 Title: The Birth of Venus Pose
-Shoot details: 
-Model: Stefania Ferrario 
-Make up Artist: Justin Henry
-Hair Stylist: Freda Rossidis
+Shoot details: Model- Stefania Ferrario, Make up Artist- Justin Henry, Hair Stylist- Freda Rossidis
 
 
 **JAMIE HEATH**
@@ -140,10 +144,12 @@ Absolutely! Personally, I feel like those sorts of boundaries only exist when we
 
 For me, coming to love fashion photography has been a process of breaking down my own perception of it. It all seems quite impossible when you start. Everything seems intimidating and out of reach. Very The September Issue-core. However, slowly as I came to understand more about my own practice, I realized fashion photography is really what you make it. What I love most has been the collaboration, all the new faces that I get to meet and work with. The coolest thing is that everyone is really passionate and everyone actually cares, which is so invigorating. 
 
+![Heath_office_issue14_High_05 (1).jpg](/uploads/Heath_office_issue14_High_05%20(1).jpg)
 Title: Kurt March, 2021
 Shoot details: MODEL: Kurt Johnson STYLING: Kurt Johnson MU: Amber Adams
 
 
+![Scan 16.jpg](/uploads/Scan%2016.jpg)
 Title: Rhys Dec, 2020
 Shoot details: MODEL: Rhys Kosakowski STYLING: Freddie Fredericks HMU: Sean Brady
 

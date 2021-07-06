@@ -4,9 +4,7 @@ date: 2021-07-06 20:56:00 +10:00
 published: false
 ---
 
-Six Fashion Photographers is a new exhibition showing July 8 - 11 at the Centre for Contemporary Photography in Collingwood
-
-Curated by Jack Willet of the CCP and myself, Jo Duck.
+*Six Fashion Photographers is a new exhibition showing July 8 - 11 at the Centre for Contemporary Photography in Collingwood, Victoria. Curated by Jack Willet of the CCP and myself, Jo Duck.
 
 We reached out to fashion photographers in the industry who we believe are breaking the stereotypical presentation of ‘fashion photography’ to make truly contemporary work which blurs the lines between art and fashion. 
 
@@ -19,14 +17,9 @@ However the industry right now is full of incredible photographers, young up and
 
 I hope other galleries can see what CCP are doing by showing a contemporary line up of fashion photographers and see the worth of our local talent. I would love to see more exhibitions like this in future, championing the personal work of our talented fashion photographers.
 
-Click through for a sample of the work which will be shown, and also a few q+a’s with the artists.
+Scroll through for a sample of the work which will be shown, and also a few q+a’s with the artists.*
 
 
-Due to cover restrictions, timed free tickets to Six Fashion Photographers must be booked through this link:
-
-https://www.eventbrite.com.au/e/visit-six-fashion-photographers-and-the-huxleys-places-of-worship-tickets-159750282395
-
-Zac Bayly, Ted Min + Jo Duck will be doing a talk on Sunday 11th at 2pm. Book a free ticket through CCP.
 
 
 ZAC  BAYLY
@@ -92,3 +85,8 @@ Absolutely! Personally, I feel like those sorts of boundaries only exist when we
 What is the thing you love most about fashion photography?
 
 For me, coming to love fashion photography has been a process of breaking down my own perception of it. It all seems quite impossible when you start. Everything seems intimidating and out of reach. Very The September Issue-core. However, slowly as I came to understand more about my own practice, I realized fashion photography is really what you make it. What I love most has been the collaboration, all the new faces that I get to meet and work with. The coolest thing is that everyone is really passionate and everyone actually cares, which is so invigorating. 
+
+
+Due to cover restrictions, timed free tickets to Six Fashion Photographers must be booked through [HERE](https://www.eventbrite.com.au/e/visit-six-fashion-photographers-and-the-huxleys-places-of-worship-tickets-159750282395) 
+
+Zac Bayly, Ted Min + Jo Duck will be doing a talk on Sunday 11th at 2pm. Book a free ticket through the CCP.

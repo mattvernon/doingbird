@@ -8,6 +8,7 @@ tags:
 - Artists
 - Photography
 - Fashion
+Main Image: "/uploads/JoDuck_SpidermanCorolla.jpg"
 Credits Text: |-
   Exhibition at the [Centre for Contemporary Photography](https://ccp.org.au/) 8-11 July 2021
 

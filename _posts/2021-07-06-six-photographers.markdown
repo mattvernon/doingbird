@@ -77,12 +77,12 @@ For me, the images are a wall of body and form (or lack of). Madame sunbathing s
 The show will be my first ever exhibition, so firstly I must thank Jo and Jack for being very supportive throughout the entire process. Shuffling different works around on a mockup wall seemed like an endless activity, but it was nice to be able to view them as a group and colour palette vs page-by-page within a publication.
 
 ![DAPHNENGUYEN-20210629 - CCP imacon TIFFs-DAPHNE_02 003- LR.jpg](/uploads/DAPHNENGUYEN-20210629%20-%20CCP%20imacon%20TIFFs-DAPHNE_02%20003-%20LR.jpg)
-Title: Check your pocket for tissues, 2021
-Shoot details: Stylist Verity Mackey
+*Check your pocket for tissues, 2021 by DAPHNE NGUYEN*
+*Stylist Verity Mackey*
 
 ![DAPHNENGUYEN-20210629 - CCP imacon TIFFs-Picture a 001- LR.jpg](/uploads/DAPHNENGUYEN-20210629%20-%20CCP%20imacon%20TIFFs-Picture%20a%20001-%20LR.jpg)
-Title: To be preserved in jam, 2019
-Shoot details: Stylist Heidi Middleton. Beauty Sarah Tammer.  Model Romane Greze
+*To be preserved in jam, 2019 by DAPHNE NGUYEN*
+*Stylist Heidi Middleton, Beauty Sarah Tammer,  Model Romane Greze*
 
 
 **DANIEL GOODE**

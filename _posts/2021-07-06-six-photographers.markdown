@@ -14,7 +14,7 @@ Credits Text: |-
 
   Photographs by [DANIEL GOODE](https://www.instagram.com/dl.goode/), [ZAC BAYLY](https://www.instagram.com/zacbayly/), [JAMIE HEATH](https://www.instagram.com/jamie_heath/?hl=en), [DAPHNE NGUYEN](https://www.instagram.com/daphnenguyen__/?hl=en), [TED MIN](https://www.instagram.com/tedminted/) & [JO DUCK ](https://www.instagram.com/jo_duck/)
 
-  Text by [JO DUCK ](https://www.instagram.com/jo_duck/)
+  Text by [Jo Duck](https://www.instagram.com/jo_duck/)
 is featured?: true
 layout: gallery
 ---

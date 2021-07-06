@@ -42,7 +42,8 @@ Title: Spiderman waits in a Corolla, 2021
 Shoot details: Stylist Sarah Pritchard. Hair by Xeneb Allen. Face by Megan Harrison. Model Louis Lim. Corolla courtesy of Memphis LK.
 
 
-**ZAC  BAYLY**
+ZAC BAYLY 
+
 *Can you tell me a bit about which images you’ve chosen to show for the exhibition?*
 
 I chose a handful of my favourite photos I’ve taken over the past four years. I sort of like the idea that nothing’s new or old. It doesn’t matter if it was taken a year ago or three years ago; if it’s been seen before or if it’s the first time it’s been published/shown. I think the opportunity with showing work printed and hung up in a gallery versus in a magazine or on social media is that the images get a second life. 

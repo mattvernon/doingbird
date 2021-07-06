@@ -58,12 +58,12 @@ I like that fashion photography is pretty immediate. It’s quite honest in that
 Do you know, I definitely didn’t, but I was obsessed with [the 90s sitcom] ‘Just Shoot Me’ - especially the fictional BLUSH Magazine’s Fashion Director Nina Van Horn, played by Wendy Malick. I think I’ve seen every episode ten times. 
 
 ![_C3A8936.jpg](/uploads/_C3A8936.jpg)
-Title: Sunrise Guy with Bird, 2019
-Shoot details: Model: Reece McDonald. Stylist: Bridie Gilbert. 
+*Sunrise Guy with Bird, 2019 by ZAC BAYLY* 
+*Model Reece McDonald, Stylist Bridie Gilbert*
 
 ![IMG_7921.jpg](/uploads/IMG_7921.jpg)
-Title: Josh, 2018
-Shoot details: Model: Josh Lavery. Stylist: Trevor Stones. Originally published in Candy Issue 10. 
+*Josh, 2018 by ZAC BAYLY*
+*Model Josh Lavery, Stylist Trevor Stones. Originally published in Candy Issue 10.* 
 
 
 **DAPHNE NGUYEN**

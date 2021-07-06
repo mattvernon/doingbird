@@ -103,7 +103,7 @@ Yes absolutely, the edit for the gallery really came down to tones and feeling a
 *Daniel Stewart 2015 by DANIEL GOODE*
 
 ![Daniel_Goode_Tex_2017.jpg](/uploads/Daniel_Goode_Tex_2017.jpg)
-Title: Tex 2017
+*Tex 2017 by DANIEL GOODE*
 
 
 **TED MIN**
@@ -122,12 +122,12 @@ I studied fine arts in South Korea. The education system is very rigid and it on
 I’d love to see Hector Clark and Tom Cutbush’s work. 
 
 ![CCP_A_nipple_SexCensorship_2020.jpg](/uploads/CCP_A_nipple_SexCensorship_2020.jpg)
-Title: A nipple - Sex Censorship
-Shoot details: For KingKong Magazine
+*A nipple - Sex Censorship by TED MIN*
+*Photographed for KingKong Magazine*
 
 ![CCP_TheBirthofVenusPose_2021.jpg](/uploads/CCP_TheBirthofVenusPose_2021.jpg)
-Title: The Birth of Venus Pose
-Shoot details: Model- Stefania Ferrario, Make up Artist- Justin Henry, Hair Stylist- Freda Rossidis
+*The Birth of Venus Pose by TED MIN*
+*Model Stefania Ferrario, Make up Justin Henry, Hair Freda Rossidis*
 
 
 **JAMIE HEATH**
@@ -147,13 +147,13 @@ Absolutely! Personally, I feel like those sorts of boundaries only exist when we
 For me, coming to love fashion photography has been a process of breaking down my own perception of it. It all seems quite impossible when you start. Everything seems intimidating and out of reach. Very The September Issue-core. However, slowly as I came to understand more about my own practice, I realized fashion photography is really what you make it. What I love most has been the collaboration, all the new faces that I get to meet and work with. The coolest thing is that everyone is really passionate and everyone actually cares, which is so invigorating. 
 
 ![Heath_office_issue14_High_05 (1).jpg](/uploads/Heath_office_issue14_High_05%20(1).jpg)
-Title: Kurt March, 2021
-Shoot details: MODEL: Kurt Johnson STYLING: Kurt Johnson MU: Amber Adams
+*Kurt March, 2021 by JAMIE HEATH*
+*Model & Styling Kurt Johnson, Make Up Amber Adams*
 
 
 ![Scan 16.jpg](/uploads/Scan%2016.jpg)
-Title: Rhys Dec, 2020
-Shoot details: MODEL: Rhys Kosakowski STYLING: Freddie Fredericks HMU: Sean Brady
+*Rhys December, 2020 by JAMIE HEATH*
+*Model Rhys Kosakowski, Styling Freddie Fredericks, Hair & Make Up Sean Brady*
 
 
 

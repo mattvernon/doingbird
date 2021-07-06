@@ -95,7 +95,7 @@ It was a long process kindly assisted by casting director Felicity Byrne, I prin
 I think so, I mean there is without a doubt a number of artist here in Australia pushing their image making to levels outside of traditions, current trends and “rules”, that sit well internationally and Australia has a great sea of talent to work with.
  
 *Is there a difference between how you approach a series for a gallery wall as opposed to the pages of a magazine?*
- 
+
 Yes absolutely, the edit for the gallery really came down to tones and feeling at a personal level of work from the last few years, where as I think for editorial both commercially and personal it lends itself to other factors such as the fashion, casting or collaboration with your team on which images to make final.
 
 ![Daniel_Goode_Daniel_Stewart_2015.jpg](/uploads/Daniel_Goode_Daniel_Stewart_2015.jpg)

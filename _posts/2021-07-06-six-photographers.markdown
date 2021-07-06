@@ -40,11 +40,10 @@ Scroll through for a sample of the work which will be shown, and also a few q+aâ
 
 
 ![JoDuck_SpidermanCorolla.jpg](/uploads/JoDuck_SpidermanCorolla.jpg)
-Spiderman waits in a Corolla, 2021 by JO DUCK 
-Stylist Sarah Pritchard, Hair by Xeneb Allen, Face by Megan Harrison, Model Louis Lim, Corolla courtesy of Memphis LK.
+*Spiderman waits in a Corolla, 2021 by JO DUCK 
+Stylist Sarah Pritchard, Hair by Xeneb Allen, Face by Megan Harrison, Model Louis Lim, Corolla courtesy of Memphis LK*
 
-
-**ZAC BAYLY **
+**ZAC BAYLY**
 
 *Can you tell me a bit about which images youâ€™ve chosen to show for the exhibition?*
 

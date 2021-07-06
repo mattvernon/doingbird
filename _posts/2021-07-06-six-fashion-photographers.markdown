@@ -1,5 +1,5 @@
 ---
-title: SIX PHOTOGRAPHERS
+title: SIX FASHION PHOTOGRAPHERS
 date: 2021-07-06 20:56:00 +10:00
 categories:
 - Features

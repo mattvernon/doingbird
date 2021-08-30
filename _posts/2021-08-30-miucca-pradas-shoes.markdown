@@ -1,7 +1,6 @@
 ---
 title: Miuccia Prada's Shoes
 date: 2021-08-30 12:51:00 +10:00
-published: false
 categories:
 - Features
 tags:
@@ -19,7 +18,7 @@ is featured?: true
 layout: post
 ---
 
-#PRINT ISSUE #18 
+PRINT ISSUE #18 
 
 *Photography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/), Words by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)*, *Shoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)*
 

@@ -2,6 +2,18 @@
 title: Miuccia Prada's Shoes
 date: 2021-08-30 12:51:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- FASHION
+- photography
+- shoes
+- designer
+- prada
+- miucciaprada
+- archive
+- print
+- magazine
 Main Image: "/uploads/Doingbird-18-Miuccia-Prada_s-shoes-1.jpg"
 Credits Text: "From the DOINGBIRD PRINT ARCHIVE \n\nissue #18 \n\nPhotography by [Toby
   McFarlan Pond](http://tobymcfarlanpond.com/) \nWords by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)
@@ -26,7 +38,7 @@ layout: gallery
 
 ![Doingbird-18-Miuccia-Prada_s-shoes-8.jpg](/uploads/Doingbird-18-Miuccia-Prada_s-shoes-8.jpg)
 
-**Miuccia Prada’s shoes. Words by Susannah Frankel **
+### Miuccia Prada’s shoes. Words by Susannah Frankel
 
 Our tastes, we all know are shaped in childhood, often inspired by our mothers or indeed as a reaction against their dress codes and those imposed upon us at a tender age. In this, Miuccia Prada is no exception. When she was a mere slip of a girl, she was expected to wear footwear that was flat, brown and ultra-traditional, mostly of the moccasin variety. She therefore longed for, and even dreamed about, wearing more whimsical pink and red shoes. Her mother, meanwhile, was more likely to be seen in elegant and sophisticated designs, with a high but never spiked heel. Stilettos were considered vulgar.
 	

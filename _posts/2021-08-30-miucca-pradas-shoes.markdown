@@ -15,8 +15,8 @@ tags:
 - print
 - magazine
 Main Image: "/uploads/Doingbird-18-Miuccia-Prada_s-shoes-1.jpg"
-Credits Text: "From the DOINGBIRD PRINT ARCHIVE \n\nissue #18 \n\nPhotography by [Toby
-  McFarlan Pond](http://tobymcfarlanpond.com/) \nWords by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)
+Credits Text: "DOINGBIRD PRINT ISSUE #18 \n\nPhotography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/)
+  \nWords by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)
   \n\nShoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)"
 is featured?: true
 layout: post

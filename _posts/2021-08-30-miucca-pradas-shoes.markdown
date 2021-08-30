@@ -15,9 +15,6 @@ tags:
 - print
 - magazine
 Main Image: "/uploads/Doingbird-18-Miuccia-Prada_s-shoes-1.jpg"
-Credits Text: "DOINGBIRD PRINT ISSUE #18 \n\nPhotography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/)
-  \nWords by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)
-  \n\nShoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)"
 is featured?: true
 layout: post
 ---
@@ -66,5 +63,7 @@ And coming from Miuccia Prada, that is praise indeed.
 
 *Susannah Frankel is a London-based writer & curator.* 
 [prada.com](https://www.prada.com/au/en.html) [miumiu.com](https://www.miumiu.com/au/en.html) 
+
+*Shoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)*
 
 *NB: Since this article was originally published, Katie Grand has left LOVE Magazine and now heads up The Perfect Magazine.* 

@@ -20,7 +20,7 @@ layout: post
 
  
 
-*from DOINGBIRD PRINT ISSUE #18 Photography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/), Words by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)*, *Shoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)*
+*from DOINGBIRD PRINT ISSUE #18 photography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/), words by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)*, *shoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)*
 
 ![Doingbird-18-Miuccia-Prada_s-shoes-1.jpg](/uploads/Doingbird-18-Miuccia-Prada_s-shoes-1.jpg)
 

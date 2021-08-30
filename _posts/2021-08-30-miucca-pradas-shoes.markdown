@@ -19,7 +19,7 @@ is featured?: true
 layout: post
 ---
 
-# DOINGBIRD PRINT ISSUE #18 
+#PRINT ISSUE #18 
 
 *Photography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/), Words by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)* *Shoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)*
 

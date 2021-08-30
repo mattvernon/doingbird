@@ -7,6 +7,7 @@ Credits Text: "From the DOINGBIRD PRINT ARCHIVE \n\nissue #18 \n\nPhotography by
   McFarlan Pond](http://tobymcfarlanpond.com/) \nWords by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)
   \n\nShoes from the archive collection of [Katie Grand](https://www.instagram.com/kegrand/)"
 is featured?: true
+layout: gallery
 ---
 
 ![Doingbird-18-Miuccia-Prada_s-shoes-1.jpg](/uploads/Doingbird-18-Miuccia-Prada_s-shoes-1.jpg)

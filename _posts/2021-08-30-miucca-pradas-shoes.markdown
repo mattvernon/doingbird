@@ -23,7 +23,8 @@ layout: post
 ---
 
 DOINGBIRD PRINT ISSUE #18 
-Photography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/) Words by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en) 
+
+*Photography by [Toby McFarlan Pond](http://tobymcfarlanpond.com/) Words by [Susannah Frankel](https://www.instagram.com/susannahfrankel/?hl=en)* 
 
 ![Doingbird-18-Miuccia-Prada_s-shoes-1.jpg](/uploads/Doingbird-18-Miuccia-Prada_s-shoes-1.jpg)
 

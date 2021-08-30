@@ -58,7 +58,9 @@ Of Grand’s obsession with her designs, she has this to say: ‘Katie has a rea
 And coming from Miuccia Prada, that is praise indeed. 
 
 
-Susannah Frankel is a London-based writer & curator. 
+
+
+*Susannah Frankel is a London-based writer & curator.* 
 [prada.com](https://www.prada.com/au/en.html) [miumiu.com](https://www.miumiu.com/au/en.html) 
 
-NB: Since this article was originally published, Katie Grand has left LOVE Magazine and now heads up The Perfect Magazine. 
+*NB: Since this article was originally published, Katie Grand has left LOVE Magazine and now heads up The Perfect Magazine.* 

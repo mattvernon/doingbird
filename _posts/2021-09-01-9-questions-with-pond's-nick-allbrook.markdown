@@ -37,6 +37,11 @@ I'd say gumption. That's right, gumption! For example, my friend Gum possesses t
 
 I remember being very happy in the tiki bar my best friend Tayo built in his backyard which was next to my backyard. He'd be sat in the backyard with a fucking massive fatty hanging out his mouth carving logs into Tiki gods whose heads we'd sit while drinking cocktails of juice and alcohol listening to Late Nights with Jeremih and D'Angelo (whose album Black Messiah is one of the greatest ever, and was an enormous influence on our previous album Tasmania, but less on 9, which was more influenced by no-wave dance music like ESG, Suicide and Liquid Liquid, as well as lo-fi synth sort of punk and Nitzer Ebb* and the idea - but only the idea - of Trent Reznor)
 
+![blue hastings top off.jpeg](/uploads/blue%20hastings%20top%20off.jpeg)
+![blue hastings lolipop.jpeg](/uploads/blue%20hastings%20lolipop.jpeg)
+![mouth blue hastings.jpeg](/uploads/mouth%20blue%20hastings.jpeg)
+
+
 ### 5. What is the trait you most deplore in others?
 
 I'm surprisingly tolerant, for such a notorious arsehole. I don't mind people being boring even, which a lot of people find unbearable. This is probably because I'm so terrified of being boring myself, because I talk slowly and people always lose concentration when I'm talking. That's maybe why i enjoy solitary activities like running long distances and writing lyrics before sunrise about things like fig season and my girlfriend and Yukio Mishima and my slippers which then become songs for Pond albums, like the song 'Gold Cup/Plastic Sole'. 

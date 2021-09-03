@@ -5,6 +5,7 @@ published: false
 Credits Text: "POND'S NICK ALLBROOK \nPhotography: Tiger Hutchence-Geldof\nInterview:
   Zac Bayly\n"
 is featured?: true
+layout: gallery
 ---
 
 ![green hastings lolipop.jpeg](/uploads/green%20hastings%20lolipop.jpeg)

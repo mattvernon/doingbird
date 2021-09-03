@@ -27,6 +27,8 @@ I lie to avoid hurting people's feelings. Like if someone were to ask if their h
 
 Drinking vast amounts of very expensive champagne and lying.
 
+![hastings polaroids 2nd.jpg](/uploads/hastings%20polaroids%202nd.jpg)
+
 ### 3. What is the quality you most like in a man?
 
 I'd say gumption. That's right, gumption! For example, my friend Gum possesses the most gumption of any man I know, so much so that he changed his name from whatever it was (who cares) to Gum! Gum has such Gumption, he works very hard at his job - being in a band with me - going into the studio and mixing and processing songs for our new album then going home to look after his cute baby. 

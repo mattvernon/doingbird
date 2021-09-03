@@ -54,6 +54,8 @@ I see what you did there, you dog. Fine ummm, that'd be B for Band. etc etc.
 
 One of the non-famous ones that just tried hard and kind of almost got there. However I really admire and I guess somewhat identify with Agnes Martin who the Song for Agnes is about. She was just fucking cool as hell. I identify with her weariness at the world and the demands of creative industries, and that leads her to a deep infatuation with Zen, and a need to be isolated from the world. I want to do that a lot, but i'm an addict, a modernism, capitalist addict, addicted to making this fucking goddam music and getting patted on the back for it.
 
+![cowboy sheet copy.jpg](/uploads/cowboy%20sheet%20copy.jpg)
+
 ### 8. What is your most treasured possession?
 
 My boomerang, given to me by Darriga Watson. Once there was a pigeon that kept coming into our house, who i shoo'd off because it had a massive disgusting parasite living on it like a fucking alien host. It got so pissed at me that it came in one day, climbed up on the crowded mantelpiece and shat on the boomerang, and nothing else. It knew I loved these things without me ever touching them or talking to the pigeon about them or anything. That pigeon was the inspiration for the song Pink Lunettes. 

@@ -68,5 +68,6 @@ I would come back as a needle so i could carve out the sweet sounds of our stupi
 
 *Note: Nitzer Ebb was not an influence on this album, I only heard of them on Wednesday, but I couldn’t break from the path of lying, like an emu on a long road.*
 
+![0012 sheet.jpg](/uploads/0012%20sheet.jpg)
 
 ![nick fpr doingbird copy.jpg](/uploads/nick%20fpr%20doingbird%20copy.jpg)

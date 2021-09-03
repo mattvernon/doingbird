@@ -65,3 +65,6 @@ My boomerang, given to me by Darriga Watson. Once there was a pigeon that kept c
 I would come back as a needle so i could carve out the sweet sounds of our stupid fucking NINTH ALBUM NINE FOR THE REST OF ETERNITY AND WATCH EVERYONE AROUND ME DIE AS I LISTEN AND LISTEN TO MY OLD HUMAN SELF SCREAM.
 
 *Note: Nitzer Ebb was not an influence on this album, I only heard of them on Wednesday, but I couldn’t break from the path of lying, like an emu on a long road.*
+
+![0012_### copy.jpg](/uploads/0012_%23%23%23%20copy.jpg)
+![nick fpr doingbird copy.jpg](/uploads/nick%20fpr%20doingbird%20copy.jpg)

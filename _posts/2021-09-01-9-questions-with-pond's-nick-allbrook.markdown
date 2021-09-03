@@ -8,8 +8,9 @@ tags:
 - MUSIC
 - POND
 - Photography
-Credits Text: "POND'S NICK ALLBROOK \nPhotography: Tiger Hutchence-Geldof\nInterview:
-  Zac Bayly\n"
+- nickallbrook
+Credits Text: "photographer TIGER HUTCHENCE-GELDOF \ninterview [ZAC BAYLY](https://www.instagram.com/zacbayly/)\nproduction
+  [POSITIVE FEEDBACK](https://www.instagram.com/positivefdbk/) \n\n9  \n"
 is featured?: true
 layout: gallery
 ---

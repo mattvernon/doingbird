@@ -8,6 +8,7 @@ tags:
 - POND
 - Photography
 - nickallbrook
+Main Image: "/uploads/green%20hastings%20lolipop.jpeg"
 Credits Text: "photographer TIGER HUTCHENCE-GELDOF \n\ninterview [ZAC BAYLY](https://www.instagram.com/zacbayly/)\n\n[9](https://pondband.ffm.to/nine)
   by [POND](https://www.instagram.com/ponderers/?hl=en) out friday 1st october 2021\n\n\nproduction
   [positive feedback](https://www.instagram.com/positivefdbk/) \n\n \n"

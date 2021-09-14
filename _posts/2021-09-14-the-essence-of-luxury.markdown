@@ -25,3 +25,22 @@ Credits Text: "Creative direction & styling Sarah Pritchard \nPhotography Lauren
 
 ![August 202115056.jpg](/uploads/August%20202115056.jpg)
 
+Bottega Veneta Tall Puddle Boot
+
+Balenciaga BB Mode destroyed piercing Cap 
+
+D’heygere Hoop Ear Cuff 
+
+Prada Jacquard Bag
+
+Balenciaga flip flops 
+
+Abra Baby Spike green bag 
+
+US x Luke Sands ‘RATS’ necklace
+
+D’heygere White board bracelet 
+
+Prada Cleo bag 
+
+Prada Lime Boots

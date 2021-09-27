@@ -2,7 +2,9 @@
 title: The Essence of Luxury
 date: 2021-09-14 12:49:00 +10:00
 published: false
+Main Image: "/uploads/August%20202114965.jpg"
 Credits Text: "Creative direction & styling Sarah Pritchard \nPhotography Lauren Bamford "
+is featured?: true
 ---
 
 ![August 20214136.jpg](/uploads/August%2020214136.jpg)

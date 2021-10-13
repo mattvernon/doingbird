@@ -3,7 +3,7 @@ title: Reimagined Materials
 date: 2021-10-12 11:50:00 +11:00
 published: false
 Credits Text: "Photographer [Dan Knott](https://www.instagram.com/dan_knott/?hl=en)
-  \ www.danielknottphotography.com \nStylist [Phoebe Deeprose](https://www.instagram.com/deeprosedesigns/)
+  \ www.danielknottphotography.com   \nStylist [Phoebe Deeprose](https://www.instagram.com/deeprosedesigns/)
   https://www.phoebedeeprose.co.uk/"
 layout: gallery
 ---

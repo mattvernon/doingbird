@@ -35,9 +35,9 @@ layout: gallery
 ![August 20214246.jpg](/uploads/August%2020214246.jpg)
 [D’heygere](https://dheygere.com/) Hoop Ear Cuff
 
-![August 202115043.jpg](/uploads/August%20202115043.jpg)
-[Prada](https://www.prada.com/au/en.html) Cleo bag
-
 ![August 202115056.jpg](/uploads/August%20202115056.jpg)
 [Balenciaga](https://www.balenciaga.com/en-au) BB Mode destroyed piercing Cap 
+
+![August 202115043.jpg](/uploads/August%20202115043.jpg)
+[Prada](https://www.prada.com/au/en.html) Cleo bag
 

@@ -1,7 +1,6 @@
 ---
 title: The Essence of Luxury
 date: 2021-10-13 09:00:00 +11:00
-published: false
 categories:
 - Fashion
 tags:

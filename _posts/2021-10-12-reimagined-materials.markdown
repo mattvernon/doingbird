@@ -2,6 +2,11 @@
 title: Reimagined Materials
 date: 2021-10-12 11:50:00 +11:00
 published: false
+Credits Text: |
+  Dan Knott , @dan_knott, www.danielknottphotography.com
+
+  - Phoebe Deeprose, @deeperspaces
+  https://www.phoebedeeprose.co.uk/
 layout: gallery
 ---
 

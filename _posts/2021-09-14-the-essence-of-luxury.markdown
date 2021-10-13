@@ -8,6 +8,8 @@ is featured?: true
 ---
 
 ![August 20214136.jpg](/uploads/August%2020214136.jpg)
+Bottega Veneta Tall Puddle Boot
+
 
 ![August 20214159.jpg](/uploads/August%2020214159.jpg)
 
@@ -27,7 +29,6 @@ is featured?: true
 
 ![August 202115056.jpg](/uploads/August%20202115056.jpg)
 
-Bottega Veneta Tall Puddle Boot
 
 Balenciaga BB Mode destroyed piercing Cap 
 

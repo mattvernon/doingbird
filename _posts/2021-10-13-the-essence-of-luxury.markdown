@@ -4,9 +4,9 @@ date: 2021-10-13 09:00:00 +11:00
 published: false
 Main Image: "/uploads/August%20202114965.jpg"
 Credits Text: |-
-  ### Creative direction & styling [Sarah Pritchard ](https://www.instagram.com/sar4hcant/?hl=en)
+  Creative Direction & Styling [Sarah Pritchard ](https://www.instagram.com/sar4hcant/?hl=en)
 
-  ### Photography [Lauren Bamford ](https://www.laurenbamford.com/)
+  Photography [Lauren Bamford ](https://www.laurenbamford.com/)
 is featured?: true
 layout: gallery
 ---

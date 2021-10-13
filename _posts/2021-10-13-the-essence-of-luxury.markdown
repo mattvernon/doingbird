@@ -2,6 +2,12 @@
 title: The Essence of Luxury
 date: 2021-10-13 09:00:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- FASHION
+- still life
+- Photography
 Main Image: "/uploads/August%20202114965.jpg"
 Credits Text: |-
   Creative Direction & Styling [Sarah Pritchard ](https://www.instagram.com/sar4hcant/?hl=en)

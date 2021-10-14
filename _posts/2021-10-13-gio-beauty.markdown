@@ -3,10 +3,14 @@ title: Deep Red
 date: 2021-10-13 12:48:00 +11:00
 published: false
 Main Image: "/uploads/005.jpg"
-Credits Text: "Photography : @Giovanni Di Stefano\n\nAssistant photographer @ Gabriele
-  Renna \n\nStyling :  @JuneNakamoto @ shootwievmanagemant artist\n\nHirstyle :@ Marco
-  Braca@walterschupfermanagement\n\nMake-up @ Tiina Roivainen @airportagency using
-  CHANEL.BEAUTY\n\n\nModels: bo-bay, vivien, charlotte @ thefaceparis \n               yousra@yousnao\n\n"
+Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)\n\nAssistant
+  photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)\n\nStyling
+  [JuneNakamoto](https://www.instagram.com/junenakamoto/?hl=en) [Shotview Artist Management
+  ](http://www.shotview.com/)\n\nHairstyle [Marco Braca ](https://www.instagram.com/marcobracahair/?hl=en)
+  [Walterschupfer Management](https://www.wschupfer.com/)\n\nMake-up [Tiina Roivainen](https://www.instagram.com/tiinaroivainen/?hl=en)
+  [Airport Agency](https://airportagency.com/) using [Chanel Beauty ](https://www.chanel.com/au/makeup/)\n\n\nModels:
+  [Bo Bay](https://www.instagram.com/bobaypark/?hl=en), vivien, charlotte @ thefaceparis
+  \n               yousra@yousnao\n\n"
 is featured?: true
 layout: gallery
 ---

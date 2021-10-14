@@ -12,10 +12,13 @@ layout: gallery
 ---
 
 ![001-156a52.jpg](/uploads/001-156a52.jpg)
+jacket Aknitter by BLESS
 
 ![002-24bbac.jpg](/uploads/002-24bbac.jpg)
+Ruffle white coton shirt by AGNES B.
 
 ![003.jpg](/uploads/003.jpg)
+Turtle Knitwear –by DROME
 
 ![004.jpg](/uploads/004.jpg)
 
@@ -24,3 +27,4 @@ layout: gallery
 ![006.jpg](/uploads/006.jpg)
 
 ![007.jpg](/uploads/007.jpg)
+Couturized t-shirt with satin stole and safety pins by -MAISON DAVIDE BAZZERLA

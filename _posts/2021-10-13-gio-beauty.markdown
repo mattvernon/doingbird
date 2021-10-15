@@ -16,7 +16,7 @@ layout: gallery
 ---
 
 ![001-156a52.jpg](/uploads/001-156a52.jpg)
-jacket Aknitter by BLESS
+jacket Aknitter by [BLESS](http://blesswebshop.com/)
 
 ![002-24bbac.jpg](/uploads/002-24bbac.jpg)
 Ruffle white coton shirt by AGNES B.

@@ -13,7 +13,7 @@ is featured?: true
 layout: post
 ---
 
-*from* DOINGBIRD PRINT ISSUE #18 photography by [Derek Ridgers](https://www.instagram.com/derekridgers/?hl=en), words by Adam Murray 
+*from* DOINGBIRD PRINT ISSUE #18 Photography by [Derek Ridgers](https://www.instagram.com/derekridgers/?hl=en), words by Adam Murray 
 
 ![Doingbird-18-Subcultures-Derek-Ridgers-1.jpg](/uploads/Doingbird-18-Subcultures-Derek-Ridgers-1.jpg)
 
@@ -36,3 +36,7 @@ layout: post
 ![Doingbird-18-Subcultures-Derek-Ridgers-10.jpg](/uploads/Doingbird-18-Subcultures-Derek-Ridgers-10.jpg)
 
 ![Doingbird-18-Subcultures-Derek-Ridgers-11.jpg](/uploads/Doingbird-18-Subcultures-Derek-Ridgers-11.jpg)
+
+![Screen Shot 2021-10-15 at 1.16.48 pm.png](/uploads/Screen%20Shot%202021-10-15%20at%201.16.48%20pm.png)
+
+![Screen Shot 2021-10-15 at 1.16.59 pm.png](/uploads/Screen%20Shot%202021-10-15%20at%201.16.59%20pm.png)

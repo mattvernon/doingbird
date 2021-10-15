@@ -19,10 +19,10 @@ layout: gallery
 jacket Aknitter by [BLESS](http://blesswebshop.com/)
 
 ![002-24bbac.jpg](/uploads/002-24bbac.jpg)
-Ruffle white coton shirt by AGNES B.
+Ruffle white coton shirt by [AGNES B](https://www.agnesb.us/)
 
 ![003.jpg](/uploads/003.jpg)
-Turtle Knitwear –by DROME
+Turtle Knitwear [DROMe](https://www.drome.it/)
 
 ![004.jpg](/uploads/004.jpg)
 

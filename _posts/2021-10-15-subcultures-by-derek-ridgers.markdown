@@ -13,6 +13,8 @@ is featured?: true
 layout: post
 ---
 
+*from* DOINGBIRD PRINT ISSUE #18 *photography by [Derek Ridgers](https://www.instagram.com/derekridgers/?hl=en), words by Adam Murray 
+
 ![Doingbird-18-Subcultures-Derek-Ridgers-1.jpg](/uploads/Doingbird-18-Subcultures-Derek-Ridgers-1.jpg)
 
 ![Doingbird-18-Subcultures-Derek-Ridgers-2.jpg](/uploads/Doingbird-18-Subcultures-Derek-Ridgers-2.jpg)

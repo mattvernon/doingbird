@@ -2,6 +2,15 @@
 title: Subcultures by Derek Ridgers
 date: 2021-10-15 12:48:00 +11:00
 published: false
+categories:
+- Features
+tags:
+- subcultures
+- Photography
+- punk
+Main Image: "/uploads/Doingbird-18-Subcultures-Derek-Ridgers-1.jpg"
+is featured?: true
+layout: post
 ---
 
 ![Doingbird-18-Subcultures-Derek-Ridgers-1.jpg](/uploads/Doingbird-18-Subcultures-Derek-Ridgers-1.jpg)

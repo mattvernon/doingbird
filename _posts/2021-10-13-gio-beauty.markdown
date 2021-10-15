@@ -31,4 +31,4 @@ Turtle Knitwear [DROMe](https://www.drome.it/)
 ![006.jpg](/uploads/006.jpg)
 
 ![007.jpg](/uploads/007.jpg)
-Couturized t-shirt with satin stole and safety pins by -MAISON DAVIDE BAZZERLA
+Couturized t-shirt with satin stole and safety pins by [MAISON DAVIDE BAZZERLA](https://www.instagram.com/maisondavidebazzerla/?hl=en)

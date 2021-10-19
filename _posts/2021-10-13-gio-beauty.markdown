@@ -1,7 +1,6 @@
 ---
 title: Deep Red
 date: 2021-10-13 12:48:00 +11:00
-published: false
 Main Image: "/uploads/005.jpg"
 Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)\n\nAssistant
   photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)\n\nStyling

@@ -1,7 +1,11 @@
 ---
 title: Reimagined Materials
 date: 2021-10-12 11:50:00 +11:00
-published: false
+categories:
+- Objects
+tags:
+- objects
+- still life
 Main Image: "/uploads/1_2020.10.27_KNOTT_THAT_DEEP_SESSSION_110253.jpg"
 Credits Text: "Photographer [Dan Knott](https://www.instagram.com/dan_knott/?hl=en)
   \ www.danielknottphotography.com   \nStylist [Phoebe Deeprose](https://www.instagram.com/deeprosedesigns/)

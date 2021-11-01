@@ -2,7 +2,9 @@
 title: Chrissie Abbott – POSITIVE FLOW
 date: 2020-10-09 07:00:00 +11:00
 categories:
-- ART
+- Art
+tags:
+- Art
 Main Image: "/uploads/quantum.jpg"
 Credits Text: "Artwork by [Chrissie Abbott](https://chrissieabbott.com/)\n\nInterview
   by [Alexandra Weiland](https://www.instagram.com/clubalex/) \n\n*Chrissie, originally

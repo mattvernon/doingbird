@@ -15,9 +15,9 @@ layout: gallery
 
 ![3 Lucy.jpg](/uploads/3%20Lucy.jpg)
 
-![4 Lucy.jpg](/uploads/4%20Lucy.jpg)
-
 ![5 Lucy.jpg](/uploads/5%20Lucy.jpg)
+
+![4 Lucy.jpg](/uploads/4%20Lucy.jpg)
 
 ![6 Lucy.jpg](/uploads/6%20Lucy.jpg)
 

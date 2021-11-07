@@ -6,13 +6,10 @@ categories:
 - Fashion
 tags:
 - Fashion
-Credits Text: |-
-  Model: Lucy Markovicc @lucymarkovicc @kultaustralia
-  Photographer Tane Coffin @tanecoffin @vivienscreative
-  Digi Tech: Chris Cao @chriscao__
-  Stylist: Monica Morales @monicacamorales
-  Makeup: Mikele Simone @mikelesimonebeauty @dlm_au
-  Hair: Richi Grisillio @richi_grisillo
+Credits Text: "Photographer Tane Coffin @tanecoffin @vivienscreative  \nStylist: Monica
+  Morales @monicacamorales  \nMakeup: Mikele Simone @mikelesimonebeauty @dlm_au  \nHair:
+  Richi Grisillio @richi_grisillo  \nDigi Tech: Chris Cao @chriscao__  \n\n\nModel:
+  Lucy Markovicc @lucymarkovicc @kultaustralia\n\n\n\n"
 layout: gallery
 ---
 

@@ -11,6 +11,7 @@ Credits Text: "Photographer Tane Coffin @tanecoffin @vivienscreative  \nStylist:
   Morales @monicacamorales  \nMakeup: Mikele Simone @mikelesimonebeauty @dlm_au  \nHair:
   Richi Grisillio @richi_grisillo  \nDigi Tech: Chris Cao @chriscao__  \n\n\nModel:
   Lucy Markovicc @lucymarkovicc @kultaustralia\n\n\n\n"
+is featured?: true
 layout: gallery
 ---
 

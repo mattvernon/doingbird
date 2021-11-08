@@ -8,7 +8,7 @@ tags:
 - Fashion
 Main Image: "/uploads/1%20Lucy.jpg"
 Credits Text: "Photographer [**Tane Coffin**](https://www.instagram.com/tanecoffin/),
-  [**Viviens Creative**](https://www.instagram.com/vivienscreative/)\nStylist: [**Monica
+  [**Viviens Creative**](https://www.instagram.com/vivienscreative/)  \nStylist: [**Monica
   Morales**](https://www.instagram.com/monicacamorales/)  \nMakeup: [**Mikele Simone**](https://www.instagram.com/mikelesimonebeauty/)
   at [**DLM**](https://www.instagram.com/dlm_au/)  \nHair: [**Richi Grisillio**](https://www.instagram.com/richi_grisillo/)
   \nDigi Tech: [**Chris Cao**](https://www.instagram.com/chriscao__/)   \n\n\nModel:

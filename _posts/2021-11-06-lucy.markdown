@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Fashion
+Main Image: "/uploads/1%20Lucy.jpg"
 Credits Text: "Photographer Tane Coffin @tanecoffin @vivienscreative  \nStylist: Monica
   Morales @monicacamorales  \nMakeup: Mikele Simone @mikelesimonebeauty @dlm_au  \nHair:
   Richi Grisillio @richi_grisillo  \nDigi Tech: Chris Cao @chriscao__  \n\n\nModel:

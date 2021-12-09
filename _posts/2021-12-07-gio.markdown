@@ -5,6 +5,10 @@ published: false
 layout: gallery
 ---
 
+![doingbird_giovanni _di_stefano_1.jpg](/uploads/doingbird_giovanni%20_di_stefano_1.jpg)
+
+Liam is wearing Jacket - Dries Van Noten, Scarf - Paul Smith, Hat - Vintage
+
 ![doingbird_giovanni_di_stefano_11.jpg](/uploads/doingbird_giovanni_di_stefano_11.jpg)![doingbird_giovanni_di_stefano_9.jpg](/uploads/doingbird_giovanni_di_stefano_9.jpg)
 
 ![doingbird_giovanni_di_stefano_10.jpg](/uploads/doingbird_giovanni_di_stefano_10.jpg)

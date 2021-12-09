@@ -2,6 +2,7 @@
 title: Gio
 date: 2021-12-07 11:47:00 +11:00
 published: false
+layout: gallery
 ---
 
 ![doingbird_giovanni_di_stefano_11.jpg](/uploads/doingbird_giovanni_di_stefano_11.jpg)![doingbird_giovanni_di_stefano_9.jpg](/uploads/doingbird_giovanni_di_stefano_9.jpg)

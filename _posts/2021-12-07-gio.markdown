@@ -8,7 +8,10 @@ Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__gio
   [Liam Marquant](https://instagram.com/liamarquant?utm_medium=copy_link)  \n[ Matplainfosse
   ](https://instagram.com/mat.plainfos?utm_medium=copy_link)  \n[Enzo Dobrowolski](https://instagram.com/nzzooh?utm_medium=copy_link)
   \ \n Liam,Mat,Enzo @[Elitemodelworld](https://instagram.com/elitemodelworld?utm_medium=copy_link)
-  \                   \n"
+  \ \n[Youssef Bouzamita](https://instagram.com/youssef.amita?utm_medium=copy_link)
+  \ \nLuca Vicino                       \nYoussef and Luca @ [Success Models](https://instagram.com/successmodels?utm_medium=copy_link)
+  \n\n[shot @ Georges2 Studio, Paris ](https://instagram.com/georges2studio?utm_medium=copy_link)
+  \ \nthanks to [LP postproduction](https://instagram.com/lp_postproduction?utm_medium=copy_link) "
 is featured?: true
 layout: gallery
 ---

@@ -2,13 +2,13 @@
 title: Boys
 date: 2021-12-07 11:47:00 +11:00
 published: false
-Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)\n\nAssistant
-  photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)\n\nStyling
-  [JuneNakamoto](https://www.instagram.com/junenakamoto/?hl=en) [Shotview Artist Management
-  ](http://www.shotview.com/)\n\nHairstyle [Marco Braca ](https://www.instagram.com/marcobracahair/?hl=en)
-  [Walterschupfer Management](https://www.wschupfer.com/)\n\nMake-up [Tiina Roivainen](https://www.instagram.com/tiinaroivainen/?hl=en)
-  [Airport Agency](https://airportagency.com/) using [Chanel Beauty ](https://www.chanel.com/au/makeup/)\n\n\nModels:
-  bo-bay, vivien, charlotte @ thefaceparis \n               yousra@yousnao\n"
+Credits Text: |+
+  Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)
+
+  Assistant photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)
+
+  Styling  [Arianna Cavallo](https://instagram.com/arianna.cavallo?utm_medium=copy_link)
+
 is featured?: true
 layout: gallery
 ---

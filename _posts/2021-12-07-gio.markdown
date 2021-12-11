@@ -5,9 +5,9 @@ published: false
 Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)\n\nAssistant
   photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)\n\nStyling
   \ [Arianna Cavallo](https://instagram.com/arianna.cavallo?utm_medium=copy_link)\n\nModels
-  Liam Marquant  https://instagram.com/liamarquant?utm_medium=copy_link\n[ matplainfosse
-  ](https://instagram.com/mat.plainfos?utm_medium=copy_link)  \n[enzo Dobrowolski](https://instagram.com/nzzooh?utm_medium=copy_link)
-  \ \n Liam -mat -enzo [elitemodelworld](https://instagram.com/elitemodelworld?utm_medium=copy_link)
+  [Liam Marquant](https://instagram.com/liamarquant?utm_medium=copy_link)  \n[ Matplainfosse
+  ](https://instagram.com/mat.plainfos?utm_medium=copy_link)  \n[Enzo Dobrowolski](https://instagram.com/nzzooh?utm_medium=copy_link)
+  \ \n Liam,Mat,Enzo @[Elitemodelworld](https://instagram.com/elitemodelworld?utm_medium=copy_link)
   \                   \n"
 is featured?: true
 layout: gallery

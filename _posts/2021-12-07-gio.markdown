@@ -1,7 +1,11 @@
 ---
 title: Boys
 date: 2021-12-07 11:47:00 +11:00
-published: false
+categories:
+- Fashion
+tags:
+- fashion
+- Shoots
 Main Image: "/uploads/doingbird_giovanni_di_stefano_11.jpg"
 Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)
   \ \nAssistant photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)

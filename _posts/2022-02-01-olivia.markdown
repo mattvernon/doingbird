@@ -6,7 +6,7 @@ categories:
 - fashion
 tags:
 - Fashion
-Main Image: "![Voyeur's Dream 8.jpg](/uploads/Voyeur's%20Dream%208.jpg)"
+Main Image: "/uploads/Voyeur's%20Dream%208.jpg"
 Credits Text: "Photographer: Olivia Repaci [@oliviarepaci](https://www.instagram.com/oliviarepaci/)
   \ \nStylist: Amelia Lee [@badgalammy](https://www.instagram.com/badgalammy/)  \nHMUA:
   Claire Thomson [@clairethomsonmakeup](https://www.instagram.com/clairethomsonmakeup/)

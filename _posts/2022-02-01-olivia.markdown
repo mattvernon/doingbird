@@ -2,11 +2,10 @@
 title: Voyeur's Dream
 date: 2022-02-01 14:46:00 +11:00
 published: false
-Credits Text: |
-  Photographer: Olivia Repaci [@oliviarepaci](https://www.instagram.com/oliviarepaci/)
-  Stylist: Amelia Lee [@badgalammy](https://www.instagram.com/badgalammy/)
-  HMUA: Claire Thomson [@clairethomsonmakeup](https://www.instagram.com/clairethomsonmakeup/)
-  Model: Liv Parsons [@livparsonss](https://www.instagram.com/livparsonss/) [@imgmodels](https://www.instagram.com/imgmodels/)
+Credits Text: "Photographer: Olivia Repaci [@oliviarepaci](https://www.instagram.com/oliviarepaci/)
+  \ \nStylist: Amelia Lee [@badgalammy](https://www.instagram.com/badgalammy/)  \nHMUA:
+  Claire Thomson [@clairethomsonmakeup](https://www.instagram.com/clairethomsonmakeup/)
+  \ \nModel: Liv Parsons [@livparsonss](https://www.instagram.com/livparsonss/) [@imgmodels](https://www.instagram.com/imgmodels/)\n"
 is featured?: true
 layout: gallery
 ---

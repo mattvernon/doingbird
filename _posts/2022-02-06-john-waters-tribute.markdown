@@ -4,8 +4,8 @@ date: 2022-02-06 11:18:00 +11:00
 published: false
 Credits Text: "Creative Direction [Mindwell](https://www.instagram.com/mindwell/)
   Holcomb & [Ellen Virgona ](https://www.instagram.com/ellenvirgona/)  \nPhotography
-  [Ellen Virgona ](https://www.instagram.com/ellenvirgona/)\nStyling & Photo Assistant
-  [Isabelle Hellyer  ](https://www.instagram.com/allisagentlespring/)\nBeauty [Mindwell
+  [Ellen Virgona ](https://www.instagram.com/ellenvirgona/)  \nStyling & Photo Assistant
+  [Isabelle Hellyer  ](https://www.instagram.com/allisagentlespring/)  \nBeauty [Mindwell
   Holcomb](https://www.instagram.com/mindwell/) using [Ben Nye](https://www.instagram.com/bennyemakeup/)."
 layout: gallery
 ---

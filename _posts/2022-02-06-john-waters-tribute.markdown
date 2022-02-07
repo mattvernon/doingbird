@@ -11,7 +11,7 @@ layout: gallery
 ---
 
 ![DoingBird-AIAGS-Look 1-2.jpg](/uploads/DoingBird-AIAGS-Look%201-2.jpg)
-
+![DoingBird-AIAGS-Look 3-1.jpg](/uploads/DoingBird-AIAGS-Look%203-1.jpg)
 ![DoingBird-AIAGS-Look 4-3.jpg](/uploads/DoingBird-AIAGS-Look%204-3.jpg)
 
 ![DoingBird-AIAGS-Look 5-2.jpg](/uploads/DoingBird-AIAGS-Look%205-2.jpg)
@@ -19,10 +19,6 @@ layout: gallery
 ![DoingBird-AIAGS-Look 3-2.jpg](/uploads/DoingBird-AIAGS-Look%203-2.jpg)
 ![DoingBird-AIAGS-Look 2-2.jpg](/uploads/DoingBird-AIAGS-Look%202-2.jpg)
 ![DoingBird-AIAGS-Look 3-1.jpg](/uploads/DoingBird-AIAGS-Look%203-1.jpg)
-
-![DoingBird-AIAGS-Look 2-8.jpg](/uploads/DoingBird-AIAGS-Look%202-8.jpg)
-
-
 
 ![DoingBird-AIAGS-Look 2-1.jpg](/uploads/DoingBird-AIAGS-Look%202-1.jpg)
 

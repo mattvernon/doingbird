@@ -10,6 +10,8 @@ Credits Text: "Creative Direction [Mindwell](https://www.instagram.com/mindwell/
 layout: gallery
 ---
 
+![DoingBird-AIAGS-Look 1-2.jpg](/uploads/DoingBird-AIAGS-Look%201-2.jpg)
+
 ![DoingBird-AIAGS-Look 4-3.jpg](/uploads/DoingBird-AIAGS-Look%204-3.jpg)
 
 ![DoingBird-AIAGS-Look 5-2.jpg](/uploads/DoingBird-AIAGS-Look%205-2.jpg)
@@ -26,7 +28,7 @@ layout: gallery
 
 ![DoingBird-AIAGS-Look 1-8.jpg](/uploads/DoingBird-AIAGS-Look%201-8.jpg)
 
-![DoingBird-AIAGS-Look 1-2.jpg](/uploads/DoingBird-AIAGS-Look%201-2.jpg)
+
 
 ![DoingBird-AIAGS-Look 1-3.jpg](/uploads/DoingBird-AIAGS-Look%201-3.jpg)
 

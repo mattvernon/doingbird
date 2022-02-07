@@ -21,7 +21,7 @@ Corset [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/)
 ![DoingBird-AIAGS-Look 5-2.jpg](/uploads/DoingBird-AIAGS-Look%205-2.jpg)
 Top [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/),  Capri [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/)
 ![DoingBird-AIAGS-Look 3-2.jpg](/uploads/DoingBird-AIAGS-Look%203-2.jpg)
-Corset [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/), Scarf Model's Own 
+Corset [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/),  
 ![DoingBird-AIAGS-Look 2-2.jpg](/uploads/DoingBird-AIAGS-Look%202-2.jpg)
 Leotards [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/), Stockings Model's Own
 

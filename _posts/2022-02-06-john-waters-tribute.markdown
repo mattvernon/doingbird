@@ -26,9 +26,9 @@ Corset [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/),
 Leotards [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/), Stockings Model's Own
 
 ![DoingBird-AIAGS-Look 2-1.jpg](/uploads/DoingBird-AIAGS-Look%202-1.jpg)
-
+Leotards [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/), Stockings Model's Own
 ![DoingBird-AIAGS-Look 1-8.jpg](/uploads/DoingBird-AIAGS-Look%201-8.jpg)
-
+Unitards and [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/)
 
 
 ![DoingBird-AIAGS-Look 1-3.jpg](/uploads/DoingBird-AIAGS-Look%201-3.jpg)

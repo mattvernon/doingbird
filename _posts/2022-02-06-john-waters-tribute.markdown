@@ -4,11 +4,13 @@ date: 2022-02-06 11:18:00 +11:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/DoingBird-AIAGS-Look%205-2.jpg"
 Credits Text: "Creative Direction [Mindwell](https://www.instagram.com/mindwell/)
   Holcomb & [Ellen Virgona ](https://www.instagram.com/ellenvirgona/)  \nPhotography
   [Ellen Virgona ](https://www.instagram.com/ellenvirgona/)  \nStyling & Photo Assistant
   [Isabelle Hellyer  ](https://www.instagram.com/allisagentlespring/)  \nBeauty [Mindwell
   Holcomb](https://www.instagram.com/mindwell/) using [Ben Nye](https://www.instagram.com/bennyemakeup/)."
+is featured?: true
 layout: gallery
 ---
 

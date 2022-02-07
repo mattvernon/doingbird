@@ -1,5 +1,5 @@
 ---
-title: John Waters Tribute
+title: Sisters, Not Twins
 date: 2022-02-06 11:18:00 +11:00
 published: false
 Credits Text: "Creative Direction [Mindwell](https://www.instagram.com/mindwell/)

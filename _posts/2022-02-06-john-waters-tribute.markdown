@@ -3,6 +3,10 @@ title: Sisters, Not Twins
 date: 2022-02-06 11:18:00 +11:00
 categories:
 - Fashion
+tags:
+- Fashion
+- Photography
+- shoot
 Main Image: "/uploads/DoingBird-AIAGS-Look%205-2.jpg"
 Credits Text: "Creative Direction [Mindwell](https://www.instagram.com/mindwell/)
   Holcomb & [Ellen Virgona ](https://www.instagram.com/ellenvirgona/)  \nPhotography

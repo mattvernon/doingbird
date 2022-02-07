@@ -11,7 +11,9 @@ layout: gallery
 ---
 
 ![DoingBird-AIAGS-Look 1-2.jpg](/uploads/DoingBird-AIAGS-Look%201-2.jpg)
+ Unitards and Leotards [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/), Stockings Model's Own  
 ![DoingBird-AIAGS-Look 3-1.jpg](/uploads/DoingBird-AIAGS-Look%203-1.jpg)
+Corset [ALL IS A GENTLE SPRING](https://www.instagram.com/allisagentlespring/), Scarf Model's Own 
 ![DoingBird-AIAGS-Look 4-3.jpg](/uploads/DoingBird-AIAGS-Look%204-3.jpg)
 
 ![DoingBird-AIAGS-Look 5-2.jpg](/uploads/DoingBird-AIAGS-Look%205-2.jpg)

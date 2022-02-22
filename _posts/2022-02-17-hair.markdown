@@ -8,6 +8,7 @@ tags:
 - Accessories
 - fashion
 - Beauty
+Main Image: "/uploads/Doingbird%20-%20Hair27773.jpg"
 Credits Text: "Photography: [Lauren Bamford ](https://www.instagram.com/laurenbamford/)
   \ \nStylist: [Sarah Pritchard](https://www.instagram.com/sar4hcant/?hl=en)  \nHair
   & makeup: [Georgia Ramman](https://www.instagram.com/georgiaramman/) \nTalent: Hunter
@@ -19,12 +20,14 @@ layout: gallery
 
 ![Doingbird - Hair27770.jpg](/uploads/Doingbird%20-%20Hair27770.jpg)
 Hunter wears shirt, knit & accessories [MiuMiu ](https://www.miumiu.com/au/en.html)
+![Doingbird - Hair27796.jpg](/uploads/Doingbird%20-%20Hair27796.jpg)
+Hunter wears jacket [Bottega Veneta](https://www.bottegaveneta.com/en-au)
+
 ![Doingbird - Hair27773.jpg](/uploads/Doingbird%20-%20Hair27773.jpg)
 Hunter wears knit [Acne Studios](https://www.acnestudios.com/au/en/home), brooch [Bulgari](https://www.bulgari.com/en-au/), earring as brooch [Christian Dior](https://www.dior.com/en_au)
 
 
-![Doingbird - Hair27796.jpg](/uploads/Doingbird%20-%20Hair27796.jpg)
-Hunter wears jacket [Bottega Veneta](https://www.bottegaveneta.com/en-au)
+
 ![Doingbird - Hair27789.jpg](/uploads/Doingbird%20-%20Hair27789.jpg)
 Hunter wears knit [Acne Studios](https://www.acnestudios.com/au/en/home), brooch [Bulgari](https://www.bulgari.com/en-au/)
 ![Doingbird - Hair27818.jpg](/uploads/Doingbird%20-%20Hair27818.jpg)

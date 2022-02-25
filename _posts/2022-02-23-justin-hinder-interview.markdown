@@ -5,9 +5,9 @@ published: false
 ---
 
 Justin Hinder is a painter whose work deals with popular culture, premonitions and the supernatural, from a uniquely Australian perspective. Recently his paintings have depicted his diagnosis and treatment of cancer, while dealing with temporary housing after separating from his long term partner and estranged from his family. 
-
+![Justin Hinder _Walking home from the store_ 2020.jpg](/uploads/Justin%20Hinder%20_Walking%20home%20from%20the%20store_%202020.jpg)
 Justin met Melissa Loughnan over ten years ago where they worked together at Utopian Slumps. They recently came together for an online fundraising exhibition of Justin’s work with proceeds funding his recovery and rehabilitation, including a new home. Melissa and Justin met to reflect on this wild journey.
-
+![Justin Hinder _My Stepchildren and I_ 2016.jpeg](/uploads/Justin%20Hinder%20_My%20Stepchildren%20and%20I_%202016.jpeg)
 ML: We first met in 2010 at Utopian Slumps when you were in a corporate career and collecting art. What inspired you to leave your job and start making art? How did it all happen?
 
 JH: I’ve always been interested in art but I didn’t think it was a viable career or something that I was necessarily good at. Once I started working at Utopian Slumps I received a lot of encouragement from Helen Hughes and yourself - I think becoming part of the community and engaging with art shows really cemented my interest. Being in that arena it became evident that I had an artistic sensibility that went beyond appreciation. I guess being nurtured in this environment was really formative for me in accepting that aspect of myself. You go through life and being an artist wasn’t really in my mind; I started in fashion and didn’t really see art as an acceptable career path. 

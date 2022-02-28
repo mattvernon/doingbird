@@ -5,9 +5,10 @@ published: false
 ---
 
 Justin Hinder is a painter whose work deals with popular culture, premonitions and the supernatural, from a uniquely Australian perspective. Recently his paintings have depicted his diagnosis and treatment of cancer, while dealing with temporary housing after separating from his long term partner and estranged from his family. 
-![Justin Hinder _Walking home from the store_ 2020.jpg](/uploads/Justin%20Hinder%20_Walking%20home%20from%20the%20store_%202020.jpg)
+
 Justin met Melissa Loughnan over ten years ago where they worked together at Utopian Slumps. They recently came together for an online fundraising exhibition of Justin’s work with proceeds funding his recovery and rehabilitation, including a new home. Melissa and Justin met to reflect on this wild journey.
-![Justin Hinder _My Stepchildren and I_ 2016.jpeg](/uploads/Justin%20Hinder%20_My%20Stepchildren%20and%20I_%202016.jpeg)
+![Justin Hinder _Walking home from the store_ 2020.jpg](/uploads/Justin%20Hinder%20_Walking%20home%20from%20the%20store_%202020.jpg)
+
 ML: We first met in 2010 at Utopian Slumps when you were in a corporate career and collecting art. What inspired you to leave your job and start making art? How did it all happen?
 
 JH: I’ve always been interested in art but I didn’t think it was a viable career or something that I was necessarily good at. Once I started working at Utopian Slumps I received a lot of encouragement from Helen Hughes and yourself - I think becoming part of the community and engaging with art shows really cemented my interest. Being in that arena it became evident that I had an artistic sensibility that went beyond appreciation. I guess being nurtured in this environment was really formative for me in accepting that aspect of myself. You go through life and being an artist wasn’t really in my mind; I started in fashion and didn’t really see art as an acceptable career path. 
@@ -15,7 +16,8 @@ JH: I’ve always been interested in art but I didn’t think it was a viable ca
 ML: I guess in the arts it’s like ‘well how are you going to make money? How are you going to survive?’ There’s a level of uncertainty that can discourage you from pursuing the field. 
 
 JH: I think so. I remember people saying ‘You should make art’ but thinking of myself as an observer and not an actual maker. I built my confidence from interning at Utopian Slumps and then doing that show at Rear View. I was meant to sit the show one day and I turned up and Paul Wotherspoon [the director] said “oh my god you’re the first person who has got us in the Age.” I didn’t even know that my show had been reviewed. So I went to Woolworths on Smith Street and got the paper and there was a review of my show! 
-![Justin Hinder _Siren Song_ 2016.jpeg](/uploads/Justin%20Hinder%20_Siren%20Song_%202016.jpeg)
+![Justin Hinder _My Stepchildren and I_ 2016.jpeg](/uploads/Justin%20Hinder%20_My%20Stepchildren%20and%20I_%202016.jpeg)
+
 ML: So by that point you had started making art?
 
 JH: Yes, that was my first solo. I had collated a bunch of images on an iPad that I was given for Christmas from my then partner Troy and I would screenshot things. All of those images that I had collated over, say, a six month period came together in a series of collages. It was interesting because that show, on reflection, was quite homoerotic. 
@@ -23,7 +25,8 @@ JH: Yes, that was my first solo. I had collated a bunch of images on an iPad tha
 ML: Was that what was written about in the Age?
 
 JH: Yeah. It wasn’t really my intent but that’s what came through and I guess looking at it, it kind of was (laughs). The show included a load of images of ‘bears’, which reminded me of Troy, intermixed with pop culture imagery. The biggest theme that I wanted to explore with that show was the collation of seemingly random images, the internet, the information age, but also, I had such a hatred for the colour yellow and then I realised that I did like yellow; I almost saw yellow as this symbol of who I really was and my process of accepting that. The towel used in the show was one of Troy’s towels, which helped me to accept my love of yellow - when we started dating I would use these yellow towels at his home.  It was something that was really absurd to me; like I was falling in love with a person and a colour simultaneously and that was why the towel and the ‘bears’  became a part of the installation. There was a yellow wall, which made the colour more consuming, and the show came together almost like a self portrait. 
-![Justin Hinder _Family Portrait_ 2016.jpeg](/uploads/Justin%20Hinder%20_Family%20Portrait_%202016.jpeg)
+![Justin Hinder _Siren Song_ 2016.jpeg](/uploads/Justin%20Hinder%20_Siren%20Song_%202016.jpeg)
+
 ML: So it sort of became a personal documentation of your relationship.
 
 JH: Exactly, and it speaks to how my practice has unfolded. Like Holy Ghost, for example, is sort of quasi-autobiographical.  I do use myself as a vehicle but not necessarily in an overt or obvious way.
@@ -33,15 +36,18 @@ ML: Let’s talk about Holy Ghost a bit more. The series was about your Catholic
 JH: Sure. People often comment on my use of a strong female protagonist within my painting or writing projects. Before I did my residency at Town Hall Gallery I skirted around females and femininity. I didn’t really feel that it was my place to make work predominantly female-led, but I’ve always been more attracted to the female protagonist. Like in the music I listen to, I prefer a female vocal over a male vocal, and the same in film. But when I was doing this residency Ilona Nelson was in the next room and she had made an installation which was about her in the domestic space as a mother - you know doing dishes, aprons, laundry, preparing breakfast and all those kinds of things - and in a way I saw this crossover. My work at this point had all been about domestic settings and human interaction. Walking through that installation space and into my studio in the gallery every day got me even more interested in the female protagonist. I would say that moment of realisation was a massive turning point for me and my work. 
 
 Holy Ghost is an alternate-reality version of myself if I was born female. I was supposed to go to boarding school. I didn’t go, but still went to a Catholic private school. I wanted to utilise these other alternate possibilities and present my story from a step back. For this suite of paintings if I’d used a male in that body of work  it would have opened up too many ideas about the Catholic Church and peodophilia and molestation, and that wasn’t what the work was about. It was about being brought up Catholoic and the idea that God, or someone, is always watching. The spaces within the paintings are quite open and in some of the works the figures are quite small, so in some ways I was giving this sense of someone always watching over you from different perspectives. That’s what Catholic guilt is all about and follows on now in the modern age with CCTV and phone tracking etcetera, without the religious connotations. 
-![Justin Hinder _Lain awake all Saturday night waiting for Miranda to return from the picnic_ 2014.jpg](/uploads/Justin%20Hinder%20_Lain%20awake%20all%20Saturday%20night%20waiting%20for%20Miranda%20to%20return%20from%20the%20picnic_%202014.jpg)
+![Justin Hinder _Family Portrait_ 2016.jpeg](/uploads/Justin%20Hinder%20_Family%20Portrait_%202016.jpeg)
+
 ML: And can you remind me what happens at the end of the series? What’s the crescendo of the story?
 
 JH: It’s called The Tomb/Charon’s obol. I grew up in a time when Baz Luhrmann’s Romeo and Juliet and Sofia Coppola’s The Virgin Suicides came out so I had this weird romanticism about premature or young death. As a teenager going through self discovery things are a bit more melodramatic with all the hormones. That painting is representative not of a true death but of transcending from childhood into adulthood, the loss of innocence and becoming aware of sexuality. You’re cutting off your naivety and childhood innocence and moving into this next stage. In my case this was becoming aware of being gay against what I was initially led to believe my life would look like. 
-![Justin Hinder _Ciao_ 2016.jpeg](/uploads/Justin%20Hinder%20_Ciao_%202016.jpeg)
+![Justin Hinder _Lain awake all Saturday night waiting for Miranda to return from the picnic_ 2014.jpg](/uploads/Justin%20Hinder%20_Lain%20awake%20all%20Saturday%20night%20waiting%20for%20Miranda%20to%20return%20from%20the%20picnic_%202014.jpg)
+
 ML: Let’s go back to you starting out as an artist. Which other artists’ practices do you think were most inspirational to your beginnings? Being self-taught, is there anything foundational? 
 
 I’ve been fortunate that people I admire have come forth and offered not only their thoughts, feedback and encouragement on my work but have also  been really open about their practices. Artists like Brent Harris, Lou Hubbard, John Meade, Prudence Flint, Katherine Hattam and Heidi Yardley have all been super encouraging, to name a few. I’ve learnt a lot through the generosity of their time. I feel like I’ve almost earned a degree through these interactions!
-![Justin Hinder _Sprigs of Rosemary_ 2017.jpeg](/uploads/Justin%20Hinder%20_Sprigs%20of%20Rosemary_%202017.jpeg)
+![Justin Hinder _Ciao_ 2016.jpeg](/uploads/Justin%20Hinder%20_Ciao_%202016.jpeg)
+
 ML: How did your project with Sarah crowEST, Heaven-sent crumbs at Utopian Slumps, come about?
 
 JH: I think I initiated the project because she was making her ‘Mound activity’ series. 
@@ -49,7 +55,8 @@ JH: I think I initiated the project because she was making her ‘Mound activity
 ML: So did you see those works and make a connection to your Picnic at Hanging Rock paintings? 
 
 JH: Yes. People see my Picnic at Hanging Rock works as abstractions, but I see them more as landscapes. I’d always been really interested in the Heide School and traditional Australian artists like Albert Tucker and Sidney Nolan. For Heaven-sent crumbs I wanted to make landscapes that were almost aura-like. Each painting was titled from a direct quote from the novel, nodding to ideas of the school girl trope but also to the broader themes of mystery, gothic romance, the idea of people being somewhere that they shouldn't be, as well as the sacredness of the area to the indigenous community. The show also allowed me to create a palette. Future works don’t really move much beyond the palette used in this show. 
-![Justin Hinder _The Tomb Charons Obol_ 2017.jpeg](/uploads/Justin%20Hinder%20_The%20Tomb%20Charons%20Obol_%202017.jpeg)
+![Justin Hinder _Sprigs of Rosemary_ 2017.jpeg](/uploads/Justin%20Hinder%20_Sprigs%20of%20Rosemary_%202017.jpeg)
+
 ML: Your ochres and whites and yellows and burnt earth colours keep coming back.
 
 JH: Yeah, that’s the thing - it allowed me to make work and create material that was about the Australian palette and also experiment with how these colours work together in new, abstract forms. It’s having that passion for Albert Tucker and Sidney Nolan and all those artists, so those works were a way to pay homage, or create an ‘after…’ this person. Going back to what we were talking about before about artists that inspire me, I would say that Arthur Boyd’s Bride series is probably one of my biggest influences. 
@@ -57,6 +64,7 @@ JH: Yeah, that’s the thing - it allowed me to make work and create material th
 ML: I can see that. I could name so many of your works where I can see that connection. 
 
 JH: And I think that it’s quasi-unpopular to have that aesthetic. But that show was another turning point, it was really well received. And it got another review in the Age, which was super encouraging. 
+![Justin Hinder _The Tomb Charons Obol_ 2017.jpeg](/uploads/Justin%20Hinder%20_The%20Tomb%20Charons%20Obol_%202017.jpeg)
 
 ML: That was one of your major series, and obviously there was Holy Ghost. When did Grande Finale happen? Can you tell me more about that series?
 
@@ -65,7 +73,7 @@ JH: At around that time I was encouraged to apply for Masters at VCA without doi
 At that time I didn’t want to pinpoint my works into one particular storyline or narrative so I felt that the best option was to develop a bunch of separate narratives, but also manipulate these  during the install process. This is something that I learnt from you, about conversations within art and spaces. Because I write as well I’m interested in visual storytelling and how it can be manipulated or used to demonstrate a variety of points. There were lots of paintings which were just happy - like two girls walking along a windy mountain and everything’s flying in the air, but then that would be juxtaposed with a painting of a funerary urn and snapshot of a broken family. 
 
 Grande Finale was about the rites of passage in life. I used to work in allied health consultancy and I found that I was more interested in people’s stories than the actual work - the adversity that people go through and how they overcome that. So Grande Finale formed a combination of things that I was interested in, stories that were funny, or a bit dark, or romantic, all put together. 
-
+![Justin Hinder and Iain Dean _Vacation_ at The Honeymoon Suite 2017 (4).jpg.jpg](/uploads/Justin%20Hinder%20and%20Iain%20Dean%20_Vacation_%20at%20The%20Honeymoon%20Suite%202017%20(4).jpg.jpg)
 ML: Going on from that, let’s talk about Vacation. I felt like that series had a lot of crossover with Grande Finale. 
 
 JH: Oh 100%. 

@@ -20,9 +20,6 @@ ML: So by that point you had started making art?
 
 JH: Yes, that was my first solo. I had collated a bunch of images on an iPad that I was given for Christmas from my then partner Troy and I would screenshot things. All of those images that I had collated over, say, a six month period came together in a series of collages. It was interesting because that show, on reflection, was quite homoerotic. 
 
-
-. 
-
 ML: Was that what was written about in the Age?
 
 JH: Yeah. It wasn’t really my intent but that’s what came through and I guess looking at it, it kind of was (laughs). The show included a load of images of ‘bears’, which reminded me of Troy, intermixed with pop culture imagery. The biggest theme that I wanted to explore with that show was the collation of seemingly random images, the internet, the information age, but also, I had such a hatred for the colour yellow and then I realised that I did like yellow; I almost saw yellow as this symbol of who I really was and my process of accepting that. The towel used in the show was one of Troy’s towels, which helped me to accept my love of yellow - when we started dating I would use these yellow towels at his home.  It was something that was really absurd to me; like I was falling in love with a person and a colour simultaneously and that was why the towel and the ‘bears’  became a part of the installation. There was a yellow wall, which made the colour more consuming, and the show came together almost like a self portrait. 
@@ -44,7 +41,7 @@ JH: It’s called The Tomb/Charon’s obol. I grew up in a time when Baz Luhrman
 ML: Let’s go back to you starting out as an artist. Which other artists’ practices do you think were most inspirational to your beginnings? Being self-taught, is there anything foundational? 
 
 I’ve been fortunate that people I admire have come forth and offered not only their thoughts, feedback and encouragement on my work but have also  been really open about their practices. Artists like Brent Harris, Lou Hubbard, John Meade, Prudence Flint, Katherine Hattam and Heidi Yardley have all been super encouraging, to name a few. I’ve learnt a lot through the generosity of their time. I feel like I’ve almost earned a degree through these interactions!
-
+![Justin Hinder _Sprigs of Rosemary_ 2017.jpeg](/uploads/Justin%20Hinder%20_Sprigs%20of%20Rosemary_%202017.jpeg)
 ML: How did your project with Sarah crowEST, Heaven-sent crumbs at Utopian Slumps, come about?
 
 JH: I think I initiated the project because she was making her ‘Mound activity’ series. 
@@ -52,7 +49,7 @@ JH: I think I initiated the project because she was making her ‘Mound activity
 ML: So did you see those works and make a connection to your Picnic at Hanging Rock paintings? 
 
 JH: Yes. People see my Picnic at Hanging Rock works as abstractions, but I see them more as landscapes. I’d always been really interested in the Heide School and traditional Australian artists like Albert Tucker and Sidney Nolan. For Heaven-sent crumbs I wanted to make landscapes that were almost aura-like. Each painting was titled from a direct quote from the novel, nodding to ideas of the school girl trope but also to the broader themes of mystery, gothic romance, the idea of people being somewhere that they shouldn't be, as well as the sacredness of the area to the indigenous community. The show also allowed me to create a palette. Future works don’t really move much beyond the palette used in this show. 
-
+![Justin Hinder _The Tomb Charons Obol_ 2017.jpeg](/uploads/Justin%20Hinder%20_The%20Tomb%20Charons%20Obol_%202017.jpeg)
 ML: Your ochres and whites and yellows and burnt earth colours keep coming back.
 
 JH: Yeah, that’s the thing - it allowed me to make work and create material that was about the Australian palette and also experiment with how these colours work together in new, abstract forms. It’s having that passion for Albert Tucker and Sidney Nolan and all those artists, so those works were a way to pay homage, or create an ‘after…’ this person. Going back to what we were talking about before about artists that inspire me, I would say that Arthur Boyd’s Bride series is probably one of my biggest influences. 

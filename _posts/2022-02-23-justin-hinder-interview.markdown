@@ -10,6 +10,7 @@ tags:
 Main Image: "/uploads/Justin%20Hinder%20_Sprigs%20of%20Rosemary_%202017.jpeg"
 Credits Text: Interview [Melissa Loughnan](https://www.instagram.com/utopianmel/)
 is featured?: true
+layout: gallery
 ---
 
 

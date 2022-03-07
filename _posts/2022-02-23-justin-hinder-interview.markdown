@@ -6,7 +6,6 @@ categories:
 - Features
 tags:
 - art
-- Interviews
 ---
 
 Justin Hinder is a painter whose work deals with popular culture, premonitions and the supernatural, from a uniquely Australian perspective. Recently his paintings have depicted his diagnosis and treatment of cancer, while dealing with temporary housing after separating from his long term partner and estranged from his family. 

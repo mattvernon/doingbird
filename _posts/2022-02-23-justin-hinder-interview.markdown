@@ -10,6 +10,9 @@ Main Image: "/uploads/Justin%20Hinder%20_Sprigs%20of%20Rosemary_%202017.jpeg"
 is featured?: true
 ---
 
+Melissa Loughnan
+
+
 Justin Hinder is a painter whose work deals with popular culture, premonitions and the supernatural, from a uniquely Australian perspective. Recently his paintings have depicted his diagnosis and treatment of cancer, while dealing with temporary housing after separating from his long term partner and estranged from his family. 
 
 Justin met Melissa Loughnan over ten years ago where they worked together at Utopian Slumps. They recently came together for an online fundraising exhibition of Justin’s work with proceeds funding his recovery and rehabilitation, including a new home. Melissa and Justin met to reflect on this wild journey.

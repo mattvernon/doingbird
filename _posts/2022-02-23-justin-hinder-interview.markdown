@@ -7,10 +7,11 @@ categories:
 tags:
 - art
 Main Image: "/uploads/Justin%20Hinder%20_Sprigs%20of%20Rosemary_%202017.jpeg"
+Credits Text: Interview [Melissa Loughnan](https://www.instagram.com/utopianmel/)
 is featured?: true
 ---
 
-Melissa Loughnan
+
 
 
 Justin Hinder is a painter whose work deals with popular culture, premonitions and the supernatural, from a uniquely Australian perspective. Recently his paintings have depicted his diagnosis and treatment of cancer, while dealing with temporary housing after separating from his long term partner and estranged from his family. 

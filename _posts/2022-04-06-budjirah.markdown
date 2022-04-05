@@ -8,6 +8,6 @@ tags:
 - Artists
 - Interviews
 - music
-layout: post
+layout: gallery
 ---
 

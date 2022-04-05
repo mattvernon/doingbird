@@ -11,3 +11,15 @@ tags:
 layout: gallery
 ---
 
+![1 budjirah. 24b.jpg](/uploads/1%20budjirah.%2024b.jpg)
+
+![2 budjirah. 22.jpg](/uploads/2%20budjirah.%2022.jpg)
+
+![3 budjirah. 6.jpg](/uploads/3%20budjirah.%206.jpg)
+
+[4 budjirah..jpg](/uploads/4%20budjirah/jpg)
+
+![5 budjirah. 20.jpg](/uploads/5%20budjirah.%2020.jpg)
+
+[6 budjirah7..jpg](/uploads/6%20budjirah7/jpg)
+

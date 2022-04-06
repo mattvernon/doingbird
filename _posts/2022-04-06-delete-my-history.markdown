@@ -8,8 +8,8 @@ tags:
 - Fashion
 Main Image: "/uploads/054A0872.jpg"
 Credits Text: "Written by **[Lola Scott](https://www.instagram.com/lolascottmusic/)**
-  \   \nPhotographs **[Maya Luana](https://www.instagram.com/mayaluana/)**  \nH&M
-  \ **[Claire Howell](https://www.instagram.com/clairehowellmakeup/)**"
+  \   \nPhotographs of Lola **[Maya Luana](https://www.instagram.com/mayaluana/)**
+  \ \nH&M  **[Claire Howell](https://www.instagram.com/clairehowellmakeup/)**"
 is featured?: true
 layout: gallery
 ---

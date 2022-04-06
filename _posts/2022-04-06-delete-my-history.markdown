@@ -8,7 +8,7 @@ tags:
 - MUSIC
 - Fashion
 Credits Text: "Photographs Maya Luana \nH&M Claire Howell"
-layout: gallery
+layout: post
 ---
 
 I can’t lie, my new single ‘Delete My History’ is super difficult to talk about. I wrote it, and some other songs I am working on, when I was going through the different stages of falling in love. I doubted myself and my worth and whether I deserved to be loved by this guy that was ready to go all in with me. When we were falling in love I didn’t value myself very highly and didn’t understand why he did. I’d had a string of bad relationships that tore down pieces of my self-esteem and I was still rebuilding myself. Looking back, I probably wasn’t ready to be in a relationship, because I still had a lot of personal growth to get back to such as liking myself, let alone loving myself. 

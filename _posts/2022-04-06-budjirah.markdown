@@ -8,6 +8,8 @@ tags:
 - Artists
 - Interviews
 - music
+Credits Text: 'photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
+  at [DLM](https://www.instagram.com/dlm_au/)   '
 layout: gallery
 ---
 

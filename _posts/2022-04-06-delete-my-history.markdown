@@ -7,7 +7,9 @@ categories:
 tags:
 - MUSIC
 - Fashion
-Credits Text: "Photographs Maya Luana \nH&M Claire Howell"
+Credits Text: |-
+  Photographs Maya Luana
+  H&M  Claire Howell
 layout: post
 ---
 

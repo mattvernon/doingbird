@@ -7,6 +7,7 @@ categories:
 tags:
 - MUSIC
 - Fashion
+author: Lola Scott
 Credits Text: |-
   Photographs Maya Luana
   H&M  Claire Howell

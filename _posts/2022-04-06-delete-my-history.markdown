@@ -31,5 +31,7 @@ It's difficult as this was my first healthy, mature relationship and I still lov
 
 ![054A1187.jpg](/uploads/054A1187.jpg)
 
-![054A1218.jpg](/uploads/054A1218.jpg)
+![054A1218.jpg](/uploads/054A1218.jpg)  
+Photographs Maya Luana
+H&M  Claire Howell
 

@@ -8,9 +8,11 @@ tags:
 - MUSIC
 - Fashion
 author: Short Story by Lola Scott
+Main Image: "/uploads/054A0872.jpg"
 Credits Text: |-
   Photographs Maya Luana
   H&M  Claire Howell
+is featured?: true
 layout: post
 ---
 
@@ -32,6 +34,6 @@ It's difficult as this was my first healthy, mature relationship and I still lov
 ![054A1187.jpg](/uploads/054A1187.jpg)
 
 ![054A1218.jpg](/uploads/054A1218.jpg)  
-Photographs Maya Luana
-H&M  Claire Howell
+Photographs [Maya Luana](https://www.instagram.com/mayaluana/)
+H&M  [Claire Howell](https://www.instagram.com/clairehowellmakeup/)
 

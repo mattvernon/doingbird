@@ -2,6 +2,11 @@
 title: Delete My History
 date: 2022-04-06 11:07:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- MUSIC
+- Fashion
 Credits Text: "Images were shot by Maya Luana, \nH&M by Claire Howell"
 layout: gallery
 ---

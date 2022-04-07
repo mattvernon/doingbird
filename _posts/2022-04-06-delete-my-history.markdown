@@ -19,7 +19,7 @@ I can’t lie, my new single ‘Delete My History’ is super difficult to talk 
 
   
 It's difficult as this was my first healthy, mature relationship and I still love this guy, a lot but we recently made a mutual decision to part ways so we could work on ourselves more. The time apart has let us find the better versions of ourselves and have time to focus on finding confidence in independence again. I’m still not looking for another rebound because it’s time to focus on myself. There’s an honest ramble about my scramble of a life right now.
- I’m Lola Scott and my new single ‘DELETE MY HISTORY (ctrl+alt+delete) is out now.
+ I’m Lola Scott and my new single ‘[DELETE MY HISTORY](https://lolascott.ffm.to/deletemyhistor) (ctrl+alt+delete) is out now.
 
 ![054A0871.jpg](/uploads/054A0871.jpg)
 

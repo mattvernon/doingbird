@@ -11,7 +11,7 @@ tags:
 Main Image: "/uploads/3%20budjirah.%206.jpg"
 Credits Text: "Interview [Jonno Revanche](https://instagram.com/jonnoxrevanche?igshid=YmMyMTA2M2Y=\nhttps://instagram.com/jonnoxrevanche?igshid=YmMyMTA2M2Y=)\n\nphotographs
   **[Max Doyle](https://www.instagram.com/scrap_doyle/)** at [DLM](https://www.instagram.com/dlm_au/)
-  \  \n\nGrooming \n\n"
+  \  \n\nGrooming [Cathy Savage](https://www.instagram.com/cathysavage/?hl=en)\n\n"
 is featured?: true
 layout: gallery
 ---

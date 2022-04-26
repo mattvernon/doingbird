@@ -1,0 +1,18 @@
+---
+title: Beauty
+date: 2022-04-27 09:48:00 +10:00
+published: false
+layout: gallery
+---
+
+![1 doingbird beauty.jpg](/uploads/1%20doingbird%20beauty.jpg)
+
+![2 doingbird beauty.jpg](/uploads/2%20doingbird%20beauty.jpg)
+
+![3 doingbird beauty.jpg](/uploads/3%20doingbird%20beauty.jpg)
+
+![4 doingbird beauty.jpg](/uploads/4%20doingbird%20beauty.jpg)
+
+![5 doingbird beauty.jpg](/uploads/5%20doingbird%20beauty.jpg)
+
+![6 doingbird beauty.jpg](/uploads/6%20doingbird%20beauty.jpg)

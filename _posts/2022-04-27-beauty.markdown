@@ -1,5 +1,5 @@
 ---
-title: Beauty
+title: Face Forward
 date: 2022-04-27 09:48:00 +10:00
 published: false
 layout: gallery

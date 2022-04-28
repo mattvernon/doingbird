@@ -7,7 +7,7 @@ layout: gallery
 
 ![1 doingbird beauty.jpg](/uploads/1%20doingbird%20beauty.jpg)
 
-![2 doingbird beauty.jpg](/uploads/2%20doingbird%20beauty.jpg)
+![2 doingbird beauty b.jpg](/uploads/2%20doingbird%20beauty%20b.jpg)
 
 ![3 doingbird beauty.jpg](/uploads/3%20doingbird%20beauty.jpg)
 
@@ -15,4 +15,4 @@ layout: gallery
 
 ![5 doingbird beauty.jpg](/uploads/5%20doingbird%20beauty.jpg)
 
-![6 doingbird beauty.jpg](/uploads/6%20doingbird%20beauty.jpg)
+![6 doingbird beauty b.jpg](/uploads/6%20doingbird%20beauty%20b.jpg)

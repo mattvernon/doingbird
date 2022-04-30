@@ -4,7 +4,8 @@ date: 2022-04-27 09:48:00 +10:00
 published: false
 Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
   at [DLM](https://www.instagram.com/dlm_au/)  \n\nMakeup **[Kristyan Low](https://www.instagram.com/kristyanlow/?hl=en)**at
-  [DLM](https://www.instagram.com/dlm_au/)  "
+  [DLM](https://www.instagram.com/dlm_au/)  \n\nJessica - @jcka_ , Priscillas\nSarah
+  - @sarahdenii , Priscillas\nSusanna - @susanna.emi , Kult"
 layout: gallery
 ---
 

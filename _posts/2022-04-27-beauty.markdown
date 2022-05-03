@@ -1,6 +1,10 @@
 ---
 title: Face Forward
 date: 2022-04-27 09:48:00 +10:00
+categories:
+- Fashion
+tags:
+- Beauty
 Main Image: "/uploads/20220319%20doingbird%20beauty28637.jpg"
 Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
   at [DLM](https://www.instagram.com/dlm_au/)  \n\nMakeup **[Kristyan Low](https://www.instagram.com/kristyanlow/?hl=en)**at

@@ -5,11 +5,11 @@ published: false
 categories:
 - Fashion
 Credits Text: "Photography by [Tim Ashton](https://www.instagram.com/timjohntom/)/[After
-  Winter Agency](https://www.afterwinter.com.au)\nHair by [Joel Forman](https://www.instagram.com/joelforman/)/[After
-  Winter Agency](https://www.afterwinter.com.au)\nStyled by [Monica Russell](https://www.instagram.com/monicarussell_/?hl=en)/[Hart
-  & Co](https://www.hartandco.com.au)\nMake-up by [Jasmine Abdallaoui](https://www.instagram.com/jasmineabmakeup/?hl=en)\nProduction
-  by [Alexandra Kent](https://www.instagram.com/alexandra__kent/?hl=en)/[After Winter
-  Agency](https://www.afterwinter.com.au) \nLayout/design by [Rhiarn Schuck](https://www.instagram.com/rhiarn_/?hl=en)
+  Winter Agency](https://www.afterwinter.com.au)   \nHair by [Joel Forman](https://www.instagram.com/joelforman/)/[After
+  Winter Agency](https://www.afterwinter.com.au)  \nStyled by [Monica Russell](https://www.instagram.com/monicarussell_/?hl=en)/[Hart
+  & Co](https://www.hartandco.com.au)  \nMake-up by [Jasmine Abdallaoui](https://www.instagram.com/jasmineabmakeup/?hl=en)
+  \ \nProduction by [Alexandra Kent](https://www.instagram.com/alexandra__kent/?hl=en)/[After
+  Winter Agency](https://www.afterwinter.com.au)   \nLayout/design by [Rhiarn Schuck](https://www.instagram.com/rhiarn_/?hl=en)
   \n\nModels: \nMolly/[Priscillas](https://www.priscillas.com.au)\nTamara/[IMG](https://www.imgmodels.com/sydney/home)\nJanita/[Priscillas](https://www.priscillas.com.au)\nAngelina/[The
   Scouted](https://www.instagram.com/the.scouted/?hl=en)\nEmilie/[Priscillas](https://www.priscillas.com.au)\nSadie/[The
   Scouted](https://www.instagram.com/the.scouted/?hl=en)"
@@ -17,7 +17,7 @@ layout: gallery
 ---
 
 ![TIM ASHTON DOING BIRD 01.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2001.jpg)
-
+Molly wears [Moncler](www.moncler.com) dress; stylist’s own earring.
 ![TIM ASHTON DOING BIRD 02.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2002.jpg)
 
 ![TIM ASHTON DOING BIRD 03.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2003.jpg)

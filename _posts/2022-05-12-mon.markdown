@@ -4,6 +4,10 @@ date: 2022-05-12 13:42:00 +10:00
 published: false
 categories:
 - Fashion
+tags:
+- Fashion
+- Designers
+- Shoot
 Main Image: "/uploads/TIM%20ASHTON%20DOING%20BIRD%2001.jpg"
 Credits Text: "Photography by [Tim Ashton](https://www.instagram.com/timjohntom/)/[After
   Winter Agency](https://www.afterwinter.com.au)   \nHair by [Joel Forman](https://www.instagram.com/joelforman/)/[After

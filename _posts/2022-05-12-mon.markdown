@@ -4,6 +4,7 @@ date: 2022-05-12 13:42:00 +10:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/TIM%20ASHTON%20DOING%20BIRD%2001.jpg"
 Credits Text: "Photography by [Tim Ashton](https://www.instagram.com/timjohntom/)/[After
   Winter Agency](https://www.afterwinter.com.au)   \nHair by [Joel Forman](https://www.instagram.com/joelforman/)/[After
   Winter Agency](https://www.afterwinter.com.au)  \nStyled by [Monica Russell](https://www.instagram.com/monicarussell_/?hl=en)/[Hart
@@ -14,11 +15,12 @@ Credits Text: "Photography by [Tim Ashton](https://www.instagram.com/timjohntom/
   \ \nJanita/[Priscillas](https://www.priscillas.com.au)  \nAngelina/[The Scouted](https://www.instagram.com/the.scouted/?hl=en)
   \ \nEmilie/[Priscillas](https://www.priscillas.com.au)  \nSadie/[The Scouted](https://www.instagram.com/the.scouted/?hl=en)
   \ "
+is featured?: true
 layout: gallery
 ---
 
 ![TIM ASHTON DOING BIRD 01.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2001.jpg)
-                 Molly wears [Moncler](www.moncler.com) dress; stylist’s own earring.
+Molly wears [Moncler](www.moncler.com) dress; stylist’s own earring.
 ![TIM ASHTON DOING BIRD 02.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2002.jpg)
 Tamara wears [Prada](www.prada.com) jacket; model’s own earrings.
 ![TIM ASHTON DOING BIRD 03.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2003.jpg)

@@ -2,6 +2,8 @@
 title: RT
 date: 2022-05-16 08:36:00 +10:00
 published: false
-Credits Text: https://www.instagram.com/heyimrochelle_/
+Credits Text: |-
+  https://www.instagram.com/tessa_styled/
+  https://www.instagram.com/heyimrochelle_/
 ---
 

@@ -2,9 +2,16 @@
 title: Running Touch
 date: 2022-05-16 08:36:00 +10:00
 published: false
+categories:
+- Features
+tags:
+- Feature
+- music
+- Fashion
 Credits Text: |-
   https://www.instagram.com/tessa_styled/
   https://www.instagram.com/heyimrochelle_/
+layout: gallery
 ---
 
 CARMINE: The colour of passion, of rage, love, lust, fear, fury. Carmine is a surreal, masterful work that represents the enigmatic artist, Running Touch’s second life as a juggernaut of intelligent, heart-rending dance music. Born and raised in Melbourne, it’s no surprise that he would one day craft a debut record like Carmine. This record is a culmination of a life spent absorbing the textures of indie rock, hardcore, tech-house, pop, and electronic music, and working out, slowly, how to make them coalesce into something dazzling and totally unique. It was clearly written by someone who understands the musical lingua franca, who has spent his whole life absorbing and interrogating music in order to understand it better.

@@ -8,10 +8,12 @@ tags:
 - Feature
 - music
 - Fashion
+Main Image: "/uploads/20220322%20positive%20feedback29865.jpg"
 Credits Text: "photos [Max Doyle](https://www.instagram.com/maxdoyle_photographer/)
   at [DLM](https://www.instagram.com/dlm_au/?hl=en)   \nStyling [Tessa Law](https://www.instagram.com/tessa_styled/)
   at [DLM](https://www.instagram.com/dlm_au/?hl=en)   \nGrooming [Rochelle Spotswood
   ](https://www.instagram.com/heyimrochelle_/)"
+is featured?: true
 layout: gallery
 ---
 

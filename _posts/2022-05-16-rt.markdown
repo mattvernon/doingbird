@@ -8,9 +8,10 @@ tags:
 - Feature
 - music
 - Fashion
-Credits Text: |-
-  https://www.instagram.com/tessa_styled/
-  https://www.instagram.com/heyimrochelle_/
+Credits Text: "photos [Max Doyle](https://www.instagram.com/maxdoyle_photographer/)
+  at [DLM](https://www.instagram.com/dlm_au/?hl=en)   \nStyling [Tessa Law](https://www.instagram.com/tessa_styled/)
+  at [DLM](https://www.instagram.com/dlm_au/?hl=en)   \nGrooming [Rochelle Spotswood
+  ](https://www.instagram.com/heyimrochelle_/)"
 layout: gallery
 ---
 

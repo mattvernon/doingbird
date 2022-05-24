@@ -8,6 +8,7 @@ categories:
 tags:
 - Fashion
 - music
+Main Image: "/uploads/IMG_3794.jpg"
 is featured?: true
 layout: gallery
 ---

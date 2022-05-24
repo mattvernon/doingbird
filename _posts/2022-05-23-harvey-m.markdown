@@ -7,6 +7,7 @@ categories:
 tags:
 - Fashion
 - music
+is featured?: true
 layout: gallery
 ---
 
@@ -32,7 +33,7 @@ The result is a little insight into the nostalgic influences of his life and mus
 And just like his latest single, “I’m Coming Home”, they are a dedication to the memories of your life.
 
 I’m Coming Home is out now 
-Video Here: https://www.youtube.com/watch?v=5YkHp1j_GDk
+Video Here:[ https://www.youtube.com/watch?v=5YkHp1j_GDk](https://www.youtube.com/watch?v=5YkHp1j_GDk)
 The video clip is a collage of his home videos from the past 30 years. It’s a dedication to the memories of your life - the weirdos, the freaks and most of all your friends.
 ![IMG_3796.jpg](/uploads/IMG_3796.jpg)
 

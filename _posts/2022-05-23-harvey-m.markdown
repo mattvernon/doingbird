@@ -7,6 +7,7 @@ tags:
 - Fashion
 - music
 Main Image: "/uploads/IMG_3794.jpg"
+Credits Text: photos, [Zac Bayly](https://www.instagram.com/zacbayly/?hl=en)
 is featured?: true
 layout: gallery
 ---

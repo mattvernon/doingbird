@@ -9,7 +9,7 @@ tags:
 - Artists
 Credits Text: "Connor Brooker and Jordan Brunoli from [Bugs](https://www.instagram.com/bugsbandau/?hl=en)
   \ \n\nGarments from [SWOP Clothing Exchange](https://www.instagram.com/_swop/?hl=en)
-  \ \nStylists - Rachel McCarthy, Naia Stevenson\nPhotographer - [Finnian Francis
+  \ \nStylists - Rachel McCarthy, Naia Stevenson  \nPhotographer - [Finnian Francis
   Mullen](https://www.instagram.com/finnymullen/?hl=en)    \nAnimals/Insects:[ Wild
   Rangers Wildlife Enounters ](https://www.instagram.com/wildrangerswildlife/?hl=en)\n\n\n\n\n\n"
 is featured?: true

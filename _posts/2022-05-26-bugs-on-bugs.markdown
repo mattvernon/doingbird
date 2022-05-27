@@ -10,29 +10,30 @@ tags:
 layout: gallery
 ---
 
-![IMG_8121.jpg](/uploads/IMG_8121.jpg)
+![IMG_8332.jpg](/uploads/IMG_8332.jpg)
 DOINGBIRD: Your third studio album Cooties hears Bugs heading in a slightly more polished direction. Was this something that was intentional, or did it feel like a gradual growth from your 2019 album Self Help?
 
 CONNOR BROOKER: I think it was a natural / gradual thing at the start, as I was writing the songs for it we all agreed that the feeling they put forward would be best presented in a pretty tidy wrapping. So I guess we trusted the music first then made intentional decisions when it came to production.
 ![IMG_8207.jpg](/uploads/IMG_8207.jpg)
+D: Who were some of the key artists or bands you were listening to while creating this record? 
+
+CB: I think some Weezer & Kisschasy bled through but I can’t remember specifically being inspired by anything while working on this. I listen to a lot of local music / Australian bands so probably a bunch of friends like TOWNS, Teenage Joans, Noah Dillon, R!Hammock.
+
 ![IMG_8192.jpg](/uploads/IMG_8192.jpg)
 ![IMG_8163.jpg](/uploads/IMG_8163.jpg)
 
 ![IMG_8227.jpg](/uploads/IMG_8227.jpg)
 ![IMG_8242.jpg](/uploads/IMG_8242.jpg)
 ![IMG_8293.jpg](/uploads/IMG_8293.jpg)
-![IMG_8332.jpg](/uploads/IMG_8332.jpg)
+
 ![IMG_8314.jpg](/uploads/IMG_8314.jpg)
 ![IMG_8343.jpg](/uploads/IMG_8343.jpg)
 ![IMG_8392.jpg](/uploads/IMG_8392.jpg)
-
+![IMG_8121.jpg](/uploads/IMG_8121.jpg)
 BUGS X DOINGBIRD 
 
  
 
-D: Who were some of the key artists or bands you were listening to while creating this record? 
-
-CB: I think some Weezer & Kisschasy bled through but I can’t remember specifically being inspired by anything while working on this. I listen to a lot of local music / Australian bands so probably a bunch of friends like TOWNS, Teenage Joans, Noah Dillon, R!Hammock.
 
 D: You’ve described Alone Again as a cowboy/cowgirl crooner classic. When you close your eyes and listen to the song, what do you visually imagine? 
 

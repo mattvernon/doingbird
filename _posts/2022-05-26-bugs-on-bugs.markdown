@@ -30,8 +30,8 @@ CB: I think some Weezer & Kisschasy bled through but I can’t remember specific
 D: You’ve described Alone Again as a cowboy/cowgirl crooner classic. When you close your eyes and listen to the song, what do you visually imagine? 
 
 CB: A B+S ball in a barnyard littered with hay and tacky 70s / 80s trinkets like the classic disco ball. Lots of bold colours, puffy sleeves, mullets and suspenders. A few missing teeth. A sherrif rollin’ round on a big pony. Nipple tassels.
+![IMG_8242.jpg](/uploads/IMG_8242.jpg)
 
-![IMG_8163.jpg](/uploads/IMG_8163.jpg)
 D: Mars & Venus is one of your favourite songs on this album, so can you tell us about this song and why it feels so special to you? 
 
 CB: I think it explores a difficult to discuss subject for a lot of people who might feel repressed. It’s self reflective and about the journey of feeling comfortable with your own identity. I think music that makes you think hard about your own experiences is powerful. 
@@ -41,7 +41,7 @@ D: You mention the idea of feeling alone on both ‘Alone Again’ and ‘Mars &
 
 CB: The album definitely looks into isolation in a traditional context, it was probably exaggerated as a theme by the lockdowns we were experiencing during the making of this record. Playing these songs live and seeing the huge emotional release as a result of the bottleneck that’s been the last two years is truly something else.
 
-![IMG_8242.jpg](/uploads/IMG_8242.jpg)
+![IMG_8163.jpg](/uploads/IMG_8163.jpg)
 D: You are currently on the road on the Cooties Tour where you are playing these songs live for the first time. Is there a song that has surprised you with how it’s felt playing live, or how it’s been received by the crowd? 
 
 CB: I think Bridge has surprised me most, it’s a kind of jump-along tempo and pretty straight forward structure so it feels predictable in a comforting way. So I think people just naturally enjoy dancing to something like that. Plus the lyrics are cheesy and cute, who doesn’t love a song about a crush (even the tough bois ™ get around it).

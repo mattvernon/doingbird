@@ -26,7 +26,7 @@ D: Who were some of the key artists or bands you were listening to while creatin
 
 CB: I think some Weezer & Kisschasy bled through but I can’t remember specifically being inspired by anything while working on this. I listen to a lot of local music / Australian bands so probably a bunch of friends like TOWNS, Teenage Joans, Noah Dillon, R!Hammock.
 
-![IMG_8192.jpg](/uploads/IMG_8192.jpg)
+
 D: You’ve described Alone Again as a cowboy/cowgirl crooner classic. When you close your eyes and listen to the song, what do you visually imagine? 
 
 CB: A B+S ball in a barnyard littered with hay and tacky 70s / 80s trinkets like the classic disco ball. Lots of bold colours, puffy sleeves, mullets and suspenders. A few missing teeth. A sherrif rollin’ round on a big pony. Nipple tassels.

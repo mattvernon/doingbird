@@ -7,6 +7,11 @@ categories:
 tags:
 - music
 - Artists
+Credits Text: "Connor Brooker and Jordan Brunoli from Bugs\n\nGarments from [SWOP
+  Clothing Exchange](https://www.instagram.com/_swop/?hl=en)\nStylists - Rachel McCarthy,
+  Naia Stevenson\nPhotographer - [Finnian Francis Mullen](https://www.instagram.com/finnymullen/?hl=en)\nAnimals/Insects:
+  Wild Rangers Wildlife Enounters \n"
+is featured?: true
 layout: gallery
 ---
 

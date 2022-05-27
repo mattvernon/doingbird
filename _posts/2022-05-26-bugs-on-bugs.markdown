@@ -30,13 +30,13 @@ CB: I think some Weezer & Kisschasy bled through but I can’t remember specific
 D: You’ve described Alone Again as a cowboy/cowgirl crooner classic. When you close your eyes and listen to the song, what do you visually imagine? 
 
 CB: A B+S ball in a barnyard littered with hay and tacky 70s / 80s trinkets like the classic disco ball. Lots of bold colours, puffy sleeves, mullets and suspenders. A few missing teeth. A sherrif rollin’ round on a big pony. Nipple tassels.
-![IMG_8242.jpg](/uploads/IMG_8242.jpg)
+![IMG_8227.jpg](/uploads/IMG_8227.jpg)
 
 D: Mars & Venus is one of your favourite songs on this album, so can you tell us about this song and why it feels so special to you? 
 
 CB: I think it explores a difficult to discuss subject for a lot of people who might feel repressed. It’s self reflective and about the journey of feeling comfortable with your own identity. I think music that makes you think hard about your own experiences is powerful. 
+![IMG_8242.jpg](/uploads/IMG_8242.jpg)
 
-![IMG_8227.jpg](/uploads/IMG_8227.jpg)
 D: You mention the idea of feeling alone on both ‘Alone Again’ and ‘Mars & Venus’, so has this been a feeling you’ve felt a lot especially over the past two years? 
 
 CB: The album definitely looks into isolation in a traditional context, it was probably exaggerated as a theme by the lockdowns we were experiencing during the making of this record. Playing these songs live and seeing the huge emotional release as a result of the bottleneck that’s been the last two years is truly something else.

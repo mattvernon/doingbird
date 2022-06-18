@@ -2,6 +2,8 @@
 title: Nebraska Jim
 date: 2022-06-18 09:58:00 +10:00
 published: false
+categories:
+- fashion
 layout: gallery
 ---
 

@@ -7,7 +7,7 @@ categories:
 layout: gallery
 ---
 
-![1.0_BELLAXJAMIE.jpg](/uploads/1.0_BELLAXJAMIE.jpg)
+![2.0_BELLAXJAMIE-.jpg](/uploads/2.0_BELLAXJAMIE-.jpg)
 
 ![3.0_BELLAXJAMIE.jpg](/uploads/3.0_BELLAXJAMIE.jpg)
 

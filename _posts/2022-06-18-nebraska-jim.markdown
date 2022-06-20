@@ -1,9 +1,10 @@
 ---
 title: Nebraska Jim
 date: 2022-06-18 09:58:00 +10:00
-published: false
 categories:
 - fashion
+tags:
+- Fashion
 Main Image: "/uploads/7.0_BELLAXJAMIE.jpg"
 Credits Text: "photos [Jamie Green](https://www.instagram.com/jamie_.green/?hl=en)
   \ \nStyling  [Tabatha Turner](https://www.instagram.com/tabathaturner/?hl=en)   \nH&M

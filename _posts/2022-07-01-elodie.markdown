@@ -2,6 +2,7 @@
 title: Elodie
 date: 2022-07-01 20:12:00 +10:00
 published: false
+Credits Text: Makeup by Rob Povey @robpoveymua
 is featured?: true
 layout: gallery
 ---

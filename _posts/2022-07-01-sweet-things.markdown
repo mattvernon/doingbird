@@ -1,5 +1,5 @@
 ---
-title: Elodie
+title: Sweet Things
 date: 2022-07-01 20:12:00 +10:00
 published: false
 Main Image: "/uploads/LAYOUT%201.jpg"

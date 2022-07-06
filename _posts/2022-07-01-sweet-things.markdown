@@ -25,7 +25,8 @@ layout: gallery
 
 ![LR-LAYOUT-9.jpg](/uploads/LR-LAYOUT-9.jpg)
 
+![LAYOUT 6.jpg](/uploads/LAYOUT%206.jpg)
+
 ![LAYOUT 8.jpg](/uploads/LAYOUT%208.jpg)
 
-![LAYOUT 6.jpg](/uploads/LAYOUT%206.jpg)
 

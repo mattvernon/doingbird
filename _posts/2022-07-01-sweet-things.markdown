@@ -3,9 +3,10 @@ title: Sweet Things
 date: 2022-07-01 20:12:00 +10:00
 published: false
 Main Image: "/uploads/LAYOUT%201.jpg"
-Credits Text: "\nPhotography Steph Camammrano\nStyling Abby Bennett\n\nMakeup by Rob
-  Povey @robpoveymua\nHair @bradwynjones using @mrsmithhair \nStyling assistant Jemima
-  Mikulic\nPhotography Assistant "
+Credits Text: "a collection of personal favourites by Elodie & Abby \n\nPhotography
+  Steph Camammrano\nStyling Abby Bennett\n\nMakeup by Rob Povey @robpoveymua\nHair
+  @bradwynjones using @mrsmithhair \nStyling assistant Jemima Mikulic\nPhotography
+  Assistant "
 is featured?: true
 layout: gallery
 ---

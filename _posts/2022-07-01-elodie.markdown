@@ -10,15 +10,16 @@ is featured?: true
 layout: gallery
 ---
 
-![LAYOUT 3.jpg](/uploads/LAYOUT%203.jpg)
 
 ![LAYOUT 1.jpg](/uploads/LAYOUT%201.jpg)
 
 ![LAYOUT 4.jpg](/uploads/LAYOUT%204.jpg)
 
-![LAYOUT 5.jpg](/uploads/LAYOUT%205.jpg)
+![LAYOUT 3.jpg](/uploads/LAYOUT%203.jpg)
 
 ![LAYOUT 2.jpg](/uploads/LAYOUT%202.jpg)
+
+![LAYOUT 5.jpg](/uploads/LAYOUT%205.jpg)
 
 ![LAYOUT 8.jpg](/uploads/LAYOUT%208.jpg)
 

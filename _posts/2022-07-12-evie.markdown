@@ -6,6 +6,11 @@ categories:
 - Fashion
 tags:
 - Beauty
+Credits Text: "Photographer - [Amelia Dowd](https://www.instagram.com/ameliajdowd/?hl=en)
+  @ [Viviens Creative](https://vivienscreative.com.au) https://www.instagram.com/ameliajdowd/
+  \n@ameliajdowd. \nModel - Evie @ The Scouted https://www.instagram.com/evieashby/
+  @evieashby\nHMUA - Aimie Fiebig @ APREPS https://www.instagram.com/aimiefiebig/
+  @aimiefiebig\n"
 layout: gallery
 ---
 

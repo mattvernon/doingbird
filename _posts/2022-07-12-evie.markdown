@@ -1,7 +1,6 @@
 ---
 title: Evie
 date: 2022-07-12 08:26:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

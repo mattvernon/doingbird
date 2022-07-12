@@ -6,10 +6,12 @@ categories:
 - Fashion
 tags:
 - Beauty
+Main Image: "/uploads/Evie%20doingbird%235.jpg"
 Credits Text: "Photographer - [Amelia Dowd](https://www.instagram.com/ameliajdowd/?hl=en)
   @ [Viviens Creative](https://vivienscreative.com.au)   \nHMUA - [Aimie Fiebig](https://www.instagram.com/aimiefiebig/?hl=en)
   @ [APREPS](https://apreps.com.au)   \nModel - [Evie](https://www.instagram.com/evieashby/?hl=en)
   @ [The Scouted](https://www.instagram.com/the.scouted/?hl=en) \n\n"
+is featured?: true
 layout: gallery
 ---
 

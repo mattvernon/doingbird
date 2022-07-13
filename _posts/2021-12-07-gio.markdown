@@ -1,0 +1,56 @@
+---
+title: Boys
+date: 2021-12-07 11:47:00 +11:00
+categories:
+- Fashion
+tags:
+- fashion
+- Shoots
+Main Image: "/uploads/doingbird_giovanni_di_stefano_11.jpg"
+Credits Text: "Photography [Giovanni Di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)
+  \ \nAssistant photographer [Gabriele Renna ](https://www.instagram.com/gbrlrnn/?hl=en)
+  \ \nStyling  [Arianna Cavallo](https://instagram.com/arianna.cavallo?utm_medium=copy_link)\n\nModels
+  [Liam Marquant](https://instagram.com/liamarquant?utm_medium=copy_link)  \n[ Matplainfosse
+  ](https://instagram.com/mat.plainfos?utm_medium=copy_link)  \n[Enzo Dobrowolski](https://instagram.com/nzzooh?utm_medium=copy_link)
+  \ \n Liam,Mat,Enzo @[Elitemodelworld](https://instagram.com/elitemodelworld?utm_medium=copy_link)
+  \ \n[Youssef Bouzamita](https://instagram.com/youssef.amita?utm_medium=copy_link)
+  \ \nLuca Vicino                       \nYoussef and Luca @ [Success Models](https://instagram.com/successmodels?utm_medium=copy_link)
+  \n\n[shot @ Georges2 Studio, Paris ](https://instagram.com/georges2studio?utm_medium=copy_link)
+  \ \nthanks to [LP postproduction](https://instagram.com/lp_postproduction?utm_medium=copy_link) "
+is featured?: true
+Field name: 
+layout: gallery
+---
+
+![doingbird_giovanni _di_stefano_1.jpg](/uploads/doingbird_giovanni%20_di_stefano_1.jpg)
+Liam is wearing Jacket [**Dries Van Noten**](https://www.instagram.com/driesvannoten/), Scarf [**Paul Smith**](https://www.instagram.com/paulsmithdesign/), Hat Vintage
+
+![doingbird_giovanni_di_stefano_2.jpg](/uploads/doingbird_giovanni_di_stefano_2.jpg)
+Enzo is wearing Coat and sweater Kolor, Shorts [**Dries Van Noten**](https://www.instagram.com/driesvannoten/), Denim trousers REM rapideyemovements, Shoes [**Camper**](https://www.instagram.com/camper/)
+
+![doingbird_giovanni_di_stefano_3.jpg](/uploads/doingbird_giovanni_di_stefano_3.jpg)
+Youssef is wearing Trousers vest and shoes [**Acne Studios**](https://www.instagram.com/acnestudios/), Vest Vintage, Hat and Belt Vintage
+
+![doingbird_giovanni_di_stefano_4.jpg](/uploads/doingbird_giovanni_di_stefano_4.jpg)
+Liam is wearing Shirt and tie [Paul Smith](https://www.instagram.com/paulsmithdesign/), Top Umbro,Trousers [**Homme Plissé Issey Miyake**](https://www.instagram.com/hommeplisse_isseymiyake/), Shoes [**Acne Studios**](https://www.instagram.com/acnestudios/)
+
+![doingbird_giovanni_di_stefano_5.jpg](/uploads/doingbird_giovanni_di_stefano_5.jpg)
+Liam is wearing Shirt and trousers Vintage, Vest [**BLESS**](https://www.instagram.com/bless_service/?hl=undefined), Socks [**Falke**](https://www.instagram.com/falke/), Shoes [**Acne Studios**](https://www.instagram.com/acnestudios/)
+
+![doingbird_giovanni_di_stefano_6.jpg](/uploads/doingbird_giovanni_di_stefano_6.jpg)
+Matthieu is wearing Sweater [**Paul Smith**](https://www.instagram.com/paulsmithdesign/), Brooch MOLISM, Trousers [**Dries Van Noten**](https://www.instagram.com/driesvannoten/)
+
+![doingbird_giovanni_di_stefano_7.jpg](/uploads/doingbird_giovanni_di_stefano_7.jpg)
+Enzo is wearing Jacket Kenzo,Trousers BLESS
+![doingbird_giovanni_di_stefano_8.jpg](/uploads/doingbird_giovanni_di_stefano_8.jpg)
+Matthieu is wearing Vest [**Homme Plissé Issey Miyake**](https://www.instagram.com/hommeplisse_isseymiyake/), Trousers [**Dries Van Noten**](https://www.instagram.com/driesvannoten/), Hat [Paul Smith]([**Paul Smith**](https://www.instagram.com/paulsmithdesign/)), Shoes [**BLESS**](https://www.instagram.com/bless_service/?hl=undefined)
+
+![doingbird_giovanni_di_stefano_9.jpg](/uploads/doingbird_giovanni_di_stefano_9.jpg)
+Luca is wearing Jacket [**Paul Smith**](https://www.instagram.com/paulsmithdesign/), Vest [Carne Bollente](https://www.instagram.com/carnebollente/), Trousers REM rapideyemovements, Bag [**BLESS**](https://www.instagram.com/bless_service/?hl=undefined), Shoes [**CAMPERLAB**](https://www.instagram.com/camperlab/)
+
+![doingbird_giovanni_di_stefano_10.jpg](/uploads/doingbird_giovanni_di_stefano_10.jpg)
+Luca is wearing Sweater Carne Bollente, Kilt Vintage, Trousers [**BLESS**](https://www.instagram.com/bless_service/?hl=undefined), Shoes [**CAMPERLAB**](https://www.instagram.com/camperlab/)
+
+
+![doingbird_giovanni_di_stefano_11.jpg](/uploads/doingbird_giovanni_di_stefano_11.jpg)
+Youssef is wearing T-shirt [**Niccolò Pasqualetti**](https://www.instagram.com/niccolopasqualetti/), Brooch MOLISM

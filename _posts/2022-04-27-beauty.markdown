@@ -1,0 +1,29 @@
+---
+title: Face Forward
+date: 2022-04-27 09:48:00 +10:00
+categories:
+- Fashion
+tags:
+- Beauty
+Main Image: "/uploads/20220319%20doingbird%20beauty28637.jpg"
+Credits Text: "photographs **[Max Doyle](https://www.instagram.com/scrap_doyle/)**
+  at [DLM](https://www.instagram.com/dlm_au/)  \n\nMakeup **[Kristyan Low](https://www.instagram.com/kristyanlow/?hl=en)**at
+  [DLM](https://www.instagram.com/dlm_au/)  \n\n[Jessica](https://www.instagram.com/jcka_/?hl=en)
+  at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)  \n[Sarah](https://www.instagram.com/sarahdenii/?hl=en)
+  at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)  \n[Susanna](https://www.instagram.com/susanna.emi/?hl=en)
+  at [Kult](https://www.instagram.com/kultaustralia/?hl=en)"
+is featured?: true
+layout: gallery
+---
+
+![1 doingbird beauty.jpg](/uploads/1%20doingbird%20beauty.jpg)
+
+![2 doingbird beauty b.jpg](/uploads/2%20doingbird%20beauty%20b.jpg)
+
+![3 doingbird beauty.jpg](/uploads/3%20doingbird%20beauty.jpg)
+
+![4 doingbird beauty.jpg](/uploads/4%20doingbird%20beauty.jpg)
+
+![5 doingbird beauty.jpg](/uploads/5%20doingbird%20beauty.jpg)
+
+![6 doingbird beauty b.jpg](/uploads/6%20doingbird%20beauty%20b.jpg)

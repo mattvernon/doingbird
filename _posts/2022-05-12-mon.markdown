@@ -1,0 +1,60 @@
+---
+title: Untitled
+date: 2022-05-12 13:42:00 +10:00
+categories:
+- Fashion
+tags:
+- Fashion
+- Designers
+- Shoot
+Main Image: "/uploads/TIM%20ASHTON%20DOING%20BIRD%2001.jpg"
+Credits Text: "Photography by [Tim Ashton](https://www.instagram.com/timjohntom/)/[After
+  Winter Agency](https://www.afterwinter.com.au)   \nHair by [Joel Forman](https://www.instagram.com/joelforman/)/[After
+  Winter Agency](https://www.afterwinter.com.au)  \nStyled by [Monica Russell](https://www.instagram.com/monicarussell_/?hl=en)/[Hart
+  & Co](https://www.hartandco.com.au)  \nMake-up by [Jasmine Abdallaoui](https://www.instagram.com/jasmineabmakeup/?hl=en)
+  \ \nProduction by [Alexandra Kent](https://www.instagram.com/alexandra__kent/?hl=en)/[After
+  Winter Agency](https://www.afterwinter.com.au)   \nLayout/design by [Rhiarn Schuck](https://www.instagram.com/rhiarn_/?hl=en)
+  \n\nModels: \nMolly/[Priscillas](https://www.priscillas.com.au)  \nTamara/[IMG](https://www.imgmodels.com/sydney/home)
+  \ \nJanita/[Priscillas](https://www.priscillas.com.au)  \nAngelina/[The Scouted](https://www.instagram.com/the.scouted/?hl=en)
+  \ \nEmilie/[Priscillas](https://www.priscillas.com.au)  \nSadie/[The Scouted](https://www.instagram.com/the.scouted/?hl=en)
+  \ "
+is featured?: true
+layout: gallery
+---
+
+![TIM ASHTON DOING BIRD 01.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2001.jpg)
+Molly wears [Moncler](www.moncler.com) dress; stylist’s own earring.
+![TIM ASHTON DOING BIRD 02.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2002.jpg)
+Tamara wears [Prada](www.prada.com) jacket; model’s own earrings.
+![TIM ASHTON DOING BIRD 03.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2003.jpg)
+Janita wears [Celine](www.celine.com) jacket, top and pants; [Prada](www.prada.com) heels; stylist’s own vintage briefs.
+![TIM ASHTON DOING BIRD 04.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2004.jpg)
+Molly wears [Moncler](www.moncler.com) Genuis+Gentle Monster dress; stylist’s own earring; model’s own rings.
+![TIM ASHTON DOING BIRD 05.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2005.jpg)
+ Angelina wears Sacai jacket via [Marais](www.marais.com.au); [Dion Lee](www.dionlee.com) skirt; [Celine](www.celine.com) belt; Prada boots via [Farfetch](www.farfetch.com).
+![TIM ASHTON DOING BIRD 06.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2006.jpg)
+Molly (left) wears [Rube Pedder](www.instagram.com/rubepedder/) top and pants; [Prada](www.prada.com) heels; stylist’s own earrings.
+Emilie (right) wears vintage coat via [Olivia Lilah Lahood](www.olivialilalahood.com); [Miu Miu](www.miumiu.com) leather shirt and shoes; vintage top via [C's Flashback](www.instagram.com/csflashback/?hl=en); [Moncler](www.moncler.com) Grenoble shorts; [Saskia Diez](www.saskia-diez.com) ear cuff and earring; stylist’s own vintage socks.
+![TIM ASHTON DOING BIRD 07.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2007.jpg)
+ Sadie wears [Saint Laurent](www.ysl.com) by Anthony Vaccarello blouse, pants, earrings and belt. 
+![TIM ASHTON DOING BIRD 08.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2008.jpg)
+Angelina wears [Chanel](www.chanel.com/au/) top, bodysuit, earrings, belt and shoes; stylist’s own vintage socks.
+
+
+![TIM ASHTON DOING BIRD 09.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2009.jpg)
+Janita (left) wears [Bottega Veneta](www.bottegaveneta.com) jacket and skirt.
+Tamara (right) wears [Dion Lee](www.dionlee.com) top; model’s own earrings. 
+
+
+
+![TIM ASHTON DOING BIRD 10.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2010.jpg)
+Emilie (left) wears vintage coat via [Olivia Lilah Lahood](www.olivialilalahood.com); [Miu Miu](www.miumiu.com) leather shirt; [Saskia Diez](www.saskia-diez.com) ear cuff and earring.
+Emilie (right) wears [Miu Miu](www.miumiu.com) jacket, knit, shirt, skirt, briefs, belt, shoes and socks.
+
+
+![TIM ASHTON DOING BIRD 11.jpg](/uploads/TIM%20ASHTON%20DOING%20BIRD%2011.jpg)
+Sadie wears [Bassike](bassike.com) long sleeve top and tank top; [Off-White](www.off---white.com) jeans; [Prada](www.prada.com) earring and ear cuff; stylist’s own vintage briefs. 
+
+
+
+

@@ -3,12 +3,14 @@ title: Sweet Things
 date: 2022-07-01 20:12:00 +10:00
 published: false
 Main Image: "/uploads/LAYOUT%201.jpg"
-Credits Text: "Photography [Steph Cammarano](https://www.instagram.com/stephcammarano/)\n\nStyling
-  [Abby Bennett](https://www.instagram.com/bennett_abby/) *Styled using a collection
-  of Elodie & Abby's personal favourites *\n\nBeauty [Rob Povey](https://www.instagram.com/robpoveymua/)\n\nHair
-  [Bradwyn Jones](https://www.instagram.com/bradwynjones/) using [@mrsmithhair ](https://www.instagram.com/mrsmithhair/)\n\nDigi-Op
-  [Daniel Congerton](https://www.instagram.com/danielcongerton/) \nPhotography Assistant
-  [Tom Hunt-Smith](https://www.instagram.com/tomhuntsmith/)\nStyling assistant [Jemima
+Credits Text: "Talent: [Elodie Russell](https://www.instagram.com/elodierussell/)
+  @ [KULT Australia](https://www.instagram.com/kultaustralia/)\n\nPhotography: [Steph
+  Cammarano](https://www.instagram.com/stephcammarano/)\n\nStyling: [Abby Bennett](https://www.instagram.com/bennett_abby/)
+  *Styled using a collection of Elodie & Abby's personal favourites *\n\nBeauty: [Rob
+  Povey](https://www.instagram.com/robpoveymua/)\n\nHair: [Bradwyn Jones](https://www.instagram.com/bradwynjones/)
+  using [@mrsmithhair ](https://www.instagram.com/mrsmithhair/)\n\nDigi-Op: [Daniel
+  Congerton](https://www.instagram.com/danielcongerton/) \nPhotography Assistant:
+  [Tom Hunt-Smith](https://www.instagram.com/tomhuntsmith/)\nStyling assistant: [Jemima
   Mikulic](https://www.instagram.com/jem.gina/)\n"
 is featured?: true
 layout: gallery

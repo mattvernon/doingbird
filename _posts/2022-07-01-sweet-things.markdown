@@ -13,8 +13,10 @@ layout: gallery
 
 
 ![LAYOUT 1.jpg](/uploads/LAYOUT%201.jpg)
+Dress [STRATEAS CARLUCCI](https://strateascarlucci.com/), stockings stylists own 
 
 ![LAYOUT 4.jpg](/uploads/LAYOUT%204.jpg)
+Jacket [STRATEAS CARLUCCI](https://strateascarlucci.com/), Cycling bib shorts [MAAP](https://maap.cc/), archive [PRADA](https://www.prada.com/au/en.html) heels stylists own
 
 ![LAYOUT 3.jpg](/uploads/LAYOUT%203.jpg)
 

@@ -4,10 +4,9 @@ date: 2022-07-13 20:12:00 +10:00
 published: false
 Main Image: "/uploads/LAYOUT%201.jpg"
 Credits Text: "Talent: [Elodie Russell](https://www.instagram.com/elodierussell/)
-  @ [KULT Australia](https://www.instagram.com/kultaustralia/)\n\nPhotography: [Steph
-  Cammarano](https://www.instagram.com/stephcammarano/)\n\nStyling: [Abby Bennett](https://www.instagram.com/bennett_abby/)
-  \n\nstyled using a collection of Elodie & Abby's personal favourites \n\nBeauty:
-  [Rob Povey](https://www.instagram.com/robpoveymua/)\n\nHair: [Bradwyn Jones](https://www.instagram.com/bradwynjones/)
+  @ [KULT Australia](https://www.instagram.com/kultaustralia/)\nPhotography: [Steph
+  Cammarano](https://www.instagram.com/stephcammarano/)\nStyling: [Abby Bennett](https://www.instagram.com/bennett_abby/)
+  \nBeauty: [Rob Povey](https://www.instagram.com/robpoveymua/)\nHair: [Bradwyn Jones](https://www.instagram.com/bradwynjones/)
   using [@mrsmithhair ](https://www.instagram.com/mrsmithhair/)\n\nDigi-Op: [Daniel
   Congerton](https://www.instagram.com/danielcongerton/) \nPhotography Assistant:
   [Tom Hunt-Smith](https://www.instagram.com/tomhuntsmith/)\nStyling assistant: [Jemima

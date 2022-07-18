@@ -1,7 +1,6 @@
 ---
 title: Sweet Things
 date: 2022-07-14 20:12:00 +10:00
-published: false
 categories:
 - Fashion
 Main Image: "/uploads/LAYOUT%201.jpg"
@@ -11,7 +10,7 @@ Credits Text: "Photography: [Steph Cammarano](https://www.instagram.com/stephcam
   [Daniel Congerton](https://www.instagram.com/danielcongerton/) \nPhotography Assistant:
   [Tom Hunt-Smith](https://www.instagram.com/tomhuntsmith/)\nStyling assistant: [Jemima
   Mikulic](https://www.instagram.com/jem.gina/)\n\nTalent: [Elodie Russell](https://www.instagram.com/elodierussell/)
-  @ [KULT Australia](https://www.instagram.com/kultaustralia/)\n"
+  @ [KULT Australia](https://www.instagram.com/kultaustralia/)"
 is featured?: true
 layout: gallery
 ---

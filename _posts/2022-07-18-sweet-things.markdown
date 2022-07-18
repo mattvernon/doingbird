@@ -33,7 +33,7 @@ Trenchcoat, [STRATEAS CARLUCCI](https://strateascarlucci.com/);
 [FLEET ILYA](https://www.fleetilya.com/) bra top, bag & boots, models own; stockings & underpants, stylists own 
 
 ![LAYOUT 5.jpg](/uploads/LAYOUT%205.jpg)
-Sunglasses, [MAAP](https://maap.cc/); chain mail top, [SSCHAFER](https://www.sschafer.com.au/); track pants, [APRES STUDIO](https://apresstudio.com.au/); [MIU MIU](https://www.miumiu.com/au/en.html) shoes, models own
+Sunglasses, [MAAP](https://maap.cc/); chainmail bra, [SSCHAFER](https://www.sschafer.com.au/) x [PEI YI](https://www.instagram.com/peiyi.online/); track pants, [APRES STUDIO](https://apresstudio.com.au/); [MIU MIU](https://www.miumiu.com/au/en.html) shoes, models own
 
 ![LAYOUT 7.jpg](/uploads/LAYOUT%207.jpg)
 Vintage Bomber Jacket, stylist assistants own; Corset micro mini skirt, [SSCHAFER](https://www.sschafer.com.au/);

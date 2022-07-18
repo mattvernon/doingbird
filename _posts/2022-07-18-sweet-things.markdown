@@ -1,9 +1,12 @@
 ---
 title: Sweet Things
-date: 2022-07-14 20:12:00 +10:00
-published: false
+date: 2022-07-18 10:00:00 +10:00
 categories:
 - Fashion
+tags:
+- FASHION
+- Photography
+- Models
 Main Image: "/uploads/LAYOUT%201.jpg"
 Credits Text: "Photography: [Steph Cammarano](https://www.instagram.com/stephcammarano/)\nStyling:
   [Abby Bennett](https://www.instagram.com/bennett_abby/) \nBeauty: [Rob Povey](https://www.instagram.com/robpoveymua/)\nHair:

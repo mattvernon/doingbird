@@ -11,7 +11,7 @@ Credits Text: "Photography: [Steph Cammarano](https://www.instagram.com/stephcam
   [Daniel Congerton](https://www.instagram.com/danielcongerton/) \nPhotography Assistant:
   [Tom Hunt-Smith](https://www.instagram.com/tomhuntsmith/)\nStyling assistant: [Jemima
   Mikulic](https://www.instagram.com/jem.gina/)\n\nTalent: [Elodie Russell](https://www.instagram.com/elodierussell/)
-  @ [KULT Australia](https://www.instagram.com/kultaustralia/)\n"
+  @ [KULT Australia](https://www.instagram.com/kultaustralia/)"
 is featured?: true
 layout: gallery
 ---

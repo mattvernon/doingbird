@@ -6,6 +6,10 @@ categories:
 - fashion
 tags:
 - Fashion
+Credits Text: "Stylist : [Teanne Vickers](https://www.instagram.com/teannevickers/)\n\n\nHair:
+  [Georgia Ramman](https://www.instagram.com/georgiaramman/)\n\n\nMakeup: [Sean Brady](https://www.instagram.com/seanetc/)\n\n\nModels:\n[Elibeidi](https://www.instagram.com/elibeidy/?hl=en)
+  at IMG\n\n[Mannie](https://www.instagram.com/mannielafan/ ) at Priscillas \n\n \nShot
+  on location at [Baker Street Studio ](https://www.workhorsestudio.com.au/)\n\n"
 layout: gallery
 ---
 

@@ -26,7 +26,7 @@ Dress, [STRATEAS CARLUCCI](https://strateascarlucci.com/); stockings, stylists o
 ![LAYOUT 4.jpg](/uploads/LAYOUT%204.jpg)
 
 ![LAYOUT 3.jpg](/uploads/LAYOUT%203.jpg)
-Jacket, [STRATEAS CARLUCCI](https://strateascarlucci.com/); Cycling bib shorts, [MAAP](https://maap.cc/); archive [PRADA](https://www.prada.com/au/en.html) heels, stylists own
+Jacket, [STRATEAS CARLUCCI](https://strateascarlucci.com/); Cycling bib shorts, [MAAP](https://maap.cc/) x The Arrivals; archive [PRADA](https://www.prada.com/au/en.html) heels, stylists own
 
 ![LAYOUT 2.jpg](/uploads/LAYOUT%202.jpg)
 Trenchcoat, [STRATEAS CARLUCCI](https://strateascarlucci.com/);

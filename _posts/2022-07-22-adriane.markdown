@@ -6,9 +6,11 @@ categories:
 - fashion
 tags:
 - Fashion
-Credits Text: "Stylist : [Teanne Vickers](https://www.instagram.com/teannevickers/)\n\n\nHair:
-  [Georgia Ramman](https://www.instagram.com/georgiaramman/)\n\n\nMakeup: [Sean Brady](https://www.instagram.com/seanetc/)\n\n\nModels:\n[Elibeidi](https://www.instagram.com/elibeidy/?hl=en)
-  at IMG\n\n[Mannie](https://www.instagram.com/mannielafan/ ) at Priscillas \n\n \nShot
+Credits Text: "photographer: [Adrian Meško](https://www.instagram.com/adrianmesko/)\n\nStylist
+  : [Teanne Vickers](https://www.instagram.com/teannevickers/)\n\n\nHair: [Georgia
+  Ramman](https://www.instagram.com/georgiaramman/)\n\n\nMakeup: [Sean Brady](https://www.instagram.com/seanetc/)\n\n\nModels:\n[Elibeidi](https://www.instagram.com/elibeidy/?hl=en)
+  at [IMG](https://www.instagram.com/imgmodels/?hl=en)\n\n[Mannie](https://www.instagram.com/mannielafan/
+  ) at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en) \n\n \nShot
   on location at [Baker Street Studio ](https://www.workhorsestudio.com.au/)\n\n"
 layout: gallery
 ---

@@ -1,8 +1,8 @@
 ---
-title: "On a quiet day, I can hear her breathing.   \nRae Begley"
+title: "On a quiet day, I can hear her breathing.     \nRae Begley"
 date: 2022-08-03 19:30:00 +10:00
 published: false
-layout: post
+layout: default
 ---
 
 ![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)

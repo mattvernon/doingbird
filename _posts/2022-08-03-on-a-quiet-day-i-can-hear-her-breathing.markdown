@@ -6,6 +6,19 @@ layout: gallery
 ---
 
 ![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)
+‘On a quiet day, I can hear her breathing’* a new exhibition of photographs reflects on nature, on Earth as a living organism.
+
+The photographs were made with a slow intensity of exploration through the physical act of walking and site-responsive connections to remote environments.
+
+Performative in the process of their creation, each reportage work is happened upon, captured during physically demanding expeditions.
+
+Geological landscapes, otherworldly scenes and elements of human interference become found moments in time and space.
+
+There’s a sense of sculpture, installation and the discovery of architecture as residue present in the work which evokes environmental and philosophical questions.
+
+‘On a quiet day, I can hear her breathing’ is a meditation on time. As humans, we are slow to act to protect the environment from our own destruction, to halt its decline, to care for home, our golden earth.
+
+Purity of form, colour and composition intends to record truth and authenticity; the result of a considered, long and deliberate analog process of photography that incorporates film, natural light, hand held and hand printed techniques to express a delicate balance of strength and fragility.
 
 ![2.Rae_Begley_Towers of the Goddess_2018-2022.jpg](/uploads/2.Rae_Begley_Towers%20of%20the%20Goddess_2018-2022.jpg)
 

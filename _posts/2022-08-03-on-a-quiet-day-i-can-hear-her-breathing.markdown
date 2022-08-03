@@ -1,11 +1,11 @@
 ---
-title: "On a quiet day, I can hear her breathing.         \n\n\nRae Begley"
+title: On a quiet day, I can hear her breathing.
 date: 2022-08-03 19:30:00 +10:00
 published: false
 layout: gallery
 ---
 
-# Rae Begley
+## # Rae Begley
 ![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)
 ‘On a quiet day, I can hear her breathing’* a new exhibition of photographs reflects on nature, on Earth as a living organism.
 

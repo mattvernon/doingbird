@@ -29,7 +29,7 @@ Dragons of Ice
 ![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
 
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)
-
+Great Spirit's House
 ![5.Rae_Begley_The_Golden_Earth_2018-2022.jpg](/uploads/5.Rae_Begley_The_Golden_Earth_2018-2022.jpg)
 
 ![13.Rae_Begley_The Highest Wisdom_2018-2022.jpg](/uploads/13.Rae_Begley_The%20Highest%20Wisdom_2018-2022.jpg)

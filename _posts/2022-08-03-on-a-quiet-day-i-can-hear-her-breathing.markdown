@@ -7,7 +7,7 @@ layout: gallery
 
 ## Rae Begley
 ![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)
-### Memorial of Fragility  
+**Memorial of Fragility ** 
 ‘On a quiet day, I can hear her breathing’* a new exhibition of photographs reflects on nature, on Earth as a living organism.
 
 The photographs were made with a slow intensity of exploration through the physical act of walking and site-responsive connections to remote environments.
@@ -25,7 +25,7 @@ Purity of form, colour and composition intends to record truth and authenticity;
 ![2.Rae_Begley_Towers of the Goddess_2018-2022.jpg](/uploads/2.Rae_Begley_Towers%20of%20the%20Goddess_2018-2022.jpg)
 Towers of the Goddess
 ![3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg](/uploads/3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg)
-
+Dragons of Ice
 ![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
 
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)

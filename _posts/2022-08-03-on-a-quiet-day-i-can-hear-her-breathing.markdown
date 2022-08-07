@@ -25,6 +25,8 @@ Purity of form, colour and composition intends to record truth and authenticity;
 
 ![3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg](/uploads/3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg)
 
+![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
+
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)
 
 ![5.Rae_Begley_The_Golden_Earth_2018-2022.jpg](/uploads/5.Rae_Begley_The_Golden_Earth_2018-2022.jpg)
@@ -47,7 +49,7 @@ Purity of form, colour and composition intends to record truth and authenticity;
 
 ![14.Rae_Begley_All is One_2018-2022.jpg](/uploads/14.Rae_Begley_All%20is%20One_2018-2022.jpg)
 
-![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
+
 
 ![16.Rae_Begley_It shines forth, farther than the far_2018-2022.jpg](/uploads/16.Rae_Begley_It%20shines%20forth,%20farther%20than%20the%20far_2018-2022.jpg)
 

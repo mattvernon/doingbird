@@ -27,32 +27,32 @@ Towers of the Goddess
 ![3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg](/uploads/3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg)
 Dragons of Ice
 ![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
-
+The One
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)
 Great Spirit's House
 ![5.Rae_Begley_The_Golden_Earth_2018-2022.jpg](/uploads/5.Rae_Begley_The_Golden_Earth_2018-2022.jpg)
 The Golden Earth
 ![13.Rae_Begley_The Highest Wisdom_2018-2022.jpg](/uploads/13.Rae_Begley_The%20Highest%20Wisdom_2018-2022.jpg)
-
+The Highest Wisdom
 ![6.Rae_Begley_The Infinite Dimension_2018-2022.jpg](/uploads/6.Rae_Begley_The%20Infinite%20Dimension_2018-2022.jpg)
 The Infinite Dimension
 ![7.Rae_Begley_Tears of the Moon_2018-2022.jpg](/uploads/7.Rae_Begley_Tears%20of%20the%20Moon_2018-2022.jpg)
 Tears of the Moon
 ![8.Rae_Begley_The Realm of Forms_2018-2022.jpg](/uploads/8.Rae_Begley_The%20Realm%20of%20Forms_2018-2022.jpg)
-
+The Realm of Forms
 ![9.Rae_Begley_Above the clouds, the spirit soars_2019-2022.jpg](/uploads/9.Rae_Begley_Above%20the%20clouds,%20the%20spirit%20soars_2019-2022.jpg)
-
+Above the clouds
 ![10.Rae_Begley_On a quiet day, I can hear her breathing_2018-2022.jpg](/uploads/10.Rae_Begley_On%20a%20quiet%20day,%20I%20can%20hear%20her%20breathing_2018-2022.jpg)
-
+On a quiet day
 ![11.Rae_Begley_Dancing on water, healing the heart-2018-2022.jpg](/uploads/11.Rae_Begley_Dancing%20on%20water,%20healing%20the%20heart-2018-2022.jpg)
-
+Dancing on water
 ![12.Rae_Begley_The Holy Water_2018-2022.jpg](/uploads/12.Rae_Begley_The%20Holy%20Water_2018-2022.jpg)
-
+The Holy Water
 
 
 ![14.Rae_Begley_All is One_2018-2022.jpg](/uploads/14.Rae_Begley_All%20is%20One_2018-2022.jpg)
-
+All is One
 
 
 ![16.Rae_Begley_It shines forth, farther than the far_2018-2022.jpg](/uploads/16.Rae_Begley_It%20shines%20forth,%20farther%20than%20the%20far_2018-2022.jpg)
-
+ It shines forth

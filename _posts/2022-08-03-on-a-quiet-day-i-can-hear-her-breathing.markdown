@@ -1,7 +1,6 @@
 ---
 title: On a quiet day,   I can hear her breathing.
 date: 2022-08-03 19:30:00 +10:00
-published: false
 categories:
 - Art
 tags:

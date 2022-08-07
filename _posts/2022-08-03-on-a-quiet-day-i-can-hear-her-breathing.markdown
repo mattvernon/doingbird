@@ -2,6 +2,8 @@
 title: On a quiet day, I can hear her breathing.
 date: 2022-08-03 19:30:00 +10:00
 published: false
+Main Image: "/uploads/7.Rae_Begley_Tears%20of%20the%20Moon_2018-2022.jpg"
+is featured?: true
 layout: gallery
 ---
 

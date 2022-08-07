@@ -31,6 +31,8 @@ Purity of form, colour and composition intends to record truth and authenticity;
 
 ![5.Rae_Begley_The_Golden_Earth_2018-2022.jpg](/uploads/5.Rae_Begley_The_Golden_Earth_2018-2022.jpg)
 
+![13.Rae_Begley_The Highest Wisdom_2018-2022.jpg](/uploads/13.Rae_Begley_The%20Highest%20Wisdom_2018-2022.jpg)
+
 ![6.Rae_Begley_The Infinite Dimension_2018-2022.jpg](/uploads/6.Rae_Begley_The%20Infinite%20Dimension_2018-2022.jpg)
 
 ![7.Rae_Begley_Tears of the Moon_2018-2022.jpg](/uploads/7.Rae_Begley_Tears%20of%20the%20Moon_2018-2022.jpg)
@@ -45,7 +47,7 @@ Purity of form, colour and composition intends to record truth and authenticity;
 
 ![12.Rae_Begley_The Holy Water_2018-2022.jpg](/uploads/12.Rae_Begley_The%20Holy%20Water_2018-2022.jpg)
 
-![13.Rae_Begley_The Highest Wisdom_2018-2022.jpg](/uploads/13.Rae_Begley_The%20Highest%20Wisdom_2018-2022.jpg)
+
 
 ![14.Rae_Begley_All is One_2018-2022.jpg](/uploads/14.Rae_Begley_All%20is%20One_2018-2022.jpg)
 

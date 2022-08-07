@@ -31,13 +31,13 @@ Dragons of Ice
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)
 Great Spirit's House
 ![5.Rae_Begley_The_Golden_Earth_2018-2022.jpg](/uploads/5.Rae_Begley_The_Golden_Earth_2018-2022.jpg)
-
+The Golden Earth
 ![13.Rae_Begley_The Highest Wisdom_2018-2022.jpg](/uploads/13.Rae_Begley_The%20Highest%20Wisdom_2018-2022.jpg)
 
 ![6.Rae_Begley_The Infinite Dimension_2018-2022.jpg](/uploads/6.Rae_Begley_The%20Infinite%20Dimension_2018-2022.jpg)
-
+The Infinite Dimension
 ![7.Rae_Begley_Tears of the Moon_2018-2022.jpg](/uploads/7.Rae_Begley_Tears%20of%20the%20Moon_2018-2022.jpg)
-
+Tears of the Moon
 ![8.Rae_Begley_The Realm of Forms_2018-2022.jpg](/uploads/8.Rae_Begley_The%20Realm%20of%20Forms_2018-2022.jpg)
 
 ![9.Rae_Begley_Above the clouds, the spirit soars_2019-2022.jpg](/uploads/9.Rae_Begley_Above%20the%20clouds,%20the%20spirit%20soars_2019-2022.jpg)

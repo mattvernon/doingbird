@@ -7,6 +7,7 @@ layout: gallery
 
 ## Rae Begley
 ![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)
+Memorial of Fragility  
 ‘On a quiet day, I can hear her breathing’* a new exhibition of photographs reflects on nature, on Earth as a living organism.
 
 The photographs were made with a slow intensity of exploration through the physical act of walking and site-responsive connections to remote environments.

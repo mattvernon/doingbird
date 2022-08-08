@@ -13,8 +13,8 @@ layout: gallery
 ---
 
 ## Rae Begley
-![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)
-Memorial of Fragility     
+![2.Rae_Begley_Towers of the Goddess_2018-2022.jpg](/uploads/2.Rae_Begley_Towers%20of%20the%20Goddess_2018-2022.jpg)
+Towers of the Goddess    
 
 
 ‘On a quiet day, I can hear her breathing’ a new exhibition of photographs reflects on nature, on Earth as a living organism.
@@ -31,8 +31,9 @@ There’s a sense of sculpture, installation and the discovery of architecture a
 
 Purity of form, colour and composition intends to record truth and authenticity; the result of a considered, long and deliberate analog process of photography that incorporates film, natural light, hand held and hand printed techniques to express a delicate balance of strength and fragility.
 
-![2.Rae_Begley_Towers of the Goddess_2018-2022.jpg](/uploads/2.Rae_Begley_Towers%20of%20the%20Goddess_2018-2022.jpg)
-Towers of the Goddess
+![1.Rae_Begley_Memorial_of_Fragility 2018-2022.jpg](/uploads/1.Rae_Begley_Memorial_of_Fragility%202018-2022.jpg)
+Memorial of Fragility 
+
 
 ![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
 The One

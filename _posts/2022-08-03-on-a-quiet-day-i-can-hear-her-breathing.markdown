@@ -49,7 +49,7 @@ Tears of the Moon
 ![8.Rae_Begley_The Realm of Forms_2018-2022.jpg](/uploads/8.Rae_Begley_The%20Realm%20of%20Forms_2018-2022.jpg)
 The Realm of Forms
 ![9.Rae_Begley_Above the clouds, the spirit soars_2019-2022.jpg](/uploads/9.Rae_Begley_Above%20the%20clouds,%20the%20spirit%20soars_2019-2022.jpg)
-Above the clouds
+Above the clouds, the spirit soars
 ![10.Rae_Begley_On a quiet day, I can hear her breathing_2018-2022.jpg](/uploads/10.Rae_Begley_On%20a%20quiet%20day,%20I%20can%20hear%20her%20breathing_2018-2022.jpg)
 On a quiet day
 

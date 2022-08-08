@@ -33,8 +33,7 @@ Purity of form, colour and composition intends to record truth and authenticity;
 
 ![2.Rae_Begley_Towers of the Goddess_2018-2022.jpg](/uploads/2.Rae_Begley_Towers%20of%20the%20Goddess_2018-2022.jpg)
 Towers of the Goddess
-![3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg](/uploads/3.Rae_Begley_Dragons_of_Ice_2018-2022.jpg)
-Dragons of Ice
+
 ![15.Rae_Begley_The One_2018-2022.jpg](/uploads/15.Rae_Begley_The%20One_2018-2022.jpg)
 The One
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)

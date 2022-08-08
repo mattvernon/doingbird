@@ -38,8 +38,7 @@ Towers of the Goddess
 The One
 ![4.Rae_Begley_Great Spirits House_2018-2022.jpg](/uploads/4.Rae_Begley_Great%20Spirits%20House_2018-2022.jpg)
 Great Spirit's House
-![5.Rae_Begley_The_Golden_Earth_2018-2022.jpg](/uploads/5.Rae_Begley_The_Golden_Earth_2018-2022.jpg)
-The Golden Earth
+
 ![13.Rae_Begley_The Highest Wisdom_2018-2022.jpg](/uploads/13.Rae_Begley_The%20Highest%20Wisdom_2018-2022.jpg)
 The Highest Wisdom
 ![6.Rae_Begley_The Infinite Dimension_2018-2022.jpg](/uploads/6.Rae_Begley_The%20Infinite%20Dimension_2018-2022.jpg)
@@ -58,8 +57,7 @@ Dancing on water
 The Holy Water
 
 
-![14.Rae_Begley_All is One_2018-2022.jpg](/uploads/14.Rae_Begley_All%20is%20One_2018-2022.jpg)
-All is One
+
 
 
 ![16.Rae_Begley_It shines forth, farther than the far_2018-2022.jpg](/uploads/16.Rae_Begley_It%20shines%20forth,%20farther%20than%20the%20far_2018-2022.jpg)

@@ -51,7 +51,7 @@ The Realm of Forms
 ![9.Rae_Begley_Above the clouds, the spirit soars_2019-2022.jpg](/uploads/9.Rae_Begley_Above%20the%20clouds,%20the%20spirit%20soars_2019-2022.jpg)
 Above the clouds, the spirit soars
 ![10.Rae_Begley_On a quiet day, I can hear her breathing_2018-2022.jpg](/uploads/10.Rae_Begley_On%20a%20quiet%20day,%20I%20can%20hear%20her%20breathing_2018-2022.jpg)
-On a quiet day
+On a quiet day, I can hear her breathing
 
 ![12.Rae_Begley_The Holy Water_2018-2022.jpg](/uploads/12.Rae_Begley_The%20Holy%20Water_2018-2022.jpg)
 The Holy Water
@@ -61,4 +61,4 @@ The Holy Water
 
 
 ![16.Rae_Begley_It shines forth, farther than the far_2018-2022.jpg](/uploads/16.Rae_Begley_It%20shines%20forth,%20farther%20than%20the%20far_2018-2022.jpg)
- It shines forth
+It shines forth, farther than the far

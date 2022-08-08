@@ -52,8 +52,7 @@ The Realm of Forms
 Above the clouds
 ![10.Rae_Begley_On a quiet day, I can hear her breathing_2018-2022.jpg](/uploads/10.Rae_Begley_On%20a%20quiet%20day,%20I%20can%20hear%20her%20breathing_2018-2022.jpg)
 On a quiet day
-![11.Rae_Begley_Dancing on water, healing the heart-2018-2022.jpg](/uploads/11.Rae_Begley_Dancing%20on%20water,%20healing%20the%20heart-2018-2022.jpg)
-Dancing on water
+
 ![12.Rae_Begley_The Holy Water_2018-2022.jpg](/uploads/12.Rae_Begley_The%20Holy%20Water_2018-2022.jpg)
 The Holy Water
 

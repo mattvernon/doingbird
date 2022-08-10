@@ -7,6 +7,7 @@ is featured?: true
 layout: gallery
 ---
 
+INTERVIEW: WAAX
 ![1 WAAX 6-e3f973.jpg](/uploads/1%20WAAX%206-e3f973.jpg)
 DOINGBIRD: Your new record ‘At Least I’m Free’ signals change, freedom, and growth. Looking back at the record now, have these songs become more like an honest emotional diary, or an empowering reminder of how far you’ve come?
 

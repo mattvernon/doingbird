@@ -2,8 +2,9 @@
 title: At Least I’m Free
 date: 2022-08-10 09:09:00 +10:00
 Main Image: "/uploads/9%20WAAX%201.jpg"
-Credits Text: 'photos [Max Doyle](https://www.instagram.com/maxdoyle_photographer/)
-  at [DLM](https://www.instagram.com/dlm_au/?hl=en)   '
+Credits Text: "photos [Max Doyle](https://www.instagram.com/maxdoyle_photographer/)
+  at [DLM](https://www.instagram.com/dlm_au/?hl=en)     \nhair and makeup [Max Serrano](https://www.instagram.com/maxsartistry/)
+  at [DLM](https://www.instagram.com/dlm_au/?hl=en)  "
 is featured?: true
 layout: gallery
 ---

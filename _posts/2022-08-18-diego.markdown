@@ -2,6 +2,10 @@
 title: Internal expressionist
 date: 2022-08-18 08:59:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- Fashion
 Credits Text: "Photo [Diego Lorenzo Jose](@diegolorenzojose)  \nFashion @oriana_deluca
   \ \nModel @niyat_moda via Priscillas  \nMakeup @jaquedicondio  \nHair @lachlan_hair
   \ \n"

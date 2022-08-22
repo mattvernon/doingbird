@@ -6,9 +6,11 @@ categories:
 - Fashion
 tags:
 - Fashion
-Credits Text: "Photo [Diego Lorenzo Jose](@diegolorenzojose)  \nFashion @oriana_deluca
-  \ \nModel @niyat_moda via Priscillas  \nMakeup @jaquedicondio  \nHair @lachlan_hair
-  \ \n"
+Credits Text: "Photo [Diego Lorenzo Jose](https://www.instagram.com/diegolorenzojose/?hl=en)
+  \ \nFashion [Oriana Deluca](https://www.instagram.com/oriana_deluca/?max_id=1700696905577494160)
+  \ \nModel [Niyat Moda](https://www.instagram.com/niyat_moda/) via [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)
+  \ \nMakeup [Jaquedicondio ](https://www.instagram.com/jaquedicondio/?hl=en) \nHair
+  [Lachlan Hair](https://www.instagram.com/lachlan_hair/?hl=en)  \n"
 is featured?: true
 layout: gallery
 ---

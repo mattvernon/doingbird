@@ -6,6 +6,7 @@ categories:
 - Fashion
 tags:
 - Fashion
+Main Image: "/uploads/000000950009_LowRes.jpg"
 Credits Text: "Photo [Diego Lorenzo Jose](https://www.instagram.com/diegolorenzojose/?hl=en)
   \ \nFashion [Oriana Deluca](https://www.instagram.com/oriana_deluca/?max_id=1700696905577494160)
   \ \nModel [Niyat Moda](https://www.instagram.com/niyat_moda/) via [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)

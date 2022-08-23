@@ -1,34 +1,49 @@
 ---
-title: Adriane
+title: NIEA
 date: 2022-07-22 13:44:00 +10:00
-published: false
 categories:
 - fashion
 tags:
 - Fashion
-Credits Text: "Stylist : [Teanne Vickers](https://www.instagram.com/teannevickers/)\n\n\nHair:
-  [Georgia Ramman](https://www.instagram.com/georgiaramman/)\n\n\nMakeup: [Sean Brady](https://www.instagram.com/seanetc/)\n\n\nModels:\n[Elibeidi](https://www.instagram.com/elibeidy/?hl=en)
-  at IMG\n\n[Mannie](https://www.instagram.com/mannielafan/ ) at Priscillas \n\n \nShot
+Main Image: "/uploads/DoingBird_Teanne%20FINAL2.jpg"
+Credits Text: "photographer: [Adrian Meško](https://www.instagram.com/adrianmesko/)\n\nStylist
+  : [Teanne Vickers](https://www.instagram.com/teannevickers/)\n\n\nHair: [Georgia
+  Ramman](https://www.instagram.com/georgiaramman/)\n\n\nMakeup: [Sean Brady](https://www.instagram.com/seanetc/)\n\n\nModels:\n[Elibeidi](https://www.instagram.com/elibeidy/?hl=en)
+  at [IMG](https://www.instagram.com/imgmodels/?hl=en)\n\n[Mannie](https://www.instagram.com/mannielafan/
+  ) at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en) \n\n \nShot
   on location at [Baker Street Studio ](https://www.workhorsestudio.com.au/)\n\n"
+is featured?: true
 layout: gallery
 ---
 
 ![DoingBird_Teanne FINAL2.jpg](/uploads/DoingBird_Teanne%20FINAL2.jpg)
-
+Left: Jordan dallah top, stylist own skirt, Onitsuka tiger shoes.
+            Right Top:Jordan Dallah top & pants, Bottega Veneta shoes, Oakley sunglasses. Bottom: Bottega Veneta earrings and bag
 ![DoingBird_Teanne FINAL3.jpg](/uploads/DoingBird_Teanne%20FINAL3.jpg)
-
+Left: Jordan dallah top, stylist own skirt. Right:  Jordan Dallah top & pants,  Oakley sunglasses
 ![DoingBird_Teanne FINAL4.jpg](/uploads/DoingBird_Teanne%20FINAL4.jpg)
+Left: Jordan Dallah top. Right: Balenciaga full look
 
 ![DoingBird_Teanne FINAL5.jpg](/uploads/DoingBird_Teanne%20FINAL5.jpg)
+Left: Carol yang shirt, Stylist own top, Lambert skirt. Right: Alix higgins dress, Celine shoes
 
 ![DoingBird_Teanne FINAL6.jpg](/uploads/DoingBird_Teanne%20FINAL6.jpg)
+Left: Balenciaga full look. Right: Carol yang shirt, Stylist own top, Lambert skirt
 
 ![DoingBird_Teanne FINAL7.jpg](/uploads/DoingBird_Teanne%20FINAL7.jpg)
+Left: Jordan dallah top, stylist own skirt. Right: Miu Miu full look 
+
 
 ![DoingBird_Teanne FINAL8.jpg](/uploads/DoingBird_Teanne%20FINAL8.jpg)
+Left: Irodanes Spyridon GoGos x Ruby pedder top ( worn on top ) , Emily Watson top, skirt and pants, Givenchy shoes. Right: Carol yang dress
 
 ![DoingBird_Teanne FINAL9.jpg](/uploads/DoingBird_Teanne%20FINAL9.jpg)
+Left: Jordan Dallah dress, Jean paul gaultier pants from Cara Mia Vintage. Right: Jordan Dallah top & pants, Bottega Veneta shoes, Oakley sunglasses
 
 ![DoingBird_Teanne FINAL10.jpg](/uploads/DoingBird_Teanne%20FINAL10.jpg)
+Left: Ruby Pedder Jacket, 
+Carol yang top, Balenciaga shoes. Right: Balenciaga full look 
+
 
 ![DoingBird_Teanne FINAL11.jpg](/uploads/DoingBird_Teanne%20FINAL11.jpg)
+Jordan dallah top, stylist own skirt, Onitsuka tiger shoes

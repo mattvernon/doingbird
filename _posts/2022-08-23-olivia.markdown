@@ -4,6 +4,9 @@ date: 2022-08-23 13:38:00 +10:00
 published: false
 categories:
 - Fashion
+Credits Text: "Photographer: Olivia Repaci   \nStylist: Emily Gibb  \nMUA: Colette
+  Miller. \nHair: Graeme Cumming. \nVideographer: Simone Taylor \nStylist assistant:
+  Annie Villalta-Burgett"
 layout: gallery
 ---
 

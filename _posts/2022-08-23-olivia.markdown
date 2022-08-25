@@ -5,10 +5,11 @@ published: false
 categories:
 - Fashion
 Credits Text: "Photographer: [Olivia Repaci ](https://www.instagram.com/oliviarepaci/?hl=en)
-  \ \nStylist: [Emily Gibb](https://www.instagram.com/ergibb/?hl=en)  \nMUA: Colette
-  Miller. \nHair: Graeme Cumming. \nVideographer: Simone Taylor \nStylist assistant:
-  Annie Villalta-Burgett\n\nModels\nAva at Priscillas   \nPierce at IMG  \nHeaven
-  at Chic  \nAyden at Kult  \nClaudia at Chic "
+  \ \nStylist: [Emily Gibb](https://www.instagram.com/ergibb/?hl=en)  \nMUA: [Colette
+  Miller](https://www.instagram.com/colettemiller__/?hl=en). \nHair: https://www.instagram.com/graemecumming.com.au/
+  \nVideographer: [Simone Taylor](https://www.instagram.com/original.sim1/?hl=en)
+  \nStylist assistant: Annie Villalta-Burgett\n\nModels\nAva at Priscillas   \nPierce
+  at IMG  \nHeaven at Chic  \nAyden at Kult  \nClaudia at Chic "
 is featured?: true
 layout: gallery
 ---

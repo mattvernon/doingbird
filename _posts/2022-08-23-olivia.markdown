@@ -6,7 +6,9 @@ categories:
 - Fashion
 Credits Text: "Photographer: Olivia Repaci   \nStylist: Emily Gibb  \nMUA: Colette
   Miller. \nHair: Graeme Cumming. \nVideographer: Simone Taylor \nStylist assistant:
-  Annie Villalta-Burgett\n\nModels\nAva "
+  Annie Villalta-Burgett\n\nModels\nAva at Priscillas   \nPierce at IMG  \nHeaven
+  at Chic  \nAyden at Kult  \nClaudia at Chic "
+is featured?: true
 layout: gallery
 ---
 

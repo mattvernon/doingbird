@@ -8,7 +8,7 @@ Credits Text: "Photographer: [Olivia Repaci ](https://www.instagram.com/oliviare
   \ \nStylist: [Emily Gibb](https://www.instagram.com/ergibb/?hl=en)  \nMUA: [Colette
   Miller](https://www.instagram.com/colettemiller__/?hl=en). \nHair: [Graeme Cumming](https://www.instagram.com/original.sim1/?hl=en)\nVideographer:
   [Simone Taylor](https://www.instagram.com/original.sim1/?hl=en)   \nStylist assistant:
-  Annie Villalta-Burgett\n\nModels\nAva at Priscillas   \nPierce at IMG  \nHeaven
+  Annie Villalta-Burgett\n\nModels  \nAva at Priscillas   \nPierce at IMG  \nHeaven
   at Chic  \nAyden at Kult  \nClaudia at Chic "
 is featured?: true
 layout: gallery

@@ -1,7 +1,6 @@
 ---
 title: Could It Be Me
 date: 2022-08-23 13:38:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

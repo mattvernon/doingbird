@@ -4,6 +4,9 @@ date: 2022-08-23 13:38:00 +10:00
 published: false
 categories:
 - Fashion
+tags:
+- Fashion
+Main Image: "/uploads/Ava%20After%20Polaroid%201b%20copy.jpg"
 Credits Text: "Photographer: [Olivia Repaci ](https://www.instagram.com/oliviarepaci/?hl=en)
   \ \nStylist: [Emily Gibb](https://www.instagram.com/ergibb/?hl=en)  \nMUA: [Colette
   Miller](https://www.instagram.com/colettemiller__/?hl=en). \nHair: [Graeme Cumming](https://www.instagram.com/original.sim1/?hl=en)\nVideographer:

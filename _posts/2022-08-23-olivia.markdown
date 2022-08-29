@@ -10,8 +10,10 @@ Credits Text: "Photographer: [Olivia Repaci ](https://www.instagram.com/oliviare
   [Simone Taylor](https://www.instagram.com/original.sim1/?hl=en)   \nStylist assistant:
   Annie Villalta-Burgett\n\nModels  \n[Ava](https://www.instagram.com/blyth3d0ll/)
   at [Priscillas](https://www.instagram.com/priscillasmodels/?hl=en)   \n[Pierce](https://www.instagram.com/piercexjones/?hl=en)
-  at [IMG](https://www.instagram.com/imgmodels/?hl=en)  \nHeaven at Chic  \nAyden
-  at Kult  \nClaudia at Chic "
+  at [IMG](https://www.instagram.com/imgmodels/?hl=en)  \n[Heaven](https://www.instagram.com/heaven_aaliyahhh/)
+  at [Chic ](https://www.instagram.com/chic_management/) \nAyden at [Kult](https://www.kult.com.au)
+  \ \n[Claudia](https://www.instagram.com/claudiacarltonallen/) at [Chic]([Chic ](https://www.instagram.com/chic_management/)
+  ) "
 is featured?: true
 layout: gallery
 ---

@@ -1,7 +1,6 @@
 ---
 title: Dayglow
 date: 2022-09-02 09:55:00 +10:00
-published: false
 categories:
 - Features
 Main Image: "/uploads/9_Doingbrid_Dayglow_2700pxwide@200ppi-selects_CREDIT_MACLAY-HERIOT_220722_dayglow-doingbird-filmstrip_credit_maclay-heriot_-a2dda5.jpg"

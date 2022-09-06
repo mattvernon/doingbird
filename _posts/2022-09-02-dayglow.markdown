@@ -10,7 +10,7 @@ is featured?: true
 layout: gallery
 ---
 
-### # DOINGBIRD x DAYGLOW Q&A 
+### DOINGBIRD x DAYGLOW Q&A 
 ![1_Doingbrid_Dayglow_2700pxwide@200ppi-selects_CREDIT_MACLAY-HERIOT_220722_dayglow-doingbird-filmstrip_credit_maclay-heriot_.jpg](/uploads/1_Doingbrid_Dayglow_2700pxwide@200ppi-selects_CREDIT_MACLAY-HERIOT_220722_dayglow-doingbird-filmstrip_credit_maclay-heriot_.jpg)
 DOINGBIRD: Your new single Deep End is a funky and upbeat track that holds a very nostalgic feel to it. Can you explain the creative process behind it?
 

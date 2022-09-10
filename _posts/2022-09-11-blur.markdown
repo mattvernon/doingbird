@@ -5,6 +5,7 @@ Credits Text: "Photographer [Giovanni di Stefano](https://www.instagram.com/__gi
   \  \n\nStyling [June Nakamoto](https://www.instagram.com/junenakamoto/?hl=en)  \nArt
   Direction @valentinoalberini \n\nModel @julianancyprice @ thefaceparis\nTanks to
   Dounia @doudouc_\n"
+layout: gallery
 ---
 
 ![blurr_1.jpg](/uploads/blurr_1.jpg)

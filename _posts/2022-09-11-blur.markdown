@@ -1,6 +1,7 @@
 ---
-title: Blur
+title: Blurr
 date: 2022-09-11 08:13:00 +10:00
+published: false
 Credits Text: "Photographer [Giovanni di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)
   \  \n\nStyling [June Nakamoto](https://www.instagram.com/junenakamoto/?hl=en)  \nArt
   Direction @valentinoalberini \n\nModel @julianancyprice @ thefaceparis\nTanks to

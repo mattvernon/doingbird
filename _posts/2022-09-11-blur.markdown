@@ -10,7 +10,7 @@ layout: gallery
 ---
 
 ![blurr_1.jpg](/uploads/blurr_1.jpg)
-
+green dress,[MM6 Maison Margiela](https://www.maisonmargiela.com/en-au/mm6/women/),  White Earring, [DIANA LAW](https://dianalaw.com)
 ![blurr_2.jpg](/uploads/blurr_2.jpg)
 
 ![blurr_3.jpg](/uploads/blurr_3.jpg)
@@ -26,4 +26,12 @@ layout: gallery
 ![blurr_8.jpg](/uploads/blurr_8.jpg)
 
 ![blurr_9.jpg](/uploads/blurr_9.jpg)
+
+![blurr_10.jpg](/uploads/blurr_10.jpg)
+
+![blurr_11.jpg](/uploads/blurr_11.jpg)
+
+![blurr_12.jpg](/uploads/blurr_12.jpg)
+
+![blurr_13.jpg](/uploads/blurr_13.jpg)
 

@@ -5,8 +5,8 @@ published: false
 categories:
 - Fashion
 Credits Text: "PHOTOGRAPHY + STYLING - Kurt Johnson CREATIVE DIRECTION - Honey Juju
-  \ \nPROSTHETIC MAKEUP - Amber Adams HAIR - Nina Lee @ Extra Silky    \nMAKEUP -
-  Sean Brady  \nMANICURE - Victoria Houllis @ Mannequin Hands  \nSTYLIST ASSISTANT
+  \ \nPROSTHETIC MAKEUP - Amber Adams    \nHAIR - Nina Lee @ Extra Silky    \nMAKEUP
+  - Sean Brady  \nMANICURE - Victoria Houllis @ Mannequin Hands  \nSTYLIST ASSISTANT
   - Joshua Williams  \nMODELS - Jacob Betts @ Kult, Memu Conteh @ Kult, Elliot Cowen
   @ Priscilla’s, Molly Rowe @ Priscilla’s, Natalie Mwanza @ Priscilla’s, Honey Juju"
 layout: gallery

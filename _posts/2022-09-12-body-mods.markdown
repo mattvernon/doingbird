@@ -9,7 +9,7 @@ Credits Text: "PHOTOGRAPHY + STYLING - Kurt Johnson CREATIVE DIRECTION - Honey J
   - Sean Brady  \nMANICURE - Victoria Houllis @ Mannequin Hands  \nSTYLIST ASSISTANT
   - Joshua Williams  \nMODELS - Jacob Betts @ Kult  \nMemu Conteh @ Kult   \nElliot
   Cowen @ Priscilla’s   \nMolly Rowe @ Priscilla’s\nNatalie Mwanza @ Priscilla’s     \nHoney
-  Juju"
+  Juju  \nShot at The Common Hours House"
 is featured?: true
 layout: gallery
 ---

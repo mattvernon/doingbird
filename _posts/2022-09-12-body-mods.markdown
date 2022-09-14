@@ -1,9 +1,10 @@
 ---
-title: BODY MODS
+title: Modification
 date: 2022-09-12 10:09:00 +10:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/IMG_9681%203.jpg"
 Credits Text: "PHOTOGRAPHY + STYLING - Kurt Johnson CREATIVE DIRECTION - Honey Juju
   \ \nPROSTHETIC MAKEUP - Amber Adams    \nHAIR - Nina Lee @ Extra Silky    \nMAKEUP
   - Sean Brady  \nMANICURE - Victoria Houllis @ Mannequin Hands  \nSTYLIST ASSISTANT

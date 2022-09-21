@@ -6,7 +6,8 @@ Credits Text: "Photographer [Giovanni di Stefano](https://www.instagram.com/__gi
   \  \nStyling [June Nakamoto](https://www.instagram.com/junenakamoto/?hl=en)  \nArt
   Direction [Valentino Alberini](https://www.instagram.com/valentinoalberini/?hl=en)
   \n\nModel [Julia Price](https://www.instagram.com/julianancyprice/?hl=en) @ [The
-  Face Paris](https://www.thefaceparismanagement.com)\nTanks to Dounia @doudouc_\n"
+  Face Paris](https://www.thefaceparismanagement.com)  \nTanks to [Dounia](https://www.instagram.com/doudouc_/?hl=en)
+  \n"
 layout: gallery
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Blurr
 date: 2022-09-11 08:13:00 +10:00
-published: false
 categories:
 - Fashion
 tags:

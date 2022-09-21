@@ -2,12 +2,18 @@
 title: Blurr
 date: 2022-09-11 08:13:00 +10:00
 published: false
+categories:
+- Fashion
+tags:
+- Fashion
+Main Image: "/uploads/blurr_1.jpg"
 Credits Text: "Photographer [Giovanni di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)
   \  \nStyling [June Nakamoto](https://www.instagram.com/junenakamoto/?hl=en)  \nArt
   Direction [Valentino Alberini](https://www.instagram.com/valentinoalberini/?hl=en)
   \n\nModel [Julia Price](https://www.instagram.com/julianancyprice/?hl=en) @ [The
   Face Paris](https://www.thefaceparismanagement.com)  \nTanks to [Dounia](https://www.instagram.com/doudouc_/?hl=en)
   \n"
+is featured?: true
 layout: gallery
 ---
 

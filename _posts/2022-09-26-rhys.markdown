@@ -2,6 +2,13 @@
 title: Nostalgia Games
 date: 2022-09-26 15:59:00 +10:00
 published: false
+Credits Text: "Featuring (in alphabetical order) - Gemma Baker, Erin Bate, Beaker
+  Best, Melissa Brownlow, Charlotte Coquelin, Freddy Crabs, Camille Comtat, Stephen
+  Engstrom, Gold Fang, Katherine L, Jinri Park, Taras Hrubyj-Piper, Madeleine Purdy,
+  Shogun  \nProducer - Lucy Apple  \nProducer - Yiani Andrikidis  \nDirector - Rhys
+  Day  \nDirector of Photography - Jani Häkli  \nStudio Director of Photography -
+  Colin Lucas   \nStylists - Zekie Angel, Hannah Debus, Madeleine Purdy  \nHMU - Mindwell\n"
+is featured?: true
 layout: gallery
 ---
 

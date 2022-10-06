@@ -13,8 +13,18 @@ layout: gallery
 ---
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/753724560?h=1c3d95e15e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="lulu_raes,_mastermind (720p)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+A curated collection of selected works from the last 10 years reimagined as a music video project for the 2018 Lulu Raes release Mastermind, doubling as a promotional reel for a fictional Korean midday spy movie.
+Created and Directed by Rhys Day. 
 
-Interview with Music Producer Taras Hrubyj-Piper. Here he is interviewed by the director of the music video Rhys Day.
+"I grew up in Far Noth Queensland in a remote spot isolated from much of everything. My worlds were built from my days spent reimagining the stories of the b-grade VHS films I was consuming. The films were all origin stories to me and the characters lived on in scenarios I dreamt up for them. This retrospective of my previously released videos was curated as an ode to the VHS characters from my past and the on-screen dramatic situations in which they were entangled. Influenced by the way Juergen Teller rephotographs his own photographs and by photographer Max Doyle's scrap-book body of work and exhibition ‘Scrap Doyle’, this reusing and recreating a new work from fragments of old interests me greatly.
+
+After a digital video shoot, I have a process by which I run the footage I have filmed that day through an analogue tv I have at home. I want to know immediately how a certain shot will be viewed by a public that isn’t interested in that work-day's pedanticness. This analog tv viewing acted as a look at that day's footage fresh. In addition, the shots that were better composed and lit seemed to stand out during this process. After attending the Scrap Doyle exhibition in May 2022 which exhibited a no-frills reframing of his most celebrated work, the next month I picked up this unconventional video production based on analog-inspired spontaneity and speed.”
+
+The track “Mastermind” by Lulu Raes was produced by Taras Hrubyj-Piper. Director Rhys Day sat down with Taras to chat expectations, music production, influences, Marine Biology and Big Brother.
+
+
+
+
 
 Taras is an Australian producer, engineer, and mixer who has worked most recently on Sticky Fingers latest album Lekkerboy. Despite his success, Taras remains a relatively secretive figure in the music world. This is likely due to his shy and introverted personality, as well as his unwillingness to conform to social norms or stereotypes. Taras' signature style is one of comfortable ambivalence, which bravely contrasts against the dynamic pop sound he generates in his music. He has built a career on his own terms and remains one of the most intriguing and enigmatic figures in the Sydney music industry.
 ![M013_220808_V01.jpg](/uploads/M013_220808_V01.jpg)
@@ -55,3 +65,7 @@ RHYS: You seem to enjoy playing very expressive characters in your music videos,
 
 TARAS: I just want to entertain, I want to be an entertaining little munch-man.
 ![M006_220808_V01.jpg](/uploads/M006_220808_V01.jpg)
+Footage taken from the prominent music videos:
+Dress Theque - Women You're (Music Video)
+Dress Theque - Gone Mad  (Music Video)
+By Rhys Day

@@ -7,7 +7,8 @@ Credits Text: "Featuring (in alphabetical order) - Gemma Baker, Erin Bate, Beake
   Engstrom, Gold Fang, Katherine L, Jinri Park, Taras Hrubyj-Piper, Madeleine Purdy,
   Shogun  \nProducer - Lucy Apple  \nProducer - Yiani Andrikidis  \nDirector - Rhys
   Day  \nDirector of Photography - Jani Häkli  \nStudio Director of Photography -
-  Colin Lucas   \nStylists - Zekie Angel, Hannah Debus, Madeleine Purdy  \nHMU - Mindwell\n"
+  Colin Lucas  \nColour by Matt Fezz. https://www.mattfezz.com/   \nStylists - Zekie
+  Angel, Hannah Debus, Madeleine Purdy  \nHMU - Mindwell\n"
 is featured?: true
 layout: gallery
 ---

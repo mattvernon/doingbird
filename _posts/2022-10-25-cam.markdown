@@ -1,5 +1,5 @@
 ---
-title: cam
+title: You Are A Rich System
 date: 2022-10-25 17:51:00 +11:00
 published: false
 layout: gallery

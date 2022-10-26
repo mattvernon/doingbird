@@ -5,7 +5,7 @@ published: false
 categories:
 - Art
 Main Image: "/uploads/SkullPanel_2.jpg"
-Credits Text: "Artwork-Cameron Emerson-Elliott. \ntext-Sarinah Musukor  \nphotos-Max
+Credits Text: "Artwork-Cameron Emerson-Elliott   \ntext-Sarinah Musukor  \nphotos-Max
   Doyle"
 is featured?: true
 layout: gallery

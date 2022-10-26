@@ -4,6 +4,9 @@ date: 2022-10-25 17:51:00 +11:00
 published: false
 categories:
 - Art
+Main Image: "/uploads/SkullPanel_2.jpg"
+Credits Text: "Artwork-Cameron Emerson-Elliott. \ntext-Sarinah Musukor  \nphotos-Max
+  Doyle"
 is featured?: true
 layout: gallery
 ---

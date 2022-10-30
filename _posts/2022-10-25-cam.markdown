@@ -7,14 +7,14 @@ tags:
 - Artists
 - Features
 Main Image: "/uploads/SkullPanel_2.jpg"
-Credits Text: "Artwork-Cameron Emerson-Elliott   \ntext-Sarinah Musukor  \nphotos-Max
+Credits Text: "Artwork-Cameron Emerson-Elliott   \ntext-Sarinah Masukor  \nphotos-Max
   Doyle"
 is featured?: true
 layout: gallery
 ---
 
 ## Cameron Emerson-Elliott
-Earlier this year, writer Sarinah Musukor visited Cameron Emerson-Elliott at his Inner West apartment/studio. They talked through Cameron’s practice, and the body of work he was in the process of developing for an upcoming solo show at Sheffer Gallery (You Are A Rich System - opens Tues 1 Nov, 6-8pm). Sarinah wrote the following piece in response.
+Earlier this year, writer Sarinah Masukor visited Cameron Emerson-Elliott at his Inner West apartment/studio. They talked through Cameron’s practice, and the body of work he was in the process of developing for an upcoming solo show at Sheffer Gallery (You Are A Rich System - opens Tues 1 Nov, 6-8pm). Sarinah wrote the following piece in response.
 ![ThreeRays_High.jpg](/uploads/ThreeRays_High.jpg)
 We Are a Rich System
 

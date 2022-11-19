@@ -4,6 +4,7 @@ date: 2022-11-03 10:59:00 +11:00
 published: false
 categories:
 - Features
+is featured?: true
 ---
 
 To say Colletto Bianco is “fake” would to be state the obvious, but it might chafe a little to shoot in the other direction and say they aren’t exactly “real.” The singer Joel Martorana (of bands like Endless Heights and Peace Ritual) incorporates deeply personal themes into this character study, music project and “male drag” to make it all more convincing, but at no point does he tell me this particular project is his “most personal.” This line, favoured by those with tenuity and a certain skill at keeping their card hand close, would have made me want to do something illegal - or at the very least call a priest. 

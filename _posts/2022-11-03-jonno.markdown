@@ -4,6 +4,9 @@ date: 2022-11-03 10:59:00 +11:00
 categories:
 - Features
 Main Image: "/uploads/000016190004.jpg"
+Credits Text: |-
+  Interview and Photographs [Jonno Revanche](https://instagram.com/jonnoxrevanche?igshid=YmMyMTA2M2Y=
+  https://instagram.com/jonnoxrevanche?igshid=YmMyMTA2M2Y=)
 is featured?: true
 layout: gallery
 ---

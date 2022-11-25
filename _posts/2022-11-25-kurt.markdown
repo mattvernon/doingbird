@@ -11,7 +11,7 @@ layout: gallery
 
 ![IMG_8112.jpg](/uploads/IMG_8112.jpg)
 ![IMG_8124.jpg](/uploads/IMG_8124.jpg)
-
+![Kurt 2.jpg](/uploads/Kurt%202.jpg)
 [E169D94E-37F0-4B4F-97CE-12F9DB5EF050.JPEG](/uploads/E169D94E-37F0-4B4F-97CE-12F9DB5EF050.JPEG)
 
 ![IMG_8136.jpg](/uploads/IMG_8136.jpg)
@@ -19,7 +19,7 @@ layout: gallery
 [IMG_8181.JPG](/uploads/IMG_8181.JPG)
 
 ![IMG_8087.jpg](/uploads/IMG_8087.jpg)
-
+![Kurt 1.jpg](/uploads/Kurt%201.jpg)
 [DCB62DB5-A301-4EB0-AF7D-CF95F06340D7.JPEG](/uploads/DCB62DB5-A301-4EB0-AF7D-CF95F06340D7.JPEG)
 
 ![IMG_8097.jpg](/uploads/IMG_8097.jpg)

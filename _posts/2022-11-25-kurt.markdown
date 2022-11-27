@@ -3,9 +3,11 @@ title: It Sinks It’s Teeth In One At A Time
 date: 2022-11-25 15:57:00 +11:00
 categories:
 - Fashion
+Main Image: "/uploads/IMG_8181.JPG"
 Credits Text: "\nCreative Direction/Styling - Kurt Johnson  \n DOP - Adrian Kalaiziovski
   \ \nTalent - Danny Delano  \nProsthetic Makeup - Julian Dimase  \nHair - Fernando
   Miranda  "
+is featured?: true
 layout: gallery
 ---
 

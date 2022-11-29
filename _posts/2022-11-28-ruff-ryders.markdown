@@ -53,6 +53,13 @@ Bracelet ,Swarovski (@swarovski)
 ![221123_DOINGBIRD_TC_009.jpg](/uploads/221123_DOINGBIRD_TC_009.jpg)
 
 ![221123_DOINGBIRD_TC_005.jpg](/uploads/221123_DOINGBIRD_TC_005.jpg)
+Denim Rugby Shirt, Greg Lauren (@greglauren) at Mr Porter (@mrporter)
+School Skirt, Zoo Vintage Emporium (@zooemporiumvintage)
+Painted Jeans, Jody Just (@jodyjust_)
+Shoes, Crocs Crocs (@crocsaustralia) x Christian Cowan Collab (@christiancowan)
+Moncler (@moncler)x JW Anderson  (@jw_anderson) collab 
+Bag Chanel (@chanelofficial)
+Necklace, Chanel  (@chanelofficial)
 
 ![221123_DOINGBIRD_TC_010.jpg](/uploads/221123_DOINGBIRD_TC_010.jpg)
 

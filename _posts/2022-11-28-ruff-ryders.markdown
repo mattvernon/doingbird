@@ -30,6 +30,12 @@ layout: gallery
 ![221123_DOINGBIRD_TC_006.jpg](/uploads/221123_DOINGBIRD_TC_006.jpg)
 
 ![221123_DOINGBIRD_TC_007.jpg](/uploads/221123_DOINGBIRD_TC_007.jpg)
+Top, Rave Review (@ravereviewclothes)
+Bralette, Dyspnea (@dyspnea)
+Skirt, Dyspnea (@dyspnea)
+Cowboy Hat Jody Just (@jodyjust)
+Shoes, Vintage So Familia (@sofamiliastore)
+Rings, Swarovski (@swarovski), Roussey (@roussey3d) & Chanel  (@chanelofficial)
 
 ![221123_DOINGBIRD_TC_002.jpg](/uploads/221123_DOINGBIRD_TC_002.jpg)
 

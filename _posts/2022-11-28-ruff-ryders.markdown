@@ -48,5 +48,9 @@ layout: gallery
 ![221123_DOINGBIRD_TC_012.jpg](/uploads/221123_DOINGBIRD_TC_012.jpg)
 
 ![221123_DOINGBIRD_TC_008.jpg](/uploads/221123_DOINGBIRD_TC_008.jpg)
+Denim Top & Denim Corset, Estelita Huijer ([@estelitahuijer](https://www.instagram.com/estelitaisbeautiful/?hl=en))
+Jeans, Carharttwip ([@carharttwip_au](https://www.carhartt-wip.com.au))
+Earrings, Swarovski (@swarovski)
+Hair Clips, Chanel (@chanelofficial)
 
 ![221123_DOINGBIRD_TC_013.jpg](/uploads/221123_DOINGBIRD_TC_013.jpg)

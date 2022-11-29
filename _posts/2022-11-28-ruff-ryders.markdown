@@ -74,3 +74,4 @@ Earrings, Swarovski (@swarovski)
 Hair Clips, Chanel (@chanelofficial)
 
 ![221123_DOINGBIRD_TC_013.jpg](/uploads/221123_DOINGBIRD_TC_013.jpg)
+LEFT:

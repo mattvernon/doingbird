@@ -74,4 +74,16 @@ Earrings, Swarovski (@swarovski)
 Hair Clips, Chanel (@chanelofficial)
 
 ![221123_DOINGBIRD_TC_013.jpg](/uploads/221123_DOINGBIRD_TC_013.jpg)
-LEFT:
+LEFT: Susanna wears Jacket, Moncler (@moncler) x JW Anderson (@jw_anderson) collab
+Top, Amie Elizabeth (@amie__elizabeth)
+Sunglasses, Diesel (@diesel)  at So Familia (@sofamiliastore)
+Pants, Rave Review (@ravereviewclothes)
+Shoes, Vintage So Familia (@sofamilliastore)
+Jewellery, Swarovski (@swarovski)
+Baby wears Printed Suit Set, Amelia Turner (@byameliaturner)
+Bodysuit, Ramp Tramp Tramp Stamp (@ramptramptrampstamp)
+Crystal Briefs, Amie Elizabeth (@amie__elizabeth)
+Cowboy Hat, Jody Just (@jodyjust_)
+Shoes, Crocs Crocs (@crocsaustralia)  x Christian Cowan Collab (@christiancowan)
+Sunglasses, Prada (@prada)
+Earrings, Swarovski (@swarovski)  & Heart of Bone (heartofbone_)

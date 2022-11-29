@@ -4,12 +4,12 @@ date: 2022-11-28 19:39:00 +11:00
 published: false
 categories:
 - Fashion
-Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [TANE
-  COFFIN]((https://www.instagram.com/tanecoffin/?hl=en)) Represented by [Viviens Creative](https://vivienscreative.com.au)\nStyling:
-  [MONICA MORALES ](https://www.instagram.com/monicacamorales/?hl=en)\nMakeup: Cherry
-  Chung @CHERRYCHUNGMAKEUP Represented by [Viviens Creative](https://vivienscreative.com.au)\nHair:
-  [Christopher Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids: [Rosaline
-  Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) at [Braid Culture](https://www.instagram.com/braidculture.au/)
+Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [Tane
+  Coffin]((https://www.instagram.com/tanecoffin/?hl=en)) Represented by [Viviens Creative](https://vivienscreative.com.au)\nStyling:
+  [Monica Morales](https://www.instagram.com/monicacamorales/?hl=en)\nMakeup: [Cherry
+  Chung](https://www.instagram.com/cherrycheungmakeup/?hl=en)  Represented by [Viviens
+  Creative](https://vivienscreative.com.au)\nHair: [Christopher Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids:
+  [Rosaline Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) at [Braid Culture](https://www.instagram.com/braidculture.au/)
   \nStyling Assistant: [Chelsea Holm](https://www.instagram.com/french___fries/?hl=en)
   \nModel 1: BABY TAPUKALANGA @BABYTAPUKALANGA REPRESENTED BY @RINMODELS\nMODEL 2:
   SUSANA TAPUKALANGA @SUSANA.TT REPRESENTED BY @RINMODELS\nMODEL 3: RAHEL LEMA @RAHEL_LEMA_

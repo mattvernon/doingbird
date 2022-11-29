@@ -11,12 +11,15 @@ Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [T
   Creative](https://vivienscreative.com.au)\nHair: [Christopher Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids:
   [Rosaline Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) at [Braid Culture](https://www.instagram.com/braidculture.au/)
   \nStyling Assistant: [Chelsea Holm](https://www.instagram.com/french___fries/?hl=en)
-  \nModel 1: BABY TAPUKALANGA @BABYTAPUKALANGA REPRESENTED BY @RINMODELS\nMODEL 2:
-  SUSANA TAPUKALANGA @SUSANA.TT REPRESENTED BY @RINMODELS\nMODEL 3: RAHEL LEMA @RAHEL_LEMA_
-  \ REPRESENTED BY @RINMODELS\nMODEL 4: DANTE KNOWS @DANTE.KNOWS REPRESENTED BY @FIVETWENTYMGT\nMODEL
-  5: AIDEN OUMA-MACHIO @_NEGROAMIGO REPRESENTED BY @KULTAUSTRALIA\nMODEL 6: DANIEL
-  ONAGHISE @EMERALD.XV REPRESENTED BY @KULTAUSTRALIA\nMODEL 7: BEATRYS PONZONI @BEATRYSPONZONI_
-  REPRESENTED BY @KULTAUSTRALIA\nMODEL 8: MAY CARTER @MAY__CARTER REPRESENTED BY @IMGMODELS\nMODEL
+  \nModels: [Baby Tapukalanga](https://www.instagram.com/babytapukalanga/)Represented
+  by [Ron Models](https://www.instagram.com/rinmodels/?hl=en)  \nSusana Tapukalanga
+  Represented by [Ron Models](https://www.instagram.com/rinmodels/?hl=en)    \n[Rahel
+  Lema](https://www.instagram.com/rahel_lema_/)Represented by [Ron Models](https://www.instagram.com/rinmodels/?hl=en)
+  \   \n[Dante Knows](https://www.instagram.com/dante.knows/?hl=en)Represented by
+  [Five Twenty MGT](https://www.instagram.com/fivetwentymgt/?hl=en)\nAIDEN OUMA-MACHIO
+  @_NEGROAMIGO REPRESENTED BY @KULTAUSTRALIA\nMODEL 6: DANIEL ONAGHISE @EMERALD.XV
+  REPRESENTED BY @KULTAUSTRALIA\nMODEL 7: BEATRYS PONZONI @BEATRYSPONZONI_ REPRESENTED
+  BY @KULTAUSTRALIA\nMODEL 8: MAY CARTER @MAY__CARTER REPRESENTED BY @IMGMODELS\nMODEL
   9: ROSALINE KANNEH @ROSALINE.KANNEH REPRESENTED BY @PRICILLASMODELS\n"
 layout: gallery
 ---

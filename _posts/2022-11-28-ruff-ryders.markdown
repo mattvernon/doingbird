@@ -29,6 +29,12 @@ Cowboy Hat Jody Just (@jodyjust)
 Shoes, Vintage So Familia (@sofamiliastore)
 Rings, Swarovski (@swarovski), Roussey (@roussey3d) & Chanel  (@chanelofficial)
 ![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg)
+RIGHT:Jacket and Jeans Set, Song For The Mute (@songforthemute)
+Sequin Top, Celine (@celine)
+Jersey, Jody Just (@jodyjust)
+Belts, Song For The Mute (@songforthemute)
+Sunglasses, Diesel (@diesel)  at So Familia (@sofamiliastore)
+Slides, Crocs (@crocsaustralia)
 
 ![221123_DOINGBIRD_TC_004.jpg](/uploads/221123_DOINGBIRD_TC_004.jpg)
 

@@ -35,6 +35,11 @@ Rings, Swarovski (@swarovski), Roussey (@roussey3d) & Chanel  (@chanelofficial)
 ![221123_DOINGBIRD_TC_006.jpg](/uploads/221123_DOINGBIRD_TC_006.jpg)
 
 ![221123_DOINGBIRD_TC_007.jpg](/uploads/221123_DOINGBIRD_TC_007.jpg)
+Denim Bodysuit Estelita Huijer (@estelitahuijer)
+Jeans, Amelia Turner (@byameliaturner)
+Shoes, Vintage So Familia (@sofamiliastore)
+Earrings, Swarovski (@swarovski)
+Bracelet ,Swarovski (@swarovski)
 
 
 ![221123_DOINGBIRD_TC_002.jpg](/uploads/221123_DOINGBIRD_TC_002.jpg)

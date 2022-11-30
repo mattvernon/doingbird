@@ -24,6 +24,7 @@ Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [T
   \ \nMay Carter Represented by [IMG Models](https://www.imgmodels.com)    \n[Rosaline
   Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) Represented by [Priscillas
   Models](https://www.instagram.com/priscillasmodels/?hl=en) \n"
+is featured?: true
 layout: gallery
 ---
 

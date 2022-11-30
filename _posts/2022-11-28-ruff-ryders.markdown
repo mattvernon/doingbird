@@ -62,6 +62,12 @@ Bracelet ,[Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-
 ![221123_DOINGBIRD_TC_002.jpg](/uploads/221123_DOINGBIRD_TC_002.jpg)
 
 ![221123_DOINGBIRD_TC_009.jpg](/uploads/221123_DOINGBIRD_TC_009.jpg)
+Jeans, Amelia Turner (@byameliaturner)
+Crystal Bra, Highheels (@highheels.com.au)
+Hat, Hat & Spicy (@hat.n.spicy)
+Eyewear, Versace (@versace)  from Sunglass Hut (@sunglasshut)
+Rings, Swarovski (@swarovski), Emma Pills (@emmapills), Heart and Bone (@heartofbone)
+Bracelet, Heart and Bone (@heartofbone)
 
 ![221123_DOINGBIRD_TC_005.jpg](/uploads/221123_DOINGBIRD_TC_005.jpg)
 

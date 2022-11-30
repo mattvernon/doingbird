@@ -38,12 +38,12 @@ Cowboy Hat, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
 Shoes, Vintage [So Familia](https://www.instagram.com/sofamiliastore/?hl=en).
 Rings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNlOWgYX-lYndZd2WBgq0zfLBWuQiUVjZRL5Sl9fofBCezZHygbnw4aAmLXEALw_wcB&gclsrc=aw.ds), [Roussey](https://www.instagram.com/roussey3d/?hl=en) & [Chanel](https://www.instagram.com/chanelofficial/?hl=en) 
 ![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg)
-RIGHT:Jacket and Jeans Set, Song For The Mute (@songforthemute)
-Sequin Top, Celine (@celine)
-Jersey, Jody Just (@jodyjust)
-Belts, Song For The Mute (@songforthemute)
-Sunglasses, Diesel (@diesel)  at So Familia (@sofamiliastore)
-Slides, Crocs (@crocsaustralia)
+RIGHT:Jacket and Jeans Set, [Song For The Mute](https://www.songforthemute.com).
+Sequin Top, [Celine](https://www.celine.com/en-au/home)
+Jersey, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
+Belts, [Song For The Mute](https://www.songforthemute.com)
+Sunglasses, [Diesel](https://www.instagram.com/diesel/) at [So Familia](https://www.instagram.com/sofamiliastore/?hl=en).
+Slides, [Crocs](https://www.crocs.com.au/on/demandware.store/Sites-crocs_au-Site/en_AU/Default-Start?ClickID=xvUSOjXRRxyIW2Q3YhUxiTrGUkA0HZwp4WrJyY0&irgwc=1&ef_id=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB:G:s&s_kwcid=AL!4051!3!607140469597!!!g!!&CATARGETID=120126960000139764&CAPCID=607140469597&CATCI=dsa-19959388920&CAAGID=139196649004&CADevice=c&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB) 
 
 ![221123_DOINGBIRD_TC_004.jpg](/uploads/221123_DOINGBIRD_TC_004.jpg)
 

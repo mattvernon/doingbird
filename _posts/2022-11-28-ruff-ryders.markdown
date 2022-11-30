@@ -65,13 +65,13 @@ Bracelet ,[Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-
 
 ![221123_DOINGBIRD_TC_005.jpg](/uploads/221123_DOINGBIRD_TC_005.jpg)
 
-Denim Rugby Shirt, Greg Lauren (@greglauren) at Mr Porter (@mrporter)
-School Skirt, Zoo Vintage Emporium (@zooemporiumvintage)
-Painted Jeans, Jody Just (@jodyjust_)
-Shoes, Crocs Crocs (@crocsaustralia) x Christian Cowan Collab (@christiancowan)
-Moncler (@moncler)x JW Anderson  (@jw_anderson) collab 
-Bag Chanel (@chanelofficial)
-Necklace, Chanel  (@chanelofficial)
+Denim Rugby Shirt, [Greg Lauren](https://www.greglauren.com) at [Mr Porter](https://www.mrporter.com/en-au/?cm_mmc=GoogleAU--c-_-MRP_EN_AUNZ-_-MRP%20-%20APAC%20-%20AUNZ%20-%20Brand%20-%20Alone%20-%20Exact--Brand%20-%20Alone%20-%20Exact-_-mrporter_e_kwd-18249386565_APAC&gclid=Cj0KCQiAm5ycBhCXARIsAPldzoU9YZkyJW1Auqj57bdy_ZIPhbe5OUdTQA2uzcVQdN0CbYo2-lzR_CwaAgcWEALw_wcB&gclsrc=aw.ds).
+School Skirt, [Zoo Vintage Emporium](https://www.instagram.com/zooemporiumvintage/?hl=en).
+Painted Jeans, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
+Shoes, Crocs Crocs [Crocs](https://www.crocs.com.au/on/demandware.store/Sites-crocs_au-Site/en_AU/Default-Start?ClickID=xvUSOjXRRxyIW2Q3YhUxiTrGUkA0HZwp4WrJyY0&irgwc=1&ef_id=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB:G:s&s_kwcid=AL!4051!3!607140469597!!!g!!&CATARGETID=120126960000139764&CAPCID=607140469597&CATCI=dsa-19959388920&CAAGID=139196649004&CADevice=c&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB) x Christian [Cowan Collab](https://www.instagram.com/ChristianCowan/),
+[Moncler](https://www.moncler.com/en-us/)x [JW Anderson](https://www.instagram.com/jw_anderson/?hl=en) collab. 
+Bag, [Chanel](https://www.instagram.com/chanelofficial/?hl=en) (@chanelofficial)
+Necklace, Chanel 
 
 ![221123_DOINGBIRD_TC_010.jpg](/uploads/221123_DOINGBIRD_TC_010.jpg)
 

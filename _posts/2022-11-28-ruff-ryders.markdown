@@ -31,7 +31,7 @@ layout: gallery
 
 ![221123_DOINGBIRD_TC_001.jpg](/uploads/221123_DOINGBIRD_TC_001.jpg) 
  
-Top, [Rave Review](https://www.instagram.com/ravereviewclothes/?hl=en) 
+Top, [Rave Review](https://www.instagram.com/ravereviewclothes/?hl=en). 
 Bralette, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion). 
 Skirt, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion). 
 Cowboy Hat, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
@@ -41,9 +41,9 @@ Rings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-Jac
 ![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg) 
  
 RIGHT:Jacket and Jeans Set, [Song For The Mute](https://www.songforthemute.com).
-Sequin Top, [Celine](https://www.celine.com/en-au/home)
+Sequin Top, [Celine](https://www.celine.com/en-au/home).
 Jersey, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
-Belts, [Song For The Mute](https://www.songforthemute.com)
+Belts, [Song For The Mute](https://www.songforthemute.com).
 Sunglasses, [Diesel](https://www.instagram.com/diesel/) at [So Familia](https://www.instagram.com/sofamiliastore/?hl=en).
 Slides, [Crocs](https://www.crocs.com.au/on/demandware.store/Sites-crocs_au-Site/en_AU/Default-Start?ClickID=xvUSOjXRRxyIW2Q3YhUxiTrGUkA0HZwp4WrJyY0&irgwc=1&ef_id=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB:G:s&s_kwcid=AL!4051!3!607140469597!!!g!!&CATARGETID=120126960000139764&CAPCID=607140469597&CATCI=dsa-19959388920&CAAGID=139196649004&CADevice=c&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB) 
 
@@ -52,8 +52,8 @@ Slides, [Crocs](https://www.crocs.com.au/on/demandware.store/Sites-crocs_au-Site
 ![221123_DOINGBIRD_TC_006.jpg](/uploads/221123_DOINGBIRD_TC_006.jpg)
 
 ![221123_DOINGBIRD_TC_007.jpg](/uploads/221123_DOINGBIRD_TC_007.jpg)
-Denim Bodysuit, [Estelita Huijer](https://www.instagram.com/estelitaisbeautiful/?hl=en)
-Jeans,[Amelia Turner](https://www.instagram.com/byameliaturner/?hl=en) 
+Denim Bodysuit, [Estelita Huijer](https://www.instagram.com/estelitaisbeautiful/?hl=en).
+Jeans,[Amelia Turner](https://www.instagram.com/byameliaturner/?hl=en).
 Shoes, Vintage [So Familia](https://www.instagram.com/sofamiliastore/?hl=en).
 Earrings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNlOWgYX-lYndZd2WBgq0zfLBWuQiUVjZRL5Sl9fofBCezZHygbnw4aAmLXEALw_wcB&gclsrc=aw.ds).
 Bracelet ,[Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNlOWgYX-lYndZd2WBgq0zfLBWuQiUVjZRL5Sl9fofBCezZHygbnw4aAmLXEALw_wcB&gclsrc=aw.ds)

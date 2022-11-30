@@ -31,11 +31,11 @@ layout: gallery
 
 ![221123_DOINGBIRD_TC_001.jpg](/uploads/221123_DOINGBIRD_TC_001.jpg)
 Top, [Rave Review](https://www.instagram.com/ravereviewclothes/?hl=en) 
-Bralette, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion) 
-Skirt, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion) 
-Cowboy Hat Jody Just (@jodyjust)
+Bralette, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion). 
+Skirt, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion). 
+Cowboy Hat, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
 Shoes, Vintage So Familia (@sofamiliastore)
-Rings, Swarovski (@swarovski), Roussey (@roussey3d) & Chanel  (@chanelofficial)
+Rings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNlOWgYX-lYndZd2WBgq0zfLBWuQiUVjZRL5Sl9fofBCezZHygbnw4aAmLXEALw_wcB&gclsrc=aw.ds), Roussey (@roussey3d) & Chanel  (@chanelofficial)
 ![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg)
 RIGHT:Jacket and Jeans Set, Song For The Mute (@songforthemute)
 Sequin Top, Celine (@celine)

@@ -15,12 +15,15 @@ Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [T
   by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)  \nSusana Tapukalanga
   Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)    \n[Rahel
   Lema](https://www.instagram.com/rahel_lema_/)Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
-  \   \n[Dante Knows](https://www.instagram.com/dante.knows/?hl=en)Represented by
-  [Five Twenty MGT](https://www.instagram.com/fivetwentymgt/?hl=en)\nAIDEN OUMA-MACHIO
-  @_NEGROAMIGO REPRESENTED BY @KULTAUSTRALIA\nMODEL 6: DANIEL ONAGHISE @EMERALD.XV
-  REPRESENTED BY @KULTAUSTRALIA\nMODEL 7: BEATRYS PONZONI @BEATRYSPONZONI_ REPRESENTED
-  BY @KULTAUSTRALIA\nMODEL 8: MAY CARTER @MAY__CARTER REPRESENTED BY @IMGMODELS\nMODEL
-  9: ROSALINE KANNEH @ROSALINE.KANNEH REPRESENTED BY @PRICILLASMODELS\n"
+  \   \n[Dante Knows](https://www.instagram.com/dante.knows/?hl=en) Represented by
+  [Five Twenty MGT](https://www.instagram.com/fivetwentymgt/?hl=en)  \n[Aiden Ouma-Machio](https://www.instagram.com/_negroamigo/)
+  Represented by [Kult Australia](https://www.instagram.com/kultaustralia/?hl=en)
+  \ \n[Daniel Onaghise](https://www.instagram.com/emerald.xv/) Represented by [Kult
+  Australia](https://www.instagram.com/kultaustralia/?hl=en)  \n[Beatrys Ponzoni](https://www.instagram.com/beatrysponzoni_/)
+  \ Represented by [Kult Australia](https://www.instagram.com/kultaustralia/?hl=en)
+  \ \nMay Carter Represented by [IMG Models](https://www.imgmodels.com)    \n[Rosaline
+  Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) Represented by [Priscillas
+  Models](https://www.instagram.com/priscillasmodels/?hl=en) \n"
 layout: gallery
 ---
 

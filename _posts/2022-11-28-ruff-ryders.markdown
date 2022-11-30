@@ -14,7 +14,7 @@ Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [T
   \  \nModels: [Baby Tapukalanga](https://www.instagram.com/babytapukalanga/)Represented
   by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)  \nSusana Tapukalanga
   Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)    \n[Rahel
-  Lema](https://www.instagram.com/rahel_lema_/)Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
+  Lema](https://www.instagram.com/rahel_lema_/) Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
   \   \n[Dante Knows](https://www.instagram.com/dante.knows/?hl=en) Represented by
   [Five Twenty MGT](https://www.instagram.com/fivetwentymgt/?hl=en)  \n[Aiden Ouma-Machio](https://www.instagram.com/_negroamigo/)
   Represented by [Kult Australia](https://www.instagram.com/kultaustralia/?hl=en)

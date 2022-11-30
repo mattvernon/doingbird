@@ -8,7 +8,7 @@ Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [T
   Coffin]((https://www.instagram.com/tanecoffin/?hl=en)) Represented by [Viviens Creative](https://vivienscreative.com.au)\nStyling:
   [Monica Morales](https://www.instagram.com/monicacamorales/?hl=en)\nMakeup: [Cherry
   Chung](https://www.instagram.com/cherrycheungmakeup/?hl=en)  Represented by [Viviens
-  Creative](https://vivienscreative.com.au)\nHair: [Christopher Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids:
+  Creative](https://vivienscreative.com.au)  \nHair: [Christopher Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids:
   [Rosaline Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) at [Braid Culture](https://www.instagram.com/braidculture.au/)
   \nStyling Assistant: [Chelsea Holm](https://www.instagram.com/french___fries/?hl=en)
   \  \nModels: [Baby Tapukalanga](https://www.instagram.com/babytapukalanga/)Represented

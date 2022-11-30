@@ -52,7 +52,7 @@ Slides, [Crocs](https://www.crocs.com.au/on/demandware.store/Sites-crocs_au-Site
 ![221123_DOINGBIRD_TC_006.jpg](/uploads/221123_DOINGBIRD_TC_006.jpg)
 
 ![221123_DOINGBIRD_TC_007.jpg](/uploads/221123_DOINGBIRD_TC_007.jpg)
-Denim Bodysuit, [Estelita Huijer](https://www.instagram.com/estelitaisbeautiful/?hl=en).
+Denim Bodysuit, [Estelita Huijer](https://www.instagram.com/estelitaisbeautiful/?hl=en)
 Jeans, https://www.instagram.com/byameliaturner/?hl=en .
 Shoes, Vintage So Familia (@sofamiliastore)
 Earrings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNlOWgYX-lYndZd2WBgq0zfLBWuQiUVjZRL5Sl9fofBCezZHygbnw4aAmLXEALw_wcB&gclsrc=aw.ds).

@@ -1,0 +1,51 @@
+---
+title: Modification
+date: 2022-09-12 10:09:00 +10:00
+published: false
+categories:
+- Fashion
+Main Image: "/uploads/IMG_9681%203.jpg"
+Credits Text: "PHOTOGRAPHY + STYLING - Kurt Johnson CREATIVE DIRECTION - Honey Juju
+  \ \nPROSTHETIC MAKEUP - Amber Adams    \nHAIR - Nina Lee @ Extra Silky    \nMAKEUP
+  - Sean Brady  \nMANICURE - Victoria Houllis @ Mannequin Hands  \nSTYLIST ASSISTANT
+  - Joshua Williams  \nMODELS - Jacob Betts @ Kult  \nMemu Conteh @ Kult   \nElliot
+  Cowen @ Priscilla’s   \nMolly Rowe @ Priscilla’s\nNatalie Mwanza @ Priscilla’s     \nHoney
+  Juju  \nShot at The Common Hours House"
+is featured?: true
+layout: gallery
+---
+
+![BODY MODS 1.JPG](/uploads/BODY%20MODS%201.JPG)
+Honey Juju wears all Balenciaga
+
+![BODY MODS 2.jpg](/uploads/BODY%20MODS%202.jpg)
+Molly wears Beare Park dress, stylists own stockings and bra,
+Honey Juju wears Common Hours dress and gloves, Christopher Esber necklace and earrings
+
+![BODY MODS 3.jpg](/uploads/BODY%20MODS%203.jpg)
+Jacob wears all Balenciaga
+
+![BODY MODS 4.jpg](/uploads/BODY%20MODS%204.jpg)
+Memu wears all Miu Miu,
+Jacob wears Prada pants and shoes, stylists own maks and gloves
+
+![BODY MODS 5.jpg](/uploads/BODY%20MODS%205.jpg)
+Elliot wears all Balenciaga
+
+![BODY MODS 6.jpg](/uploads/BODY%20MODS%206.jpg)
+Memu wears Prada dress,
+Honey Juju wears all Bottega Veneta
+
+![BODY MODS 7.jpg](/uploads/BODY%20MODS%207.jpg)
+Memu wears Beare Park dress, Bottega Veneta boots
+
+![BODY MODS 8.jpg](/uploads/BODY%20MODS%208.jpg)
+Natalie wears Bottega Veneta jacket and earrings, Jasmine Sparrow necklace, Elliot wears all Balenciaga
+Elliot wears Bottega Veneta leather pants
+![BODY MODS 9.jpg](/uploads/BODY%20MODS%209.jpg)
+Molly wears all Miu Miu
+![BODY MODS 10.jpg](/uploads/BODY%20MODS%2010.jpg)
+Natalie wears all Prada
+Elliot wears all Bottega Veneta, Molly wears all Bottega Veneta
+![BODY MODS 11.jpg](/uploads/BODY%20MODS%2011.jpg)
+Natalie wears all Bottega Veneta and Jasmine Sparrow necklace

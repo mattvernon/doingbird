@@ -37,7 +37,8 @@ Skirt, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi
 Cowboy Hat, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
 Shoes, Vintage [So Familia](https://www.instagram.com/sofamiliastore/?hl=en).
 Rings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyNlOWgYX-lYndZd2WBgq0zfLBWuQiUVjZRL5Sl9fofBCezZHygbnw4aAmLXEALw_wcB&gclsrc=aw.ds), [Roussey](https://www.instagram.com/roussey3d/?hl=en) & [Chanel](https://www.instagram.com/chanelofficial/?hl=en) 
-![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg)
+
+![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg)  
 RIGHT:Jacket and Jeans Set, [Song For The Mute](https://www.songforthemute.com).
 Sequin Top, [Celine](https://www.celine.com/en-au/home)
 Jersey, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).

@@ -5,16 +5,16 @@ published: false
 categories:
 - Fashion
 Credits Text: "Creative direction: Monica Morales & Tane Coffin\nPhotography: [Tane
-  Coffin]((https://www.instagram.com/tanecoffin/?hl=en)) Represented by [Viviens Creative](https://vivienscreative.com.au)\nStyling:
-  [Monica Morales](https://www.instagram.com/monicacamorales/?hl=en)\nMakeup: [Cherry
-  Chung](https://www.instagram.com/cherrycheungmakeup/?hl=en)  Represented by [Viviens
-  Creative](https://vivienscreative.com.au)  \nHair: [Christopher Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids:
-  [Rosaline Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en) at [Braid Culture](https://www.instagram.com/braidculture.au/)
-  \nStyling Assistant: [Chelsea Holm](https://www.instagram.com/french___fries/?hl=en)
-  \  \nModels: [Baby Tapukalanga](https://www.instagram.com/babytapukalanga/)Represented
-  by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)  \nSusana Tapukalanga
-  Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)    \n[Rahel
-  Lema](https://www.instagram.com/rahel_lema_/) Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
+  Coffin]((https://www.instagram.com/tanecoffin/?hl=en)) Represented by [Viviens Creative](https://vivienscreative.com.au)
+  \ \nStyling: [Monica Morales](https://www.instagram.com/monicacamorales/?hl=en)
+  \ \nMakeup: [Cherry Chung](https://www.instagram.com/cherrycheungmakeup/?hl=en)
+  \ Represented by [Viviens Creative](https://vivienscreative.com.au)  \nHair: [Christopher
+  Bryne ](https://www.instagram.com/lalatopha/?hl=en)\nBraids: [Rosaline Kanneh](https://www.instagram.com/rosaline.kanneh/?hl=en)
+  at [Braid Culture](https://www.instagram.com/braidculture.au/) \nStyling Assistant:
+  [Chelsea Holm](https://www.instagram.com/french___fries/?hl=en)   \nModels: [Baby
+  Tapukalanga](https://www.instagram.com/babytapukalanga/)Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
+  \ \nSusana Tapukalanga Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
+  \   \n[Rahel Lema](https://www.instagram.com/rahel_lema_/) Represented by [Rin Models](https://www.instagram.com/rinmodels/?hl=en)
   \   \n[Dante Knows](https://www.instagram.com/dante.knows/?hl=en) Represented by
   [Five Twenty MGT](https://www.instagram.com/fivetwentymgt/?hl=en)  \n[Aiden Ouma-Machio](https://www.instagram.com/_negroamigo/)
   Represented by [Kult Australia](https://www.instagram.com/kultaustralia/?hl=en)

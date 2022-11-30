@@ -30,8 +30,8 @@ layout: gallery
 
 
 ![221123_DOINGBIRD_TC_001.jpg](/uploads/221123_DOINGBIRD_TC_001.jpg)
-Top, Rave Review (@ravereviewclothes)
-Bralette, Dyspnea (@dyspnea)
+Top, [Rave Review](https://www.instagram.com/ravereviewclothes/?hl=en) 
+Bralette, [Dyspnea](https://dyspnea.com.au/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMx1lIzi__fszQDTXXKNEGewFK6SZoK6l3mqiBYcYobDN-kOt-0vvAaApRZEALw_wcB#open-promotion) 
 Skirt, Dyspnea (@dyspnea)
 Cowboy Hat Jody Just (@jodyjust)
 Shoes, Vintage So Familia (@sofamiliastore)

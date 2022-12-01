@@ -64,6 +64,14 @@ Bracelet ,[Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-
 
 
 ![221123_DOINGBIRD_TC_002.jpg](/uploads/221123_DOINGBIRD_TC_002.jpg)
+Printed Suit Set, Amelia Turner.
+Bodysuit, Ramp Tramp Tramp Stamp.
+Crystal Briefs, Amie Elizabeth.
+Cowboy Hat, Jody Just.
+Shoes, Crocs Crocs x Christian Cowan Collab.
+Sunglasses, Prada.
+Earrings, Swarovski & Heart of Bone (heartofbone_)
+
 
 ![221123_DOINGBIRD_TC_009.jpg](/uploads/221123_DOINGBIRD_TC_009.jpg)
 Jeans, Amelia Turner.

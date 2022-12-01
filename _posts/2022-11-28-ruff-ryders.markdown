@@ -86,7 +86,7 @@ Necklace, Chanel
 ![221123_DOINGBIRD_TC_012.jpg](/uploads/221123_DOINGBIRD_TC_012.jpg)
 
 ![221123_DOINGBIRD_TC_008.jpg](/uploads/221123_DOINGBIRD_TC_008.jpg)
-Denim Top & Denim Corset, Estelita Huijer (Estelita Huijer](https://www.instagram.com/estelitaisbeautiful/?hl=en)).
+Denim Top & Denim Corset, Estelita Huijer.
 Jeans, [Carharttwip](https://www.carhartt-wip.com.au). 
 Earrings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke4ao-7fdxqTAo7wJH147qzo9bBELYBkdifPxgNKemeLzJi3LD4HJ04aAvr8EALw_wcB&gclsrc=aw.ds) 
 Hair Clips, [Chanel](https://www.instagram.com/chanelofficial/?hl=en) 

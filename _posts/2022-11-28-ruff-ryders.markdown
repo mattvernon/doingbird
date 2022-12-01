@@ -4,6 +4,7 @@ date: 2022-11-28 19:39:00 +11:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/221123_DOINGBIRD_TC_009.jpg"
 Credits Text: "Creative direction: Monica Morales & Tane Coffin  \nPhotography: [Tane
   Coffin]((https://www.instagram.com/tanecoffin/?hl=en)) Represented by [Viviens Creative](https://vivienscreative.com.au)
   \ \nStyling: [Monica Morales](https://www.instagram.com/monicacamorales/?hl=en)

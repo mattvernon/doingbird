@@ -8,7 +8,7 @@ Main Image: "/uploads/IMG_8181.JPG"
 Credits Text: "\nCreative Direction/Styling - Kurt Johnson  \n DOP - Adrian Kalaiziovski
   \ \nTalent - Danny Delano  \nProsthetic Makeup - Julian Dimase  \nHair - Fernando
   Miranda  "
-is featured?: true
+is featured?: false
 layout: gallery
 ---
 

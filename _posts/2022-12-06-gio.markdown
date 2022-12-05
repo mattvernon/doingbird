@@ -4,6 +4,7 @@ date: 2022-12-06 07:13:00 +11:00
 published: false
 categories:
 - Fashion
+is featured?: true
 layout: gallery
 ---
 
@@ -25,6 +26,5 @@ layout: gallery
 
 ![doingbird_sequences9.jpg](/uploads/doingbird_sequences9.jpg)
 
-![doingbird_sequences10.jpg]
-(/uploads/doingbird_sequences10.jpg)
+![doingbird_sequences10.jpg](/uploads/doingbird_sequences10.jpg)
 

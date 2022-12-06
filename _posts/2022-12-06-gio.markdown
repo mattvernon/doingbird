@@ -4,6 +4,12 @@ date: 2022-12-06 07:13:00 +11:00
 published: false
 categories:
 - Fashion
+Credits Text: |
+  photo: Giovanni  Di Stefano   @__giovanni__di__stefano
+  styling: June Nakamoto  @junenakamoto
+  make up:  Tiina  Roivainen   @tiinaroivainen
+  Hair: Kyris Eracleous            @kyris.eracleous
+  Creative director :   Valentino Alberini   @valentinoalberini
 is featured?: true
 layout: gallery
 ---

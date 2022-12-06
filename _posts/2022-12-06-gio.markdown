@@ -10,7 +10,8 @@ Credits Text: "Photographer [Giovanni di Stefano](https://www.instagram.com/__gi
   director  [Valentino Alberini](https://www.instagram.com/valentinoalberini/?hl=en)
   \n   \nModels\n[Britt J.E. Grote Beverborg ](https://www.instagram.com/britt1911_omgmm/?hl=en)
   at [Women PAris](https://www.womenmanagement.fr/home.web) \n[Elena Melnik ](https://www.instagram.com/_elena_melnik/)
-  \ @ Silent Paris\n@ombelinnee      agence Women PAris  \n"
+  \ Silent Models Paris  \nOmbelinnee at [Women PAris](https://www.womenmanagement.fr/home.web)
+  \n"
 is featured?: true
 layout: gallery
 ---

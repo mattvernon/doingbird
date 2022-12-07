@@ -4,6 +4,7 @@ date: 2022-12-06 07:13:00 +11:00
 published: false
 categories:
 - Fashion
+Main Image: "/uploads/sequences_insta8.jpg"
 Credits Text: "Photographer [Giovanni di Stefano](https://www.instagram.com/__giovanni__di__stefano/?hl=en)
   \ \nStyling [June Nakamoto](https://www.instagram.com/junenakamoto/?hl=en)   \nMake
   Up  [Tiina  Roivainen](https://www.instagram.com/tiinaroivainen/?hl=en)  \nHair:

@@ -2,6 +2,7 @@
 title: max
 date: 2022-12-08 16:14:00 +11:00
 published: false
+layout: gallery
 ---
 
 ![Max db#1.jpg](/uploads/Max%20db%231.jpg)

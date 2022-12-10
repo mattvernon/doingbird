@@ -2,9 +2,10 @@
 title: CERBERUS
 date: 2022-12-09 08:06:00 +11:00
 published: false
-Credits Text: "PHOTOGRAPHY: Anne Thu Pham, Myles Kalus, Olivia Repaci  \n STYLING:
-  Oriana Deluca  \nMAKEUP: Carly Lim  \nHAIR: Jesse Wakenshaw  \nMODELS: Kristina
-  Byerley at Priscillas Models  \n April at Kult Models"
+Credits Text: "PHOTOGRAPHY: [Anne Thu Pham](https://www.instagram.com/annethupham/?hl=en),
+  [Myles Kalus](https://www.instagram.com/photomyles/?hl=en), [Olivia Repaci](https://www.instagram.com/oliviarepaci/?hl=en)
+  \ \n STYLING: Oriana Deluca  \nMAKEUP: Carly Lim  \nHAIR: Jesse Wakenshaw  \nMODELS:
+  Kristina Byerley at Priscillas Models  \n April at Kult Models"
 is featured?: true
 layout: gallery
 ---

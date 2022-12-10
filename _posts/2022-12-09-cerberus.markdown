@@ -4,8 +4,10 @@ date: 2022-12-09 08:06:00 +11:00
 published: false
 Credits Text: "PHOTOGRAPHY: [Anne Thu Pham](https://www.instagram.com/annethupham/?hl=en),
   [Myles Kalus](https://www.instagram.com/photomyles/?hl=en), [Olivia Repaci](https://www.instagram.com/oliviarepaci/?hl=en)
-  \ \n STYLING: Oriana Deluca  \nMAKEUP: Carly Lim  \nHAIR: Jesse Wakenshaw  \nMODELS:
-  Kristina Byerley at Priscillas Models  \n April at Kult Models"
+  \ \n STYLING: Oriana Deluca  \nMAKEUP: [Carly Lim](https://www.instagram.com/carlylim_makeup/?hl=en)
+  \ \nHAIR: [Jesse Wakenshaw](https://www.instagram.com/jessewakenshaw/?hl=en)  \nMODELS:
+  [Kristina Byerley](https://www.instagram.com/kristinabyerley/?hl=en) at [Priscillas
+  Models](https://www.instagram.com/priscillasmodels/?hl=en)  \n April at [Kult Models](https://www.kult.com.au)"
 is featured?: true
 layout: gallery
 ---

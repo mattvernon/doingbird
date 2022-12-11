@@ -2,6 +2,11 @@
 title: CERBERUS
 date: 2022-12-09 08:06:00 +11:00
 published: false
+categories:
+- Fashion
+tags:
+- Fashion
+Main Image: "/uploads/DOINGBIRD-CERBERUS-0001b.jpg"
 Credits Text: "PHOTOGRAPHY: [Anne Thu Pham](https://www.instagram.com/annethupham/?hl=en),
   [Myles Kalus](https://www.instagram.com/photomyles/?hl=en), [Olivia Repaci](https://www.instagram.com/oliviarepaci/?hl=en)
   \ \n STYLING: [Oriana Deluca](https://www.instagram.com/oriana_deluca/?max_id=1700696905577494160)

@@ -1,7 +1,6 @@
 ---
 title: CERBERUS
 date: 2022-12-09 08:06:00 +11:00
-published: false
 categories:
 - Fashion
 tags:

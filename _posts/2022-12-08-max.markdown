@@ -2,7 +2,9 @@
 title: max
 date: 2022-12-08 16:14:00 +11:00
 published: false
-Credits Text: 'photos: Max Doyle at DLM'
+Credits Text: "PHOTOS: Max Doyle at DLM  \nSTYLIST/ CREATIVE DIRECTION: Anastacia
+  Bijou   \nMAKEUP: Nicole Thompson   \nHAIR: Stephanie Dell  \nMODEL: Lydia Reid
+  at Chadwicks"
 is featured?: true
 layout: gallery
 ---

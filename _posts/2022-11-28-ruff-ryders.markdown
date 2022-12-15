@@ -40,8 +40,8 @@ Rings, [Swarovski](https://www.swarovski.com/en_GB-AU/s-sale/?gclid=Cj0KCQiA-Jac
 
 ![221123_DOINGBIRD_TC_003.jpg](/uploads/221123_DOINGBIRD_TC_003.jpg) 
  
-LEFT:Jacket, Moncler x JW Anderson collab. 
-Boots, Moncler x JW Anderson collab.
+LEFT:Jacket, 2 Moncler 1952. 
+Boots, 2 Moncler 1952.
 Jeans, Amelia Turner.
 Crystal Bra, Highheels.
 RIGHT:Jacket and Jeans Set, [Song For The Mute](https://www.songforthemute.com).

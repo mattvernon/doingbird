@@ -88,7 +88,7 @@ Denim Rugby Shirt, [Greg Lauren](https://www.greglauren.com) at [Mr Porter](http
 School Skirt, [Zoo Vintage Emporium](https://www.instagram.com/zooemporiumvintage/?hl=en).
 Painted Jeans, [Jody Just](https://www.instagram.com/jodyjust_/?hl=en).
 Shoes, Crocs Crocs [Crocs](https://www.crocs.com.au/on/demandware.store/Sites-crocs_au-Site/en_AU/Default-Start?ClickID=xvUSOjXRRxyIW2Q3YhUxiTrGUkA0HZwp4WrJyY0&irgwc=1&ef_id=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB:G:s&s_kwcid=AL!4051!3!607140469597!!!g!!&CATARGETID=120126960000139764&CAPCID=607140469597&CATCI=dsa-19959388920&CAAGID=139196649004&CADevice=c&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyOyKKjHu08ui6ACXZwOVg8fyIkTgQ_7YM6mCN1gkT_11QODLA0p4iUaAvkpEALw_wcB) x Christian [Cowan Collab](https://www.instagram.com/ChristianCowan/),
-[Moncler](https://www.moncler.com/en-us/)x [JW Anderson](https://www.instagram.com/jw_anderson/?hl=en) collab. 
+2 Moncler 1952. 
 Bag, [Chanel](https://www.instagram.com/chanelofficial/?hl=en).
 Necklace, Chanel 
 
@@ -107,7 +107,7 @@ Hair Clips, [Chanel](https://www.instagram.com/chanelofficial/?hl=en)
 ![221123_DOINGBIRD_TC_013.jpg](/uploads/221123_DOINGBIRD_TC_013.jpg)
 
 
-LEFT: Susanna wears Jacket, Moncler x JW Anderson collab.
+LEFT: Susanna wears Jacket, 2 Moncler 1952.
 Top, Amie Elizabeth.
 Sunglasses, Diesel at So Familia.
 Pants, Rave Review.

@@ -1,0 +1,33 @@
+---
+title: finale
+date: 2023-01-17 16:14:00 +11:00
+categories:
+- Fashion
+Main Image: "/uploads/SHOT%202_24_10_22%20205.jpg"
+Credits Text: "PHOTOS: [Max Doyle](https://www.instagram.com/maxdoyle_photographer/?hl=en)
+  at [DLM](https://www.instagram.com/dlm_au/?hl=en)  \nSTYLIST/ CREATIVE DIRECTION:
+  [Anastacia Bijou](https://www.instagram.com/anastacia.bijou/) at [DLM](https://www.instagram.com/dlm_au/?hl=en)
+  \  \nMAKEUP: [Nicole Thompson ](https://www.instagram.com/pinkiiieee/?hl=en) at
+  [DLM](https://www.instagram.com/dlm_au/?hl=en)  \nHAIR: [Stephanie Dell](https://www.instagram.com/stephaniedelll/?hl=en)
+  \ \nMODEL: [Lydia Reid](https://www.instagram.com/lydia.reidd/?hl=en) at [Chadwicks](https://www.instagram.com/chadwickmodels/)"
+is featured?: true
+layout: gallery
+---
+
+![Max db#1.jpg](/uploads/Max%20db%231.jpg)
+Dress, Fendi.
+Gloves, Common Hours. Tights & Shoes, Stylist’s own
+![Max db#2.jpg](/uploads/Max%20db%232.jpg)
+
+![Max db#3.jpg](/uploads/Max%20db%233.jpg)
+
+![Max db#4.jpg](/uploads/Max%20db%234.jpg)
+Top, Briefs and Tutu: Stylist’s own. Shoes: Gianvito Rossi
+![Max db#5.jpg](/uploads/Max%20db%235.jpg)
+
+![Max db#6.jpg](/uploads/Max%20db%236.jpg)
+Leotard, Ballet Shoes and Tights, Stylists Own. Shoes, Gianvito Rossi
+![Max db#7.jpg](/uploads/Max%20db%237.jpg)
+
+![Max db#8.jpg](/uploads/Max%20db%238.jpg)
+

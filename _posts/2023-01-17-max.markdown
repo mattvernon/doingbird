@@ -3,6 +3,10 @@ title: finale
 date: 2023-01-17 16:14:00 +11:00
 categories:
 - Fashion
+tags:
+- Fashion
+- dance
+- Beauty
 Main Image: "/uploads/SHOT%202_24_10_22%20205.jpg"
 Credits Text: "PHOTOS: [Max Doyle](https://www.instagram.com/maxdoyle_photographer/?hl=en)
   at [DLM](https://www.instagram.com/dlm_au/?hl=en)  \nSTYLIST/ CREATIVE DIRECTION:

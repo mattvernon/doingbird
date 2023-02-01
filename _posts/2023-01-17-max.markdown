@@ -12,8 +12,9 @@ Credits Text: "PHOTOS: [Max Doyle](https://www.instagram.com/maxdoyle_photograph
   at [DLM](https://www.instagram.com/dlm_au/?hl=en)  \nSTYLIST/ CREATIVE DIRECTION:
   [Anastacia Bijou](https://www.instagram.com/anastacia.bijou/) at [DLM](https://www.instagram.com/dlm_au/?hl=en)
   \  \nMAKEUP: [Nicole Thompson ](https://www.instagram.com/pinkiiieee/?hl=en) at
-  [DLM](https://www.instagram.com/dlm_au/?hl=en)  \nHAIR: [Stephanie Dell](https://www.instagram.com/stephaniedelll/?hl=en)
-  \ \nMODEL: [Lydia Reid](https://www.instagram.com/lydia.reidd/?hl=en) at [Chadwicks](https://www.instagram.com/chadwickmodels/)"
+  [DLM](https://www.instagram.com/dlm_au/?hl=en)  \nHAIR: [Kyye](https://www.instagram.com/kyye/)
+  at [AP Reps](https://apreps.com.au/kyye-all-page)    \nMODEL: [Lydia Reid](https://www.instagram.com/lydia.reidd/?hl=en)
+  at [Chadwicks](https://www.instagram.com/chadwickmodels/)"
 is featured?: true
 layout: gallery
 ---
